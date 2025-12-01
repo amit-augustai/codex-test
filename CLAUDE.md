@@ -4,102 +4,119 @@ This file provides context and guidelines for AI assistants working with this co
 
 ## Repository Overview
 
-This is a new repository that is currently being set up. As the codebase evolves, this document should be updated to reflect the current structure and conventions.
+**Repository Name:** codex-test (AI News Dashboard)
+**Status:** Active Development
 
-**Repository Name:** codex-test
-**Status:** New/In Development
+A Vercel-compatible Next.js application that scrapes AI-related news daily and displays them in a categorized dashboard.
 
 ## Project Structure
 
 ```
 codex-test/
-├── CLAUDE.md          # AI assistant guidelines (this file)
-└── .git/              # Git repository
+├── src/
+│   ├── app/                    # Next.js App Router
+│   │   ├── api/news/route.ts   # Protected news API
+│   │   ├── page.tsx            # Dashboard page
+│   │   ├── layout.tsx          # Root layout
+│   │   └── globals.css         # Tailwind styles
+│   ├── components/
+│   │   ├── Dashboard.tsx       # Main dashboard component
+│   │   ├── Header.tsx          # Page header
+│   │   ├── CategoryFilter.tsx  # Category filter buttons
+│   │   └── NewsCard.tsx        # Article card component
+│   ├── lib/
+│   │   └── auth.ts             # API authentication
+│   └── types/
+│       └── news.ts             # TypeScript interfaces
+├── backend/                    # Python scraper
+│   ├── main.py                 # Entry point
+│   ├── scraper.py              # RSS/API scraping
+│   ├── groq_client.py          # Groq LLM integration
+│   ├── sources.py              # News source configs
+│   └── requirements.txt        # Python dependencies
+├── data/
+│   └── news.json               # Scraped articles (auto-updated)
+├── .github/workflows/
+│   └── scrape.yml              # Daily GitHub Action
+├── .env.example                # Environment template
+├── package.json                # Node dependencies
+└── CLAUDE.md                   # This file
 ```
-
-*Note: Update this section as the project structure evolves.*
-
-## Development Workflow
-
-### Getting Started
-
-1. Clone the repository
-2. Set up the development environment (add specific instructions as needed)
-3. Follow the coding conventions outlined below
-
-### Git Conventions
-
-- **Branch Naming:** Use descriptive branch names
-  - Features: `feature/<description>`
-  - Bug fixes: `fix/<description>`
-  - Documentation: `docs/<description>`
-- **Commit Messages:** Write clear, descriptive commit messages
-  - Use imperative mood ("Add feature" not "Added feature")
-  - Keep the first line under 50 characters
-  - Add details in the body if needed
-- **Pull Requests:** Provide context and link to related issues
-
-### Code Style
-
-*Add language-specific style guidelines as the project develops.*
-
-General principles:
-- Write clear, self-documenting code
-- Keep functions focused and small
-- Add comments only when the logic isn't self-evident
-- Follow existing patterns in the codebase
 
 ## Key Commands
 
-*Add commonly used commands as the project develops, such as:*
-
 ```bash
-# Build (add when applicable)
-# npm run build / make / cargo build
+# Install dependencies
+npm install
+pip install -r backend/requirements.txt
 
-# Test (add when applicable)
-# npm test / pytest / cargo test
+# Run Next.js dev server
+npm run dev
 
-# Lint (add when applicable)
-# npm run lint / flake8 / cargo clippy
+# Run Python scraper
+GROQ_API_KEY=your_key python backend/main.py
+
+# Build for production
+npm run build
+
+# Lint
+npm run lint
 ```
 
 ## Architecture Notes
 
-*Document key architectural decisions and patterns here as the project develops.*
+### Frontend (Next.js)
+- Uses App Router with server components
+- Dashboard reads directly from `data/news.json`
+- Protected API route at `/api/news` for external access
+- Tailwind CSS for styling with dark mode support
+
+### Backend (Python)
+- Scrapes RSS feeds and APIs for AI news
+- Uses Groq LLM (llama-3.1-8b-instant) for categorization
+- Runs daily via GitHub Actions
+- Commits updated `news.json` to repo
+
+### Categories
+- research, product, company, funding, policy, open-source
+
+## Environment Variables
+
+| Variable | Description | Used By |
+|----------|-------------|---------|
+| `GROQ_API_KEY` | Groq API key for LLM | Python scraper |
+| `API_SECRET_KEY` | API auth key | Next.js API routes |
 
 ## AI Assistant Guidelines
 
-When working with this codebase, AI assistants should:
+When working with this codebase:
 
-1. **Read before modifying** - Always read existing code before suggesting changes
-2. **Follow existing patterns** - Match the style and conventions already in use
-3. **Minimize changes** - Make only the changes necessary to accomplish the task
-4. **Avoid over-engineering** - Don't add unnecessary abstractions or features
-5. **Test changes** - Run tests and verify changes work before committing
-6. **Update documentation** - Keep this CLAUDE.md and other docs up to date
+1. **Read before modifying** - Always read existing code before changes
+2. **Follow existing patterns** - Match TypeScript/Python conventions in use
+3. **Minimize changes** - Only change what's necessary
+4. **Test locally** - Run `npm run dev` and verify changes work
+5. **Update data types** - Keep `src/types/news.ts` in sync with Python
 
 ### What to Avoid
 
-- Don't add features beyond what was requested
-- Don't refactor unrelated code without explicit request
-- Don't introduce new dependencies without justification
-- Don't add unnecessary comments or documentation
-- Don't create files unless absolutely necessary
-
-## Testing
-
-*Add testing guidelines and commands as the project develops.*
+- Don't modify `data/news.json` directly (auto-generated)
+- Don't add new dependencies without justification
+- Don't change the scraper schedule without discussion
+- Don't expose API keys or secrets
 
 ## Dependencies
 
-*List key dependencies and their purposes as they are added.*
+### Node.js (package.json)
+- next, react, react-dom - Core framework
+- tailwindcss - Styling
 
-## Environment Setup
-
-*Add environment variables and configuration requirements as needed.*
+### Python (requirements.txt)
+- feedparser - RSS parsing
+- httpx - HTTP client
+- groq - Groq LLM SDK
+- beautifulsoup4 - HTML parsing
+- python-dotenv - Environment variables
 
 ---
 
 *Last updated: 2025-12-01*
-*Update this file as the project evolves to keep AI assistants well-informed.*
