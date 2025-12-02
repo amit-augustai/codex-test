@@ -1,4 +1,215 @@
 {
-  "lastUpdated": "",
-  "articles": []
+  "lastUpdated": "2025-12-02T08:38:24.760310+00:00",
+  "articles": [
+    {
+      "id": "a14ea3f817c6",
+      "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+      "summary": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model.",
+      "url": "https://blog.google/technology/developers/gemini-3-pro-image-developers/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-20T15:00:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.913462+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwithnano_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7d8c05dd0271",
+      "title": "How we’re bringing AI image verification to the Gemini app",
+      "summary": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI.",
+      "url": "https://blog.google/technology/ai/ai-image-verification-gemini-app/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-20T15:00:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.913374+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Keyword_Blog_Heade.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b46002c2b210",
+      "title": "Develop a deeper understanding with interactive images in Gemini.",
+      "summary": "Learning science consistently shows us that true learning requires active engagement. This is fundamental to how Gemini helps you learn. Going beyond simple text and sta…",
+      "url": "https://blog.google/outreach-initiatives/education/gemini-interactive-images/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-20T20:30:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.913280+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-e6k80n42_thumb.jpg"
+    },
+    {
+      "id": "78a7dc44d558",
+      "title": "16 Google AI tips for stress-free holiday hosting in 2025",
+      "summary": "Use Gemini, Search, Pixel and more to make holiday planning feel effortless in 2025.",
+      "url": "https://blog.google/products/pixel/google-holiday-hosting-tips-2024/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-21T16:00:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.913176+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_holiday_hosting_tips.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "83d89f225142",
+      "title": "3 things to know about Ironwood, our latest TPU",
+      "summary": "Google’s seventh-gen Tensor Processing Unit is here! Learn what makes Ironwood our most powerful and energy-efficient custom silicon to date.",
+      "url": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-25T16:00:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.913049+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ironwood-hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a49a1786aba8",
+      "title": "4 ways to refine your content in Flow",
+      "summary": "You’ll now get more creative control in Flow with new refinement and editing capabilities.",
+      "url": "https://blog.google/technology/google-labs/flow-refine-videos/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-25T17:40:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.912951+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3fcebd1c2615",
+      "title": "The Google guide for holiday help",
+      "summary": "Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+      "url": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-25T18:00:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.912841+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "8d391a38b4e2",
+      "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+      "summary": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+      "url": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-25T23:39:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.912737+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7c1776533428",
+      "title": "Here’s how researchers in Asia-Pacific are using AlphaFold",
+      "summary": "Learn more about AlphaFold, Google’s AI system that accurately predicts protein structures.",
+      "url": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-26T23:00:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.912711+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaFold_-_APAC_Keyword_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "d88316553181",
+      "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
+      "summary": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
+      "url": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-01T20:00:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.912547+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "9568d1c71160",
+      "title": "Realizing value with AI inference at scale and in production",
+      "summary": "Training an AI model to predict equipment failures is an engineering achievement. But it’s not until prediction meets action—the moment that model successfully flags a malfunctioning machine—that true",
+      "url": "https://www.technologyreview.com/2025/11/18/1128007/realizing-value-with-ai-inference-at-scale-and-in-production/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-11-18T16:02:16+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.720832+00:00"
+    },
+    {
+      "id": "dc55044759f5",
+      "title": "Networking for AI: Building the foundation for real-time intelligence",
+      "summary": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators ",
+      "url": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-11-18T16:03:14+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.718748+00:00"
+    },
+    {
+      "id": "add18a1ffdf9",
+      "title": "Quantum physicists have shrunk and “de-censored” DeepSeek R1",
+      "summary": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators. The scient",
+      "url": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-11-19T10:00:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.716796+00:00"
+    },
+    {
+      "id": "986589f88a77",
+      "title": "Scaling innovation in manufacturing with AI",
+      "summary": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies—like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)—it is enabling factor",
+      "url": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-11-19T16:54:55+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.715806+00:00"
+    },
+    {
+      "id": "18d06d679b74",
+      "title": "Designing digital resilience in the agentic AI era",
+      "summary": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resil",
+      "url": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-11-20T14:30:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.714958+00:00"
+    },
+    {
+      "id": "cafec18db956",
+      "title": "What’s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
+      "summary": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret proj",
+      "url": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-11-24T16:21:12+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.713525+00:00"
+    },
+    {
+      "id": "cdf34d8c5ef2",
+      "title": "The State of AI: Chatbot companions and the future of our privacy",
+      "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review . Every Monday, writers from both publications debate one aspect of the generative AI revolut",
+      "url": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-11-24T16:30:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.710800+00:00"
+    },
+    {
+      "id": "6c268cea9630",
+      "title": "The AI Hype Index: The people can’t get enough of AI slop",
+      "summary": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. ",
+      "url": "https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-11-26T10:00:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.707882+00:00"
+    },
+    {
+      "id": "d32b886a6278",
+      "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
+      "summary": "A US telecom company trained an AI model on years of inmates’ phone and video calls and is now piloting that model to scan their calls, texts, and emails in the hope of predicting and preventing crime",
+      "url": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-01T10:30:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.707507+00:00"
+    },
+    {
+      "id": "7fa18506eb85",
+      "title": "The State of AI: Welcome to the economic singularity",
+      "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review . Every Monday for the next two weeks, writers from both publications will debate one aspect ",
+      "url": "https://www.technologyreview.com/2025/12/01/1127872/the-state-of-ai-welcome-to-the-economic-singularity/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-01T16:30:00+00:00",
+      "scrapedAt": "2025-12-02T08:37:26.706073+00:00"
+    }
+  ]
 }
