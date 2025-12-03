@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2025-12-02T08:38:24.760310+00:00",
+  "lastUpdated": "2025-12-03T08:38:52.018905+00:00",
   "articles": [
+    {
+      "id": "94b77d4bb51c",
+      "title": "AWS re:Invent 2025: How to watch and follow along live",
+      "summary": "Amazon Web Services’ big annual event, re:Invent 2025, is getting into full swing in Las Vegas this week, and you can follow the keynotes live right here.",
+      "url": "https://techcrunch.com/2025/12/02/aws-reinvent-2025-how-to-watch-and-follow-along-live/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-02T16:24:51+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.411236+00:00"
+    },
+    {
+      "id": "5d0f3fd7ea0e",
+      "title": "OpenAI slammed for app suggestions that looked like ads",
+      "summary": "OpenAI clarified that the app suggestion was not an advertisement, but instead a poor attempt to integrate an app discovery feature within conversations.",
+      "url": "https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-02T16:43:21+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.411143+00:00"
+    },
+    {
+      "id": "94e561fd37fa",
+      "title": "AWS launches new Nova AI models and a service that gives customers more control",
+      "summary": "Amazon Web Services announced four new AI models within its Nova model family and a frontier model service.",
+      "url": "https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-02T17:54:02+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.411076+00:00"
+    },
+    {
+      "id": "3e366d58b03d",
+      "title": "ChatGPT referrals to retailers’ apps increased 28% year-over-year, says report",
+      "summary": "ChatGPT referrals to retailers' apps were up on Black Friday year-over-year, with Walmart and Amazon benefiting the most.",
+      "url": "https://techcrunch.com/2025/12/02/chatgpt-referrals-to-retailers-apps-increased-28-year-over-year-says-report/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-02T17:56:16+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.411009+00:00"
+    },
+    {
+      "id": "dc6bb0142c34",
+      "title": "Android 16 adds AI notification summaries, new customization options, and more",
+      "summary": "The rollout of the new Android 16 features, which are first coming to Pixel devices, marks a new chapter in how Android updates work, as the company is shifting from a single yearly update to more fre",
+      "url": "https://techcrunch.com/2025/12/02/android-16-adds-ai-notification-summaries-new-customization-options-and-more/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-02T19:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.410944+00:00"
+    },
+    {
+      "id": "2c290b22a6ef",
+      "title": "Amazon previews 3 AI agents, including ‘Kiro’ that can code on its own for days",
+      "summary": "Amazon Web Services on Tuesday announced three new AI agents it calls \"Frontier agents\" for coding, security, and DevOps.",
+      "url": "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-02T22:18:01+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.410870+00:00"
+    },
+    {
+      "id": "622fdfd68961",
+      "title": "Google tests merging AI Overviews with AI Mode",
+      "summary": "Google is testing how to make it easier to move from search to an AI chat in a new global test.",
+      "url": "https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-02T22:26:34+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.410799+00:00"
+    },
+    {
+      "id": "3eb11dbda7ca",
+      "title": "Amazon challenges competitors with on-premises Nvidia ‘AI Factories’",
+      "summary": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech.",
+      "url": "https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T00:43:37+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.410726+00:00"
+    },
+    {
+      "id": "ce7c1ec3e130",
+      "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
+      "summary": "Amazon Web Services giant tech conference is happening this week with news ranging from chips to AI services.",
+      "url": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T01:06:25+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.410611+00:00"
+    },
+    {
+      "id": "80006acfee14",
+      "title": "GPT-5 and the future of mathematical discovery",
+      "summary": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
+      "url": "https://openai.com/index/gpt-5-mathematical-discovery",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-24T00:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.263569+00:00"
+    },
+    {
+      "id": "c46ba0951392",
+      "title": "Inside JetBrains—the company reshaping how the world writes code",
+      "summary": "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.",
+      "url": "https://openai.com/index/jetbrains-2025",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-25T00:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.263495+00:00"
+    },
+    {
+      "id": "bb1431936d55",
+      "title": "Our approach to mental health-related litigation",
+      "summary": "We’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.",
+      "url": "https://openai.com/index/mental-health-litigation-approach",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-25T12:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.263423+00:00"
+    },
+    {
+      "id": "4ecdb37fef91",
+      "title": "Expanding data residency access to business customers worldwide",
+      "summary": "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
+      "url": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-25T22:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.263344+00:00"
+    },
+    {
+      "id": "8dd9bb0697e2",
+      "title": "Mixpanel security incident: what OpenAI users need to know",
+      "summary": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protectin",
+      "url": "https://openai.com/index/mixpanel-incident",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-26T19:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.263269+00:00"
+    },
+    {
+      "id": "efc2132fd740",
+      "title": "Accenture and OpenAI accelerate enterprise AI success",
+      "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+      "url": "https://openai.com/index/accenture-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-01T05:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.263164+00:00"
+    },
+    {
+      "id": "af929e0847f7",
+      "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
+      "summary": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, ",
+      "url": "https://openai.com/index/thrive-holdings",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-01T05:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.263083+00:00"
+    },
+    {
+      "id": "f3c5b2b4c2d2",
+      "title": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”",
+      "summary": "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.",
+      "url": "https://openai.com/index/norad-holiday-collaboration",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-01T06:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.263001+00:00"
+    },
+    {
+      "id": "c37edffbc0bc",
+      "title": "Funding grants for new research into AI and mental health",
+      "summary": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve",
+      "url": "https://openai.com/index/ai-mental-health-research-grants",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-01T12:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.262915+00:00"
+    },
+    {
+      "id": "076611c99092",
+      "title": "Inside Mirakl's agentic commerce vision",
+      "summary": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
+      "url": "https://openai.com/index/mirakl",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-01T22:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:55.262808+00:00"
+    },
+    {
+      "id": "9a91093402c0",
+      "title": "Use Circle to Search and Google Lens to spot scam messages.",
+      "summary": "Use Circle to Search and Google Lens to spot scam messages.",
+      "url": "https://blog.google/products/search/scam-detection-circle-to-search-lens/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-02T19:00:00+00:00",
+      "scrapedAt": "2025-12-03T08:37:54.811939+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.max-600x600.format-webp.webp"
+    },
     {
       "id": "a14ea3f817c6",
       "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
