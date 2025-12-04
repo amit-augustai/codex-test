@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2025-12-03T08:38:52.018905+00:00",
+  "lastUpdated": "2025-12-04T08:37:25.515669+00:00",
   "articles": [
+    {
+      "id": "41ecf200c63b",
+      "title": "Workspace Studio aims to solve the real agent problem: Getting employees to use them",
+      "summary": "One problem enterprises face is getting employees to actually use the AI agents their dev teams have built. Google , which has already shipped many AI tools through its Workspace apps , has made Googl",
+      "url": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T05:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.876441+00:00"
+    },
+    {
+      "id": "7f7e35d1a1bb",
+      "title": "AI has redefined the talent game. Here’s how leaders are responding.",
+      "summary": "Presented by Indeed As AI continues to reshape how we work, organizations are rethinking what skills they need, how they hire, and how they retain talent. According to Indeed’s 2025 Tech Talent report",
+      "url": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T05:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.875359+00:00"
+    },
+    {
+      "id": "05bcabca711b",
+      "title": "Tariff turbulence exposes costly blind spots in supply chains and AI",
+      "summary": "Presented by Celonis When tariff rates change overnight, companies have 48 hours to model alternatives and act before competitors secure the best options. At Celosphere 2025 in Munich, enterprises dem",
+      "url": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T08:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.873906+00:00"
+    },
+    {
+      "id": "ea4abf2364e9",
+      "title": "Gemini 3 Pro scores 69% trust in blinded testing up from 16% for Gemini 2.5: The case for evaluating AI on real-world trust, not academic benchmarks",
+      "summary": "Just a few short weeks ago, Google debuted its Gemini 3 model, claiming it scored a leadership position in multiple AI benchmarks. But the challenge with vendor-provided benchmarks is that they are ju",
+      "url": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T22:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.871686+00:00"
+    },
+    {
+      "id": "2ba7000dd6d9",
+      "title": "Google Photos’ 2025 Recap turns to Gemini to find your highlights",
+      "summary": "The Google Photos Recap will use Gemini's AI to find your memorable moments throughout the year, and adds new metrics, like a 'selfie' count.",
+      "url": "https://techcrunch.com/2025/12/03/google-photos-2025-recap-turns-to-gemini-to-find-your-highlights/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T16:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.678214+00:00"
+    },
+    {
+      "id": "894a56beed2b",
+      "title": "Another bid to block state AI regulation has failed… for now",
+      "summary": "Republicans’ attempt to ban state AI regulations was removed from the defense bill after bipartisan opposition, underscoring tensions between tech-industry demands, consumer protection concerns, and T",
+      "url": "https://techcrunch.com/2025/12/03/another-bid-to-block-state-ai-regulation-has-failedfor-now/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T16:06:35+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.678145+00:00"
+    },
+    {
+      "id": "416a7be0bf0a",
+      "title": "AWS doubles down on custom LLMs with features meant to simplify model creation",
+      "summary": "AWS is launching more capabilities in both Amazon Bedrock and Amazon SageMaker AI to make building custom models easier.",
+      "url": "https://techcrunch.com/2025/12/03/aws-doubles-down-on-custom-llms-with-features-meant-to-simplify-model-creation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T16:30:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.678064+00:00"
+    },
+    {
+      "id": "9c97c52de669",
+      "title": "Anthropic hires lawyers as it preps for IPO",
+      "summary": "It has brought on law firm Wilson Sonsini to help kick off the process, and the company is tackling an internal checklist to prepare it for what could be one of the largest IPOs ever.",
+      "url": "https://techcrunch.com/2025/12/03/anthropic-hires-lawyers-as-it-preps-for-ipo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T17:42:37+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.677996+00:00"
+    },
+    {
+      "id": "941c3a4abf9a",
+      "title": "VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy",
+      "summary": "While VCs have long used big investments to spur category winners, they are taking this strategy to new extremes.",
+      "url": "https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T20:24:12+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.677922+00:00"
+    },
+    {
+      "id": "5e3a351ae3ab",
+      "title": "WordPress’s vibe-coding experiment, Telex, has already been put to real-world use",
+      "summary": "Though WordPress's Telex is still an experiment, the vibe-coding software has already been used to help build real-world websites.",
+      "url": "https://techcrunch.com/2025/12/03/wordpresss-vibe-coding-experiment-telex-has-already-been-put-to-real-world-use/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T20:36:47+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.677832+00:00"
+    },
+    {
+      "id": "9db144af2287",
+      "title": "Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business",
+      "summary": "Can any company, big or small, really topple Nvidia's AI chip dominance? Maybe not entirely, but Amazon is already making big bucks trying.",
+      "url": "https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T22:01:13+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.677763+00:00"
+    },
+    {
+      "id": "64b57a10228c",
+      "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs",
+      "summary": "Dye led Apple's user interface team for the last decade.",
+      "url": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T23:37:26+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.677692+00:00"
+    },
+    {
+      "id": "8e7223b3b79f",
+      "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
+      "summary": "Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services.",
+      "url": "https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T23:43:25+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.677614+00:00"
+    },
+    {
+      "id": "9c758928cf88",
+      "title": "Announcing the initial People-First AI Fund grantees",
+      "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+      "url": "https://openai.com/index/people-first-ai-fund-grantees",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-03T08:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.531956+00:00"
+    },
+    {
+      "id": "07086e73bc03",
+      "title": "OpenAI to acquire Neptune",
+      "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+      "url": "https://openai.com/index/openai-to-acquire-neptune",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-03T10:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.531855+00:00"
+    },
+    {
+      "id": "e4104baabccb",
+      "title": "How confessions can keep language models honest",
+      "summary": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+      "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-03T10:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.531767+00:00"
+    },
+    {
+      "id": "e646d635b5c6",
+      "title": "We’re celebrating Geoffrey Hinton’s Nobel-winning legacy with the University of Toronto.",
+      "summary": "We’re celebrating Geoffrey Hinton’s Nobel-winning legacy with the University of Toronto.",
+      "url": "https://blog.google/technology/ai/hinton-chair-toronto/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-03T00:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.093451+00:00"
+    },
+    {
+      "id": "192db89e9967",
+      "title": "We’re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
+      "summary": "At the European Health Summit in Brussels, Greg Corrado, Distinguished Scientist at Google, released a new report authored by Implement Consulting Group and commissioned…",
+      "url": "https://blog.google/technology/health/ai-health-fund-eu/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-03T12:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.093415+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_61.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c0c7b96f846f",
+      "title": "Look back on your 2025 with Google Photos Recap",
+      "summary": "Learn more about Google Photos Recap — now available for 2025 — and how you can explore, customize and share it today.",
+      "url": "https://blog.google/products/photos/google-photos-2025-recap/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-03T16:00:00+00:00",
+      "scrapedAt": "2025-12-04T08:36:29.093303+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogPostIn-Line_ShareCard_ANV01.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "30844f75af90",
+      "title": "OpenAI has trained its LLM to confess to bad behavior",
+      "summary": "OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the",
+      "url": "https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T18:01:39+00:00",
+      "scrapedAt": "2025-12-04T08:36:28.888800+00:00"
+    },
     {
       "id": "94b77d4bb51c",
       "title": "AWS re:Invent 2025: How to watch and follow along live",
