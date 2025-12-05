@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2025-12-04T08:37:25.515669+00:00",
+  "lastUpdated": "2025-12-05T08:36:00.495085+00:00",
   "articles": [
+    {
+      "id": "c0233c3a1cfc",
+      "title": "Nvidia's new AI framework trains an 8B model to manage tools like a pro",
+      "summary": "Researchers at Nvidia and the University of Hong Kong have released Orchestrator, an 8-billion-parameter model that coordinates different tools and large language models (LLMs) to solve complex proble",
+      "url": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T23:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:04.258612+00:00"
+    },
+    {
+      "id": "7d0834c5a476",
+      "title": "Inside NetSuite’s next act: Evan Goldberg on the future of AI-powered business systems",
+      "summary": "Presented by Oracle NetSuite When Evan Goldberg started NetSuite in 1998, his vision was radically simple: give entrepreneurs access to their business data anytime, anywhere. At the time, most enterpr",
+      "url": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T05:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:04.257344+00:00"
+    },
+    {
+      "id": "b5160bcbe72c",
+      "title": "Anthropic vs. OpenAI red teaming methods reveal different security priorities for enterprise AI",
+      "summary": "M odel providers want to prove the security and robustness of their models, releasing system cards and conducting red-team exercises with each new release. But it can be difficult for enterprises to p",
+      "url": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T05:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:04.255043+00:00"
+    },
+    {
+      "id": "e98a977572a3",
+      "title": "GAM takes aim at “context rot”: A dual-agent memory architecture that outperforms long-context LLMs",
+      "summary": "For all their superhuman power, today’s AI models suffer from a surprisingly human flaw: They forget. Give an AI assistant a sprawling conversation, a multi-step reasoning task or a project spanning d",
+      "url": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T09:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:04.248512+00:00"
+    },
+    {
+      "id": "9afc0c877f36",
+      "title": "Gong study: Sales teams using AI generate 77% more revenue per rep",
+      "summary": "The debate over whether artificial intelligence belongs in the corporate boardroom appears to be over — at least for the people responsible for generating revenue. Seven in ten enterprise revenue lead",
+      "url": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T14:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:04.246539+00:00"
+    },
+    {
+      "id": "f111b3f28b51",
+      "title": "AWS launches Kiro powers with Stripe, Figma, and Datadog integrations for AI-assisted coding",
+      "summary": "Amazon Web Services on Wednesday introduced Kiro powers , a system that allows software developers to give their AI coding assistants instant, specialized expertise in specific tools and workflows — a",
+      "url": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T14:02:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:04.244165+00:00"
+    },
+    {
+      "id": "3189375a56d4",
+      "title": "The 'truth serum' for AI: OpenAI’s new method for training models to confess their mistakes",
+      "summary": "OpenAI researchers have introduced a novel method that acts as a \"truth serum\" for large language models (LLMs), compelling them to self-report their own misbehavior, hallucinations and policy violati",
+      "url": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T23:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:04.241322+00:00"
+    },
+    {
+      "id": "aeefad74cc07",
+      "title": "Nexus isn’t going all in on AI, keeping half of its new $700M fund for India startups",
+      "summary": "Nexus Venture Partners manages $3.2 billion in capital across its funds and has invested in more than 130 companies over the years.",
+      "url": "https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T11:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.963147+00:00"
+    },
+    {
+      "id": "58a9873425fc",
+      "title": "AI finds its way into Apple’s top apps of the year",
+      "summary": "Although Apple has continued to avoid naming a dedicated AI app or AI chatbot as its app of the year, AI was showcased among this year's winners.",
+      "url": "https://techcrunch.com/2025/12/04/ai-finds-its-way-into-apples-top-apps-of-the-year/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T14:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.963080+00:00"
+    },
+    {
+      "id": "39bb2c5f9079",
+      "title": "EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp",
+      "summary": "The European Commission is launching an antitrust investigation into Meta's move to ban other AI companies from using WhatsApp's business tools to offer their own AI chatbots to users.",
+      "url": "https://techcrunch.com/2025/12/04/eu-investigating-meta-over-policy-change-that-bans-rival-ai-chatbots-from-whatsapp/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T14:02:28+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.963013+00:00"
+    },
+    {
+      "id": "e067a132a8e1",
+      "title": "Anthropic signs $200M deal to bring its LLMs to Snowflake’s customers",
+      "summary": "AI research lab Anthropic inked a $200 million deal with Snowflake to bring its AI models to Snowflake's 12,600 customers.",
+      "url": "https://techcrunch.com/2025/12/04/anthropic-signs-200m-deal-to-bring-its-llms-to-snowflakes-customers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T14:22:03+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.962939+00:00"
+    },
+    {
+      "id": "f6b2663c4a8b",
+      "title": "Meta reportedly plans to slash Metaverse budget by up to 30%",
+      "summary": "The proposal reflects the overall lack of interest in products like Meta's social virtual reality platform, Horizon Worlds.",
+      "url": "https://techcrunch.com/2025/12/04/meta-reportedly-plans-to-slash-metaverse-budget-by-up-to-30/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T16:08:27+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.962868+00:00"
+    },
+    {
+      "id": "c2aeca057ebf",
+      "title": "Meta centralizes Facebook and Instagram support, tests AI support assistant",
+      "summary": "The new support hub will connect users to security tools, account recovery options, and an AI assistant.",
+      "url": "https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T17:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.962783+00:00"
+    },
+    {
+      "id": "3e575c35c032",
+      "title": "Anthropic CEO weighs in on AI bubble talk and risk-taking among competitors",
+      "summary": "Anthropic's CEO shared his thoughts on the economics of AI and the risk-taking of competitors, saying some were \"YOLO-ing\" with regard to spending.",
+      "url": "https://techcrunch.com/2025/12/04/anthropic-ceo-weighs-in-on-ai-bubble-talk-and-risk-taking-among-competitors/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T20:22:59+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.962718+00:00"
+    },
+    {
+      "id": "9c61905b358d",
+      "title": "Micro1, a Scale AI competitor, touts crossing $100M ARR",
+      "summary": "Micro1 started the year with roughly $7 million ARR. Now, it claims to have surpassed $100 million in ARR, double what it reported in September.",
+      "url": "https://techcrunch.com/2025/12/04/micro1-a-scale-ai-competitor-touts-crossing-100m-arr/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T22:45:31+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.962648+00:00"
+    },
+    {
+      "id": "9a2eed2066be",
+      "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
+      "summary": "Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services.",
+      "url": "https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T01:17:08+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.962575+00:00"
+    },
+    {
+      "id": "182a041f0d64",
+      "title": "Chicago Tribune sues Perplexity",
+      "summary": "The newspaper is alleging copyright infringement and calling out Perplexity's retrieval augmented generation (RAG) as a culprit.",
+      "url": "https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T01:20:59+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.962497+00:00"
+    },
+    {
+      "id": "a49e9dbe2cf9",
+      "title": "Introducing OpenAI for Australia",
+      "summary": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+      "url": "https://openai.com/global-affairs/openai-for-australia",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-04T19:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.817806+00:00"
+    },
+    {
+      "id": "9eed5858e7e8",
+      "title": "Delivering securely on data and AI strategy",
+      "summary": "Most organizations feel the imperative to keep pace with continuing advances in AI capabilities, as highlighted in a recent MIT Technology Review Insights report . That clearly has security implicatio",
+      "url": "https://www.technologyreview.com/2025/12/04/1128311/delivering-securely-on-data-and-ai-strategy/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T14:00:00+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.166623+00:00"
+    },
+    {
+      "id": "857829a0dc1e",
+      "title": "AI chatbots can sway voters better than political advertisements",
+      "summary": "In 2024, a Democratic congressional candidate in Pennsylvania, Shamaine Daniels, used an AI chatbot named Ashley to call voters and carry on conversations with them. “Hello. My name is Ashley, and I’m",
+      "url": "https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-04T19:54:57+00:00",
+      "scrapedAt": "2025-12-05T08:35:03.165815+00:00"
+    },
     {
       "id": "41ecf200c63b",
       "title": "Workspace Studio aims to solve the real agent problem: Getting employees to use them",
