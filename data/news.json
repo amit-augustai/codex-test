@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2025-12-05T08:36:00.495085+00:00",
+  "lastUpdated": "2025-12-06T08:32:51.020514+00:00",
   "articles": [
+    {
+      "id": "2ccb72377f76",
+      "title": "Waymo&#8217;s robotaxis are under investigation for passing stopped school buses",
+      "summary": "The National Highway Traffic Safety Administration has opened an investigation into Waymo following reports that the company’s robotaxis illegally drove past stopped school buses in Austin, Texas. In ",
+      "url": "https://www.theverge.com/news/838879/waymo-school-buses-probe",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T08:45:35-05:00",
+      "scrapedAt": "2025-12-06T08:31:54.047201+00:00"
+    },
+    {
+      "id": "17d8d62f8970",
+      "title": "Meta strikes AI licensing deals with CNN, Fox News, and USA Today",
+      "summary": "On Friday, Meta announced that its AI chatbot will now respond with information from CNN, Fox News, USA Today , and People Inc.’s portfolio, as part of a new partnership with the companies. The deal c",
+      "url": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T09:39:25-05:00",
+      "scrapedAt": "2025-12-06T08:31:54.046261+00:00"
+    },
+    {
+      "id": "e6935bc13a65",
+      "title": "It&#8217;s code red for ChatGPT",
+      "summary": "A smidge over three years ago, OpenAI threw the rest of the tech industry into chaos. When ChatGPT launched , even billed as a \"low-key research preview,\" it became immediately clear that OpenAI was s",
+      "url": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T10:09:35-05:00",
+      "scrapedAt": "2025-12-06T08:31:54.045197+00:00"
+    },
+    {
+      "id": "46c05a122bb8",
+      "title": "The New York Times sues Perplexity for producing ‘verbatim’ copies of its work",
+      "summary": "The New York Times has escalated its legal battle against the AI startup Perplexity , as it’s now suing the AI “answer engine” for allegedly producing and profiting from responses that are “verbatim o",
+      "url": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T10:42:56-05:00",
+      "scrapedAt": "2025-12-06T08:31:54.044748+00:00"
+    },
+    {
+      "id": "d034e3e5a9fd",
+      "title": "OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week",
+      "summary": "OpenAI CEO Sam Altman declared a \"code red\" situation earlier this week , pushing staff to respond quickly to increased competition from Google and Anthropic. Sources familiar with OpenAI's plans tell",
+      "url": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T12:00:00-05:00",
+      "scrapedAt": "2025-12-06T08:31:54.043087+00:00"
+    },
+    {
+      "id": "797bb60f456a",
+      "title": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+      "summary": "Three years ago, ChatGPT was born. It amazed the world and ignited unprecedented investment and excitement in AI. Today, ChatGPT is still a toddler, but public sentiment around the AI boom has turned ",
+      "url": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T13:00:00+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.653687+00:00"
+    },
+    {
+      "id": "ccf6e9a9cd9b",
+      "title": "Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI",
+      "summary": "Meta is partnering with CNN, Fox News, Fox Sports, Le Monde Group, the People Inc. portfolio of media brands, The Daily Caller, The Washington Examiner, and USA Today.",
+      "url": "https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T15:27:37+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.470646+00:00"
+    },
+    {
+      "id": "af3c8405a9c4",
+      "title": "The New York Times is suing Perplexity for copyright infringement",
+      "summary": "The New York Times filed a copyright lawsuit against Perplexity, joining other publishers using legal action as leverage to force AI companies into licensing deals that compensate content creators.",
+      "url": "https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T16:03:59+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.470571+00:00"
+    },
+    {
+      "id": "b0e7a565194c",
+      "title": "AWS re:Invent was an all-in pitch for AI. Customers might not be ready.",
+      "summary": "AWS is releasing a lot of new AI tech, but the cloud infrastructure giant's enterprise customers may not be ready for it yet.",
+      "url": "https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T18:05:35+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.470498+00:00"
+    },
+    {
+      "id": "e9335e1beddc",
+      "title": "Nothing wants your money, AWS wants your trust, and Spotify wants your data",
+      "summary": "AWS announced a wave of new AI agent tools at re:Invent 2025, but can Amazon actually catch up to the AI leaders? While the cloud giant is betting big on enterprise AI with its third-gen chip and data",
+      "url": "https://techcrunch.com/podcast/nothing-wants-your-money-aws-wants-your-trust-and-spotify-wants-your-data/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T18:20:36+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.470422+00:00"
+    },
+    {
+      "id": "78d808da1c1a",
+      "title": "ChatGPT’s user growth has slowed, report finds",
+      "summary": "ChatGPT's global monthly active users only grew by around 5% from August to November, while Gemini's users grew by about 30%.",
+      "url": "https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T20:06:03+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.470312+00:00"
+    },
+    {
+      "id": "c7da294c6637",
+      "title": "Meta acquires AI device startup Limitless",
+      "summary": "Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.",
+      "url": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T21:02:13+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.470224+00:00"
+    },
+    {
+      "id": "f6bd223553d7",
+      "title": "AWS needs you to believe in AI agents",
+      "summary": "AWS announced a wave of new AI agent tools at re:Invent 2025, but can Amazon actually catch up to the AI leaders? While the cloud giant is betting big on enterprise AI with its third-gen chip and data",
+      "url": "https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T22:00:00+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.470073+00:00"
+    },
+    {
+      "id": "ce0b2bec54b8",
+      "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation",
+      "summary": "The one-year-old startup, which does market research on simulated populations, had a multi-tier valuation round, sources tell TechCrunch.",
+      "url": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T23:38:59+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.428449+00:00"
+    },
+    {
+      "id": "a14a6cf6d555",
+      "title": "Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people",
+      "summary": "Yoodli counts Google, Snowflake, and Databricks among its customers.",
+      "url": "https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T23:43:58+00:00",
+      "scrapedAt": "2025-12-06T08:31:53.428368+00:00"
+    },
+    {
+      "id": "65b0e0532238",
+      "title": "Gemini 3 Pro: the frontier of vision AI",
+      "summary": "Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.",
+      "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-05T16:00:00+00:00",
+      "scrapedAt": "2025-12-06T08:31:52.911055+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5d3a31ac9a93",
+      "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
+      "summary": "New research from Google Workspace reveals how young leaders are using AI at work.",
+      "url": "https://blog.google/products/workspace/young-leaders-survey-ai/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-05T16:00:00+00:00",
+      "scrapedAt": "2025-12-06T08:31:52.910938+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "94d9c3113777",
+      "title": "The latest AI news we announced in November",
+      "summary": "Here are Google’s latest AI updates from November 2025",
+      "url": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-05T19:45:00+00:00",
+      "scrapedAt": "2025-12-06T08:31:52.910908+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/November_AI_Recap_ss.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "e5ba84e42763",
+      "title": "The era of AI persuasion in elections is about to begin",
+      "summary": "In January 2024, the phone rang in homes all around New Hampshire. On the other end was Joe Biden’s voice, urging Democrats to “save your vote” by skipping the primary. It sounded authentic, but it wa",
+      "url": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T10:00:00+00:00",
+      "scrapedAt": "2025-12-06T08:31:52.621518+00:00"
+    },
+    {
+      "id": "7043a02bcc40",
+      "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
+      "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has",
+      "url": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T15:00:00+00:00",
+      "scrapedAt": "2025-12-06T08:31:52.618481+00:00"
+    },
     {
       "id": "c0233c3a1cfc",
       "title": "Nvidia's new AI framework trains an 8B model to manage tools like a pro",
