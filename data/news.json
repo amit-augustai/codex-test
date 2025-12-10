@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2025-12-09T08:38:55.218176+00:00",
+  "lastUpdated": "2025-12-10T08:37:25.640461+00:00",
   "articles": [
+    {
+      "id": "40368568b3a9",
+      "title": "Brand-context AI: The missing requirement for marketing AI",
+      "summary": "Presented by BlueOcean AI has become a central part of how marketing teams work, but the results often fall short. Models can generate content at scale and summarize information in seconds, yet the ou",
+      "url": "https://venturebeat.com/ai/brand-context-ai-the-missing-requirement-for-marketing-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T08:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.703547+00:00"
+    },
+    {
+      "id": "f02a5fe1a52d",
+      "title": "Mistral launches powerful Devstral 2 coding model including open source, laptop-friendly version",
+      "summary": "French AI startup Mistral has weathered a rocky period of public questioning over the last year to emerge, now here in December 2025, with new, crowd-pleasing models for enterprise and indie developer",
+      "url": "https://venturebeat.com/ai/mistral-launches-powerful-devstral-2-coding-model-including-open-source",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T19:44:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.701885+00:00"
+    },
+    {
+      "id": "5484cce15898",
+      "title": "The AI that scored 95% — until consultants learned it was AI",
+      "summary": "Presented by SAP When SAP ran a quiet internal experiment to gauge consultant attitudes toward AI, the results were striking. Five teams were asked to validate answers to more than 1,000 business requ",
+      "url": "https://venturebeat.com/ai/the-ai-that-scored-95-until-consultants-learned-it-was-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T15:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.698291+00:00"
+    },
+    {
+      "id": "89ab9eae41b0",
+      "title": "Amazon’s Ring rolls out controversial, AI-powered facial-recognition feature to video doorbells",
+      "summary": "The feature lets you identify the people who regularly come to your door by creating a catalog of up to 50 faces. The company says the Ring feature is opt in and the biometric data isn't used to train",
+      "url": "https://techcrunch.com/2025/12/09/amazons-ring-rolls-out-controversial-ai-powered-facial-recognition-feature-to-video-doorbells/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T19:04:08+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.484008+00:00"
+    },
+    {
+      "id": "2eeeb4c4430d",
+      "title": "Slack CEO Denise Dresser to join OpenAI as chief revenue officer",
+      "summary": "OpenAI says that Dresser will be responsible for the company's revenue strategy in enterprise and customer success.",
+      "url": "https://techcrunch.com/2025/12/09/slack-ceo-denise-dresser-to-join-openai-as-chief-revenue-officer/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T19:41:40+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.483933+00:00"
+    },
+    {
+      "id": "75fc29529b17",
+      "title": "Three in 10 US teens use AI chatbots every day, but safety concerns are growing",
+      "summary": "While teenagers may start out using AI chatbots for basic questions, their relationship with chatbot platforms has the potential to turn addictive.",
+      "url": "https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T20:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.483862+00:00"
+    },
+    {
+      "id": "5020fe39fd41",
+      "title": "Rivian is building its own AI assistant",
+      "summary": "The EV maker will likely share more details on its upcoming AI & Autonomy Day scheduled for December 11.",
+      "url": "https://techcrunch.com/2025/12/09/rivian-is-building-its-own-ai-assistant/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T20:11:13+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.483775+00:00"
+    },
+    {
+      "id": "59311e91604f",
+      "title": "Why Cursor’s CEO believes OpenAI, Anthropic competition won’t crush his startup",
+      "summary": "After reaching $1 billion in annualized revenue, Anysphere CEO Michael Truell explained the features his company is focused on building out.",
+      "url": "https://techcrunch.com/2025/12/09/why-cursors-ceo-believes-openai-anthropic-competition-wont-crush-his-startup/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T20:59:21+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.471802+00:00"
+    },
+    {
+      "id": "d78f91df0cf9",
+      "title": "B Capital founding partner Kabir Narang leaves to launch new investment platform",
+      "summary": "Kabir Narang is laying the groundwork for a new investment platform slated for 2026 that will focus on \"compounding at the intersection of technology, AI, and global capital flows.\"",
+      "url": "https://techcrunch.com/2025/12/09/b-capital-founding-partner-kabir-narang-leaves-to-launch-new-investment-platform/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T21:13:19+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.471732+00:00"
+    },
+    {
+      "id": "498962d2f42e",
+      "title": "Max Hodak is more worried about Twitter than brain-computer interface hacking",
+      "summary": "This week on StrictlyVC Download, Connie Loizos speaks with Science Corp. founder Max Hodak to discuss how brain-computer interfaces are arriving faster than anyone realizes. The Neuralink co-founder ",
+      "url": "https://techcrunch.com/podcast/max-hodak-is-more-worried-about-twitter-than-brain-computer-interface-hacking/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T21:56:34+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.471656+00:00"
+    },
+    {
+      "id": "f78f867b6898",
+      "title": "Cashew Research is going after the $90B market research industry with AI",
+      "summary": "Cashew Research uses AI to automate the market research process while still collecting real-world data from humans.",
+      "url": "https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T22:20:39+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.471564+00:00"
+    },
+    {
+      "id": "b55d906f94c0",
+      "title": "Unconventional AI confirms its massive  $475M seed round",
+      "summary": "Led by Naveen Rao, the former head of AI at Databricks, the new hardware startup is valued at $4.5 billion.",
+      "url": "https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T00:24:16+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.471491+00:00"
+    },
+    {
+      "id": "b209ae3baa50",
+      "title": "CoreWeave CEO defends AI circular deals as ‘working together’",
+      "summary": "The CEO of the AI data center provider, which has Nvidia as an investor and a supplier, described the environment as a \"violent change\" in demand.",
+      "url": "https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T00:49:25+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.471409+00:00"
+    },
+    {
+      "id": "fb6759b8ad53",
+      "title": "Building AI fluency at scale with ChatGPT Enterprise",
+      "summary": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+      "url": "https://openai.com/index/commonwealth-bank-of-australia",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-09T00:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.336719+00:00"
+    },
+    {
+      "id": "5a44359b6a9c",
+      "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+      "summary": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day",
+      "url": "https://openai.com/index/openai-appoints-denise-dresser",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-09T00:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.336648+00:00"
+    },
+    {
+      "id": "967959a784b9",
+      "title": "Launching our first OpenAI Certifications courses",
+      "summary": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+      "url": "https://openai.com/index/openai-certificate-courses",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-09T06:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.336486+00:00"
+    },
+    {
+      "id": "82ae922980d3",
+      "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+      "summary": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+      "url": "https://openai.com/index/agentic-ai-foundation",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-09T09:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.336405+00:00"
+    },
+    {
+      "id": "61885198874e",
+      "title": "How Scout24 is building the next generation of real-estate search with AI",
+      "summary": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+      "url": "https://openai.com/index/scout24",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-09T16:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:29.336317+00:00"
+    },
+    {
+      "id": "ca5ff5a7662f",
+      "title": "2025 at Google",
+      "summary": "Learn more about Google’s launches, milestones and more from 2025.",
+      "url": "https://blog.google/technology/ai/look-back-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-09T16:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:28.870563+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6819f76a6c8c",
+      "title": "Learn more about AI in the workplace in our new research report.",
+      "summary": "Learn more about AI in the workplace in our new research report.",
+      "url": "https://blog.google/products/workspace/gemini-ai-workplace-research-report/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-09T17:00:00+00:00",
+      "scrapedAt": "2025-12-10T08:36:28.870414+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp"
+    },
     {
       "id": "bcf5ea6114dd",
       "title": "OpenAI boasts enterprise win days after internal ‘code red’ on Google threat",
