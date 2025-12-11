@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2025-12-10T08:37:25.640461+00:00",
+  "lastUpdated": "2025-12-11T08:37:58.258497+00:00",
   "articles": [
+    {
+      "id": "e209ee923f87",
+      "title": "How Google’s TPUs are reshaping the economics of large-scale AI",
+      "summary": "For more than a decade, Nvidia’s GPUs have underpinned nearly every major advance in modern AI. That position is now being challenged. Frontier models such as Google’s Gemini 3 and Anthropic’s Claude ",
+      "url": "https://venturebeat.com/ai/how-googles-tpus-are-reshaping-the-economics-of-large-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T08:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.478294+00:00"
+    },
+    {
+      "id": "2f32e8600945",
+      "title": "Quilter's AI just designed an 843‑part Linux computer that booted on the first try. Hardware will never be the same.",
+      "summary": "A Los Angeles-based startup has demonstrated what it calls a breakthrough in hardware development: an artificial intelligence system that designed a fully functional Linux computer in one week — a pro",
+      "url": "https://venturebeat.com/ai/quilters-ai-just-designed-an-843-part-linux-computer-that-booted-on-the",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T14:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.476636+00:00"
+    },
+    {
+      "id": "fde3e431decc",
+      "title": "How Hud's runtime sensor cut triage time from 3 hours to 10 minutes",
+      "summary": "Engineering teams are generating more code with AI agents than ever before. But they're hitting a wall when that code reaches production. The problem isn't necessarily the AI-generated code itself. It",
+      "url": "https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T14:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.473374+00:00"
+    },
+    {
+      "id": "ee52472d00cb",
+      "title": "OpenAI report reveals a 6x productivity gap between AI power users and everyone else",
+      "summary": "The tools are available to everyone. The subscription is company-wide. The training sessions have been held. And yet, in offices from Wall Street to Silicon Valley, a stark divide is opening between w",
+      "url": "https://venturebeat.com/ai/openai-report-reveals-a-6x-productivity-gap-between-ai-power-users-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T14:30:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.471225+00:00"
+    },
+    {
+      "id": "0679e6cf6690",
+      "title": "The 70% factuality ceiling: why Google’s new ‘FACTS’ benchmark is a wake-up call for enterprise AI",
+      "summary": "There's no shortage of generative AI benchmarks designed to measure the performance and accuracy of a given model on completing various helpful enterprise tasks — from coding to instruction following ",
+      "url": "https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T23:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.467625+00:00"
+    },
+    {
+      "id": "21e7b77d90e0",
+      "title": "Figma launches new AI-powered object removal and image extension",
+      "summary": "Figma is launching a new image editing toolbar to bring all its features in one place.",
+      "url": "https://techcrunch.com/2025/12/10/figma-launches-new-ai-powered-object-removal-and-image-extension/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T14:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.337964+00:00"
+    },
+    {
+      "id": "8a106be7d83c",
+      "title": "AI startup Tavus founder says users talk to its AI Santa ‘for hours’ per day",
+      "summary": "Tavus has launched a new experience where you can chat with an AI Santa that asks personal questions and remembers your interests.",
+      "url": "https://techcrunch.com/2025/12/10/ai-startup-tavus-founder-says-users-talk-to-its-ai-santa-for-hours-per-day/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T14:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.337899+00:00"
+    },
+    {
+      "id": "2181f7403691",
+      "title": "Google launches managed MCP servers that let AI agents simply plug into its tools",
+      "summary": "Google is rolling out managed MCP servers to make its services “agent-ready by design,” starting with Maps and BigQuery, aiming to simplify messy integrations and help AI agents use real tools.",
+      "url": "https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T15:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.337829+00:00"
+    },
+    {
+      "id": "f55ea072406d",
+      "title": "ChatGPT is Apple’s most downloaded app of 2025 in the US",
+      "summary": "This is ChatGPT's first year as the No. 1 app on the U.S. App Store by downloads.",
+      "url": "https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T15:17:26+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.337741+00:00"
+    },
+    {
+      "id": "b6e505c80ef6",
+      "title": "ElevenLabs just hit a $6.6B valuation. Its CEO says the real money isn’t in voice anymore.",
+      "summary": "ElevenLabs has made a name for itself building realistic AI voices. What started as two Polish engineers annoyed by terrible movie dubbing has grown into a profitable company now valued at $6.6 billio",
+      "url": "https://techcrunch.com/podcast/elevenlabs-just-hit-a-6-6b-valuation-its-ceo-says-the-real-money-isnt-in-voice-anymore/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T16:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.337604+00:00"
+    },
+    {
+      "id": "cc9587332756",
+      "title": "Google is testing AI-powered article overviews on select publications’ Google News pages",
+      "summary": "By adding AI-powered article overviews, Google says users will get more context before they click through to read an article.",
+      "url": "https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T17:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.328209+00:00"
+    },
+    {
+      "id": "47ccf8a86f25",
+      "title": "Spotify tests more personalized, AI-powered ‘Prompted Playlists’",
+      "summary": "The playlists can factor in world knowledge, go back to your listening history from day one, and be refreshed daily or weekly.",
+      "url": "https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T20:01:47+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.328142+00:00"
+    },
+    {
+      "id": "265270df5303",
+      "title": "Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl",
+      "summary": "A new software option could make it possible to see the approximate location of some of Nvidia's AI chips.",
+      "url": "https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-10T22:06:47+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.328073+00:00"
+    },
+    {
+      "id": "a705db3bd26f",
+      "title": "State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs",
+      "summary": "The letter demanded companies institute new safeguards to keep users safe from harmful psychological impacts.",
+      "url": "https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T00:13:43+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.328002+00:00"
+    },
+    {
+      "id": "460266d5abd6",
+      "title": "Google’s answer to the AI arms race — promote the guy behind its data center tech",
+      "summary": "Amin Vahdat has been promoted to chief technologist for AI infrastructure, a newly created position reporting directly to CEO Sundar Pichai.",
+      "url": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T01:10:04+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.327923+00:00"
+    },
+    {
+      "id": "4dca840fa219",
+      "title": "Strengthening cyber resilience as AI capabilities advance",
+      "summary": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security commun",
+      "url": "https://openai.com/index/strengthening-cyber-resilience",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-10T12:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:01.185892+00:00"
+    },
+    {
+      "id": "192db89e9967",
+      "title": "We’re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
+      "summary": "At the European Health Summit in Brussels, Greg Corrado, Distinguished Scientist at Google, released a new report authored by Implement Consulting Group and commissioned…",
+      "url": "https://blog.google/technology/health/ai-health-fund-eu/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-03T12:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:00.759074+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_61.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c0c7b96f846f",
+      "title": "Look back on your 2025 with Google Photos Recap",
+      "summary": "Learn more about Google Photos Recap — now available for 2025 — and how you can explore, customize and share it today.",
+      "url": "https://blog.google/products/photos/google-photos-2025-recap/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-03T16:00:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:00.758982+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogPostIn-Line_ShareCard_ANV01.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "70904be0e49a",
+      "title": "These developers are changing lives with Gemma 3n",
+      "summary": "From enhancing assistive technology to addressing the digital divide, developers built mobile-first solutions to address real-world problems in the Gemma 3n Impact Chall…",
+      "url": "https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-10T17:15:00+00:00",
+      "scrapedAt": "2025-12-11T08:37:00.758314+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "30844f75af90",
+      "title": "OpenAI has trained its LLM to confess to bad behavior",
+      "summary": "OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the",
+      "url": "https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-03T18:01:39+00:00",
+      "scrapedAt": "2025-12-11T08:37:00.582372+00:00"
+    },
     {
       "id": "40368568b3a9",
       "title": "Brand-context AI: The missing requirement for marketing AI",
@@ -1208,409 +1411,6 @@
       "category": "product",
       "publishedAt": "2025-12-04T19:54:57+00:00",
       "scrapedAt": "2025-12-05T08:35:03.165815+00:00"
-    },
-    {
-      "id": "41ecf200c63b",
-      "title": "Workspace Studio aims to solve the real agent problem: Getting employees to use them",
-      "summary": "One problem enterprises face is getting employees to actually use the AI agents their dev teams have built. Google , which has already shipped many AI tools through its Workspace apps , has made Googl",
-      "url": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T05:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.876441+00:00"
-    },
-    {
-      "id": "7f7e35d1a1bb",
-      "title": "AI has redefined the talent game. Here’s how leaders are responding.",
-      "summary": "Presented by Indeed As AI continues to reshape how we work, organizations are rethinking what skills they need, how they hire, and how they retain talent. According to Indeed’s 2025 Tech Talent report",
-      "url": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T05:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.875359+00:00"
-    },
-    {
-      "id": "05bcabca711b",
-      "title": "Tariff turbulence exposes costly blind spots in supply chains and AI",
-      "summary": "Presented by Celonis When tariff rates change overnight, companies have 48 hours to model alternatives and act before competitors secure the best options. At Celosphere 2025 in Munich, enterprises dem",
-      "url": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T08:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.873906+00:00"
-    },
-    {
-      "id": "ea4abf2364e9",
-      "title": "Gemini 3 Pro scores 69% trust in blinded testing up from 16% for Gemini 2.5: The case for evaluating AI on real-world trust, not academic benchmarks",
-      "summary": "Just a few short weeks ago, Google debuted its Gemini 3 model, claiming it scored a leadership position in multiple AI benchmarks. But the challenge with vendor-provided benchmarks is that they are ju",
-      "url": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T22:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.871686+00:00"
-    },
-    {
-      "id": "2ba7000dd6d9",
-      "title": "Google Photos’ 2025 Recap turns to Gemini to find your highlights",
-      "summary": "The Google Photos Recap will use Gemini's AI to find your memorable moments throughout the year, and adds new metrics, like a 'selfie' count.",
-      "url": "https://techcrunch.com/2025/12/03/google-photos-2025-recap-turns-to-gemini-to-find-your-highlights/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T16:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.678214+00:00"
-    },
-    {
-      "id": "894a56beed2b",
-      "title": "Another bid to block state AI regulation has failed… for now",
-      "summary": "Republicans’ attempt to ban state AI regulations was removed from the defense bill after bipartisan opposition, underscoring tensions between tech-industry demands, consumer protection concerns, and T",
-      "url": "https://techcrunch.com/2025/12/03/another-bid-to-block-state-ai-regulation-has-failedfor-now/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T16:06:35+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.678145+00:00"
-    },
-    {
-      "id": "416a7be0bf0a",
-      "title": "AWS doubles down on custom LLMs with features meant to simplify model creation",
-      "summary": "AWS is launching more capabilities in both Amazon Bedrock and Amazon SageMaker AI to make building custom models easier.",
-      "url": "https://techcrunch.com/2025/12/03/aws-doubles-down-on-custom-llms-with-features-meant-to-simplify-model-creation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T16:30:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.678064+00:00"
-    },
-    {
-      "id": "9c97c52de669",
-      "title": "Anthropic hires lawyers as it preps for IPO",
-      "summary": "It has brought on law firm Wilson Sonsini to help kick off the process, and the company is tackling an internal checklist to prepare it for what could be one of the largest IPOs ever.",
-      "url": "https://techcrunch.com/2025/12/03/anthropic-hires-lawyers-as-it-preps-for-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T17:42:37+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.677996+00:00"
-    },
-    {
-      "id": "941c3a4abf9a",
-      "title": "VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy",
-      "summary": "While VCs have long used big investments to spur category winners, they are taking this strategy to new extremes.",
-      "url": "https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T20:24:12+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.677922+00:00"
-    },
-    {
-      "id": "5e3a351ae3ab",
-      "title": "WordPress’s vibe-coding experiment, Telex, has already been put to real-world use",
-      "summary": "Though WordPress's Telex is still an experiment, the vibe-coding software has already been used to help build real-world websites.",
-      "url": "https://techcrunch.com/2025/12/03/wordpresss-vibe-coding-experiment-telex-has-already-been-put-to-real-world-use/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T20:36:47+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.677832+00:00"
-    },
-    {
-      "id": "9db144af2287",
-      "title": "Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business",
-      "summary": "Can any company, big or small, really topple Nvidia's AI chip dominance? Maybe not entirely, but Amazon is already making big bucks trying.",
-      "url": "https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T22:01:13+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.677763+00:00"
-    },
-    {
-      "id": "64b57a10228c",
-      "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs",
-      "summary": "Dye led Apple's user interface team for the last decade.",
-      "url": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T23:37:26+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.677692+00:00"
-    },
-    {
-      "id": "8e7223b3b79f",
-      "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
-      "summary": "Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services.",
-      "url": "https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T23:43:25+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.677614+00:00"
-    },
-    {
-      "id": "9c758928cf88",
-      "title": "Announcing the initial People-First AI Fund grantees",
-      "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
-      "url": "https://openai.com/index/people-first-ai-fund-grantees",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-03T08:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.531956+00:00"
-    },
-    {
-      "id": "07086e73bc03",
-      "title": "OpenAI to acquire Neptune",
-      "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
-      "url": "https://openai.com/index/openai-to-acquire-neptune",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-03T10:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.531855+00:00"
-    },
-    {
-      "id": "e4104baabccb",
-      "title": "How confessions can keep language models honest",
-      "summary": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
-      "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-03T10:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.531767+00:00"
-    },
-    {
-      "id": "e646d635b5c6",
-      "title": "We’re celebrating Geoffrey Hinton’s Nobel-winning legacy with the University of Toronto.",
-      "summary": "We’re celebrating Geoffrey Hinton’s Nobel-winning legacy with the University of Toronto.",
-      "url": "https://blog.google/technology/ai/hinton-chair-toronto/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-03T00:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.093451+00:00"
-    },
-    {
-      "id": "192db89e9967",
-      "title": "We’re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
-      "summary": "At the European Health Summit in Brussels, Greg Corrado, Distinguished Scientist at Google, released a new report authored by Implement Consulting Group and commissioned…",
-      "url": "https://blog.google/technology/health/ai-health-fund-eu/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-03T12:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.093415+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_61.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c0c7b96f846f",
-      "title": "Look back on your 2025 with Google Photos Recap",
-      "summary": "Learn more about Google Photos Recap — now available for 2025 — and how you can explore, customize and share it today.",
-      "url": "https://blog.google/products/photos/google-photos-2025-recap/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-03T16:00:00+00:00",
-      "scrapedAt": "2025-12-04T08:36:29.093303+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogPostIn-Line_ShareCard_ANV01.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "30844f75af90",
-      "title": "OpenAI has trained its LLM to confess to bad behavior",
-      "summary": "OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the",
-      "url": "https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T18:01:39+00:00",
-      "scrapedAt": "2025-12-04T08:36:28.888800+00:00"
-    },
-    {
-      "id": "94b77d4bb51c",
-      "title": "AWS re:Invent 2025: How to watch and follow along live",
-      "summary": "Amazon Web Services’ big annual event, re:Invent 2025, is getting into full swing in Las Vegas this week, and you can follow the keynotes live right here.",
-      "url": "https://techcrunch.com/2025/12/02/aws-reinvent-2025-how-to-watch-and-follow-along-live/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-02T16:24:51+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.411236+00:00"
-    },
-    {
-      "id": "5d0f3fd7ea0e",
-      "title": "OpenAI slammed for app suggestions that looked like ads",
-      "summary": "OpenAI clarified that the app suggestion was not an advertisement, but instead a poor attempt to integrate an app discovery feature within conversations.",
-      "url": "https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-02T16:43:21+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.411143+00:00"
-    },
-    {
-      "id": "94e561fd37fa",
-      "title": "AWS launches new Nova AI models and a service that gives customers more control",
-      "summary": "Amazon Web Services announced four new AI models within its Nova model family and a frontier model service.",
-      "url": "https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-02T17:54:02+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.411076+00:00"
-    },
-    {
-      "id": "3e366d58b03d",
-      "title": "ChatGPT referrals to retailers’ apps increased 28% year-over-year, says report",
-      "summary": "ChatGPT referrals to retailers' apps were up on Black Friday year-over-year, with Walmart and Amazon benefiting the most.",
-      "url": "https://techcrunch.com/2025/12/02/chatgpt-referrals-to-retailers-apps-increased-28-year-over-year-says-report/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-02T17:56:16+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.411009+00:00"
-    },
-    {
-      "id": "dc6bb0142c34",
-      "title": "Android 16 adds AI notification summaries, new customization options, and more",
-      "summary": "The rollout of the new Android 16 features, which are first coming to Pixel devices, marks a new chapter in how Android updates work, as the company is shifting from a single yearly update to more fre",
-      "url": "https://techcrunch.com/2025/12/02/android-16-adds-ai-notification-summaries-new-customization-options-and-more/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-02T19:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.410944+00:00"
-    },
-    {
-      "id": "2c290b22a6ef",
-      "title": "Amazon previews 3 AI agents, including ‘Kiro’ that can code on its own for days",
-      "summary": "Amazon Web Services on Tuesday announced three new AI agents it calls \"Frontier agents\" for coding, security, and DevOps.",
-      "url": "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-02T22:18:01+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.410870+00:00"
-    },
-    {
-      "id": "622fdfd68961",
-      "title": "Google tests merging AI Overviews with AI Mode",
-      "summary": "Google is testing how to make it easier to move from search to an AI chat in a new global test.",
-      "url": "https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-02T22:26:34+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.410799+00:00"
-    },
-    {
-      "id": "3eb11dbda7ca",
-      "title": "Amazon challenges competitors with on-premises Nvidia ‘AI Factories’",
-      "summary": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech.",
-      "url": "https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T00:43:37+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.410726+00:00"
-    },
-    {
-      "id": "ce7c1ec3e130",
-      "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
-      "summary": "Amazon Web Services giant tech conference is happening this week with news ranging from chips to AI services.",
-      "url": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T01:06:25+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.410611+00:00"
-    },
-    {
-      "id": "80006acfee14",
-      "title": "GPT-5 and the future of mathematical discovery",
-      "summary": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
-      "url": "https://openai.com/index/gpt-5-mathematical-discovery",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-11-24T00:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.263569+00:00"
-    },
-    {
-      "id": "c46ba0951392",
-      "title": "Inside JetBrains—the company reshaping how the world writes code",
-      "summary": "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.",
-      "url": "https://openai.com/index/jetbrains-2025",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-11-25T00:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.263495+00:00"
-    },
-    {
-      "id": "bb1431936d55",
-      "title": "Our approach to mental health-related litigation",
-      "summary": "We’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.",
-      "url": "https://openai.com/index/mental-health-litigation-approach",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-11-25T12:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.263423+00:00"
-    },
-    {
-      "id": "4ecdb37fef91",
-      "title": "Expanding data residency access to business customers worldwide",
-      "summary": "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
-      "url": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-11-25T22:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.263344+00:00"
-    },
-    {
-      "id": "8dd9bb0697e2",
-      "title": "Mixpanel security incident: what OpenAI users need to know",
-      "summary": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protectin",
-      "url": "https://openai.com/index/mixpanel-incident",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-11-26T19:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.263269+00:00"
-    },
-    {
-      "id": "efc2132fd740",
-      "title": "Accenture and OpenAI accelerate enterprise AI success",
-      "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
-      "url": "https://openai.com/index/accenture-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-01T05:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.263164+00:00"
-    },
-    {
-      "id": "af929e0847f7",
-      "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
-      "summary": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, ",
-      "url": "https://openai.com/index/thrive-holdings",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-01T05:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.263083+00:00"
-    },
-    {
-      "id": "f3c5b2b4c2d2",
-      "title": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”",
-      "summary": "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.",
-      "url": "https://openai.com/index/norad-holiday-collaboration",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-01T06:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.263001+00:00"
-    },
-    {
-      "id": "c37edffbc0bc",
-      "title": "Funding grants for new research into AI and mental health",
-      "summary": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve",
-      "url": "https://openai.com/index/ai-mental-health-research-grants",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-01T12:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.262915+00:00"
-    },
-    {
-      "id": "076611c99092",
-      "title": "Inside Mirakl's agentic commerce vision",
-      "summary": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
-      "url": "https://openai.com/index/mirakl",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-01T22:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:55.262808+00:00"
-    },
-    {
-      "id": "9a91093402c0",
-      "title": "Use Circle to Search and Google Lens to spot scam messages.",
-      "summary": "Use Circle to Search and Google Lens to spot scam messages.",
-      "url": "https://blog.google/products/search/scam-detection-circle-to-search-lens/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-02T19:00:00+00:00",
-      "scrapedAt": "2025-12-03T08:37:54.811939+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.max-600x600.format-webp.webp"
     }
   ]
 }
