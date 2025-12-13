@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2025-12-12T08:38:14.040894+00:00",
+  "lastUpdated": "2025-12-13T08:32:59.660069+00:00",
   "articles": [
+    {
+      "id": "d8b78e474ebe",
+      "title": "Google Translate brings real-time speech translations to any headphones",
+      "summary": "Google Translate's latest update brings live speech translations, originally available only on the Pixel Buds , to any headphones you want, with support for over 70 languages. It's rolling out today i",
+      "url": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T13:11:14-05:00",
+      "scrapedAt": "2025-12-13T08:32:05.009796+00:00"
+    },
+    {
+      "id": "1104d92abdbb",
+      "title": "Parents call for New York governor to sign landmark AI safety bill",
+      "summary": "A group of more than 150 parents sent a letter on Friday to New York governor Kathy Hochul, urging her to sign the Responsible AI Safety and Education (RAISE) Act without changes. The RAISE Act is a b",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T17:16:09-05:00",
+      "scrapedAt": "2025-12-13T08:32:05.009286+00:00"
+    },
+    {
+      "id": "b68c0c5ac8cf",
+      "title": "Cohere’s Rerank 4 quadruples the context window over 3.5 to cut agent errors and boost enterprise search accuracy",
+      "summary": "Almost a year after releasing Rerank 3.5 , Cohere launched the latest version of its search model, now with a larger context window to help agents find the information they need to complete their task",
+      "url": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T05:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.813346+00:00"
+    },
+    {
+      "id": "e3c474563567",
+      "title": "Nous Research just released Nomos 1, an open-source AI that ranks second on the notoriously brutal Putnam math exam",
+      "summary": "Nous Research , the San Francisco-based artificial intelligence startup, released on Tuesday an open-source mathematical reasoning system called Nomos 1 that achieved near-elite human performance on t",
+      "url": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T09:30:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.812444+00:00"
+    },
+    {
+      "id": "b9f0fcfe619a",
+      "title": "Marble enters the race to bring AI to tax work, armed with $9 million and a free research tool",
+      "summary": "Marble , a startup building artificial intelligence agents for tax professionals, has raised $9 million in seed funding as the accounting industry grapples with a deepening labor shortage and mounting",
+      "url": "https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T14:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.809639+00:00"
+    },
+    {
+      "id": "060e0db3c5d6",
+      "title": "OpenAI's GPT-5.2 is here: what enterprises need to know",
+      "summary": "The rumors were true: OpenAI on Thursday announced the release of its new frontier large language model (LLM) family, GPT-5.2 . It comes at a pivotal moment for the AI pioneer, which has faced intensi",
+      "url": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T18:16:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.806298+00:00"
+    },
+    {
+      "id": "02fb8f5edf63",
+      "title": "GPT-5.2 first impressions: a powerful update, especially for business tasks and workflows",
+      "summary": "OpenAI has officially released GPT-5.2 , and the reactions from early testers — among whom OpenAI seeded the model several days prior to public release, in some cases weeks ago — paints a two toned pi",
+      "url": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T23:26:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.799315+00:00"
+    },
+    {
+      "id": "dfbf210508e1",
+      "title": "Google’s new framework helps AI agents spend their compute and tool budget more wisely",
+      "summary": "In a new paper that studies tool-use in large language model (LLM) agents, researchers at Google and UC Santa Barbara have developed a framework that enables agents to make more efficient use of tool ",
+      "url": "https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T00:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.797636+00:00"
+    },
+    {
+      "id": "c90561e8ca6d",
+      "title": "Ai2's new Olmo 3.1 extends reinforcement learning training for stronger reasoning benchmarks",
+      "summary": "The Allen Institute for AI (Ai2) recently released what it calls its most powerful family of models yet, Olmo 3 . But the company kept iterating on the models, expanding its reinforcement learning (RL",
+      "url": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T05:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.786073+00:00"
+    },
+    {
+      "id": "f4bf4e048dc5",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "url": "https://techcrunch.com/2025/12/12/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T16:01:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.645805+00:00"
+    },
+    {
+      "id": "fa0ff4bc66f1",
+      "title": "Google Translate now lets you hear real-time translations in your headphones",
+      "summary": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.",
+      "url": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T17:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.645731+00:00"
+    },
+    {
+      "id": "290ea77d1637",
+      "title": "Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead",
+      "summary": "Trump signed an AI executive order targeting state laws and promising one national rulebook. Critics warn it could trigger court battles and prolong uncertainty for startups while Congress debates fed",
+      "url": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T17:07:22+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.645650+00:00"
+    },
+    {
+      "id": "102666760de6",
+      "title": "OK, what’s going on with LinkedIn’s algo?",
+      "summary": "Women ran an experiment to see if LinkedIn's new algo was being sexist and thought they proved it. But there's more complexity involved, experts say.",
+      "url": "https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T19:38:16+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.645544+00:00"
+    },
+    {
+      "id": "2549844f2518",
+      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "summary": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-12T00:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.563832+00:00"
+    },
+    {
+      "id": "e985fcef4e93",
+      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
+      "url": "https://openai.com/index/bny",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-12T00:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.563754+00:00"
+    },
+    {
+      "id": "94d9c3113777",
+      "title": "The latest AI news we announced in November",
+      "summary": "Here are Google’s latest AI updates from November 2025",
+      "url": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-05T19:45:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.123680+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/November_AI_Recap_ss.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "76be0fe2c681",
+      "title": "Bringing state-of-the-art Gemini translation capabilities to Google Translate",
+      "summary": "We’re bringing Gemini’s state-of-the-art translation model to Google Translate for text, and more new features.",
+      "url": "https://blog.google/products/search/gemini-capabilities-translation-upgrades/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-12T17:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.122960+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7774b43512c2",
+      "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
+      "summary": "You can now have more fluid and expressive conversations when you go Live with Search.",
+      "url": "https://blog.google/products/search/live-audio-gemini-model-update/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-12T17:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:04.122804+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "e5ba84e42763",
+      "title": "The era of AI persuasion in elections is about to begin",
+      "summary": "In January 2024, the phone rang in homes all around New Hampshire. On the other end was Joe Biden’s voice, urging Democrats to “save your vote” by skipping the primary. It sounded authentic, but it wa",
+      "url": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T10:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:03.840296+00:00"
+    },
+    {
+      "id": "7043a02bcc40",
+      "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
+      "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has",
+      "url": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-05T15:00:00+00:00",
+      "scrapedAt": "2025-12-13T08:32:03.837366+00:00"
+    },
     {
       "id": "5f5db02e3380",
       "title": "TIME names ‘Architects of AI’ its Person of the Year",
@@ -1210,209 +1413,6 @@
       "category": "product",
       "publishedAt": "2025-12-07T00:18:51+00:00",
       "scrapedAt": "2025-12-07T08:31:07.680490+00:00"
-    },
-    {
-      "id": "2ccb72377f76",
-      "title": "Waymo&#8217;s robotaxis are under investigation for passing stopped school buses",
-      "summary": "The National Highway Traffic Safety Administration has opened an investigation into Waymo following reports that the company’s robotaxis illegally drove past stopped school buses in Austin, Texas. In ",
-      "url": "https://www.theverge.com/news/838879/waymo-school-buses-probe",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T08:45:35-05:00",
-      "scrapedAt": "2025-12-06T08:31:54.047201+00:00"
-    },
-    {
-      "id": "17d8d62f8970",
-      "title": "Meta strikes AI licensing deals with CNN, Fox News, and USA Today",
-      "summary": "On Friday, Meta announced that its AI chatbot will now respond with information from CNN, Fox News, USA Today , and People Inc.’s portfolio, as part of a new partnership with the companies. The deal c",
-      "url": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T09:39:25-05:00",
-      "scrapedAt": "2025-12-06T08:31:54.046261+00:00"
-    },
-    {
-      "id": "e6935bc13a65",
-      "title": "It&#8217;s code red for ChatGPT",
-      "summary": "A smidge over three years ago, OpenAI threw the rest of the tech industry into chaos. When ChatGPT launched , even billed as a \"low-key research preview,\" it became immediately clear that OpenAI was s",
-      "url": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T10:09:35-05:00",
-      "scrapedAt": "2025-12-06T08:31:54.045197+00:00"
-    },
-    {
-      "id": "46c05a122bb8",
-      "title": "The New York Times sues Perplexity for producing ‘verbatim’ copies of its work",
-      "summary": "The New York Times has escalated its legal battle against the AI startup Perplexity , as it’s now suing the AI “answer engine” for allegedly producing and profiting from responses that are “verbatim o",
-      "url": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T10:42:56-05:00",
-      "scrapedAt": "2025-12-06T08:31:54.044748+00:00"
-    },
-    {
-      "id": "d034e3e5a9fd",
-      "title": "OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week",
-      "summary": "OpenAI CEO Sam Altman declared a \"code red\" situation earlier this week , pushing staff to respond quickly to increased competition from Google and Anthropic. Sources familiar with OpenAI's plans tell",
-      "url": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T12:00:00-05:00",
-      "scrapedAt": "2025-12-06T08:31:54.043087+00:00"
-    },
-    {
-      "id": "797bb60f456a",
-      "title": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
-      "summary": "Three years ago, ChatGPT was born. It amazed the world and ignited unprecedented investment and excitement in AI. Today, ChatGPT is still a toddler, but public sentiment around the AI boom has turned ",
-      "url": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T13:00:00+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.653687+00:00"
-    },
-    {
-      "id": "ccf6e9a9cd9b",
-      "title": "Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI",
-      "summary": "Meta is partnering with CNN, Fox News, Fox Sports, Le Monde Group, the People Inc. portfolio of media brands, The Daily Caller, The Washington Examiner, and USA Today.",
-      "url": "https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T15:27:37+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.470646+00:00"
-    },
-    {
-      "id": "af3c8405a9c4",
-      "title": "The New York Times is suing Perplexity for copyright infringement",
-      "summary": "The New York Times filed a copyright lawsuit against Perplexity, joining other publishers using legal action as leverage to force AI companies into licensing deals that compensate content creators.",
-      "url": "https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T16:03:59+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.470571+00:00"
-    },
-    {
-      "id": "b0e7a565194c",
-      "title": "AWS re:Invent was an all-in pitch for AI. Customers might not be ready.",
-      "summary": "AWS is releasing a lot of new AI tech, but the cloud infrastructure giant's enterprise customers may not be ready for it yet.",
-      "url": "https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T18:05:35+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.470498+00:00"
-    },
-    {
-      "id": "e9335e1beddc",
-      "title": "Nothing wants your money, AWS wants your trust, and Spotify wants your data",
-      "summary": "AWS announced a wave of new AI agent tools at re:Invent 2025, but can Amazon actually catch up to the AI leaders? While the cloud giant is betting big on enterprise AI with its third-gen chip and data",
-      "url": "https://techcrunch.com/podcast/nothing-wants-your-money-aws-wants-your-trust-and-spotify-wants-your-data/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T18:20:36+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.470422+00:00"
-    },
-    {
-      "id": "78d808da1c1a",
-      "title": "ChatGPT’s user growth has slowed, report finds",
-      "summary": "ChatGPT's global monthly active users only grew by around 5% from August to November, while Gemini's users grew by about 30%.",
-      "url": "https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T20:06:03+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.470312+00:00"
-    },
-    {
-      "id": "c7da294c6637",
-      "title": "Meta acquires AI device startup Limitless",
-      "summary": "Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.",
-      "url": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T21:02:13+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.470224+00:00"
-    },
-    {
-      "id": "f6bd223553d7",
-      "title": "AWS needs you to believe in AI agents",
-      "summary": "AWS announced a wave of new AI agent tools at re:Invent 2025, but can Amazon actually catch up to the AI leaders? While the cloud giant is betting big on enterprise AI with its third-gen chip and data",
-      "url": "https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T22:00:00+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.470073+00:00"
-    },
-    {
-      "id": "ce0b2bec54b8",
-      "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation",
-      "summary": "The one-year-old startup, which does market research on simulated populations, had a multi-tier valuation round, sources tell TechCrunch.",
-      "url": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T23:38:59+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.428449+00:00"
-    },
-    {
-      "id": "a14a6cf6d555",
-      "title": "Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people",
-      "summary": "Yoodli counts Google, Snowflake, and Databricks among its customers.",
-      "url": "https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T23:43:58+00:00",
-      "scrapedAt": "2025-12-06T08:31:53.428368+00:00"
-    },
-    {
-      "id": "65b0e0532238",
-      "title": "Gemini 3 Pro: the frontier of vision AI",
-      "summary": "Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.",
-      "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-05T16:00:00+00:00",
-      "scrapedAt": "2025-12-06T08:31:52.911055+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5d3a31ac9a93",
-      "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
-      "summary": "New research from Google Workspace reveals how young leaders are using AI at work.",
-      "url": "https://blog.google/products/workspace/young-leaders-survey-ai/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-05T16:00:00+00:00",
-      "scrapedAt": "2025-12-06T08:31:52.910938+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "94d9c3113777",
-      "title": "The latest AI news we announced in November",
-      "summary": "Here are Google’s latest AI updates from November 2025",
-      "url": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-05T19:45:00+00:00",
-      "scrapedAt": "2025-12-06T08:31:52.910908+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/November_AI_Recap_ss.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e5ba84e42763",
-      "title": "The era of AI persuasion in elections is about to begin",
-      "summary": "In January 2024, the phone rang in homes all around New Hampshire. On the other end was Joe Biden’s voice, urging Democrats to “save your vote” by skipping the primary. It sounded authentic, but it wa",
-      "url": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T10:00:00+00:00",
-      "scrapedAt": "2025-12-06T08:31:52.621518+00:00"
-    },
-    {
-      "id": "7043a02bcc40",
-      "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
-      "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has",
-      "url": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T15:00:00+00:00",
-      "scrapedAt": "2025-12-06T08:31:52.618481+00:00"
     }
   ]
 }
