@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2025-12-13T08:32:59.660069+00:00",
+  "lastUpdated": "2025-12-14T08:33:34.160717+00:00",
   "articles": [
+    {
+      "id": "e43dc341cde0",
+      "title": "OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy",
+      "summary": "Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.",
+      "url": "https://www.wired.com/story/openai-economic-research-team-ai-jobs/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T17:30:00+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.648007+00:00"
+    },
+    {
+      "id": "b007d0b17fca",
+      "title": "OpenAI Hires Slack CEO as New Chief Revenue Officer",
+      "summary": "A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.",
+      "url": "https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T18:35:01+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.647933+00:00"
+    },
+    {
+      "id": "ca509213e1dd",
+      "title": "Intel Takes Major Step in Plan to Acquire Chip Startup SambaNova",
+      "summary": "The two chip companies have signed a term sheet, according to sources with direct knowledge of the agreement.",
+      "url": "https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-09T23:08:59+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.647867+00:00"
+    },
+    {
+      "id": "6468f82f03db",
+      "title": "Cursor Launches an AI Coding Tool For Designers",
+      "summary": "The 300-person startup hopes bringing designers aboard will give it an edge in an increasingly competitive AI software market.",
+      "url": "https://www.wired.com/story/cursor-launches-pro-design-tools-figma/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T16:00:00+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.647781+00:00"
+    },
+    {
+      "id": "ab4a491539a1",
+      "title": "The Disney-OpenAI Deal Redefines the AI Copyright War",
+      "summary": "Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.",
+      "url": "https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T16:49:37+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.647718+00:00"
+    },
+    {
+      "id": "2f05a617d8e0",
+      "title": "OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’",
+      "summary": "The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.",
+      "url": "https://www.wired.com/story/openai-gpt-launch-gemini-code-red/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T18:00:00+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.647649+00:00"
+    },
+    {
+      "id": "93c74154c3fd",
+      "title": "Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws",
+      "summary": "The order creates a Justice Department task force to challenge state AI laws and directs the Commerce Department to pull future broadband funding from states that pass “onerous” legislation.",
+      "url": "https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T00:54:47+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.647581+00:00"
+    },
+    {
+      "id": "5eecb58eee69",
+      "title": "You’re Thinking About AI and Water All Wrong",
+      "summary": "Fears about AI data centers’ water use have exploded. Experts say the reality is far more complicated than people think.",
+      "url": "https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T16:00:00+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.647507+00:00"
+    },
+    {
+      "id": "8bc88fc24148",
+      "title": "AMD CEO Lisa Su Isn’t Afraid of the Competition",
+      "summary": "In this episode of Uncanny Valley we take you through our recent conversation with Lisa Su and go behind the scenes of our Big Interview event.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T20:01:14+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.647416+00:00"
+    },
+    {
+      "id": "fbf25a82df85",
+      "title": "For the First Time, AI Analyzes Language as Well as a Human Expert",
+      "summary": "If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?",
+      "url": "https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-14T07:00:00+00:00",
+      "scrapedAt": "2025-12-14T08:32:39.647336+00:00"
+    },
+    {
+      "id": "b08a5e158f3f",
+      "title": "Google is building an experimental new browser and a new kind of web app",
+      "summary": "The Chrome team at Google recently built a new browser. It takes a query or prompt, opens a bunch of related tabs for you, and then builds you a custom app for whatever you're trying to do. Ask it for",
+      "url": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T13:10:36-05:00",
+      "scrapedAt": "2025-12-14T08:32:39.486953+00:00"
+    },
+    {
+      "id": "e4b9fbdb00a6",
+      "title": "New York&#8217;s new law forces advertisers to say when they&#8217;re using AI avatars",
+      "summary": "New York Gov. Kathy Hochul signed a bill Thursday that will require advertisers to identify if an ad includes AI-generated people. Hochul's announcement said the bill, S.8420-A/A.8887-B, was the first",
+      "url": "https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T16:30:15-05:00",
+      "scrapedAt": "2025-12-14T08:32:39.486614+00:00"
+    },
+    {
+      "id": "1680c22926e0",
+      "title": "Amazon Prime Video pulls AI-powered recaps after Fallout flub",
+      "summary": "Amazon Prime Video has pulled its AI-powered video recap of Fallout after viewers noticed that it got key parts of the story wrong. The streaming service began testing Video Recaps last month, and now",
+      "url": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T17:46:11-05:00",
+      "scrapedAt": "2025-12-14T08:32:39.486226+00:00"
+    },
+    {
+      "id": "586c8028b440",
+      "title": "Google brings Gemini’s Chrome integration to iPhone and iPad",
+      "summary": "Built-in Gemini AI features in Chrome are now becoming more widely available on the iOS version of Google's browser, as reported by 9to5Google and Engadget . They're popping up several months after th",
+      "url": "https://www.theverge.com/news/842987/google-gemini-chrome-ios",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T17:51:27-05:00",
+      "scrapedAt": "2025-12-14T08:32:39.485609+00:00"
+    },
+    {
+      "id": "97f43104746b",
+      "title": "Disney wants to drag you into the slop",
+      "summary": "Disney and OpenAI's new $1 billion partnership feels emblematic of the terrible times we're living through. In exchange for access to the generative AI firm's APIs and tools like ChatGPT , the studio ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T18:03:24-05:00",
+      "scrapedAt": "2025-12-14T08:32:39.485097+00:00"
+    },
+    {
+      "id": "79b1d640ba67",
+      "title": "Trump signs AI executive order pushing to ban state laws",
+      "summary": "President Donald Trump and Commerce Secretary Howard Lutnick look on as White House artificial intelligence (AI) and crypto czar David Sacks speaks. On Thursday evening, with White House AI and crypto",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-11T20:18:46-05:00",
+      "scrapedAt": "2025-12-14T08:32:39.484647+00:00"
+    },
+    {
+      "id": "a8169337c108",
+      "title": "How to vibe-write a country hit",
+      "summary": "You may not even know it, but you've almost certainly encountered songs made mostly or even entirely with AI. If you've scrolled on TikTok the last few weeks, you've probably heard \" I Run \" a few tim",
+      "url": "https://www.theverge.com/podcast/843447/ai-music-country-suno-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T09:23:18-05:00",
+      "scrapedAt": "2025-12-14T08:32:39.483442+00:00"
+    },
+    {
+      "id": "1a2f91574599",
+      "title": "I quit all my AI fitness plans, and I feel free",
+      "summary": "AI sure does use a lot of words to say very little. This is Optimizer , a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, sm",
+      "url": "https://www.theverge.com/column/843420/optimizer-fitness-ai-coaching-plans-quitting-runna-peloton-iq-fitbit-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-12T10:00:00-05:00",
+      "scrapedAt": "2025-12-14T08:32:39.482998+00:00"
+    },
+    {
+      "id": "0c5f7c04291d",
+      "title": "Why most enterprise AI coding pilots underperform (Hint: It's not the model)",
+      "summary": "Gen AI in software engineering has moved well beyond autocomplete. The emerging frontier is agentic coding : AI systems capable of planning changes, executing them across multiple steps and iterating ",
+      "url": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-13T20:00:00+00:00",
+      "scrapedAt": "2025-12-14T08:32:38.982329+00:00"
+    },
+    {
+      "id": "dd55286bf35b",
+      "title": "AI data center boom could be bad news for other infrastructure projects",
+      "summary": "Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates.",
+      "url": "https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-13T19:37:47+00:00",
+      "scrapedAt": "2025-12-14T08:32:38.752229+00:00"
+    },
     {
       "id": "d8b78e474ebe",
       "title": "Google Translate brings real-time speech translations to any headphones",
@@ -1213,206 +1413,6 @@
       "category": "product",
       "publishedAt": "2025-12-07T15:05:53+00:00",
       "scrapedAt": "2025-12-08T08:38:28.156034+00:00"
-    },
-    {
-      "id": "7b4c4a39843d",
-      "title": "What Is Generative UI?",
-      "summary": "Score: 28 points",
-      "url": "https://tambo.co/blog/posts/what-is-generative-ui",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-03T18:58:36+00:00",
-      "scrapedAt": "2025-12-07T08:31:09.581152+00:00"
-    },
-    {
-      "id": "9d7b0f685751",
-      "title": "Trains cancelled over fake bridge collapse image",
-      "summary": "Score: 155 points",
-      "url": "https://www.bbc.com/news/articles/cwygqqll9k2o",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-07T00:37:15+00:00",
-      "scrapedAt": "2025-12-07T08:31:09.481572+00:00"
-    },
-    {
-      "id": "d881ae32fdf1",
-      "title": "HTML as an Accessible Format for Papers (2023)",
-      "summary": "Score: 232 points",
-      "url": "https://info.arxiv.org/about/accessible_HTML.html",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-06T14:59:52+00:00",
-      "scrapedAt": "2025-12-07T08:31:09.316279+00:00"
-    },
-    {
-      "id": "f77c5f1224dc",
-      "title": "Using LLMs at Oxide",
-      "summary": "Score: 328 points",
-      "url": "https://rfd.shared.oxide.computer/rfd/0576",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-07T01:17:40+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.798052+00:00"
-    },
-    {
-      "id": "8f6927698b8e",
-      "title": "AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown",
-      "summary": "Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, the company’s CEO said, “Emphatically, from my perspective, no.”",
-      "url": "https://www.wired.com/story/big-interview-event-lisa-su-amd/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-04T18:51:19+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.643490+00:00"
-    },
-    {
-      "id": "b6c15d14ac0b",
-      "title": "Jon M. Chu Says AI Couldn’t Have Made One of the Best Moments in ‘Wicked’",
-      "summary": "The Wicked: For Good director says being able to improvise on set allows for the kind of moments that are hard for machines to make.",
-      "url": "https://www.wired.com/story/big-interview-event-jon-chu-wicked/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-04T20:18:26+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.643417+00:00"
-    },
-    {
-      "id": "48473140166a",
-      "title": "What Happens When Your Coworkers Are AI Agents",
-      "summary": "In this episode of Uncanny Valley, we talk to writer Evan Ratliff about how he created a small startup made entirely of AI employees—and what his findings reveal about the reality of an agentic future",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-what-happens-when-your-coworkers-are-ai-agents/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-04T21:03:59+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.643329+00:00"
-    },
-    {
-      "id": "791522bf0b79",
-      "title": "Anthropic’s Daniela Amodei Believes the Market Will Reward Safe AI",
-      "summary": "The Trump administration might think regulation is killing the AI industry, but Anthropic president Daniela Amodei disagrees.",
-      "url": "https://www.wired.com/story/big-interview-event-daniela-amodei-anthropic/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-04T21:40:38+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.643256+00:00"
-    },
-    {
-      "id": "5a3a0010b806",
-      "title": "Can AI Look at Your Retina and Diagnose Alzheimer’s? Eric Topol Hopes So",
-      "summary": "The author of Super Agers believes AI could bring big changes to the world of medicine.",
-      "url": "https://www.wired.com/story/big-interview-event-eric-topol-super-agers/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-04T23:11:21+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.643191+00:00"
-    },
-    {
-      "id": "e3e314d21127",
-      "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database",
-      "summary": "An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”",
-      "url": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T11:00:00+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.643125+00:00"
-    },
-    {
-      "id": "17b1407d05be",
-      "title": "AI Slop Is Ruining Reddit for Everyone",
-      "summary": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.",
-      "url": "https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T12:00:00+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.643052+00:00"
-    },
-    {
-      "id": "c389600fa6db",
-      "title": "Here’s What You Should Know About Launching an AI Startup",
-      "summary": "AI startups say the promise of turning dazzling models into useful products is harder than anyone expected. Three founders discuss what it takes.",
-      "url": "https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T16:00:00+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.642984+00:00"
-    },
-    {
-      "id": "2a1fdc620ff0",
-      "title": "WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions",
-      "summary": "In this episode of Uncanny Valley, we bring you the news of the week, then dive into how some DOGE operatives are still at work in the federal government—despite reports claiming otherwise.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T22:29:11+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.642912+00:00"
-    },
-    {
-      "id": "c0752470d93c",
-      "title": "This AI Model Can Intuit How the Physical World Works",
-      "summary": "The V-JEPA system uses ordinary videos to understand the physics of the real world.",
-      "url": "https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-07T00:00:00+00:00",
-      "scrapedAt": "2025-12-07T08:31:08.642826+00:00"
-    },
-    {
-      "id": "cffa77fa5c33",
-      "title": "Google’s AI model is getting really good at spoofing phone photos",
-      "summary": "These aren’t real people! | Image: Nano Banana Pro I'm starting to understand where Google's visual AI model gets its name, because after playing around with it for a couple of days, that's how I'd su",
-      "url": "https://www.theverge.com/report/837971/google-nano-banana-pro-realistic-phone-photos",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-04T13:45:00-05:00",
-      "scrapedAt": "2025-12-07T08:31:08.546700+00:00"
-    },
-    {
-      "id": "a6e6da1871b0",
-      "title": "Microsoft is quietly walking back its diversity efforts",
-      "summary": "Microsoft has been publishing data about the gender, race, and ethnic breakdown of its employees for more than a decade. Since 2019 it's been publishing a full diversity and inclusion report annually,",
-      "url": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-04T14:00:00-05:00",
-      "scrapedAt": "2025-12-07T08:31:08.545542+00:00"
-    },
-    {
-      "id": "5332cb5f4538",
-      "title": "Facebook and Instagram have a new hub to help get hijacked accounts back",
-      "summary": "The new hub centralizes account support options. Meta on Thursday announced it is launching a new, centralized support hub for Facebook and Instagram, acknowledging that getting help hasn’t always bee",
-      "url": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T06:08:43-05:00",
-      "scrapedAt": "2025-12-07T08:31:08.545056+00:00"
-    },
-    {
-      "id": "5d547ea45d41",
-      "title": "The far right is mobilizing against Trump AI czar David Sacks",
-      "summary": "Washington lawmakers had barely finished processing the news that Congress would not put a state AI law ban into the National Defense Authorization Act (NDAA) when a new rumor began trickling out of t",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/838776/maga-ai-executive-order-david-sacks",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T08:15:21-05:00",
-      "scrapedAt": "2025-12-07T08:31:08.544644+00:00"
-    },
-    {
-      "id": "afcf8b8cfd29",
-      "title": "AI ‘creators’ might just crash the influencer economy",
-      "summary": "It was only in June that Jeremy Carrasco uploaded his first videos to TikTok and Instagram. In that short time, he's amassed over 300,000 followers on each platform. No, it's not exactly Charli D'Amel",
-      "url": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-06T09:30:37-05:00",
-      "scrapedAt": "2025-12-07T08:31:08.539704+00:00"
-    },
-    {
-      "id": "f770edde0068",
-      "title": "Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds",
-      "summary": "The company is aiming to produce its first silicon wafers by 2028 and have its first commercial system online by 2029.",
-      "url": "https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-07T00:18:51+00:00",
-      "scrapedAt": "2025-12-07T08:31:07.680490+00:00"
     }
   ]
 }
