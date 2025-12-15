@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2025-12-14T08:33:34.160717+00:00",
+  "lastUpdated": "2025-12-15T08:40:54.747847+00:00",
   "articles": [
+    {
+      "id": "ec2fc1f41f46",
+      "title": "Clip-and-Verify: Linear Constraint-Driven Domain Clipping for Accelerating Neural Network Verification",
+      "summary": "arXiv:2512.11087v1 Announce Type: new Abstract: State-of-the-art neural network (NN) verifiers demonstrate that applying the branch-and-bound (BaB) procedure with fast bounding techniques plays a key ",
+      "url": "https://arxiv.org/abs/2512.11087",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.896119+00:00"
+    },
+    {
+      "id": "1ad70f2551e8",
+      "title": "Memoryless Policy Iteration for Episodic POMDPs",
+      "summary": "arXiv:2512.11082v1 Announce Type: new Abstract: Memoryless and finite-memory policies offer a practical alternative for solving partially observable Markov decision processes (POMDPs), as they operate",
+      "url": "https://arxiv.org/abs/2512.11082",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.895978+00:00"
+    },
+    {
+      "id": "c5c048bb6890",
+      "title": "MolSculpt: Sculpting 3D Molecular Geometries from Chemical Syntax",
+      "summary": "arXiv:2512.10991v1 Announce Type: new Abstract: Generating precise 3D molecular geometries is crucial for drug discovery and material science. While prior efforts leverage 1D representations like SELF",
+      "url": "https://arxiv.org/abs/2512.10991",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.895869+00:00"
+    },
+    {
+      "id": "a6ce34f973c6",
+      "title": "Agent-Based Modular Learning for Multimodal Emotion Recognition in Human-Agent Systems",
+      "summary": "arXiv:2512.10975v1 Announce Type: new Abstract: Effective human-agent interaction (HAI) relies on accurate and adaptive perception of human emotional states. While multimodal deep learning models - le",
+      "url": "https://arxiv.org/abs/2512.10975",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.895751+00:00"
+    },
+    {
+      "id": "b9e22961e3ca",
+      "title": "TECM*: A Data-Driven Assessment to Reinforcement Learning Methods and Application to Heparin Treatment Strategy for Surgical Sepsis",
+      "summary": "arXiv:2512.10973v1 Announce Type: new Abstract: Objective: Sepsis is a life-threatening condition caused by severe infection leading to acute organ dysfunction. This study proposes a data-driven metri",
+      "url": "https://arxiv.org/abs/2512.10973",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.895635+00:00"
+    },
+    {
+      "id": "5d8b44e6ce16",
+      "title": "MoB: Mixture of Bidders",
+      "summary": "arXiv:2512.10969v1 Announce Type: new Abstract: Mixture of Experts (MoE) architectures have demonstrated remarkable success in scaling neural networks, yet their application to continual learning rema",
+      "url": "https://arxiv.org/abs/2512.10969",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.895497+00:00"
+    },
+    {
+      "id": "34522f7ff149",
+      "title": "Multimodal Fusion of Regional Brain Experts for Interpretable Alzheimer's Disease Diagnosis",
+      "summary": "arXiv:2512.10966v1 Announce Type: new Abstract: Accurate and early diagnosis of Alzheimer's disease (AD) can benefit from integrating complementary information from multiple modalities, mirroring clin",
+      "url": "https://arxiv.org/abs/2512.10966",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.895318+00:00"
+    },
+    {
+      "id": "ee9753efdeb5",
+      "title": "Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering",
+      "summary": "arXiv:2512.10962v1 Announce Type: new Abstract: Computer use agents (CUAs) can operate real-world digital interfaces but remain difficult to train due to the high cost of graphical user interface (GUI",
+      "url": "https://arxiv.org/abs/2512.10962",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.895188+00:00"
+    },
+    {
+      "id": "b11c6f092f01",
+      "title": "Motif-2-12.7B-Reasoning: A Practitioner's Guide to RL Training Recipes",
+      "summary": "arXiv:2512.11463v1 Announce Type: new Abstract: We introduce Motif-2-12.7B-Reasoning, a 12.7B parameter language model designed to bridge the gap between open-weight systems and proprietary frontier m",
+      "url": "https://arxiv.org/abs/2512.11463",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.714071+00:00"
+    },
+    {
+      "id": "7e66a3f35a57",
+      "title": "Back to the Baseline: Examining Baseline Effects on Explainability Metrics",
+      "summary": "arXiv:2512.11433v1 Announce Type: new Abstract: Attribution methods are among the most prevalent techniques in Explainable Artificial Intelligence (XAI) and are usually evaluated and compared using Fi",
+      "url": "https://arxiv.org/abs/2512.11433",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.713962+00:00"
+    },
+    {
+      "id": "b9abd97a56d4",
+      "title": "AgentBalance: Backbone-then-Topology Design for Cost-Effective Multi-Agent Systems under Budget Constraints",
+      "summary": "arXiv:2512.11426v1 Announce Type: new Abstract: Large Language Model (LLM)-based multi-agent systems (MAS) are becoming indispensable building blocks for web-scale applications such as web search, soc",
+      "url": "https://arxiv.org/abs/2512.11426",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.713834+00:00"
+    },
+    {
+      "id": "ef67bed06c7b",
+      "title": "Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance",
+      "summary": "arXiv:2512.11421v1 Announce Type: new Abstract: Large Language Models demonstrate strong reasoning and generation abilities, yet their behavior in multi-turn tasks often lacks reliability and verifiab",
+      "url": "https://arxiv.org/abs/2512.11421",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.713700+00:00"
+    },
+    {
+      "id": "aa37ef6d7ae9",
+      "title": "CAPTURE: A Benchmark and Evaluation for LVLMs in CAPTCHA Resolving",
+      "summary": "arXiv:2512.11323v1 Announce Type: new Abstract: Benefiting from strong and efficient multi-modal alignment strategies, Large Visual Language Models (LVLMs) are able to simulate human visual and reason",
+      "url": "https://arxiv.org/abs/2512.11323",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.713601+00:00"
+    },
+    {
+      "id": "57edc9f0c97a",
+      "title": "TriFlow: A Progressive Multi-Agent Framework for Intelligent Trip Planning",
+      "summary": "arXiv:2512.11271v1 Announce Type: new Abstract: Real-world trip planning requires transforming open-ended user requests into executable itineraries under strict spatial, temporal, and budgetary constr",
+      "url": "https://arxiv.org/abs/2512.11271",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.713486+00:00"
+    },
+    {
+      "id": "dd7d770141ab",
+      "title": "A-LAMP: Agentic LLM-Based Framework for Automated MDP Modeling and Policy Generation",
+      "summary": "arXiv:2512.11270v1 Announce Type: new Abstract: Applying reinforcement learning (RL) to real-world tasks requires converting informal descriptions into a formal Markov decision process (MDP), implemen",
+      "url": "https://arxiv.org/abs/2512.11270",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.713357+00:00"
+    },
+    {
+      "id": "27dcbad5498d",
+      "title": "FutureWeaver: Planning Test-Time Compute for Multi-Agent Systems with Modularized Collaboration",
+      "summary": "arXiv:2512.11213v1 Announce Type: new Abstract: Scaling test-time computation improves large language model performance without additional training. Recent work demonstrates that techniques such as re",
+      "url": "https://arxiv.org/abs/2512.11213",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.713240+00:00"
+    },
+    {
+      "id": "2973a1e5a03e",
+      "title": "Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time Freight Bundling",
+      "summary": "arXiv:2512.11187v1 Announce Type: new Abstract: Online Freight Exchange Systems (OFEX) play a crucial role in modern freight logistics by facilitating real-time matching between shippers and carrier. ",
+      "url": "https://arxiv.org/abs/2512.11187",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.713110+00:00"
+    },
+    {
+      "id": "19cfe7854ed5",
+      "title": "CORL: Reinforcement Learning of MILP Policies Solved via Branch and Bound",
+      "summary": "arXiv:2512.11169v1 Announce Type: new Abstract: Combinatorial sequential decision making problems are typically modeled as mixed integer linear programs (MILPs) and solved via branch and bound (B&B) a",
+      "url": "https://arxiv.org/abs/2512.11169",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-15T00:00:00-05:00",
+      "scrapedAt": "2025-12-15T08:39:59.712944+00:00"
+    },
+    {
+      "id": "4021cbcd8bea",
+      "title": "Build vs buy is dead — AI just killed it",
+      "summary": "Picture this: You're sitting in a conference room, halfway through a vendor pitch. The demo looks solid, and pricing fits nicely under budget. The timeline seems reasonable too. Everyone’s nodding alo",
+      "url": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-14T19:00:00+00:00",
+      "scrapedAt": "2025-12-15T08:39:59.521150+00:00"
+    },
+    {
+      "id": "fcf93a4ac933",
+      "title": "Grok got crucial facts wrong about Bondi Beach shooting",
+      "summary": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia.",
+      "url": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-14T23:17:47+00:00",
+      "scrapedAt": "2025-12-15T08:39:59.256310+00:00"
+    },
     {
       "id": "e43dc341cde0",
       "title": "OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy",
@@ -1213,206 +1413,6 @@
       "category": "product",
       "publishedAt": "2025-12-08T16:30:00+00:00",
       "scrapedAt": "2025-12-09T08:37:54.915429+00:00"
-    },
-    {
-      "id": "b630f84985c7",
-      "title": "Bridging quantum and classical computing for partial differential equations through multifidelity machine learning",
-      "summary": "arXiv:2512.05241v1 Announce Type: new Abstract: Quantum algorithms for partial differential equations (PDEs) face severe practical constraints on near-term hardware: limited qubit counts restrict spat",
-      "url": "https://arxiv.org/abs/2512.05241",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.866362+00:00"
-    },
-    {
-      "id": "fea13f2597f2",
-      "title": "Edged Weisfeiler-Lehman Algorithm",
-      "summary": "arXiv:2512.05238v1 Announce Type: new Abstract: As a classical approach on graph learning, the propagation-aggregation methodology is widely exploited by many of Graph Neural Networks (GNNs), wherein ",
-      "url": "https://arxiv.org/abs/2512.05238",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.866241+00:00"
-    },
-    {
-      "id": "ad7be587ae19",
-      "title": "MAR-FL: A Communication Efficient Peer-to-Peer Federated Learning System",
-      "summary": "arXiv:2512.05234v1 Announce Type: new Abstract: The convergence of next-generation wireless systems and distributed Machine Learning (ML) demands Federated Learning (FL) methods that remain efficient ",
-      "url": "https://arxiv.org/abs/2512.05234",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.866128+00:00"
-    },
-    {
-      "id": "7289fd8376e2",
-      "title": "Variance Matters: Improving Domain Adaptation via Stratified Sampling",
-      "summary": "arXiv:2512.05226v1 Announce Type: new Abstract: Domain shift remains a key challenge in deploying machine learning models to the real world. Unsupervised domain adaptation (UDA) aims to address this b",
-      "url": "https://arxiv.org/abs/2512.05226",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.866029+00:00"
-    },
-    {
-      "id": "12dfc59a6eae",
-      "title": "Mitigating the Antigenic Data Bottleneck: Semi-supervised Learning with Protein Language Models for Influenza A Surveillance",
-      "summary": "arXiv:2512.05222v1 Announce Type: new Abstract: Influenza A viruses (IAVs) evolve antigenically at a pace that requires frequent vaccine updates, yet the haemagglutination inhibition (HI) assays used ",
-      "url": "https://arxiv.org/abs/2512.05222",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.865924+00:00"
-    },
-    {
-      "id": "6ccf7f6da8b0",
-      "title": "Rethinking Tokenization for Clinical Time Series: When Less is More",
-      "summary": "arXiv:2512.05217v1 Announce Type: new Abstract: Tokenization strategies shape how models process electronic health records, yet fair comparisons of their effectiveness remain limited. We present a sys",
-      "url": "https://arxiv.org/abs/2512.05217",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.865795+00:00"
-    },
-    {
-      "id": "77acab3dee02",
-      "title": "Coefficient of Variation Masking: A Volatility-Aware Strategy for EHR Foundation Models",
-      "summary": "arXiv:2512.05216v1 Announce Type: new Abstract: Masked autoencoders (MAEs) are increasingly applied to electronic health records (EHR) for learning general-purpose representations that support diverse",
-      "url": "https://arxiv.org/abs/2512.05216",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.865677+00:00"
-    },
-    {
-      "id": "6661840ebc95",
-      "title": "Advanced Unsupervised Learning: A Comprehensive Overview of Multi-View Clustering Techniques",
-      "summary": "arXiv:2512.05169v1 Announce Type: new Abstract: Machine learning techniques face numerous challenges to achieve optimal performance. These include computational constraints, the limitations of single-",
-      "url": "https://arxiv.org/abs/2512.05169",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.865535+00:00"
-    },
-    {
-      "id": "ec028e06b611",
-      "title": "The Seeds of Scheming: Weakness of Will in the Building Blocks of Agentic Systems",
-      "summary": "arXiv:2512.05449v1 Announce Type: new Abstract: Large language models display a peculiar form of inconsistency: they \"know\" the correct answer but fail to act on it. In human philosophy, this tension ",
-      "url": "https://arxiv.org/abs/2512.05449",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.672461+00:00"
-    },
-    {
-      "id": "a9c4e3a67918",
-      "title": "BEAVER: An Efficient Deterministic LLM Verifier",
-      "summary": "arXiv:2512.05439v1 Announce Type: new Abstract: As large language models (LLMs) transition from research prototypes to production systems, practitioners often need reliable methods to verify that mode",
-      "url": "https://arxiv.org/abs/2512.05439",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.672351+00:00"
-    },
-    {
-      "id": "477102aeee73",
-      "title": "ChipMind: Retrieval-Augmented Reasoning for Long-Context Circuit Design Specifications",
-      "summary": "arXiv:2512.05371v1 Announce Type: new Abstract: While Large Language Models (LLMs) demonstrate immense potential for automating integrated circuit (IC) development, their practical deployment is funda",
-      "url": "https://arxiv.org/abs/2512.05371",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.672248+00:00"
-    },
-    {
-      "id": "48b97e6c3b89",
-      "title": "MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare",
-      "summary": "arXiv:2512.05365v1 Announce Type: new Abstract: Healthcare AI systems have historically faced challenges in merging contextual reasoning, long-term state management, and human-verifiable workflows int",
-      "url": "https://arxiv.org/abs/2512.05365",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.672138+00:00"
-    },
-    {
-      "id": "ae548909e91f",
-      "title": "AI & Human Co-Improvement for Safer Co-Superintelligence",
-      "summary": "arXiv:2512.05356v1 Announce Type: new Abstract: Self-improvement is a goal currently exciting the field of AI, but is fraught with danger, and may take time to fully achieve. We advocate that a more a",
-      "url": "https://arxiv.org/abs/2512.05356",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.672002+00:00"
-    },
-    {
-      "id": "94580f2ac197",
-      "title": "Resolving Zadehs Paradox Axiomatic Possibility Theory as a Foundation for Reliable Artificial Intelligence",
-      "summary": "arXiv:2512.05257v1 Announce Type: new Abstract: This work advances and substantiates the thesis that the resolution of this crisis lies in the domain of possibility theory, specifically in the axiomat",
-      "url": "https://arxiv.org/abs/2512.05257",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.671911+00:00"
-    },
-    {
-      "id": "9d0df6e3c8ed",
-      "title": "On the Computability of Artificial General Intelligence",
-      "summary": "arXiv:2512.05212v1 Announce Type: new Abstract: In recent years we observed rapid and significant advancements in artificial intelligence (A.I.). So much so that many wonder how close humanity is to d",
-      "url": "https://arxiv.org/abs/2512.05212",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.671807+00:00"
-    },
-    {
-      "id": "2bd464f7a48a",
-      "title": "Bridging Traditional Machine Learning and Large Language Models: A Two-Part Course Design for Modern AI Education",
-      "summary": "arXiv:2512.05167v1 Announce Type: new Abstract: This paper presents an innovative pedagogical approach for teaching artificial intelligence and data science that systematically bridges traditional mac",
-      "url": "https://arxiv.org/abs/2512.05167",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.671675+00:00"
-    },
-    {
-      "id": "0559c27ec534",
-      "title": "Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons and Manage Hallucinations",
-      "summary": "arXiv:2512.05156v1 Announce Type: new Abstract: Evaluating faithfulness of Large Language Models (LLMs) to a given task is a complex challenge. We propose two new unsupervised metrics for faithfulness",
-      "url": "https://arxiv.org/abs/2512.05156",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.671549+00:00"
-    },
-    {
-      "id": "8262763c1a53",
-      "title": "Documenting SME Processes with Conversational AI: From Tacit Knowledge to BPMN",
-      "summary": "arXiv:2512.05122v1 Announce Type: new Abstract: Small and medium-sized enterprises (SMEs) still depend heavily on tacit, experience-based know-how that rarely makes its way into formal documentation. ",
-      "url": "https://arxiv.org/abs/2512.05122",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00-05:00",
-      "scrapedAt": "2025-12-08T08:38:28.671412+00:00"
-    },
-    {
-      "id": "d8797e99306e",
-      "title": "Why AI coding agents aren’t production-ready: Brittle context windows, broken refactors, missing operational awareness",
-      "summary": "Remember this Quora comment (which also became a meme)? (Source: Quora ) In the pre-large language model (LLM) Stack Overflow era, the challenge was discerning which code snippets to adopt and adapt e",
-      "url": "https://venturebeat.com/ai/why-ai-coding-agents-arent-production-ready-brittle-context-windows-broken",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-07T05:00:00+00:00",
-      "scrapedAt": "2025-12-08T08:38:28.400918+00:00"
-    },
-    {
-      "id": "2c46a7f3fb48",
-      "title": "OpenAI says it’s turned off app suggestions that look like ads",
-      "summary": "While OpenAI continues to insist that there are currently no ads — or tests for advertising — live in ChatGPT, the company’s chief research officer also acknowledged that the company “fell short” with",
-      "url": "https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-07T15:05:53+00:00",
-      "scrapedAt": "2025-12-08T08:38:28.156034+00:00"
     }
   ]
 }
