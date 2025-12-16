@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2025-12-15T08:40:54.747847+00:00",
+  "lastUpdated": "2025-12-16T08:39:07.907656+00:00",
   "articles": [
+    {
+      "id": "976c72ccd6ed",
+      "title": "First Voyage raises $2.5M for its AI companion that helps you build habits",
+      "summary": "First Voyage has raised $2.5 million in a seed funding round from a16z speedrun, SignalFire, True Global, and other investors.",
+      "url": "https://techcrunch.com/2025/12/15/first-voyage-raises-2-5m-for-its-ai-companion-helps-you-build-habits/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T14:48:24+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.809847+00:00"
+    },
+    {
+      "id": "17366510aab3",
+      "title": "Merriam-Webster names ‘slop’ the word of the year",
+      "summary": "AI-generated content has dominated the internet over the past year, and America's dictionary took note.",
+      "url": "https://techcrunch.com/2025/12/15/merriam-webster-names-slop-the-word-of-the-year/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T19:47:53+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.809778+00:00"
+    },
+    {
+      "id": "13160dc8236a",
+      "title": "Lightspeed raises record $9B in fresh capital",
+      "summary": "The massive fund haul will allow the Silicon Valley firm to continue to invest in cash-hungry AI startups.",
+      "url": "https://techcrunch.com/2025/12/15/lightspeed-raises-record-9b-in-fresh-capital/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T20:32:33+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.809705+00:00"
+    },
+    {
+      "id": "da2c1e173aa1",
+      "title": "Creative Commons announces tentative support for AI ‘pay-to-crawl’ systems",
+      "summary": "The organization offered support for this idea of an AI marketplace, and suggested several guiding principles.",
+      "url": "https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T20:54:54+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.809638+00:00"
+    },
+    {
+      "id": "c7b5ddbffa5c",
+      "title": "Nvidia bulks up open source offerings with an acquisition and new open AI models",
+      "summary": "Nvidia acquired SchedMD, the lead developer of Slurm, and launched the Nemotron 3 family of open source AI models.",
+      "url": "https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T22:00:57+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.809569+00:00"
+    },
+    {
+      "id": "40cf56b7046b",
+      "title": "Disney’s OpenAI deal is exclusive for just one year — then it’s open season",
+      "summary": "After the one year is up, Disney is free to sign similar deals with other AI companies.",
+      "url": "https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T22:17:36+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.809477+00:00"
+    },
+    {
+      "id": "86dbc4a9f84a",
+      "title": "OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation",
+      "summary": "Chai is building foundation models for drug discovery, specifically to predict interactions between molecules so they could be reprogramed for cures.",
+      "url": "https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T23:41:26+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.809395+00:00"
+    },
+    {
+      "id": "ab18e46b6c50",
+      "title": "VCs discuss why most consumer AI startups still lack staying power",
+      "summary": "The next consumer tech revolution may require an introduction of a new personal device.",
+      "url": "https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-16T00:22:07+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.809301+00:00"
+    },
+    {
+      "id": "d8d6c8ed70ec",
+      "title": "Transforming Nordic classrooms through responsible AI partnerships",
+      "summary": "Schools across Northern Europe are safely and responsibly integrating Google and Gemini for Education tools in the classroom, saving teachers and administrations signifi…",
+      "url": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-08T10:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.085516+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20250828_100318_7978_websize.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "d5278124ee03",
+      "title": "How we’re supporting the next generation of innovators",
+      "summary": "An overview of Google’s latest funding announcement for computer science education and the newest AI Quest.",
+      "url": "https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-08T18:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.085399+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIquests_Social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "8752663be10c",
+      "title": "We’re publishing an AI playbook to help others with sustainability reporting.",
+      "summary": "We’re publishing an AI playbook to help others with sustainability reporting.",
+      "url": "https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-15T17:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:10.084726+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-2025-AI-Playbook-for-Sus.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "134c1860cd14",
+      "title": "The State of AI: A vision of the world in 2030",
+      "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review . Every Monday, writers from both publications debate one aspect of the generative AI revolut",
+      "url": "https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-08T16:30:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:09.873880+00:00"
+    },
+    {
+      "id": "c64f4b58c8c0",
+      "title": "AI materials discovery now needs to move into the real world",
+      "summary": "The microwave-size instrument at Lila Sciences in Cambridge, Massachusetts, doesn’t look all that different from others that I’ve seen in state-of-the-art materials labs. Inside its vacuum chamber, th",
+      "url": "https://www.technologyreview.com/2025/12/15/1129210/ai-materials-science-discovery-startups-investment/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T10:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:09.871215+00:00"
+    },
+    {
+      "id": "b8197e2a1084",
+      "title": "What even is the AI bubble?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . In July, a widely ci",
+      "url": "https://www.technologyreview.com/2025/12/15/1129183/what-even-is-the-ai-bubble/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T10:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:09.866435+00:00"
+    },
+    {
+      "id": "622c7c0b01a4",
+      "title": "AI might not be coming for lawyers’ jobs anytime soon",
+      "summary": "When the generative AI boom took off in 2022, Rudi Miller and her law school classmates were suddenly gripped with anxiety. “Before graduating, there was discussion about what the job market would loo",
+      "url": "https://www.technologyreview.com/2025/12/15/1129181/ai-might-not-be-coming-for-lawyers-jobs-anytime-soon/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T10:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:09.863755+00:00"
+    },
+    {
+      "id": "0c78069d767f",
+      "title": "Generative AI hype distracts us from AI’s more important breakthroughs",
+      "summary": "On April 28, 2022, at a highly anticipated concert in Spokane, Washington, the musician Paul McCartney astonished his audience with a groundbreaking application of AI: He began to perform with a lifel",
+      "url": "https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T10:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:09.861459+00:00"
+    },
+    {
+      "id": "fa144fedb153",
+      "title": "The great AI hype correction of 2025",
+      "summary": "Some disillusionment was inevitable. When OpenAI released a free web app called ChatGPT in late 2022, it changed the course of an entire industry—and several world economies. Millions of people starte",
+      "url": "https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T10:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:09.859370+00:00"
+    },
+    {
+      "id": "585a5937b1b7",
+      "title": "The AI doomers feel undeterred",
+      "summary": "It’s a weird time to be an AI doomer. This small but influential community of researchers, scientists, and policy experts believes, in the simplest terms, that AI could get so good it could be bad—ver",
+      "url": "https://www.technologyreview.com/2025/12/15/1129171/the-ai-doomers-feel-undeterred/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T10:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:09.855816+00:00"
+    },
+    {
+      "id": "502a12f0c237",
+      "title": "A brief history of Sam Altman’s hype",
+      "summary": "Each time you’ve heard a borderline outlandish idea of what AI will be capable of, it often turns out that Sam Altman was, if not the first to articulate it, at least the most persuasive and influenti",
+      "url": "https://www.technologyreview.com/2025/12/15/1129169/a-brief-history-of-sam-altmans-hype/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T10:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:09.848469+00:00"
+    },
+    {
+      "id": "9124bb9d461d",
+      "title": "The fast and the future-focused are revolutionizing motorsport",
+      "summary": "When the ABB FIA Formula E World Championship launched its first race through Beijing’s Olympic Park in 2014, the idea of all-electric motorsport still bordered on experimental. Batteries couldn’t yet",
+      "url": "https://www.technologyreview.com/2025/12/15/1127432/the-fast-and-the-future-focused-are-revolutionizing-motorsport/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T15:00:00+00:00",
+      "scrapedAt": "2025-12-16T08:38:09.847618+00:00"
+    },
     {
       "id": "ec2fc1f41f46",
       "title": "Clip-and-Verify: Linear Constraint-Driven Domain Clipping for Accelerating Neural Network Verification",
@@ -1210,209 +1413,6 @@
       "publishedAt": "2025-12-09T17:00:00+00:00",
       "scrapedAt": "2025-12-10T08:36:28.870414+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "bcf5ea6114dd",
-      "title": "OpenAI boasts enterprise win days after internal ‘code red’ on Google threat",
-      "summary": "ChatGPT Enterprise usage grew 8x year-over-year as workers report saving an hour daily, but OpenAI faces competitive pressure from Anthropic and questions about cost sustainability.",
-      "url": "https://techcrunch.com/2025/12/08/openai-boasts-enterprise-win-days-after-internal-code-red-on-google-threat/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-08T12:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.729863+00:00"
-    },
-    {
-      "id": "48978c409047",
-      "title": "Hinge’s new AI feature helps daters move beyond boring small talk",
-      "summary": "Hinge launched “Convo Starters,” a feature powered by AI that provides personalized tips for initiating meaningful conversations.",
-      "url": "https://techcrunch.com/2025/12/08/hinges-new-ai-feature-helps-daters-start-better-convos-moving-beyond-boring-small-talk/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-08T13:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.729789+00:00"
-    },
-    {
-      "id": "cd1f93b69500",
-      "title": "‘ONE RULE’: Trump says he’ll sign an executive order blocking state AI laws despite bipartisan pushback",
-      "summary": "“I will be doing a ONE RULE Executive Order this week,” Trump posted on social media. “You can’t expect a company to get 50 Approvals every time they want to do something.”",
-      "url": "https://techcrunch.com/2025/12/08/one-rule-trump-says-hell-sign-an-executive-order-blocking-state-ai-laws-despite-bipartisan-pushback/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-08T16:07:39+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.729717+00:00"
-    },
-    {
-      "id": "46813c8ffa6d",
-      "title": "You can buy your Instacart groceries without leaving ChatGPT",
-      "summary": "Shoppers will be able to go from recipe planning to checkout within the ChatGPT window.",
-      "url": "https://techcrunch.com/2025/12/08/you-can-buy-your-instacart-groceries-without-leaving-chatgpt/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-08T17:59:53+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.729639+00:00"
-    },
-    {
-      "id": "0f883c8738b5",
-      "title": "Google details security measures for Chrome’s agentic features",
-      "summary": "Google details how it is enacting security guardrails before rolling out agentic capabilities on Chrome.",
-      "url": "https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-08T18:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.729572+00:00"
-    },
-    {
-      "id": "94df6582ac47",
-      "title": "Claude Code is coming to Slack, and that’s a bigger deal than it sounds",
-      "summary": "Anthropic launches Claude Code in Slack, letting developers delegate coding tasks from chat threads. It's part of a shift toward AI-embedded collaboration that could reshape software workflows.",
-      "url": "https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-08T19:18:05+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.729504+00:00"
-    },
-    {
-      "id": "c828043cb49e",
-      "title": "Google’s AI try-on app Doppl adds a shoppable discovery feed",
-      "summary": "The tech giant says the idea behind the new feed is to display recommendations so users can discover and virtually try on items. Nearly everything in the feed is shoppable, with direct links to mercha",
-      "url": "https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-08T21:29:03+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.729429+00:00"
-    },
-    {
-      "id": "502c47d37859",
-      "title": "Department of Commerce approves Nvidia H200 chip exports to China",
-      "summary": "This news comes as a bill was introduced in Congress last week to prevent these exact kinds of chip exports.",
-      "url": "https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-08T21:40:46+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.729344+00:00"
-    },
-    {
-      "id": "b05b6b5b8431",
-      "title": "How Virgin Atlantic uses AI to enhance every step of travel",
-      "summary": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
-      "url": "https://openai.com/index/virgin-atlantic-oliver-byers",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-08T00:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.582121+00:00"
-    },
-    {
-      "id": "1280c07f89c6",
-      "title": "The state of enterprise AI",
-      "summary": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
-      "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-08T04:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.582029+00:00"
-    },
-    {
-      "id": "16cae229126a",
-      "title": "Instacart and OpenAI partner on AI shopping experiences",
-      "summary": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
-      "url": "https://openai.com/index/instacart-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-08T06:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.581946+00:00"
-    },
-    {
-      "id": "4177e56511df",
-      "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
-      "summary": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche",
-      "url": "https://openai.com/index/deutsche-telekom-collaboration",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-09T00:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.581862+00:00"
-    },
-    {
-      "id": "d88316553181",
-      "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
-      "summary": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
-      "url": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-01T20:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.120755+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "d8d6c8ed70ec",
-      "title": "Transforming Nordic classrooms through responsible AI partnerships",
-      "summary": "Schools across Northern Europe are safely and responsibly integrating Google and Gemini for Education tools in the classroom, saving teachers and administrations signifi…",
-      "url": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-08T10:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.120286+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20250828_100318_7978_websize.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "d5278124ee03",
-      "title": "How we’re supporting the next generation of innovators",
-      "summary": "An overview of Google’s latest funding announcement for computer science education and the newest AI Quest.",
-      "url": "https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-08T18:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:55.120171+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIquests_Social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "cdf34d8c5ef2",
-      "title": "The State of AI: Chatbot companions and the future of our privacy",
-      "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review . Every Monday, writers from both publications debate one aspect of the generative AI revolut",
-      "url": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-11-24T16:30:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:54.929775+00:00"
-    },
-    {
-      "id": "6c268cea9630",
-      "title": "The AI Hype Index: The people can’t get enough of AI slop",
-      "summary": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. ",
-      "url": "https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-11-26T10:00:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:54.927002+00:00"
-    },
-    {
-      "id": "d32b886a6278",
-      "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
-      "summary": "A US telecom company trained an AI model on years of inmates’ phone and video calls and is now piloting that model to scan their calls, texts, and emails in the hope of predicting and preventing crime",
-      "url": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-01T10:30:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:54.926658+00:00"
-    },
-    {
-      "id": "7fa18506eb85",
-      "title": "The State of AI: Welcome to the economic singularity",
-      "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review . Every Monday for the next two weeks, writers from both publications will debate one aspect ",
-      "url": "https://www.technologyreview.com/2025/12/01/1127872/the-state-of-ai-welcome-to-the-economic-singularity/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-01T16:30:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:54.925133+00:00"
-    },
-    {
-      "id": "134c1860cd14",
-      "title": "The State of AI: A vision of the world in 2030",
-      "summary": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review . Every Monday, writers from both publications debate one aspect of the generative AI revolut",
-      "url": "https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-08T16:30:00+00:00",
-      "scrapedAt": "2025-12-09T08:37:54.915429+00:00"
     }
   ]
 }
