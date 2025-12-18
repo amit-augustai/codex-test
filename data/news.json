@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2025-12-17T08:38:57.211162+00:00",
+  "lastUpdated": "2025-12-18T08:38:15.373600+00:00",
   "articles": [
+    {
+      "id": "48dba0bb0b45",
+      "title": "AgroAskAI: A Multi-Agentic AI Framework for Supporting Smallholder Farmers' Enquiries Globally",
+      "summary": "arXiv:2512.14910v1 Announce Type: new Abstract: Agricultural regions in rural areas face damage from climate-related risks, including droughts, heavy rainfall, and shifting weather patterns. Prior res",
+      "url": "https://arxiv.org/abs/2512.14910",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-18T00:00:00-05:00",
+      "scrapedAt": "2025-12-18T08:37:19.477909+00:00"
+    },
+    {
+      "id": "2df17df0cf2b",
+      "title": "IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection",
+      "summary": "arXiv:2512.14792v1 Announce Type: new Abstract: Large Language Models (LLMs) currently exhibit low success rates in generating correct and intent-aligned Infrastructure as Code (IaC). This research in",
+      "url": "https://arxiv.org/abs/2512.14792",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-18T00:00:00-05:00",
+      "scrapedAt": "2025-12-18T08:37:19.477745+00:00"
+    },
+    {
+      "id": "6d9582c8f183",
+      "title": "GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge",
+      "summary": "arXiv:2512.14766v1 Announce Type: new Abstract: Large language models (LLMs) achieve strong results on knowledge graph question answering (KGQA), but most benchmarks assume complete knowledge graphs (",
+      "url": "https://arxiv.org/abs/2512.14766",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-18T00:00:00-05:00",
+      "scrapedAt": "2025-12-18T08:37:19.477629+00:00"
+    },
+    {
+      "id": "e153eacd3b93",
+      "title": "Attention as Binding: A Vector-Symbolic Perspective on Transformer Reasoning",
+      "summary": "arXiv:2512.14709v1 Announce Type: new Abstract: Transformer-based language models display impressive reasoning-like behavior, yet remain brittle on tasks that require stable symbolic manipulation. Thi",
+      "url": "https://arxiv.org/abs/2512.14709",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-18T00:00:00-05:00",
+      "scrapedAt": "2025-12-18T08:37:19.477490+00:00"
+    },
+    {
+      "id": "bb54b255ce05",
+      "title": "Why agentic AI needs a new category of customer data",
+      "summary": "Presented by Twilio The customer data infrastructure powering most enterprises was architected for a world that no longer exists: one where marketing interactions could be captured and processed in ba",
+      "url": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T05:00:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:19.232859+00:00"
+    },
+    {
+      "id": "32f695f56085",
+      "title": "Bolmo’s architecture unlocks efficient byte‑level LM training without sacrificing quality",
+      "summary": "Enterprises that want tokenizer-free multilingual models are increasingly turning to byte-level language models to reduce brittleness in noisy or low-resource text. To tap into that niche — and make i",
+      "url": "https://venturebeat.com/orchestration/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T05:00:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:19.231004+00:00"
+    },
+    {
+      "id": "95232da20d61",
+      "title": "Tokenization takes the lead in the fight for data security",
+      "summary": "Presented by Capital One Software Tokenization is emerging as a cornerstone of modern data security, helping businesses separate the value of their data from its risk. During this VB in Conversation ,",
+      "url": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T15:00:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:19.229937+00:00"
+    },
+    {
+      "id": "886f338edd10",
+      "title": "AI is moving to the edge – and network security needs to catch up",
+      "summary": "Presented by T-Mobile for Business Small and mid-sized businesses are adopting AI at a pace that would have seemed unrealistic even a few years ago. Smart assistants that greet customers, predictive t",
+      "url": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-17T08:00:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:19.226300+00:00"
+    },
+    {
+      "id": "2dc062950ec8",
+      "title": "Gemini 3 Flash arrives with reduced costs and latency — a powerful combo for enterprises",
+      "summary": "Enterprises can now harness the power of a large language model that's near that of the state-of-the-art Google’s Gemini 3 Pro , but at a fraction of the cost and with increased speed, thanks to the n",
+      "url": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-17T19:24:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:19.224707+00:00"
+    },
+    {
+      "id": "638acc282a1a",
+      "title": "Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular",
+      "summary": "Amazon is in early discussions to invest as much as $10 billion in OpenAI in a deal that would see the AI lab using the e-commerce giant's AI chips.",
+      "url": "https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-17T12:03:36+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.998448+00:00"
+    },
+    {
+      "id": "c067d1a52ee0",
+      "title": "Skana Robotics helps fleets of underwater robots communicate with each other",
+      "summary": "Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.",
+      "url": "https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-17T14:05:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.998375+00:00"
+    },
+    {
+      "id": "39b950edc439",
+      "title": "Google’s vibe-coding tool Opal comes to Gemini",
+      "summary": "The company on Wednesday said it is integrating the tool, which lets you build AI-powered mini apps, inside the Gemini web app, allowing users to create their own custom apps.",
+      "url": "https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-17T15:16:42+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.998308+00:00"
+    },
+    {
+      "id": "070068830520",
+      "title": "Mozilla’s new CEO says AI is coming to Firefox, but will remain a choice",
+      "summary": "Mozilla has appointed Anthony Enzor-DeMeo as its CEO as the Firefox developer scrambles to adapt in a rapidly changing browser market.",
+      "url": "https://techcrunch.com/2025/12/17/mozillas-new-ceo-says-ai-is-coming-to-firefox-but-will-remain-a-choice/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-17T15:17:52+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.998234+00:00"
+    },
+    {
+      "id": "1714fc96b5ce",
+      "title": "Google launches Gemini 3 Flash, makes it the default model in the Gemini app",
+      "summary": "Google is making Gemini 3 Flash the default model in the Gemini app and oAI model for Search",
+      "url": "https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-17T16:00:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.998161+00:00"
+    },
+    {
+      "id": "e39f72baee72",
+      "title": "Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org",
+      "summary": "DeSantis has spent 27 years at Amazon, including eight years as an SVP for AWS, the cloud provider that powers about one-third of the internet.",
+      "url": "https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-17T18:06:29+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.998080+00:00"
+    },
+    {
+      "id": "6f69face387b",
+      "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
+      "summary": "The lawsuit is just the latest in a string of copyright-related legal complaints aimed at the AI industry.",
+      "url": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-18T00:44:55+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.997990+00:00"
+    },
+    {
+      "id": "e243be208b10",
+      "title": "Developers can now submit apps to ChatGPT",
+      "summary": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help de",
+      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-17T00:00:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.924685+00:00"
+    },
+    {
+      "id": "a32667d0ddfb",
+      "title": "Introducing OpenAI Academy for News Organizations",
+      "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy",
+      "url": "https://openai.com/index/openai-academy-for-news-organizations",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-17T06:00:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.924595+00:00"
+    },
+    {
+      "id": "70904be0e49a",
+      "title": "These developers are changing lives with Gemma 3n",
+      "summary": "From enhancing assistive technology to addressing the digital divide, developers built mobile-first solutions to address real-world problems in the Gemma 3n Impact Chall…",
+      "url": "https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-10T17:15:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.433113+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "006948276717",
+      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+      "url": "https://blog.google/products/gemini/gemini-3-flash/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-17T16:00:00+00:00",
+      "scrapedAt": "2025-12-18T08:37:18.432644+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_flash_model_blog_heade.max-600x600.format-webp.webp"
+    },
     {
       "id": "2c0405c91e1c",
       "title": "Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs",
@@ -1210,209 +1412,6 @@
       "category": "product",
       "publishedAt": "2025-12-04T19:54:57+00:00",
       "scrapedAt": "2025-12-12T08:37:15.758683+00:00"
-    },
-    {
-      "id": "e209ee923f87",
-      "title": "How Google’s TPUs are reshaping the economics of large-scale AI",
-      "summary": "For more than a decade, Nvidia’s GPUs have underpinned nearly every major advance in modern AI. That position is now being challenged. Frontier models such as Google’s Gemini 3 and Anthropic’s Claude ",
-      "url": "https://venturebeat.com/ai/how-googles-tpus-are-reshaping-the-economics-of-large-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T08:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.478294+00:00"
-    },
-    {
-      "id": "2f32e8600945",
-      "title": "Quilter's AI just designed an 843‑part Linux computer that booted on the first try. Hardware will never be the same.",
-      "summary": "A Los Angeles-based startup has demonstrated what it calls a breakthrough in hardware development: an artificial intelligence system that designed a fully functional Linux computer in one week — a pro",
-      "url": "https://venturebeat.com/ai/quilters-ai-just-designed-an-843-part-linux-computer-that-booted-on-the",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T14:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.476636+00:00"
-    },
-    {
-      "id": "fde3e431decc",
-      "title": "How Hud's runtime sensor cut triage time from 3 hours to 10 minutes",
-      "summary": "Engineering teams are generating more code with AI agents than ever before. But they're hitting a wall when that code reaches production. The problem isn't necessarily the AI-generated code itself. It",
-      "url": "https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T14:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.473374+00:00"
-    },
-    {
-      "id": "ee52472d00cb",
-      "title": "OpenAI report reveals a 6x productivity gap between AI power users and everyone else",
-      "summary": "The tools are available to everyone. The subscription is company-wide. The training sessions have been held. And yet, in offices from Wall Street to Silicon Valley, a stark divide is opening between w",
-      "url": "https://venturebeat.com/ai/openai-report-reveals-a-6x-productivity-gap-between-ai-power-users-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T14:30:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.471225+00:00"
-    },
-    {
-      "id": "0679e6cf6690",
-      "title": "The 70% factuality ceiling: why Google’s new ‘FACTS’ benchmark is a wake-up call for enterprise AI",
-      "summary": "There's no shortage of generative AI benchmarks designed to measure the performance and accuracy of a given model on completing various helpful enterprise tasks — from coding to instruction following ",
-      "url": "https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T23:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.467625+00:00"
-    },
-    {
-      "id": "21e7b77d90e0",
-      "title": "Figma launches new AI-powered object removal and image extension",
-      "summary": "Figma is launching a new image editing toolbar to bring all its features in one place.",
-      "url": "https://techcrunch.com/2025/12/10/figma-launches-new-ai-powered-object-removal-and-image-extension/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T14:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.337964+00:00"
-    },
-    {
-      "id": "8a106be7d83c",
-      "title": "AI startup Tavus founder says users talk to its AI Santa ‘for hours’ per day",
-      "summary": "Tavus has launched a new experience where you can chat with an AI Santa that asks personal questions and remembers your interests.",
-      "url": "https://techcrunch.com/2025/12/10/ai-startup-tavus-founder-says-users-talk-to-its-ai-santa-for-hours-per-day/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T14:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.337899+00:00"
-    },
-    {
-      "id": "2181f7403691",
-      "title": "Google launches managed MCP servers that let AI agents simply plug into its tools",
-      "summary": "Google is rolling out managed MCP servers to make its services “agent-ready by design,” starting with Maps and BigQuery, aiming to simplify messy integrations and help AI agents use real tools.",
-      "url": "https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T15:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.337829+00:00"
-    },
-    {
-      "id": "f55ea072406d",
-      "title": "ChatGPT is Apple’s most downloaded app of 2025 in the US",
-      "summary": "This is ChatGPT's first year as the No. 1 app on the U.S. App Store by downloads.",
-      "url": "https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T15:17:26+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.337741+00:00"
-    },
-    {
-      "id": "b6e505c80ef6",
-      "title": "ElevenLabs just hit a $6.6B valuation. Its CEO says the real money isn’t in voice anymore.",
-      "summary": "ElevenLabs has made a name for itself building realistic AI voices. What started as two Polish engineers annoyed by terrible movie dubbing has grown into a profitable company now valued at $6.6 billio",
-      "url": "https://techcrunch.com/podcast/elevenlabs-just-hit-a-6-6b-valuation-its-ceo-says-the-real-money-isnt-in-voice-anymore/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T16:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.337604+00:00"
-    },
-    {
-      "id": "cc9587332756",
-      "title": "Google is testing AI-powered article overviews on select publications’ Google News pages",
-      "summary": "By adding AI-powered article overviews, Google says users will get more context before they click through to read an article.",
-      "url": "https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T17:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.328209+00:00"
-    },
-    {
-      "id": "47ccf8a86f25",
-      "title": "Spotify tests more personalized, AI-powered ‘Prompted Playlists’",
-      "summary": "The playlists can factor in world knowledge, go back to your listening history from day one, and be refreshed daily or weekly.",
-      "url": "https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T20:01:47+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.328142+00:00"
-    },
-    {
-      "id": "265270df5303",
-      "title": "Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl",
-      "summary": "A new software option could make it possible to see the approximate location of some of Nvidia's AI chips.",
-      "url": "https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-10T22:06:47+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.328073+00:00"
-    },
-    {
-      "id": "a705db3bd26f",
-      "title": "State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs",
-      "summary": "The letter demanded companies institute new safeguards to keep users safe from harmful psychological impacts.",
-      "url": "https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T00:13:43+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.328002+00:00"
-    },
-    {
-      "id": "460266d5abd6",
-      "title": "Google’s answer to the AI arms race — promote the guy behind its data center tech",
-      "summary": "Amin Vahdat has been promoted to chief technologist for AI infrastructure, a newly created position reporting directly to CEO Sundar Pichai.",
-      "url": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T01:10:04+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.327923+00:00"
-    },
-    {
-      "id": "4dca840fa219",
-      "title": "Strengthening cyber resilience as AI capabilities advance",
-      "summary": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity. We explain how we assess risk, limit misuse, and work with the security commun",
-      "url": "https://openai.com/index/strengthening-cyber-resilience",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-10T12:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:01.185892+00:00"
-    },
-    {
-      "id": "192db89e9967",
-      "title": "We’re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
-      "summary": "At the European Health Summit in Brussels, Greg Corrado, Distinguished Scientist at Google, released a new report authored by Implement Consulting Group and commissioned…",
-      "url": "https://blog.google/technology/health/ai-health-fund-eu/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-03T12:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:00.759074+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_61.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c0c7b96f846f",
-      "title": "Look back on your 2025 with Google Photos Recap",
-      "summary": "Learn more about Google Photos Recap — now available for 2025 — and how you can explore, customize and share it today.",
-      "url": "https://blog.google/products/photos/google-photos-2025-recap/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-03T16:00:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:00.758982+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogPostIn-Line_ShareCard_ANV01.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "70904be0e49a",
-      "title": "These developers are changing lives with Gemma 3n",
-      "summary": "From enhancing assistive technology to addressing the digital divide, developers built mobile-first solutions to address real-world problems in the Gemma 3n Impact Chall…",
-      "url": "https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-10T17:15:00+00:00",
-      "scrapedAt": "2025-12-11T08:37:00.758314+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "30844f75af90",
-      "title": "OpenAI has trained its LLM to confess to bad behavior",
-      "summary": "OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the",
-      "url": "https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-03T18:01:39+00:00",
-      "scrapedAt": "2025-12-11T08:37:00.582372+00:00"
     }
   ]
 }
