@@ -1,6 +1,211 @@
 {
-  "lastUpdated": "2025-12-19T08:37:46.820976+00:00",
+  "lastUpdated": "2025-12-20T08:33:15.863280+00:00",
   "articles": [
+    {
+      "id": "9d4b3671e460",
+      "title": "Communities are rising up against data centers — and winning",
+      "summary": "If there's one thing Republicans and Democrats came together on in 2025 - at least at the local level - it was to stop big, energy-hungry data center projects. For communities sick of rising electrici",
+      "url": "https://www.theverge.com/science/841169/ai-data-center-opposition",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T08:00:00-05:00",
+      "scrapedAt": "2025-12-20T08:32:19.191606+00:00"
+    },
+    {
+      "id": "7eb7d599a471",
+      "title": "Europol imagines robot crime waves in 2035",
+      "summary": "Rapid advances in AI and robotics are set to become both powerful tools for police and potent weapons for criminals, a 48-page report from pan-European police agency Europol argues. Earlier this month",
+      "url": "https://www.theverge.com/report/847956/robot-crime-wave-europe-police-prediction",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T10:16:27-05:00",
+      "scrapedAt": "2025-12-20T08:32:19.191243+00:00"
+    },
+    {
+      "id": "eaed777211d5",
+      "title": "Google sues web scraper for sucking up search results ‘at an astonishing scale’",
+      "summary": "Google has filed a lawsuit against SerpApi, a company that offers tools to scrape content on the web, including Google's search results. SerpApi is accused of violating the Copyright Act by using \"dec",
+      "url": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T15:48:37-05:00",
+      "scrapedAt": "2025-12-20T08:32:19.190855+00:00"
+    },
+    {
+      "id": "ac6a9da4bc1e",
+      "title": "ChatGPT will now let you pick how nice it is",
+      "summary": "OpenAI will now give you the ability to dial up - or down - ChatGPT's warmth and enthusiasm. An update rolling out on Friday gives you the option to choose whether you want \"more\" or \"less\" of these p",
+      "url": "https://www.theverge.com/news/848435/openai-chatgpt-characteristics-update-warmth-enthusiasm",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T16:28:08-05:00",
+      "scrapedAt": "2025-12-20T08:32:19.190368+00:00"
+    },
+    {
+      "id": "22e0840f7cb9",
+      "title": "Gemini isn’t replacing Google Assistant on Android just yet",
+      "summary": "Gemini on the Samsung Galaxy S25 Ultra. Google isn't quite ready to replace Assistant with Gemini on Android devices. The company said on Friday that it will \"continue our work to upgrade Assistant us",
+      "url": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T17:39:14-05:00",
+      "scrapedAt": "2025-12-20T08:32:19.189831+00:00"
+    },
+    {
+      "id": "d998e3357368",
+      "title": "Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI",
+      "summary": "Anthropic said on Wednesday it would release its Agent Skills technology as an open standard, a strategic bet that sharing its approach to making AI assistants more capable will cement the company's p",
+      "url": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-18T17:00:00+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.709711+00:00"
+    },
+    {
+      "id": "52761823fe82",
+      "title": "From Roombas to e-bikes, why are hardware startups going bankrupt?",
+      "summary": "The hardware world had a brutal week, with iRobot, Luminar, and Rad Power Bikes all filing for bankruptcy. Each company faces its own mix of tariff pressures, supply chain issues, and shifting markets",
+      "url": "https://techcrunch.com/video/from-roombas-to-e-bikes-why-are-hardware-startups-going-bankrupt/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T13:00:00+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.422036+00:00"
+    },
+    {
+      "id": "83c0171b092e",
+      "title": "OpenAI is reportedly trying to raise $100B at an $830B valuation",
+      "summary": "The ChatGPT maker is aiming to raise the funding by the end of the first quarter in 2026, and the company may ask sovereign wealth funds to invest in the round.",
+      "url": "https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T13:32:57+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.421918+00:00"
+    },
+    {
+      "id": "7320cb545af3",
+      "title": "Meta is developing a new image and video model for a 2026 release, report says",
+      "summary": "Meta aims to make the text-based model better at coding while also exploring new world models that understand visual information and can reason, plan, and act without needing to be trained on every po",
+      "url": "https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T16:05:29+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.421841+00:00"
+    },
+    {
+      "id": "a8f1e268f440",
+      "title": "Known uses voice AI to help you go on more in-person dates",
+      "summary": "In its test phase in San Francisco, Known said it observed 80% of its introductions led to physical dates, which is much higher than swipe-based dating apps.",
+      "url": "https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T17:23:34+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.421723+00:00"
+    },
+    {
+      "id": "cb9f4d707c28",
+      "title": "OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors",
+      "summary": "OpenAI updated its guidelines for how its AI models should behave with users under 18, and published new AI literacy resources for teens and parents. Still, questions remain about how well policies tr",
+      "url": "https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T17:51:05+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.421643+00:00"
+    },
+    {
+      "id": "174a0f55a2b3",
+      "title": "Hardware’s brutal week: iRobot, Luminar, and Rad Power go bankrupt",
+      "summary": "The hardware world had a brutal week, with iRobot, Luminar, and Rad Power Bikes all filing for bankruptcy. Each company faces its own mix of tariff pressures, supply chain issues, and shifting markets",
+      "url": "https://techcrunch.com/podcast/hardwares-brutal-week-irobot-luminar-and-rad-power-go-bankrupt/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T18:18:48+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.421552+00:00"
+    },
+    {
+      "id": "328b14851f60",
+      "title": "Yann LeCun confirms his new ‘world model’ startup, reportedly seeks $5B+ valuation",
+      "summary": "Renowned AI scientist Yann LeCun confirmed on Thursday the worst-kept secret in the tech world: that he had indeed launched a new startup. Although he did say he will not be running the new company as",
+      "url": "https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T19:23:44+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.411274+00:00"
+    },
+    {
+      "id": "76f4abb883d1",
+      "title": "Cursor continues acquisition spree with Graphite deal",
+      "summary": "Graphite is an AI code review assistant that was last valued at $290 million.",
+      "url": "https://techcrunch.com/2025/12/19/cursor-continues-acquisition-spree-with-graphite-deal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T21:51:22+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.411197+00:00"
+    },
+    {
+      "id": "0b9c11fe6512",
+      "title": "Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A",
+      "summary": "The round was led by Lightspeed Venture Partners, according to people familiar with the deal.",
+      "url": "https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-20T00:58:42+00:00",
+      "scrapedAt": "2025-12-20T08:32:18.411116+00:00"
+    },
+    {
+      "id": "af1f540d3b69",
+      "title": "Gradient Canvas: Celebrating over a decade of artistic collaborations with AI",
+      "summary": "Gradient Canvas is a new art exhibition celebrating a decade of creative collaborations between artists and artificial intelligence.",
+      "url": "https://blog.google/technology/ai/google-gradient-canvas-ai-art/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-11T21:30:00+00:00",
+      "scrapedAt": "2025-12-20T08:32:17.816581+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gradient_Canvas_hero_FS1ek3X.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "76be0fe2c681",
+      "title": "Bringing state-of-the-art Gemini translation capabilities to Google Translate",
+      "summary": "We’re bringing Gemini’s state-of-the-art translation model to Google Translate for text, and more new features.",
+      "url": "https://blog.google/products/search/gemini-capabilities-translation-upgrades/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-12T17:00:00+00:00",
+      "scrapedAt": "2025-12-20T08:32:17.816489+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7774b43512c2",
+      "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
+      "summary": "You can now have more fluid and expressive conversations when you go Live with Search.",
+      "url": "https://blog.google/products/search/live-audio-gemini-model-update/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-12T17:00:00+00:00",
+      "scrapedAt": "2025-12-20T08:32:17.816395+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "fee1f5e4bd98",
+      "title": "5 ways AI agents will transform the way we work in 2026",
+      "summary": "Today, Google Cloud dropped its 2026 AI Agent Trends Report.",
+      "url": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-19T14:00:00+00:00",
+      "scrapedAt": "2025-12-20T08:32:17.816114+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_xCoMYQ5.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7b19d2ff6046",
+      "title": "40 of our most helpful AI tips from 2025",
+      "summary": "Learn more about the AI tips and tools Google shared in 2025.",
+      "url": "https://blog.google/technology/ai/ai-tips-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-19T16:00:00+00:00",
+      "scrapedAt": "2025-12-20T08:32:17.816006+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_hero.max-600x600.format-webp.webp"
+    },
     {
       "id": "ead119f48e76",
       "title": "Palona goes vertical, launching Vision, Workflow features: 4 key lessons for AI builders",
@@ -1210,411 +1415,6 @@
       "category": "product",
       "publishedAt": "2025-12-13T19:37:47+00:00",
       "scrapedAt": "2025-12-14T08:32:38.752229+00:00"
-    },
-    {
-      "id": "d8b78e474ebe",
-      "title": "Google Translate brings real-time speech translations to any headphones",
-      "summary": "Google Translate's latest update brings live speech translations, originally available only on the Pixel Buds , to any headphones you want, with support for over 70 languages. It's rolling out today i",
-      "url": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-12T13:11:14-05:00",
-      "scrapedAt": "2025-12-13T08:32:05.009796+00:00"
-    },
-    {
-      "id": "1104d92abdbb",
-      "title": "Parents call for New York governor to sign landmark AI safety bill",
-      "summary": "A group of more than 150 parents sent a letter on Friday to New York governor Kathy Hochul, urging her to sign the Responsible AI Safety and Education (RAISE) Act without changes. The RAISE Act is a b",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-12T17:16:09-05:00",
-      "scrapedAt": "2025-12-13T08:32:05.009286+00:00"
-    },
-    {
-      "id": "b68c0c5ac8cf",
-      "title": "Cohere’s Rerank 4 quadruples the context window over 3.5 to cut agent errors and boost enterprise search accuracy",
-      "summary": "Almost a year after releasing Rerank 3.5 , Cohere launched the latest version of its search model, now with a larger context window to help agents find the information they need to complete their task",
-      "url": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T05:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.813346+00:00"
-    },
-    {
-      "id": "e3c474563567",
-      "title": "Nous Research just released Nomos 1, an open-source AI that ranks second on the notoriously brutal Putnam math exam",
-      "summary": "Nous Research , the San Francisco-based artificial intelligence startup, released on Tuesday an open-source mathematical reasoning system called Nomos 1 that achieved near-elite human performance on t",
-      "url": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T09:30:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.812444+00:00"
-    },
-    {
-      "id": "b9f0fcfe619a",
-      "title": "Marble enters the race to bring AI to tax work, armed with $9 million and a free research tool",
-      "summary": "Marble , a startup building artificial intelligence agents for tax professionals, has raised $9 million in seed funding as the accounting industry grapples with a deepening labor shortage and mounting",
-      "url": "https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T14:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.809639+00:00"
-    },
-    {
-      "id": "060e0db3c5d6",
-      "title": "OpenAI's GPT-5.2 is here: what enterprises need to know",
-      "summary": "The rumors were true: OpenAI on Thursday announced the release of its new frontier large language model (LLM) family, GPT-5.2 . It comes at a pivotal moment for the AI pioneer, which has faced intensi",
-      "url": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T18:16:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.806298+00:00"
-    },
-    {
-      "id": "02fb8f5edf63",
-      "title": "GPT-5.2 first impressions: a powerful update, especially for business tasks and workflows",
-      "summary": "OpenAI has officially released GPT-5.2 , and the reactions from early testers — among whom OpenAI seeded the model several days prior to public release, in some cases weeks ago — paints a two toned pi",
-      "url": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T23:26:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.799315+00:00"
-    },
-    {
-      "id": "dfbf210508e1",
-      "title": "Google’s new framework helps AI agents spend their compute and tool budget more wisely",
-      "summary": "In a new paper that studies tool-use in large language model (LLM) agents, researchers at Google and UC Santa Barbara have developed a framework that enables agents to make more efficient use of tool ",
-      "url": "https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-12T00:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.797636+00:00"
-    },
-    {
-      "id": "c90561e8ca6d",
-      "title": "Ai2's new Olmo 3.1 extends reinforcement learning training for stronger reasoning benchmarks",
-      "summary": "The Allen Institute for AI (Ai2) recently released what it calls its most powerful family of models yet, Olmo 3 . But the company kept iterating on the models, expanding its reinforcement learning (RL",
-      "url": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-12T05:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.786073+00:00"
-    },
-    {
-      "id": "f4bf4e048dc5",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
-      "url": "https://techcrunch.com/2025/12/12/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-12T16:01:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.645805+00:00"
-    },
-    {
-      "id": "fa0ff4bc66f1",
-      "title": "Google Translate now lets you hear real-time translations in your headphones",
-      "summary": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.",
-      "url": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-12T17:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.645731+00:00"
-    },
-    {
-      "id": "290ea77d1637",
-      "title": "Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead",
-      "summary": "Trump signed an AI executive order targeting state laws and promising one national rulebook. Critics warn it could trigger court battles and prolong uncertainty for startups while Congress debates fed",
-      "url": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-12T17:07:22+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.645650+00:00"
-    },
-    {
-      "id": "102666760de6",
-      "title": "OK, what’s going on with LinkedIn’s algo?",
-      "summary": "Women ran an experiment to see if LinkedIn's new algo was being sexist and thought they proved it. But there's more complexity involved, experts say.",
-      "url": "https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-12T19:38:16+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.645544+00:00"
-    },
-    {
-      "id": "2549844f2518",
-      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
-      "summary": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
-      "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-12T00:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.563832+00:00"
-    },
-    {
-      "id": "e985fcef4e93",
-      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
-      "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
-      "url": "https://openai.com/index/bny",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-12T00:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.563754+00:00"
-    },
-    {
-      "id": "94d9c3113777",
-      "title": "The latest AI news we announced in November",
-      "summary": "Here are Google’s latest AI updates from November 2025",
-      "url": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-05T19:45:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.123680+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/November_AI_Recap_ss.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "76be0fe2c681",
-      "title": "Bringing state-of-the-art Gemini translation capabilities to Google Translate",
-      "summary": "We’re bringing Gemini’s state-of-the-art translation model to Google Translate for text, and more new features.",
-      "url": "https://blog.google/products/search/gemini-capabilities-translation-upgrades/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-12T17:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.122960+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7774b43512c2",
-      "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
-      "summary": "You can now have more fluid and expressive conversations when you go Live with Search.",
-      "url": "https://blog.google/products/search/live-audio-gemini-model-update/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-12T17:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:04.122804+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e5ba84e42763",
-      "title": "The era of AI persuasion in elections is about to begin",
-      "summary": "In January 2024, the phone rang in homes all around New Hampshire. On the other end was Joe Biden’s voice, urging Democrats to “save your vote” by skipping the primary. It sounded authentic, but it wa",
-      "url": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T10:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:03.840296+00:00"
-    },
-    {
-      "id": "7043a02bcc40",
-      "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
-      "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has",
-      "url": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-05T15:00:00+00:00",
-      "scrapedAt": "2025-12-13T08:32:03.837366+00:00"
-    },
-    {
-      "id": "5f5db02e3380",
-      "title": "TIME names ‘Architects of AI’ its Person of the Year",
-      "summary": "TIME Magazine has named the 'Architects of AI' its Person of the Year, who include Jensen Huang, Elon Musk, Sam Altman, Mark Zuckerberg, Lisa Su, Dario Amodei, Demis Hassabis, and Fei-Fei Li",
-      "url": "https://techcrunch.com/2025/12/11/time-names-architects-of-ai-its-person-of-the-year/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T14:38:06+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.582557+00:00"
-    },
-    {
-      "id": "e6de3e2a7cd3",
-      "title": "Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters",
-      "summary": "Disney says that alongside the agreement, it will \"become a major customer of OpenAI,\" as it will use its APIs to build new products, tools, and experiences, including for Disney+.",
-      "url": "https://techcrunch.com/2025/12/11/disney-signs-deal-with-openai-to-allow-sora-to-generate-ai-videos-featuring-its-characters/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T15:21:05+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.582488+00:00"
-    },
-    {
-      "id": "57163dc8fd52",
-      "title": "Runway releases its first world model, adds native audio to latest video model",
-      "summary": "Runway debuts a physics-aware world model that simulates reality to train agents and power video, robotics, and avatar applications.",
-      "url": "https://techcrunch.com/2025/12/11/runway-releases-its-first-world-model-adds-native-audio-to-latest-video-model/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T17:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.582415+00:00"
-    },
-    {
-      "id": "611595abbdaf",
-      "title": "Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs",
-      "summary": "Google Labs is testing a product that will work with your browser tabs to make web apps for you.",
-      "url": "https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T18:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.582346+00:00"
-    },
-    {
-      "id": "0f77516d5b4e",
-      "title": "OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo",
-      "summary": "OpenAI just launched GPT-5.2, a frontier model aimed at developers and professionals, pushing reasoning and coding benchmarks as it races Google’s Gemini 3 while grappling with compute costs and no ge",
-      "url": "https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T18:02:44+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.582277+00:00"
-    },
-    {
-      "id": "18600e944654",
-      "title": "Google’s AI try-on feature for clothes now works with just a selfie",
-      "summary": "In the past, users had to upload a full-body picture of themselves to virtually try on a piece of clothing. Now they can use a selfie and Nano Banana will generate a full-body digital version of them.",
-      "url": "https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T18:09:27+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.582199+00:00"
-    },
-    {
-      "id": "0781d3e221ae",
-      "title": "Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement",
-      "summary": "Disney is accusing the tech giant of unauthorized distribution of its copyrighted characters without permission via Gemini AI.",
-      "url": "https://techcrunch.com/2025/12/11/disney-hits-google-with-cease-and-desist-claiming-massive-copyright-infringement/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T18:53:09+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.582120+00:00"
-    },
-    {
-      "id": "3492bc9cd8d9",
-      "title": "1X struck a deal to send its ‘home’ humanoids to factories and warehouses",
-      "summary": "Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.",
-      "url": "https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-11T22:03:36+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.582049+00:00"
-    },
-    {
-      "id": "0c57f1d8edb1",
-      "title": "Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2",
-      "summary": "For the first time, developers can embed Google's Deep Research tool, based on Gemini 3 Pro, into their own apps.",
-      "url": "https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-12T00:18:56+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.581960+00:00"
-    },
-    {
-      "id": "efef733c1e06",
-      "title": "Ten years",
-      "summary": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic ",
-      "url": "https://openai.com/index/ten-years",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-11T00:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.424722+00:00"
-    },
-    {
-      "id": "3a08ce45b250",
-      "title": "Update to GPT-5 System Card: GPT-5.2",
-      "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System ",
-      "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-11T00:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.424641+00:00"
-    },
-    {
-      "id": "f286ba4045ba",
-      "title": "Introducing GPT-5.2",
-      "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to pow",
-      "url": "https://openai.com/index/introducing-gpt-5-2",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-11T00:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.424554+00:00"
-    },
-    {
-      "id": "5ba52d76bbe3",
-      "title": "Increasing revenue 300% by bringing AI to SMBs",
-      "summary": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
-      "url": "https://openai.com/index/podium",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-11T00:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.424474+00:00"
-    },
-    {
-      "id": "1b2334cba215",
-      "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
-      "summary": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in ente",
-      "url": "https://openai.com/index/disney-sora-agreement",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-11T00:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.424384+00:00"
-    },
-    {
-      "id": "a0761fcba5c5",
-      "title": "Advancing science and math with GPT-5.2",
-      "summary": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real",
-      "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-11T10:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.424303+00:00"
-    },
-    {
-      "id": "ea12893d3167",
-      "title": "BBVA and OpenAI collaborate to transform global banking",
-      "summary": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that e",
-      "url": "https://openai.com/index/bbva-collaboration-expansion",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-12T00:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:16.424209+00:00"
-    },
-    {
-      "id": "3559c99f54cd",
-      "title": "4 highlights from Google Beam in 2025",
-      "summary": "Google Beam, our first true-to-life 3D video communication platform, made great progress in 2025.",
-      "url": "https://blog.google/technology/research/google-beam-2025-moments/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-11T18:30:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:15.972223+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "af1f540d3b69",
-      "title": "Gradient Canvas: Celebrating over a decade of artistic collaborations with AI",
-      "summary": "Gradient Canvas is a new art exhibition celebrating a decade of creative collaborations between artists and artificial intelligence.",
-      "url": "https://blog.google/technology/ai/google-gradient-canvas-ai-art/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-11T21:30:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:15.972117+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gradient_Canvas_hero_FS1ek3X.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "9eed5858e7e8",
-      "title": "Delivering securely on data and AI strategy",
-      "summary": "Most organizations feel the imperative to keep pace with continuing advances in AI capabilities, as highlighted in a recent MIT Technology Review Insights report . That clearly has security implicatio",
-      "url": "https://www.technologyreview.com/2025/12/04/1128311/delivering-securely-on-data-and-ai-strategy/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-04T14:00:00+00:00",
-      "scrapedAt": "2025-12-12T08:37:15.759559+00:00"
-    },
-    {
-      "id": "857829a0dc1e",
-      "title": "AI chatbots can sway voters better than political advertisements",
-      "summary": "In 2024, a Democratic congressional candidate in Pennsylvania, Shamaine Daniels, used an AI chatbot named Ashley to call voters and carry on conversations with them. “Hello. My name is Ashley, and I’m",
-      "url": "https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-04T19:54:57+00:00",
-      "scrapedAt": "2025-12-12T08:37:15.758683+00:00"
     }
   ]
 }
