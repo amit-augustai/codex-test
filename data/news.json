@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2025-12-21T08:33:37.962253+00:00",
+  "lastUpdated": "2025-12-22T08:39:15.571370+00:00",
   "articles": [
+    {
+      "id": "24ceb1e6ac05",
+      "title": "SFBD-OMNI: Bridge models for lossy measurement restoration with limited clean samples",
+      "summary": "arXiv:2512.17051v1 Announce Type: new Abstract: In many real-world scenarios, obtaining fully observed samples is prohibitively expensive or even infeasible, while partial and noisy observations are c",
+      "url": "https://arxiv.org/abs/2512.17051",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.746213+00:00"
+    },
+    {
+      "id": "9aaa37bfcfcf",
+      "title": "GB-DQN: Gradient Boosted DQN Models for Non-stationary Reinforcement Learning",
+      "summary": "arXiv:2512.17034v1 Announce Type: new Abstract: Non-stationary environments pose a fundamental challenge for deep reinforcement learning, as changes in dynamics or rewards invalidate learned value fun",
+      "url": "https://arxiv.org/abs/2512.17034",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.746106+00:00"
+    },
+    {
+      "id": "6a72024e4e3c",
+      "title": "Turn-PPO: Turn-Level Advantage Estimation with PPO for Improved Multi-Turn RL in Agentic LLMs",
+      "summary": "arXiv:2512.17008v1 Announce Type: new Abstract: Reinforcement learning (RL) has re-emerged as a natural approach for training interactive LLM agents in real-world environments. However, directly apply",
+      "url": "https://arxiv.org/abs/2512.17008",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.746009+00:00"
+    },
+    {
+      "id": "fcefa641d053",
+      "title": "Physics-Informed Lightweight Machine Learning for Aviation Visibility Nowcasting Across Multiple Climatic Regimes",
+      "summary": "arXiv:2512.16967v1 Announce Type: new Abstract: Short-term prediction (nowcasting) of low-visibility and precipitation events is critical for aviation safety and operational efficiency. Current operat",
+      "url": "https://arxiv.org/abs/2512.16967",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.745912+00:00"
+    },
+    {
+      "id": "7565deda6651",
+      "title": "Compression is Routing: Reconstruction Error as an Intrinsic Signal for Modular Language Models",
+      "summary": "arXiv:2512.16963v1 Announce Type: new Abstract: Current Large Language Models (LLMs) face three major challenges: context length limitations, high inference costs, and catastrophic forgetting during c",
+      "url": "https://arxiv.org/abs/2512.16963",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.745793+00:00"
+    },
+    {
+      "id": "05ba05788e19",
+      "title": "QSMOTE-PGM/kPGM: QSMOTE Based PGM and kPGM for Imbalanced Dataset Classification",
+      "summary": "arXiv:2512.16960v1 Announce Type: new Abstract: Quantum-inspired machine learning (QiML) leverages mathematical frameworks from quantum theory to enhance classical algorithms, with particular emphasis",
+      "url": "https://arxiv.org/abs/2512.16960",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.745647+00:00"
+    },
+    {
+      "id": "c92654e72138",
+      "title": "BIONIX: A Wireless, Low-Cost Prosthetic Arm with Dual-Signal EEG and EMG Control",
+      "summary": "arXiv:2512.16929v1 Announce Type: new Abstract: Affordable upper-limb prostheses often lack intuitive control systems, limiting functionality and accessibility for amputees in low-resource settings. T",
+      "url": "https://arxiv.org/abs/2512.16929",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.745508+00:00"
+    },
+    {
+      "id": "1d50ff6f5591",
+      "title": "Dion2: A Simple Method to Shrink Matrix in Muon",
+      "summary": "arXiv:2512.16928v1 Announce Type: new Abstract: The Muon optimizer enjoys strong empirical performance and theoretical grounding. However, the super-linear cost of its orthonormalization step introduc",
+      "url": "https://arxiv.org/abs/2512.16928",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.745336+00:00"
+    },
+    {
+      "id": "efcd15d61e3b",
+      "title": "Solomonoff-Inspired Hypothesis Ranking with LLMs for Prediction Under Uncertainty",
+      "summary": "arXiv:2512.17145v1 Announce Type: new Abstract: Reasoning under uncertainty is a key challenge in AI, especially for real-world tasks, where problems with sparse data demands systematic generalisation",
+      "url": "https://arxiv.org/abs/2512.17145",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.536517+00:00"
+    },
+    {
+      "id": "84eeee37a229",
+      "title": "Reinforcement Learning for Self-Improving Agent with Skill Library",
+      "summary": "arXiv:2512.17102v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents have demonstrated remarkable capabilities in complex reasoning and multi-turn interactions but struggle to conti",
+      "url": "https://arxiv.org/abs/2512.17102",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.536400+00:00"
+    },
+    {
+      "id": "9c97aa27adc9",
+      "title": "A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving",
+      "summary": "arXiv:2512.17093v1 Announce Type: new Abstract: The rise of large language models (LLMs) has sparked interest in coding assistants. While general-purpose programming languages are well supported, gene",
+      "url": "https://arxiv.org/abs/2512.17093",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.536280+00:00"
+    },
+    {
+      "id": "fb881a1f82b2",
+      "title": "Value Under Ignorance in Universal Artificial Intelligence",
+      "summary": "arXiv:2512.17086v1 Announce Type: new Abstract: We generalize the AIXI reinforcement learning agent to admit a wider class of utility functions. Assigning a utility to each possible interaction histor",
+      "url": "https://arxiv.org/abs/2512.17086",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.536158+00:00"
+    },
+    {
+      "id": "f45a7bffcb1d",
+      "title": "Realistic threat perception drives intergroup conflict: A causal, dynamic analysis using generative-agent simulations",
+      "summary": "arXiv:2512.17066v1 Announce Type: new Abstract: Human conflict is often attributed to threats against material conditions and symbolic values, yet it remains unclear how they interact and which domina",
+      "url": "https://arxiv.org/abs/2512.17066",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.536055+00:00"
+    },
+    {
+      "id": "1ba6492b07fb",
+      "title": "UniRel-R1: RL-tuned LLM Reasoning for Knowledge Graph Relational Question Answering",
+      "summary": "arXiv:2512.17043v1 Announce Type: new Abstract: Knowledge Graph Question Answering (KGQA) has traditionally focused on entity-centric queries that return a single answer entity. However, real-world qu",
+      "url": "https://arxiv.org/abs/2512.17043",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.535950+00:00"
+    },
+    {
+      "id": "6528e36274f5",
+      "title": "Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and Cross-Layer Threats",
+      "summary": "arXiv:2512.17041v1 Announce Type: new Abstract: Agentic AI is increasingly being explored and introduced in both manually driven and autonomous vehicles, leading to the notion of Agentic Vehicles (AgV",
+      "url": "https://arxiv.org/abs/2512.17041",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.535840+00:00"
+    },
+    {
+      "id": "f2196ff26127",
+      "title": "PAACE: A Plan-Aware Automated Agent Context Engineering Framework",
+      "summary": "arXiv:2512.16970v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly deployed in complex, multi-step workflows involving planning, tool use, reflection, and interaction w",
+      "url": "https://arxiv.org/abs/2512.16970",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.535720+00:00"
+    },
+    {
+      "id": "424b9634c061",
+      "title": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
+      "summary": "arXiv:2512.16969v1 Announce Type: new Abstract: Despite advances in scientific AI, a coherent framework for Scientific General Intelligence (SGI)-the ability to autonomously conceive, investigate, and",
+      "url": "https://arxiv.org/abs/2512.16969",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.535586+00:00"
+    },
+    {
+      "id": "24ff21a67cb9",
+      "title": "Navigating Taxonomic Expansions of Entity Sets Driven by Knowledge Bases",
+      "summary": "arXiv:2512.16953v1 Announce Type: new Abstract: Recognizing similarities among entities is central to both human cognition and computational intelligence. Within this broader landscape, Entity Set Exp",
+      "url": "https://arxiv.org/abs/2512.16953",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00-05:00",
+      "scrapedAt": "2025-12-22T08:38:20.535438+00:00"
+    },
+    {
+      "id": "e5c0b7f847e1",
+      "title": "Agent autonomy without guardrails is an SRE nightmare",
+      "summary": "João Freitas is GM and VP of engineering for AI and automation at PagerDuty As AI use continues to evolve in large organizations, leaders are increasingly seeking the next development that will yield ",
+      "url": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2025-12-21T19:00:00+00:00",
+      "scrapedAt": "2025-12-22T08:38:20.217070+00:00"
+    },
+    {
+      "id": "e1fa2e76d69c",
+      "title": "Waymo resumes service in San Francisco after robotaxis stall during blackout",
+      "summary": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
+      "url": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T03:24:49+00:00",
+      "scrapedAt": "2025-12-22T08:38:19.894218+00:00"
+    },
     {
       "id": "39eb36c81dc8",
       "title": "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
