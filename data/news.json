@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2025-12-22T08:39:15.571370+00:00",
+  "lastUpdated": "2025-12-23T08:38:14.963452+00:00",
   "articles": [
+    {
+      "id": "b88a8615c8b8",
+      "title": "Indie Game Awards retracts Expedition 33 prizes due to generative AI",
+      "summary": "Clair Obscur: Expedition 33 had earned another Game of the Year award by the Indie Game Awards last week, but the organization has since announced that the award would be retracted because developer S",
+      "url": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T13:47:58-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.166803+00:00"
+    },
+    {
+      "id": "9ed8822fe408",
+      "title": "ChatGPT’s yearly recap sums up your conversations with the chatbot",
+      "summary": "ChatGPT is joining the flood of apps offering yearly recaps for users. It's rolling out a \"Year in Review\" feature that will show you a bunch of stats - like how many messages you sent to the chatbot ",
+      "url": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T17:12:11-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.166212+00:00"
+    },
+    {
+      "id": "20ef37340b88",
+      "title": "Towards Benchmarking Privacy Vulnerabilities in Selective Forgetting with Large Language Models",
+      "summary": "arXiv:2512.18035v1 Announce Type: new Abstract: The rapid advancements in artificial intelligence (AI) have primarily focused on the process of learning from data to acquire knowledgeable learning sys",
+      "url": "https://arxiv.org/abs/2512.18035",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.078736+00:00"
+    },
+    {
+      "id": "1f9c8e34746c",
+      "title": "A Dataset and Benchmarks for Atrial Fibrillation Detection from Electrocardiograms of Intensive Care Unit Patients",
+      "summary": "arXiv:2512.18031v1 Announce Type: new Abstract: Objective: Atrial fibrillation (AF) is the most common cardiac arrhythmia experienced by intensive care unit (ICU) patients and can cause adverse health",
+      "url": "https://arxiv.org/abs/2512.18031",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.078608+00:00"
+    },
+    {
+      "id": "e242243e8e11",
+      "title": "FedOAED: Federated On-Device Autoencoder Denoiser for Heterogeneous Data under Limited Client Availability",
+      "summary": "arXiv:2512.17986v1 Announce Type: new Abstract: Over the last few decades, machine learning (ML) and deep learning (DL) solutions have demonstrated their potential across many applications by leveragi",
+      "url": "https://arxiv.org/abs/2512.17986",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.078494+00:00"
+    },
+    {
+      "id": "11254e4e7e60",
+      "title": "MoE-TransMov: A Transformer-based Model for Next POI Prediction in Familiar & Unfamiliar Movements",
+      "summary": "arXiv:2512.17985v1 Announce Type: new Abstract: Accurate prediction of the next point of interest (POI) within human mobility trajectories is essential for location-based services, as it enables more ",
+      "url": "https://arxiv.org/abs/2512.17985",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.078379+00:00"
+    },
+    {
+      "id": "2aae12ac8630",
+      "title": "A Hybrid Inductive-Transductive Network for Traffic Flow Imputation on Unsampled Locations",
+      "summary": "arXiv:2512.17984v1 Announce Type: new Abstract: Accurately imputing traffic flow at unsensed locations is difficult: loop detectors provide precise but sparse measurements, speed from probe vehicles i",
+      "url": "https://arxiv.org/abs/2512.17984",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.078225+00:00"
+    },
+    {
+      "id": "3c40d20c1ca5",
+      "title": "Parameter-Efficient Fine-Tuning for HAR: Integrating LoRA and QLoRA into Transformer Models",
+      "summary": "arXiv:2512.17983v1 Announce Type: new Abstract: Human Activity Recognition is a foundational task in pervasive computing. While recent advances in self-supervised learning and transformer-based archit",
+      "url": "https://arxiv.org/abs/2512.17983",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.078093+00:00"
+    },
+    {
+      "id": "a706e8175773",
+      "title": "CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs",
+      "summary": "arXiv:2512.17970v1 Announce Type: new Abstract: Weight-only quantization is widely used to mitigate the memory-bound nature of LLM inference. Codebook-based methods extend this trend by achieving stro",
+      "url": "https://arxiv.org/abs/2512.17970",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.077982+00:00"
+    },
+    {
+      "id": "5c004dd8addd",
+      "title": "Convolutional-neural-operator-based transfer learning for solving PDEs",
+      "summary": "arXiv:2512.17969v1 Announce Type: new Abstract: Convolutional neural operator is a CNN-based architecture recently proposed to enforce structure-preserving continuous-discrete equivalence and enable t",
+      "url": "https://arxiv.org/abs/2512.17969",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.077876+00:00"
+    },
+    {
+      "id": "0aa34518c49a",
+      "title": "What's the Price of Monotonicity? A Multi-Dataset Benchmark of Monotone-Constrained Gradient Boosting for Credit PD",
+      "summary": "arXiv:2512.17945v1 Announce Type: new Abstract: Financial institutions face a trade-off between predictive accuracy and interpretability when deploying machine learning models for credit risk. Monoton",
+      "url": "https://arxiv.org/abs/2512.17945",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.077764+00:00"
+    },
+    {
+      "id": "30aff9504ea7",
+      "title": "Comparative Evaluation of Explainable Machine Learning Versus Linear Regression for Predicting County-Level Lung Cancer Mortality Rate in the United States",
+      "summary": "arXiv:2512.17934v1 Announce Type: new Abstract: Lung cancer (LC) is a leading cause of cancer-related mortality in the United States. Accurate prediction of LC mortality rates is crucial for guiding t",
+      "url": "https://arxiv.org/abs/2512.17934",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-23T00:00:00-05:00",
+      "scrapedAt": "2025-12-23T08:37:19.077641+00:00"
+    },
+    {
+      "id": "86314896238d",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "url": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T15:43:15+00:00",
+      "scrapedAt": "2025-12-23T08:37:18.297060+00:00"
+    },
+    {
+      "id": "364539e781eb",
+      "title": "Splat’s app uses AI to turn your photos into coloring pages for kids",
+      "summary": "The app turns your own photos into pages for your kids to color, via AI.",
+      "url": "https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T16:55:48+00:00",
+      "scrapedAt": "2025-12-23T08:37:18.296984+00:00"
+    },
+    {
+      "id": "b9f19aeaa596",
+      "title": "ChatGPT launches a year-end review like Spotify Wrapped",
+      "summary": "The experience includes awards, poems, and pictures referencing your year in chat.",
+      "url": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T19:01:04+00:00",
+      "scrapedAt": "2025-12-23T08:37:18.296914+00:00"
+    },
+    {
+      "id": "23dfa05a656e",
+      "title": "Alphabet to buy Intersect Power to bypass energy grid bottlenecks",
+      "summary": "Alphabet is set to pay $4.75 billion in cash, plus debt, for the data center and clean energy developer.",
+      "url": "https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T21:10:54+00:00",
+      "scrapedAt": "2025-12-23T08:37:18.296845+00:00"
+    },
+    {
+      "id": "435745fb0936",
+      "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
+      "summary": "OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an \"LLM-based automated attacker.\"",
+      "url": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T22:11:19+00:00",
+      "scrapedAt": "2025-12-23T08:37:18.296763+00:00"
+    },
+    {
+      "id": "22651b90723c",
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel expl",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00+00:00",
+      "scrapedAt": "2025-12-23T08:37:18.216055+00:00"
+    },
+    {
+      "id": "a0178f3d36c7",
+      "title": "One in a million: celebrating the customers shaping AI’s future",
+      "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moder",
+      "url": "https://openai.com/index/one-in-a-million-customers",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00+00:00",
+      "scrapedAt": "2025-12-23T08:37:18.215967+00:00"
+    },
+    {
+      "id": "6ce3269fdc7a",
+      "title": "60 of our biggest AI announcements in 2025",
+      "summary": "Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.",
+      "url": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-22T17:00:00+00:00",
+      "scrapedAt": "2025-12-23T08:37:17.783241+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025AI_Hero.max-600x600.format-webp.webp"
+    },
     {
       "id": "24ceb1e6ac05",
       "title": "SFBD-OMNI: Bridge models for lossy measurement restoration with limited clean samples",
@@ -1415,206 +1616,6 @@
       "category": "product",
       "publishedAt": "2025-12-15T15:00:00+00:00",
       "scrapedAt": "2025-12-16T08:38:09.847618+00:00"
-    },
-    {
-      "id": "ec2fc1f41f46",
-      "title": "Clip-and-Verify: Linear Constraint-Driven Domain Clipping for Accelerating Neural Network Verification",
-      "summary": "arXiv:2512.11087v1 Announce Type: new Abstract: State-of-the-art neural network (NN) verifiers demonstrate that applying the branch-and-bound (BaB) procedure with fast bounding techniques plays a key ",
-      "url": "https://arxiv.org/abs/2512.11087",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.896119+00:00"
-    },
-    {
-      "id": "1ad70f2551e8",
-      "title": "Memoryless Policy Iteration for Episodic POMDPs",
-      "summary": "arXiv:2512.11082v1 Announce Type: new Abstract: Memoryless and finite-memory policies offer a practical alternative for solving partially observable Markov decision processes (POMDPs), as they operate",
-      "url": "https://arxiv.org/abs/2512.11082",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.895978+00:00"
-    },
-    {
-      "id": "c5c048bb6890",
-      "title": "MolSculpt: Sculpting 3D Molecular Geometries from Chemical Syntax",
-      "summary": "arXiv:2512.10991v1 Announce Type: new Abstract: Generating precise 3D molecular geometries is crucial for drug discovery and material science. While prior efforts leverage 1D representations like SELF",
-      "url": "https://arxiv.org/abs/2512.10991",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.895869+00:00"
-    },
-    {
-      "id": "a6ce34f973c6",
-      "title": "Agent-Based Modular Learning for Multimodal Emotion Recognition in Human-Agent Systems",
-      "summary": "arXiv:2512.10975v1 Announce Type: new Abstract: Effective human-agent interaction (HAI) relies on accurate and adaptive perception of human emotional states. While multimodal deep learning models - le",
-      "url": "https://arxiv.org/abs/2512.10975",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.895751+00:00"
-    },
-    {
-      "id": "b9e22961e3ca",
-      "title": "TECM*: A Data-Driven Assessment to Reinforcement Learning Methods and Application to Heparin Treatment Strategy for Surgical Sepsis",
-      "summary": "arXiv:2512.10973v1 Announce Type: new Abstract: Objective: Sepsis is a life-threatening condition caused by severe infection leading to acute organ dysfunction. This study proposes a data-driven metri",
-      "url": "https://arxiv.org/abs/2512.10973",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.895635+00:00"
-    },
-    {
-      "id": "5d8b44e6ce16",
-      "title": "MoB: Mixture of Bidders",
-      "summary": "arXiv:2512.10969v1 Announce Type: new Abstract: Mixture of Experts (MoE) architectures have demonstrated remarkable success in scaling neural networks, yet their application to continual learning rema",
-      "url": "https://arxiv.org/abs/2512.10969",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.895497+00:00"
-    },
-    {
-      "id": "34522f7ff149",
-      "title": "Multimodal Fusion of Regional Brain Experts for Interpretable Alzheimer's Disease Diagnosis",
-      "summary": "arXiv:2512.10966v1 Announce Type: new Abstract: Accurate and early diagnosis of Alzheimer's disease (AD) can benefit from integrating complementary information from multiple modalities, mirroring clin",
-      "url": "https://arxiv.org/abs/2512.10966",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.895318+00:00"
-    },
-    {
-      "id": "ee9753efdeb5",
-      "title": "Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering",
-      "summary": "arXiv:2512.10962v1 Announce Type: new Abstract: Computer use agents (CUAs) can operate real-world digital interfaces but remain difficult to train due to the high cost of graphical user interface (GUI",
-      "url": "https://arxiv.org/abs/2512.10962",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.895188+00:00"
-    },
-    {
-      "id": "b11c6f092f01",
-      "title": "Motif-2-12.7B-Reasoning: A Practitioner's Guide to RL Training Recipes",
-      "summary": "arXiv:2512.11463v1 Announce Type: new Abstract: We introduce Motif-2-12.7B-Reasoning, a 12.7B parameter language model designed to bridge the gap between open-weight systems and proprietary frontier m",
-      "url": "https://arxiv.org/abs/2512.11463",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.714071+00:00"
-    },
-    {
-      "id": "7e66a3f35a57",
-      "title": "Back to the Baseline: Examining Baseline Effects on Explainability Metrics",
-      "summary": "arXiv:2512.11433v1 Announce Type: new Abstract: Attribution methods are among the most prevalent techniques in Explainable Artificial Intelligence (XAI) and are usually evaluated and compared using Fi",
-      "url": "https://arxiv.org/abs/2512.11433",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.713962+00:00"
-    },
-    {
-      "id": "b9abd97a56d4",
-      "title": "AgentBalance: Backbone-then-Topology Design for Cost-Effective Multi-Agent Systems under Budget Constraints",
-      "summary": "arXiv:2512.11426v1 Announce Type: new Abstract: Large Language Model (LLM)-based multi-agent systems (MAS) are becoming indispensable building blocks for web-scale applications such as web search, soc",
-      "url": "https://arxiv.org/abs/2512.11426",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.713834+00:00"
-    },
-    {
-      "id": "ef67bed06c7b",
-      "title": "Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance",
-      "summary": "arXiv:2512.11421v1 Announce Type: new Abstract: Large Language Models demonstrate strong reasoning and generation abilities, yet their behavior in multi-turn tasks often lacks reliability and verifiab",
-      "url": "https://arxiv.org/abs/2512.11421",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.713700+00:00"
-    },
-    {
-      "id": "aa37ef6d7ae9",
-      "title": "CAPTURE: A Benchmark and Evaluation for LVLMs in CAPTCHA Resolving",
-      "summary": "arXiv:2512.11323v1 Announce Type: new Abstract: Benefiting from strong and efficient multi-modal alignment strategies, Large Visual Language Models (LVLMs) are able to simulate human visual and reason",
-      "url": "https://arxiv.org/abs/2512.11323",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.713601+00:00"
-    },
-    {
-      "id": "57edc9f0c97a",
-      "title": "TriFlow: A Progressive Multi-Agent Framework for Intelligent Trip Planning",
-      "summary": "arXiv:2512.11271v1 Announce Type: new Abstract: Real-world trip planning requires transforming open-ended user requests into executable itineraries under strict spatial, temporal, and budgetary constr",
-      "url": "https://arxiv.org/abs/2512.11271",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.713486+00:00"
-    },
-    {
-      "id": "dd7d770141ab",
-      "title": "A-LAMP: Agentic LLM-Based Framework for Automated MDP Modeling and Policy Generation",
-      "summary": "arXiv:2512.11270v1 Announce Type: new Abstract: Applying reinforcement learning (RL) to real-world tasks requires converting informal descriptions into a formal Markov decision process (MDP), implemen",
-      "url": "https://arxiv.org/abs/2512.11270",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.713357+00:00"
-    },
-    {
-      "id": "27dcbad5498d",
-      "title": "FutureWeaver: Planning Test-Time Compute for Multi-Agent Systems with Modularized Collaboration",
-      "summary": "arXiv:2512.11213v1 Announce Type: new Abstract: Scaling test-time computation improves large language model performance without additional training. Recent work demonstrates that techniques such as re",
-      "url": "https://arxiv.org/abs/2512.11213",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.713240+00:00"
-    },
-    {
-      "id": "2973a1e5a03e",
-      "title": "Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time Freight Bundling",
-      "summary": "arXiv:2512.11187v1 Announce Type: new Abstract: Online Freight Exchange Systems (OFEX) play a crucial role in modern freight logistics by facilitating real-time matching between shippers and carrier. ",
-      "url": "https://arxiv.org/abs/2512.11187",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.713110+00:00"
-    },
-    {
-      "id": "19cfe7854ed5",
-      "title": "CORL: Reinforcement Learning of MILP Policies Solved via Branch and Bound",
-      "summary": "arXiv:2512.11169v1 Announce Type: new Abstract: Combinatorial sequential decision making problems are typically modeled as mixed integer linear programs (MILPs) and solved via branch and bound (B&B) a",
-      "url": "https://arxiv.org/abs/2512.11169",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-15T00:00:00-05:00",
-      "scrapedAt": "2025-12-15T08:39:59.712944+00:00"
-    },
-    {
-      "id": "4021cbcd8bea",
-      "title": "Build vs buy is dead — AI just killed it",
-      "summary": "Picture this: You're sitting in a conference room, halfway through a vendor pitch. The demo looks solid, and pricing fits nicely under budget. The timeline seems reasonable too. Everyone’s nodding alo",
-      "url": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-14T19:00:00+00:00",
-      "scrapedAt": "2025-12-15T08:39:59.521150+00:00"
-    },
-    {
-      "id": "fcf93a4ac933",
-      "title": "Grok got crucial facts wrong about Bondi Beach shooting",
-      "summary": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia.",
-      "url": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-14T23:17:47+00:00",
-      "scrapedAt": "2025-12-15T08:39:59.256310+00:00"
     }
   ]
 }
