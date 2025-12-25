@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2025-12-24T08:37:54.688259+00:00",
+  "lastUpdated": "2025-12-25T08:36:50.145015+00:00",
   "articles": [
+    {
+      "id": "64711c8d7da2",
+      "title": "Parameter-Efficient Neural CDEs via Implicit Function Jacobians",
+      "summary": "arXiv:2512.20625v1 Announce Type: new Abstract: Neural Controlled Differential Equations (Neural CDEs, NCDEs) are a unique branch of methods, specifically tailored for analysing temporal sequences. Ho",
+      "url": "https://arxiv.org/abs/2512.20625",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.757117+00:00"
+    },
+    {
+      "id": "4bb0eb5e1a36",
+      "title": "Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence",
+      "summary": "arXiv:2512.20651v1 Announce Type: new Abstract: Large language models (LLMs) face inherent limitations in memory, including restricted context windows, long-term knowledge forgetting, redundant inform",
+      "url": "https://arxiv.org/abs/2512.20651",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.540806+00:00"
+    },
+    {
+      "id": "a7dea85ab89c",
+      "title": "Mixture of Attention Schemes (MoAS): Learning to Route Between MHA, GQA, and MQA",
+      "summary": "arXiv:2512.20650v1 Announce Type: new Abstract: The choice of attention mechanism in Transformer models involves a critical trade-off between modeling quality and inference efficiency. Multi-Head Atte",
+      "url": "https://arxiv.org/abs/2512.20650",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.540691+00:00"
+    },
+    {
+      "id": "3441aa7a2e4a",
+      "title": "AIAuditTrack: A Framework for AI Security system",
+      "summary": "arXiv:2512.20649v1 Announce Type: new Abstract: The rapid expansion of AI-driven applications powered by large language models has led to a surge in AI interaction data, raising urgent challenges in s",
+      "url": "https://arxiv.org/abs/2512.20649",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.540588+00:00"
+    },
+    {
+      "id": "c522e0aa16eb",
+      "title": "Reasoning Relay: Evaluating Stability and Interchangeability of Large Language Models in Mathematical Reasoning",
+      "summary": "arXiv:2512.20647v1 Announce Type: new Abstract: Chain-of-Thought (CoT) prompting has significantly advanced the reasoning capabilities of large language models (LLMs). While prior work focuses on impr",
+      "url": "https://arxiv.org/abs/2512.20647",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.540481+00:00"
+    },
+    {
+      "id": "ef4eb58c848b",
+      "title": "Erkang-Diagnosis-1.1 Technical Report",
+      "summary": "arXiv:2512.20632v1 Announce Type: new Abstract: This report provides a detailed introduction to Erkang-Diagnosis-1.1 model, our AI healthcare consulting assistant developed using Alibaba Qwen-3 model.",
+      "url": "https://arxiv.org/abs/2512.20632",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.540356+00:00"
+    },
+    {
+      "id": "d273ca3cb4db",
+      "title": "MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data",
+      "summary": "arXiv:2512.20630v1 Announce Type: new Abstract: Foundation model reliability assessment typically requires thousands of evaluation examples, making it computationally expensive and time-consuming for ",
+      "url": "https://arxiv.org/abs/2512.20630",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.540258+00:00"
+    },
+    {
+      "id": "7bb42ded0a7e",
+      "title": "Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)",
+      "summary": "arXiv:2512.20628v1 Announce Type: new Abstract: This volume presents the proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025), held in",
+      "url": "https://arxiv.org/abs/2512.20628",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.540120+00:00"
+    },
+    {
+      "id": "f0c1570453ae",
+      "title": "MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation",
+      "summary": "arXiv:2512.20626v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) enables large language models (LLMs) to dynamically access external information, which is powerful for answering qu",
+      "url": "https://arxiv.org/abs/2512.20626",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.540029+00:00"
+    },
+    {
+      "id": "49951ad976df",
+      "title": "Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment",
+      "summary": "arXiv:2512.20624v1 Announce Type: new Abstract: This study introduces a quantum inspired framework for optimizing the exploration exploitation tradeoff in multiagent reinforcement learning, applied to",
+      "url": "https://arxiv.org/abs/2512.20624",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.539910+00:00"
+    },
+    {
+      "id": "2a732a680328",
+      "title": "BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization",
+      "summary": "arXiv:2512.20623v1 Announce Type: new Abstract: Smart home lighting systems consume 15-20% of residential energy but lack adaptive intelligence to optimize for user comfort and energy efficiency simul",
+      "url": "https://arxiv.org/abs/2512.20623",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-25T00:00:00-05:00",
+      "scrapedAt": "2025-12-25T08:35:52.539776+00:00"
+    },
+    {
+      "id": "7edf7da8899b",
+      "title": "Can AI fix the operating room? This startup thinks so",
+      "summary": "There’s plenty of hype around AI and robots in healthcare, but the problem that’s actually costing hospitals money right now is operating room coordination. Two to four hours of OR time is lost every ",
+      "url": "https://techcrunch.com/video/can-ai-fix-the-operating-room-this-startup-thinks-so/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T04:48:00+00:00",
+      "scrapedAt": "2025-12-25T08:35:51.908398+00:00"
+    },
+    {
+      "id": "ea7de2c0be13",
+      "title": "Italy tells Meta to suspend its policy that bans rival AI chatbots from WhatsApp",
+      "summary": "Italy has ordered Meta to suspend its policy that bans companies from using WhatsApp's business tools to offer their own AI chatbots on the popular chat app.",
+      "url": "https://techcrunch.com/2025/12/24/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T14:40:34+00:00",
+      "scrapedAt": "2025-12-25T08:35:51.891620+00:00"
+    },
+    {
+      "id": "d465e7d72906",
+      "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis",
+      "summary": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
+      "url": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T16:27:55+00:00",
+      "scrapedAt": "2025-12-25T08:35:51.891550+00:00"
+    },
+    {
+      "id": "55b1042172b5",
+      "title": "Why the operating room is ripe for AI, according to Akara",
+      "summary": "There’s plenty of hype around AI and robots in healthcare, but the problem that’s actually costing hospitals money right now is operating room coordination. Two to four hours of OR time is lost every ",
+      "url": "https://techcrunch.com/podcast/why-the-operating-room-is-ripe-for-ai-according-to-akara/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T16:47:41+00:00",
+      "scrapedAt": "2025-12-25T08:35:51.891476+00:00"
+    },
+    {
+      "id": "da9ea638c8e1",
+      "title": "The European startup market’s data doesn’t match its energy — yet",
+      "summary": "Europe's startup market hasn't produced meaningful numbers but there is reason to believe the data will start to change.",
+      "url": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T18:00:00+00:00",
+      "scrapedAt": "2025-12-25T08:35:51.891377+00:00"
+    },
+    {
+      "id": "63267dfea261",
+      "title": "The year data centers went from backend to center stage",
+      "summary": "Data centers are no longer the boring tech issue they once were.",
+      "url": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T20:16:41+00:00",
+      "scrapedAt": "2025-12-25T08:35:51.891303+00:00"
+    },
+    {
+      "id": "bc52d4d41e63",
+      "title": "Nvidia to license AI chip challenger Groq’s tech and hire its CEO",
+      "summary": "With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.",
+      "url": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T22:03:16+00:00",
+      "scrapedAt": "2025-12-25T08:35:51.891218+00:00"
+    },
+    {
+      "id": "8879e24948f9",
+      "title": "Why it’s time to reset our expectations for AI",
+      "summary": "Can I ask you a question: How do you feel about AI right now? Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off",
+      "url": "https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-16T12:29:04+00:00",
+      "scrapedAt": "2025-12-25T08:35:50.835563+00:00"
+    },
+    {
+      "id": "4d28728b4158",
+      "title": "Creating psychological safety in the AI era",
+      "summary": "Rolling out enterprise-grade AI means climbing two steep cliffs at once. First, understanding and implementing the tech itself. And second, creating the cultural conditions where employees can maximiz",
+      "url": "https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-16T15:00:00+00:00",
+      "scrapedAt": "2025-12-25T08:35:50.834387+00:00"
+    },
     {
       "id": "f3421329bb03",
       "title": "S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test",
@@ -1413,208 +1613,6 @@
       "publishedAt": "2025-12-17T16:00:00+00:00",
       "scrapedAt": "2025-12-18T08:37:18.432644+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_flash_model_blog_heade.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "2c0405c91e1c",
-      "title": "Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs",
-      "summary": "We've heard (and written, here at VentureBeat) lots about the generative AI race between the U.S. and China , as those have been the countries with the groups most active in fielding new models (with ",
-      "url": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-15T20:16:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.675075+00:00"
-    },
-    {
-      "id": "ce093c7dea85",
-      "title": "Black box AI isn’t enough: Why enterprise consulting is moving to grounded models",
-      "summary": "Presented by SAP In an era where anyone can spin up an LLM, the real differentiator isn’t the AI technology itself, but the institutional knowledge it’s grounded in. Internal and partner consultants l",
-      "url": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T05:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.673971+00:00"
-    },
-    {
-      "id": "9485a7722e3c",
-      "title": "Zoom says it aced AI’s hardest exam. Critics say it copied off its neighbors.",
-      "summary": "Zoom Video Communications , the company best known for keeping remote workers connected during the pandemic, announced last week that it had achieved the highest score ever recorded on one of artifici",
-      "url": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T14:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.672468+00:00"
-    },
-    {
-      "id": "231ac019b44b",
-      "title": "Zencoder drops Zenflow, a free AI orchestration tool that pits Claude against OpenAI’s models to catch coding errors",
-      "summary": "Zencoder , the Silicon Valley startup that builds AI-powered coding agents, released a free desktop application on Monday that it says will fundamentally change how software engineers interact with ar",
-      "url": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T14:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.669552+00:00"
-    },
-    {
-      "id": "a5f21c3a88bb",
-      "title": "Everbloom built an AI to turn chicken feathers into cashmere",
-      "summary": "Everbloom has also developed a chemical process to transform waste fibers and feathers into upcycled materials that resemble everything from polyester to cashmere.",
-      "url": "https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T12:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.425632+00:00"
-    },
-    {
-      "id": "c4cbf5014763",
-      "title": "Adobe Firefly now supports prompt-based video editing, adds more third-party models",
-      "summary": "Adobe is updating its AI video-generation app, Firefly, with a new video editor that supports precise prompt-based edits, as well as adding new third-party models for image and video generation, inclu",
-      "url": "https://techcrunch.com/2025/12/16/adobe-firefly-now-supports-prompt-based-video-editing-adds-more-third-party-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T14:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.425563+00:00"
-    },
-    {
-      "id": "6b24ab1f94a4",
-      "title": "Databricks raises $4B at $134B valuation as its AI business heats up",
-      "summary": "The data intelligence company has just raised more than $4 billion in a Series L funding round at a $134 billion valuation — up 34% from the $100 billion valuation that it achieved just three months a",
-      "url": "https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T14:39:20+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.425489+00:00"
-    },
-    {
-      "id": "4d5418fa36e8",
-      "title": "Google tests an email-based productivity assistant",
-      "summary": "Google's new email-based assistant will be available to AI Pro and Ultra plan users over the age of 18 in North America.",
-      "url": "https://techcrunch.com/2025/12/16/google-tests-an-email-based-productivity-assistant/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T18:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.425408+00:00"
-    },
-    {
-      "id": "538f6830fe02",
-      "title": "Uber Eats alum lands $14M seed from a16z to fix WhatsApp chaos for LatAm’s doctors",
-      "summary": "Leona Health built an AI co-pilot to manage the flood of patient messages Latin American doctors receive on WhatsApp.",
-      "url": "https://techcrunch.com/2025/12/16/uber-eats-alum-lands-14m-seed-from-a16z-to-fix-whatsapp-chaos-for-latams-doctors/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T18:11:58+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.425341+00:00"
-    },
-    {
-      "id": "7fe0db94919b",
-      "title": "OpenAI continues on its ‘code red’ warpath with new image generation model",
-      "summary": "OpenAI rolls out GPT Image 1.5 for ChatGPT, promising 4x faster generation, better instruction-following, and precise edits. The launch escalates its rivalry with Google Gemini.",
-      "url": "https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T18:22:50+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.425270+00:00"
-    },
-    {
-      "id": "1ec88bd17515",
-      "title": "Meta’s AI glasses can now help you hear conversations better",
-      "summary": "Conversation focus uses the AI glasses' open-ear speakers to amplify the voice of the person you're talking to, says Meta.",
-      "url": "https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T18:30:55+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.425197+00:00"
-    },
-    {
-      "id": "f2d212cde989",
-      "title": "DoorDash rolls out Zesty, an AI social app for discovering new restaurants",
-      "summary": "Users can view and share photos and comments about restaurants they’ve visited, discover content from others, and follow people just like on any social network.",
-      "url": "https://techcrunch.com/2025/12/16/doordash-rolls-out-zesty-an-ai-social-app-for-discovering-new-restaurants/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T18:48:43+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.425119+00:00"
-    },
-    {
-      "id": "7be5f6810aca",
-      "title": "Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage",
-      "summary": "The deal valued MoEngage at \"well over\" $900 million post-money.",
-      "url": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T05:20:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.425012+00:00"
-    },
-    {
-      "id": "b44398808cf1",
-      "title": "The new ChatGPT Images is here",
-      "summary": "The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to ",
-      "url": "https://openai.com/index/new-chatgpt-images-is-here",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-16T00:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.339983+00:00"
-    },
-    {
-      "id": "1adfb68fe6b4",
-      "title": "Measuring AI’s capability to accelerate biological research",
-      "summary": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both th",
-      "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-16T08:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.339902+00:00"
-    },
-    {
-      "id": "005a369e5985",
-      "title": "Evaluating AI’s ability to perform scientific research tasks",
-      "summary": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
-      "url": "https://openai.com/index/frontierscience",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-16T09:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:02.339808+00:00"
-    },
-    {
-      "id": "ca5ff5a7662f",
-      "title": "2025 at Google",
-      "summary": "Learn more about Google’s launches, milestones and more from 2025.",
-      "url": "https://blog.google/technology/ai/look-back-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-09T16:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:01.898018+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6819f76a6c8c",
-      "title": "Learn more about AI in the workplace in our new research report.",
-      "summary": "Learn more about AI in the workplace in our new research report.",
-      "url": "https://blog.google/products/workspace/gemini-ai-workplace-research-report/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-09T17:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:01.897928+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/airesearchsocial.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "8879e24948f9",
-      "title": "Why it’s time to reset our expectations for AI",
-      "summary": "Can I ask you a question: How do you feel about AI right now? Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off",
-      "url": "https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T12:29:04+00:00",
-      "scrapedAt": "2025-12-17T08:38:01.719374+00:00"
-    },
-    {
-      "id": "4d28728b4158",
-      "title": "Creating psychological safety in the AI era",
-      "summary": "Rolling out enterprise-grade AI means climbing two steep cliffs at once. First, understanding and implementing the tech itself. And second, creating the cultural conditions where employees can maximiz",
-      "url": "https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T15:00:00+00:00",
-      "scrapedAt": "2025-12-17T08:38:01.718005+00:00"
     }
   ]
 }
