@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2025-12-25T08:36:50.145015+00:00",
+  "lastUpdated": "2025-12-26T08:36:22.701854+00:00",
   "articles": [
+    {
+      "id": "36ad1c6191b6",
+      "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
+      "summary": "Score: 53 points",
+      "url": "https://github.com/thu-ml/TurboDiffusion",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-26T03:19:49+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.304950+00:00"
+    },
+    {
+      "id": "cc731e41c6ff",
+      "title": "Show HN: GeneGuessr – a daily biology web puzzle",
+      "summary": "I made a web game inspired by Geoguessr and Wordle, where you get shown a 3D model of a random human protein each day, and you have to triangulate its gene name using similarity clues.<p>My background",
+      "url": "https://geneguessr.brinedew.bio/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-23T09:40:37+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.289676+00:00"
+    },
+    {
+      "id": "f1601f76c52f",
+      "title": "Building an AI agent inside a 7-year-old Rails monolith",
+      "summary": "Score: 10 points",
+      "url": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-26T07:35:15+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.274332+00:00"
+    },
+    {
+      "id": "38f72ef0c68e",
+      "title": "Tech Disrupted Friendship. It’s Time to Bring It Back",
+      "summary": "Two decades ago social media promised to connect people with pals far and wide. Twenty years online has left us turning to AI for kinship. IRL companionship is the future.",
+      "url": "https://www.wired.com/story/expired-tired-wired-ai-friends/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T11:00:00+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.101452+00:00"
+    },
+    {
+      "id": "706a00ccf870",
+      "title": "People Are Using Sora 2 to Make Disturbing Videos With AI-Generated Kids",
+      "summary": "Videos such as fake ads featuring AI children playing with vibrators or Jeffrey Epstein- and Diddy-themed play sets are being made with Sora 2 and posted to TikTok.",
+      "url": "https://www.wired.com/story/people-are-using-sora-2-to-make-child-fetish-content/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T11:30:00+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.101382+00:00"
+    },
+    {
+      "id": "f1f66c86877c",
+      "title": "OpenAI’s Child Exploitation Reports Increased Sharply This Year",
+      "summary": "The company made 80 times as many reports to the National Center for Missing & Exploited Children during the first six months of 2025 as it did in the same period a year prior.",
+      "url": "https://www.wired.com/story/openai-child-safety-reports-ncmec/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T16:32:20+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.101312+00:00"
+    },
+    {
+      "id": "baec811cc3ce",
+      "title": "Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis",
+      "summary": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
+      "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-23T11:30:00+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.101231+00:00"
+    },
+    {
+      "id": "4319a7905fdb",
+      "title": "AlphaFold Changed Science. After 5 Years, It’s Still Evolving",
+      "summary": "WIRED spoke with DeepMind’s Pushmeet Kohli about the recent past—and promising future—of the Nobel Prize-winning research project that changed biology and chemistry forever.",
+      "url": "https://www.wired.com/story/alphafold-changed-science-after-5-years-its-still-evolving/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T10:00:00+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.101160+00:00"
+    },
+    {
+      "id": "16cd1ec17d11",
+      "title": "Pinterest Users Are Tired of All the AI Slop",
+      "summary": "A surge of AI-generated content is frustrating Pinterest users and left some questioning whether the platform still works at all.",
+      "url": "https://www.wired.com/story/pinterst-ai-slop-content/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T10:30:00+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.101077+00:00"
+    },
+    {
+      "id": "d33a962a1cf9",
+      "title": "The Age of the All-Access AI Agent Is Here",
+      "summary": "Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.",
+      "url": "https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T11:00:00+00:00",
+      "scrapedAt": "2025-12-26T08:35:30.100970+00:00"
+    },
+    {
+      "id": "73678a0fdbb2",
+      "title": "Humanoid robots are coming. Eventually?",
+      "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on robotics and AI, follow Robert Hart . The Stepback arrives in our subscribers' inboxes at ",
+      "url": "https://www.theverge.com/column/843418/humanoid-robot-hype",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-21T08:00:00-05:00",
+      "scrapedAt": "2025-12-26T08:35:30.040397+00:00"
+    },
+    {
+      "id": "36a17c983db6",
+      "title": "Chipwrecked",
+      "summary": "The AI data center build-out, as it currently stands, is dependent on two things: Nvidia chips and borrowed money. Perhaps it was inevitable that people would begin using Nvidia chips to borrow money.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-22T11:00:00-05:00",
+      "scrapedAt": "2025-12-26T08:35:30.039699+00:00"
+    },
+    {
+      "id": "a525ea107d89",
+      "title": "How AI broke the smart home in 2025",
+      "summary": "This morning, I asked my Alexa-enabled Bosch coffee machin e to make me a coffee. Instead of running my routine , it told me it couldn't do that. Ever since I upgraded to Alexa Plus, Amazon's generati",
+      "url": "https://www.theverge.com/tech/845958/ai-smart-home-broken",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-23T08:30:00-05:00",
+      "scrapedAt": "2025-12-26T08:35:30.038222+00:00"
+    },
+    {
+      "id": "e22d0c172505",
+      "title": "New York’s landmark AI safety bill was defanged — and universities were part of the push against it",
+      "summary": "A group of tech companies and academic institutions spent tens of thousands of dollars in the past month - likely between $17,000 and $25,000 - on an ad campaign against New York's landmark AI safety ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-23T11:18:49-05:00",
+      "scrapedAt": "2025-12-26T08:35:30.037684+00:00"
+    },
+    {
+      "id": "f569b05700da",
+      "title": "In 2025, AI became a lightning rod for gamers and developers",
+      "summary": "2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game stu",
+      "url": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-24T08:00:00-05:00",
+      "scrapedAt": "2025-12-26T08:35:30.037310+00:00"
+    },
+    {
+      "id": "32664cd9ee66",
+      "title": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+      "summary": "AI isn't new to Hollywood - but this was the year when it really made its presence felt. For years now, the entertainment industry has used different kinds of generative AI products for a variety of p",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-25T08:00:00-05:00",
+      "scrapedAt": "2025-12-26T08:35:30.036912+00:00"
+    },
+    {
+      "id": "5493e4d736f6",
+      "title": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+      "summary": "Buddy’s in space. When your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. I've heard this advice again and again, but never",
+      "url": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-25T09:00:00-05:00",
+      "scrapedAt": "2025-12-26T08:35:30.036465+00:00"
+    },
+    {
+      "id": "a32667d0ddfb",
+      "title": "Introducing OpenAI Academy for News Organizations",
+      "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy",
+      "url": "https://openai.com/index/openai-academy-for-news-organizations",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-17T06:00:00+00:00",
+      "scrapedAt": "2025-12-26T08:35:28.976360+00:00"
+    },
+    {
+      "id": "006948276717",
+      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+      "url": "https://blog.google/products/gemini/gemini-3-flash/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-17T16:00:00+00:00",
+      "scrapedAt": "2025-12-26T08:35:28.519848+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_flash_model_blog_heade.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "91fd04c2eace",
+      "title": "AI Wrapped: The 14 AI terms you couldn’t avoid in 2025",
+      "summary": "If the past 12 months have taught us anything, it’s that the AI hype train is showing no signs of slowing. It’s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire i",
+      "url": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-25T10:00:00+00:00",
+      "scrapedAt": "2025-12-26T08:35:28.279458+00:00"
+    },
     {
       "id": "64711c8d7da2",
       "title": "Parameter-Efficient Neural CDEs via Implicit Function Jacobians",
@@ -1411,208 +1612,6 @@
       "category": "product",
       "publishedAt": "2025-12-18T21:24:58+00:00",
       "scrapedAt": "2025-12-19T08:36:48.913064+00:00"
-    },
-    {
-      "id": "48dba0bb0b45",
-      "title": "AgroAskAI: A Multi-Agentic AI Framework for Supporting Smallholder Farmers' Enquiries Globally",
-      "summary": "arXiv:2512.14910v1 Announce Type: new Abstract: Agricultural regions in rural areas face damage from climate-related risks, including droughts, heavy rainfall, and shifting weather patterns. Prior res",
-      "url": "https://arxiv.org/abs/2512.14910",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00-05:00",
-      "scrapedAt": "2025-12-18T08:37:19.477909+00:00"
-    },
-    {
-      "id": "2df17df0cf2b",
-      "title": "IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection",
-      "summary": "arXiv:2512.14792v1 Announce Type: new Abstract: Large Language Models (LLMs) currently exhibit low success rates in generating correct and intent-aligned Infrastructure as Code (IaC). This research in",
-      "url": "https://arxiv.org/abs/2512.14792",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00-05:00",
-      "scrapedAt": "2025-12-18T08:37:19.477745+00:00"
-    },
-    {
-      "id": "6d9582c8f183",
-      "title": "GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge",
-      "summary": "arXiv:2512.14766v1 Announce Type: new Abstract: Large language models (LLMs) achieve strong results on knowledge graph question answering (KGQA), but most benchmarks assume complete knowledge graphs (",
-      "url": "https://arxiv.org/abs/2512.14766",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00-05:00",
-      "scrapedAt": "2025-12-18T08:37:19.477629+00:00"
-    },
-    {
-      "id": "e153eacd3b93",
-      "title": "Attention as Binding: A Vector-Symbolic Perspective on Transformer Reasoning",
-      "summary": "arXiv:2512.14709v1 Announce Type: new Abstract: Transformer-based language models display impressive reasoning-like behavior, yet remain brittle on tasks that require stable symbolic manipulation. Thi",
-      "url": "https://arxiv.org/abs/2512.14709",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00-05:00",
-      "scrapedAt": "2025-12-18T08:37:19.477490+00:00"
-    },
-    {
-      "id": "bb54b255ce05",
-      "title": "Why agentic AI needs a new category of customer data",
-      "summary": "Presented by Twilio The customer data infrastructure powering most enterprises was architected for a world that no longer exists: one where marketing interactions could be captured and processed in ba",
-      "url": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-15T05:00:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:19.232859+00:00"
-    },
-    {
-      "id": "32f695f56085",
-      "title": "Bolmo’s architecture unlocks efficient byte‑level LM training without sacrificing quality",
-      "summary": "Enterprises that want tokenizer-free multilingual models are increasingly turning to byte-level language models to reduce brittleness in noisy or low-resource text. To tap into that niche — and make i",
-      "url": "https://venturebeat.com/orchestration/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-15T05:00:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:19.231004+00:00"
-    },
-    {
-      "id": "95232da20d61",
-      "title": "Tokenization takes the lead in the fight for data security",
-      "summary": "Presented by Capital One Software Tokenization is emerging as a cornerstone of modern data security, helping businesses separate the value of their data from its risk. During this VB in Conversation ,",
-      "url": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-15T15:00:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:19.229937+00:00"
-    },
-    {
-      "id": "886f338edd10",
-      "title": "AI is moving to the edge – and network security needs to catch up",
-      "summary": "Presented by T-Mobile for Business Small and mid-sized businesses are adopting AI at a pace that would have seemed unrealistic even a few years ago. Smart assistants that greet customers, predictive t",
-      "url": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T08:00:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:19.226300+00:00"
-    },
-    {
-      "id": "2dc062950ec8",
-      "title": "Gemini 3 Flash arrives with reduced costs and latency — a powerful combo for enterprises",
-      "summary": "Enterprises can now harness the power of a large language model that's near that of the state-of-the-art Google’s Gemini 3 Pro , but at a fraction of the cost and with increased speed, thanks to the n",
-      "url": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T19:24:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:19.224707+00:00"
-    },
-    {
-      "id": "638acc282a1a",
-      "title": "Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular",
-      "summary": "Amazon is in early discussions to invest as much as $10 billion in OpenAI in a deal that would see the AI lab using the e-commerce giant's AI chips.",
-      "url": "https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T12:03:36+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.998448+00:00"
-    },
-    {
-      "id": "c067d1a52ee0",
-      "title": "Skana Robotics helps fleets of underwater robots communicate with each other",
-      "summary": "Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.",
-      "url": "https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T14:05:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.998375+00:00"
-    },
-    {
-      "id": "39b950edc439",
-      "title": "Google’s vibe-coding tool Opal comes to Gemini",
-      "summary": "The company on Wednesday said it is integrating the tool, which lets you build AI-powered mini apps, inside the Gemini web app, allowing users to create their own custom apps.",
-      "url": "https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T15:16:42+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.998308+00:00"
-    },
-    {
-      "id": "070068830520",
-      "title": "Mozilla’s new CEO says AI is coming to Firefox, but will remain a choice",
-      "summary": "Mozilla has appointed Anthony Enzor-DeMeo as its CEO as the Firefox developer scrambles to adapt in a rapidly changing browser market.",
-      "url": "https://techcrunch.com/2025/12/17/mozillas-new-ceo-says-ai-is-coming-to-firefox-but-will-remain-a-choice/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T15:17:52+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.998234+00:00"
-    },
-    {
-      "id": "1714fc96b5ce",
-      "title": "Google launches Gemini 3 Flash, makes it the default model in the Gemini app",
-      "summary": "Google is making Gemini 3 Flash the default model in the Gemini app and oAI model for Search",
-      "url": "https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T16:00:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.998161+00:00"
-    },
-    {
-      "id": "e39f72baee72",
-      "title": "Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org",
-      "summary": "DeSantis has spent 27 years at Amazon, including eight years as an SVP for AWS, the cloud provider that powers about one-third of the internet.",
-      "url": "https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T18:06:29+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.998080+00:00"
-    },
-    {
-      "id": "6f69face387b",
-      "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
-      "summary": "The lawsuit is just the latest in a string of copyright-related legal complaints aimed at the AI industry.",
-      "url": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-18T00:44:55+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.997990+00:00"
-    },
-    {
-      "id": "e243be208b10",
-      "title": "Developers can now submit apps to ChatGPT",
-      "summary": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help de",
-      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-17T00:00:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.924685+00:00"
-    },
-    {
-      "id": "a32667d0ddfb",
-      "title": "Introducing OpenAI Academy for News Organizations",
-      "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy",
-      "url": "https://openai.com/index/openai-academy-for-news-organizations",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-17T06:00:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.924595+00:00"
-    },
-    {
-      "id": "70904be0e49a",
-      "title": "These developers are changing lives with Gemma 3n",
-      "summary": "From enhancing assistive technology to addressing the digital divide, developers built mobile-first solutions to address real-world problems in the Gemma 3n Impact Chall…",
-      "url": "https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-10T17:15:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.433113+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "006948276717",
-      "title": "Gemini 3 Flash: frontier intelligence built for speed",
-      "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
-      "url": "https://blog.google/products/gemini/gemini-3-flash/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-17T16:00:00+00:00",
-      "scrapedAt": "2025-12-18T08:37:18.432644+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_flash_model_blog_heade.max-600x600.format-webp.webp"
     }
   ]
 }
