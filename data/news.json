@@ -1,6 +1,156 @@
 {
-  "lastUpdated": "2025-12-27T08:34:40.656524+00:00",
+  "lastUpdated": "2025-12-28T08:34:35.452042+00:00",
   "articles": [
+    {
+      "id": "d497c59b0add",
+      "title": "US judge blocks detention of British social media campaigner",
+      "summary": "Score: 24 points",
+      "url": "https://www.bbc.com/news/articles/c33mx6j5jrvo",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-27T23:40:54+00:00",
+      "scrapedAt": "2025-12-28T08:33:54.364671+00:00"
+    },
+    {
+      "id": "990458948c09",
+      "title": "Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize",
+      "summary": "Hey HN! I&#x27;m Baha, creator of Mysti.<p>The problem: I pay for Claude Pro, ChatGPT Plus, and Gemini but only one could help at a time. On tricky architecture decisions, I wanted a second opinion.<p",
+      "url": "https://github.com/DeepMyst/Mysti",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-23T13:18:32+00:00",
+      "scrapedAt": "2025-12-28T08:33:54.129901+00:00"
+    },
+    {
+      "id": "e21240eea7ae",
+      "title": "Public Domain Day 2026",
+      "summary": "Score: 30 points",
+      "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-27T22:15:43+00:00",
+      "scrapedAt": "2025-12-28T08:33:54.024540+00:00"
+    },
+    {
+      "id": "ec273fd9bc9d",
+      "title": "Show HN: Ez FFmpeg – Video editing in plain English",
+      "summary": "I built a CLI tool that lets you do common video&#x2F;audio operations without remembering ffmpeg syntax.<p>Instead of:\nffmpeg -i video.mp4 -vf &quot;fps=15,scale=480:-1:flags=lanczos&quot; -loop 0 ou",
+      "url": "http://npmjs.com/package/ezff",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-27T08:45:46+00:00",
+      "scrapedAt": "2025-12-28T08:33:53.540434+00:00"
+    },
+    {
+      "id": "e500af9ed6ba",
+      "title": "Rainbow Six Siege hacked as players get billions of credits and random bans",
+      "summary": "Score: 163 points",
+      "url": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-27T19:45:28+00:00",
+      "scrapedAt": "2025-12-28T08:33:53.298925+00:00"
+    },
+    {
+      "id": "679d26f6864d",
+      "title": "Gpg.fail",
+      "summary": "Score: 344 points",
+      "url": "https://gpg.fail",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-27T17:05:50+00:00",
+      "scrapedAt": "2025-12-28T08:33:53.234803+00:00"
+    },
+    {
+      "id": "31bc8820d87e",
+      "title": "Manus AI 100M USD ARR",
+      "summary": "Score: 4 points",
+      "url": "https://manus.im/blog/manus-100m-arr",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-28T07:45:16+00:00",
+      "scrapedAt": "2025-12-28T08:33:53.202005+00:00"
+    },
+    {
+      "id": "bd2fcecd6715",
+      "title": "How we lost communication to entertainment",
+      "summary": "Score: 393 points",
+      "url": "https://ploum.net/2025-12-15-communication-entertainment.html",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-27T20:15:01+00:00",
+      "scrapedAt": "2025-12-28T08:33:53.104204+00:00"
+    },
+    {
+      "id": "dc72b6396929",
+      "title": "A new research shows that 21-33% of YouTube's feed may consist of AI slop",
+      "summary": "Score: 55 points",
+      "url": "https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-28T07:14:43+00:00",
+      "scrapedAt": "2025-12-28T08:33:53.007419+00:00"
+    },
+    {
+      "id": "c667a6ee3b15",
+      "title": "Replacing JavaScript with Just HTML",
+      "summary": "Score: 315 points",
+      "url": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2025-12-28T01:07:09+00:00",
+      "scrapedAt": "2025-12-28T08:33:52.974115+00:00"
+    },
+    {
+      "id": "5f5d4fd7bc63",
+      "title": "Introducing a New Chapter for ‘Uncanny Valley’",
+      "summary": "In this episode, we look back at 2025 and look ahead to what's happening in 2026—including what’s in store for Uncanny Valley.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-new-chapter-for-uncanny-valley/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T21:47:28+00:00",
+      "scrapedAt": "2025-12-28T08:33:52.759073+00:00"
+    },
+    {
+      "id": "30441dddcfe1",
+      "title": "WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025",
+      "summary": "In today’s episode of Uncanny Valley, we dive into five stories—from AI to DOGE—that encapsulate the year and give us clues as to what might unfold in 2026.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-19T22:58:41+00:00",
+      "scrapedAt": "2025-12-28T08:33:52.759001+00:00"
+    },
+    {
+      "id": "4e072bd49993",
+      "title": "So Long, GPT-5. Hello, Qwen",
+      "summary": "In the AI boom, chatbots and GPTs come and go quickly. (Remember Llama?) GPT-5 had a big year, but 2026 will be all about Qwen.",
+      "url": "https://www.wired.com/story/expired-tired-wired-gpt-5/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2025-12-27T11:00:00+00:00",
+      "scrapedAt": "2025-12-28T08:33:52.758375+00:00"
+    },
+    {
+      "id": "d237074d5be7",
+      "title": "Sam Altman is hiring someone to worry about the dangers of AI",
+      "summary": "ISO corporate scapegoat. OpenAI is hiring a Head of Preparedness . Or, in other words, someone whose primary job is to think about all the ways AI could go horribly, horribly wrong. In a post on X , S",
+      "url": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-27T14:00:35-05:00",
+      "scrapedAt": "2025-12-28T08:33:52.644151+00:00"
+    },
+    {
+      "id": "52cad83c97fb",
+      "title": "India startup funding hits $11B in 2025 as investors grow more selective",
+      "summary": "Startup funding rounds in India fell sharply in 2025 as investors concentrated capital into fewer companies.",
+      "url": "https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-28T01:00:00+00:00",
+      "scrapedAt": "2025-12-28T08:33:51.878244+00:00"
+    },
     {
       "id": "c95b2dcac9b5",
       "title": "Rob Pike goes nuclear over GenAI",
@@ -1210,206 +1360,6 @@
       "category": "product",
       "publishedAt": "2025-12-22T03:24:49+00:00",
       "scrapedAt": "2025-12-22T08:38:19.894218+00:00"
-    },
-    {
-      "id": "39eb36c81dc8",
-      "title": "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
-      "summary": "Score: 109 points",
-      "url": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-21T04:06:36+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.690021+00:00"
-    },
-    {
-      "id": "c3d69ec9e1dc",
-      "title": "Show HN: Jmail – Google Suite for Epstein files",
-      "summary": "Hi everyone! My name&#x27;s Luke and I made the original Jmail here alongside Riley Walz. We had a ton of friends collaborate on building out more of the app suite last night in lieue of DOJ&#x27;s &q",
-      "url": "https://www.jmail.world",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-20T21:00:05+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.648567+00:00"
-    },
-    {
-      "id": "cfe9de2e3406",
-      "title": "People Are Paying to Get Their Chatbots High on ‘Drugs’",
-      "summary": "An online marketplace is selling code modules that simulate the effects of cannabis, ketamine, cocaine, ayahuasca, and alcohol when they are uploaded to ChatGPT.",
-      "url": "https://www.wired.com/story/people-are-paying-to-get-their-chatbots-high-on-drugs/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T12:00:00+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.540032+00:00"
-    },
-    {
-      "id": "fcb50124586e",
-      "title": "‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era",
-      "summary": "In this episode of Uncanny Valley, we bring you our conversation with Jon M. Chu from WIRED’s Big Interview event, fresh on the heels of directing Wicked: For Good.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-17T22:07:59+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.539976+00:00"
-    },
-    {
-      "id": "477f76da319f",
-      "title": "A Filmmaker Made a Sam Altman Deepfake—and Got Unexpectedly Attached",
-      "summary": "The director of Deepfaking Sam Altman created a “Sam Bot” when he couldn’t get an interview with the OpenAI CEO. Watch an exclusive trailer for the documentary, which comes out in January.",
-      "url": "https://www.wired.com/story/a-filmmaker-made-a-sam-altman-deepfake-and-got-unexpectedly-attached/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-18T12:00:00+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.539917+00:00"
-    },
-    {
-      "id": "d097833879a9",
-      "title": "Opposed to Data Centers? The Working Families Party Wants You to Run for Office",
-      "summary": "The influential progressive third party announced Thursday that it was putting out a recruitment call for candidates specifically opposed to data centers.",
-      "url": "https://www.wired.com/story/opposed-to-data-centers-the-working-families-party-wants-you-to-run-for-office/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-18T14:00:00+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.539856+00:00"
-    },
-    {
-      "id": "7ab5a4a7c4c3",
-      "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
-      "summary": "Capable of creating “nearly perfect” face swaps during live video chats, Haotian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app",
-      "url": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-18T17:45:46+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.539802+00:00"
-    },
-    {
-      "id": "19644a29d0ef",
-      "title": "This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson",
-      "summary": "The developers of a browser tool that changes AI-centric LinkedIn posts to Allen Iverson facts want to help “take back control of your experience of the internet.”",
-      "url": "https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-19T10:00:00+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.539740+00:00"
-    },
-    {
-      "id": "89ab607be1a6",
-      "title": "6 Scary Predictions for AI in 2026",
-      "summary": "Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?",
-      "url": "https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-19T16:00:00+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.539678+00:00"
-    },
-    {
-      "id": "c71108577d59",
-      "title": "Scammers in China Are Using AI-Generated Images to Get Refunds",
-      "summary": "From dead crabs to shredded bed sheets, fraudsters are using fake photos and videos to get their money back from ecommerce sites.",
-      "url": "https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-19T19:31:43+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.539619+00:00"
-    },
-    {
-      "id": "5f5d4fd7bc63",
-      "title": "Introducing a New Chapter for ‘Uncanny Valley’",
-      "summary": "In this episode, we look back at 2025 and look ahead to what's happening in 2026—including what’s in store for Uncanny Valley.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-new-chapter-for-uncanny-valley/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-19T21:47:28+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.539556+00:00"
-    },
-    {
-      "id": "30441dddcfe1",
-      "title": "WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025",
-      "summary": "In today’s episode of Uncanny Valley, we dive into five stories—from AI to DOGE—that encapsulate the year and give us clues as to what might unfold in 2026.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-19T22:58:41+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.539481+00:00"
-    },
-    {
-      "id": "ea690d68bb1f",
-      "title": "It’s the great AGI rebrand",
-      "summary": "The cringe comes for us all, and for all our hot new turns of phrase. \"Rizz\" lost its luster when grandparents started asking about its meaning. Teachers who dressed up as \"6-7\" on Halloween drove a n",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/845890/ai-companies-rebrand-agi-artificial-general-intelligence",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-18T08:00:00-05:00",
-      "scrapedAt": "2025-12-21T08:32:45.430502+00:00"
-    },
-    {
-      "id": "1b755e48303d",
-      "title": "Microsoft made another Copilot ad where nothing actually works",
-      "summary": "Microsoft is at it again with another round of ads showing people talking to Copilot AI on their computers. This time it's holiday-themed, including a cameo from the big man in red. The 30-second TV s",
-      "url": "https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-18T10:30:00-05:00",
-      "scrapedAt": "2025-12-21T08:32:45.430168+00:00"
-    },
-    {
-      "id": "e1455793df65",
-      "title": "Google&#8217;s Gemini app can check videos to see if they were made with Google AI",
-      "summary": "Google expanded Gemini's AI verification feature to videos made or edited with the company's own AI models. Users can now ask Gemini to determine if an uploaded video is AI-generated by asking, \"Was t",
-      "url": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-18T15:31:22-05:00",
-      "scrapedAt": "2025-12-21T08:32:45.429702+00:00"
-    },
-    {
-      "id": "20212f9ba980",
-      "title": "LG forced a Copilot web app onto its TVs but will let you delete it",
-      "summary": "LG says it will let users delete the Microsoft Copilot shortcut it installed on newer TVs after several reports highlighted the unremovable icon. In a statement to The Verge , LG spokesperson Chris De",
-      "url": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-18T15:31:51-05:00",
-      "scrapedAt": "2025-12-21T08:32:45.429276+00:00"
-    },
-    {
-      "id": "bd6fc2865d6f",
-      "title": "OpenAI and Anthropic will start predicting when users are underage",
-      "summary": "OpenAI and Anthropic are rolling out new ways to detect underage users. As OpenAI has updated its guidelines on how ChatGPT should interact with users between the ages of 13 and 17, Anthropic is worki",
-      "url": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-18T16:55:59-05:00",
-      "scrapedAt": "2025-12-21T08:32:45.428838+00:00"
-    },
-    {
-      "id": "89ec5bc815d7",
-      "title": "Hiring specialists made sense before AI — now generalists win",
-      "summary": "Tony Stoyanov is CTO and co-founder of EliseAI In the 2010s, tech companies chased staff-level specialists: Backend engineers, data scientists, system architects. That model worked when technology evo",
-      "url": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2025-12-20T19:00:00+00:00",
-      "scrapedAt": "2025-12-21T08:32:45.068776+00:00"
-    },
-    {
-      "id": "e22499913324",
-      "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
-      "summary": "The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours.",
-      "url": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-20T18:20:34+00:00",
-      "scrapedAt": "2025-12-21T08:32:44.565521+00:00"
-    },
-    {
-      "id": "4c055652f27a",
-      "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
-      "summary": "ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use.",
-      "url": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-20T20:34:07+00:00",
-      "scrapedAt": "2025-12-21T08:32:44.565445+00:00"
     }
   ]
 }
