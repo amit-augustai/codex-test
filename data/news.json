@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2025-12-29T08:40:17.917520+00:00",
+  "lastUpdated": "2025-12-30T08:37:56.668798+00:00",
   "articles": [
+    {
+      "id": "0e5cea425298",
+      "title": "Wireless Traffic Prediction with Large Language Model",
+      "summary": "arXiv:2512.22178v1 Announce Type: new Abstract: The growing demand for intelligent, adaptive resource management in next-generation wireless networks has underscored the importance of accurate and sca",
+      "url": "https://arxiv.org/abs/2512.22178",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.916929+00:00"
+    },
+    {
+      "id": "708fe4461dc3",
+      "title": "SoliReward: Mitigating Susceptibility to Reward Hacking and Annotation Noise in Video Generation Reward Models",
+      "summary": "arXiv:2512.22170v1 Announce Type: new Abstract: Post-training alignment of video generation models with human preferences is a critical goal. Developing effective Reward Models (RMs) for this process ",
+      "url": "https://arxiv.org/abs/2512.22170",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.916801+00:00"
+    },
+    {
+      "id": "51ff1c042bb5",
+      "title": "Towards Unsupervised Causal Representation Learning via Latent Additive Noise Model Causal Autoencoders",
+      "summary": "arXiv:2512.22150v1 Announce Type: new Abstract: Unsupervised representation learning seeks to recover latent generative factors, yet standard methods relying on statistical independence often fail to ",
+      "url": "https://arxiv.org/abs/2512.22150",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.916676+00:00"
+    },
+    {
+      "id": "392f1815e2ad",
+      "title": "Pruning Graphs by Adversarial Robustness Evaluation to Strengthen GNN Defenses",
+      "summary": "arXiv:2512.22128v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) have emerged as a dominant paradigm for learning on graph-structured data, thanks to their ability to jointly exploit node ",
+      "url": "https://arxiv.org/abs/2512.22128",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.916514+00:00"
+    },
+    {
+      "id": "54ae5548101f",
+      "title": "Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback",
+      "summary": "arXiv:2512.22336v1 Announce Type: new Abstract: Symbolic world models (e.g., PDDL domains or executable simulators) are central to model-based planning, but training LLMs to generate such world models",
+      "url": "https://arxiv.org/abs/2512.22336",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.622505+00:00"
+    },
+    {
+      "id": "40433063bf3b",
+      "title": "SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence",
+      "summary": "arXiv:2512.22334v1 Announce Type: new Abstract: We introduce SciEvalKit, a unified benchmarking toolkit designed to evaluate AI models for science across a broad range of scientific disciplines and ta",
+      "url": "https://arxiv.org/abs/2512.22334",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.622384+00:00"
+    },
+    {
+      "id": "14740ebda148",
+      "title": "Logic Sketch Prompting (LSP): A Deterministic and Interpretable Prompting Method",
+      "summary": "arXiv:2512.22258v1 Announce Type: new Abstract: Large language models (LLMs) excel at natural language reasoning but remain unreliable on tasks requiring strict rule adherence, determinism, and audita",
+      "url": "https://arxiv.org/abs/2512.22258",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.622270+00:00"
+    },
+    {
+      "id": "4000b47b2e03",
+      "title": "Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks",
+      "summary": "arXiv:2512.22255v1 Announce Type: new Abstract: We present the surprising finding that a language model's reasoning capabilities can be improved by training on synthetic datasets of chain-of-thought (",
+      "url": "https://arxiv.org/abs/2512.22255",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.622157+00:00"
+    },
+    {
+      "id": "527dfe41fcb6",
+      "title": "We are not able to identify AI-generated images",
+      "summary": "arXiv:2512.22236v1 Announce Type: new Abstract: AI-generated images are now pervasive online, yet many people believe they can easily tell them apart from real photographs. We test this assumption thr",
+      "url": "https://arxiv.org/abs/2512.22236",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.622031+00:00"
+    },
+    {
+      "id": "2dd51200d67b",
+      "title": "With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems",
+      "summary": "arXiv:2512.22211v1 Announce Type: new Abstract: Agentic AI systems present both significant opportunities and novel risks due to their capacity for autonomous action, encompassing tasks such as code e",
+      "url": "https://arxiv.org/abs/2512.22211",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.621926+00:00"
+    },
+    {
+      "id": "f62b7bb917be",
+      "title": "Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing Post-Flood Aid in Bangladesh",
+      "summary": "arXiv:2512.22210v1 Announce Type: new Abstract: Post-disaster aid allocation in developing nations often suffers from systematic biases that disadvantage vulnerable regions, perpetuating historical in",
+      "url": "https://arxiv.org/abs/2512.22210",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.621797+00:00"
+    },
+    {
+      "id": "7ec27f4b3398",
+      "title": "GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks",
+      "summary": "arXiv:2512.22207v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are proficient in perception and instruction-following, but they still struggle with spatial reasoning: the abi",
+      "url": "https://arxiv.org/abs/2512.22207",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.621668+00:00"
+    },
+    {
+      "id": "e986e33e26eb",
+      "title": "Emergent Persuasion: Will LLMs Persuade Without Being Prompted?",
+      "summary": "arXiv:2512.22201v1 Announce Type: new Abstract: With the wide-scale adoption of conversational AI systems, AI are now able to exert unprecedented influence on human opinion and beliefs. Recent work ha",
+      "url": "https://arxiv.org/abs/2512.22201",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.621512+00:00"
+    },
+    {
+      "id": "6102cd3c73a1",
+      "title": "Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation",
+      "summary": "arXiv:2512.22199v1 Announce Type: new Abstract: Retrieval-Augmented Generation RAG systems enhance large language models by grounding responses in external knowledge bases, but conventional RAG archit",
+      "url": "https://arxiv.org/abs/2512.22199",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2025-12-30T00:00:00-05:00",
+      "scrapedAt": "2025-12-30T08:37:01.621380+00:00"
+    },
+    {
+      "id": "94eea76ec68f",
+      "title": "VCs predict strong enterprise AI adoption next year — again",
+      "summary": "More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets, and more for 2026.",
+      "url": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-29T14:00:00+00:00",
+      "scrapedAt": "2025-12-30T08:37:01.017772+00:00"
+    },
+    {
+      "id": "dce051a76bb3",
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+      "url": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-29T15:51:40+00:00",
+      "scrapedAt": "2025-12-30T08:37:01.017704+00:00"
+    },
+    {
+      "id": "70baa9334e9e",
+      "title": "Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere",
+      "summary": "Plaud Note Pro is a $179 notetaker, which is an excellent recording device first",
+      "url": "https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-29T18:00:00+00:00",
+      "scrapedAt": "2025-12-30T08:37:01.017617+00:00"
+    },
+    {
+      "id": "69d873e92e18",
+      "title": "2025 was the year AI got a vibe check",
+      "summary": "AI’s early-2025 spending spree featured massive raises and trillion-dollar infrastructure promises. By year’s end, hype gave way to a vibe check, with growing scrutiny over sustainability, safety, and",
+      "url": "https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-29T19:00:00+00:00",
+      "scrapedAt": "2025-12-30T08:37:01.017546+00:00"
+    },
+    {
+      "id": "ffc2aa2f5baa",
+      "title": "Meta just bought Manus, an AI startup everyone has been talking about",
+      "summary": "Meta says it'll keep Manus running independently while weaving its agents into Facebook, Instagram, and WhatsApp, where Meta's own chatbot, Meta AI, is already available to users.",
+      "url": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-30T05:39:08+00:00",
+      "scrapedAt": "2025-12-30T08:37:01.017450+00:00"
+    },
+    {
+      "id": "6dd8644a9ef3",
+      "title": "The latest AI news we announced in December",
+      "summary": "Here are Google’s latest AI updates from December 2025",
+      "url": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-29T18:15:00+00:00",
+      "scrapedAt": "2025-12-30T08:37:00.398617+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dec_AI_Recap_still.max-600x600.format-webp.webp"
+    },
     {
       "id": "d626b0f8ba05",
       "title": "Statistical vs. Deep Learning Models for Estimating Substance Overdose Excess Mortality in the US",
