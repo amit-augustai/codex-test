@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2025-12-31T08:38:00.032449+00:00",
+  "lastUpdated": "2026-01-01T08:37:18.771011+00:00",
   "articles": [
+    {
+      "id": "7042465427bd",
+      "title": "Generalized Regularized Evidential Deep Learning Models: Theory and Comprehensive Evaluation",
+      "summary": "arXiv:2512.23753v1 Announce Type: new Abstract: Evidential deep learning (EDL) models, based on Subjective Logic, introduce a principled and computationally efficient way to make deterministic neural ",
+      "url": "https://arxiv.org/abs/2512.23753",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.492762+00:00"
+    },
+    {
+      "id": "c965103b2d37",
+      "title": "Geometric Scaling of Bayesian Inference in LLMs",
+      "summary": "arXiv:2512.23752v1 Announce Type: new Abstract: Recent work has shown that small transformers trained in controlled \"wind-tunnel'' settings can implement exact Bayesian inference, and that their train",
+      "url": "https://arxiv.org/abs/2512.23752",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.492639+00:00"
+    },
+    {
+      "id": "0ba66f8e1ad2",
+      "title": "Coordinate Matrix Machine: A Human-level Concept Learning to Classify Very Similar Documents",
+      "summary": "arXiv:2512.23749v1 Announce Type: new Abstract: Human-level concept learning argues that humans typically learn new concepts from a single example, whereas machine learning algorithms typically requir",
+      "url": "https://arxiv.org/abs/2512.23749",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.492522+00:00"
+    },
+    {
+      "id": "a8c513a91c4b",
+      "title": "A Review of Diffusion-based Simulation-Based Inference: Foundations and Applications in Non-Ideal Data Scenarios",
+      "summary": "arXiv:2512.23748v1 Announce Type: new Abstract: For complex simulation problems, inferring parameters of scientific interest often precludes the use of classical likelihood-based techniques due to int",
+      "url": "https://arxiv.org/abs/2512.23748",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.492403+00:00"
+    },
+    {
+      "id": "e50b737f7438",
+      "title": "A Comprehensive Study of Deep Learning Model Fixing Approaches",
+      "summary": "arXiv:2512.23745v1 Announce Type: new Abstract: Deep Learning (DL) has been widely adopted in diverse industrial domains, including autonomous driving, intelligent healthcare, and aided programming. L",
+      "url": "https://arxiv.org/abs/2512.23745",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.492265+00:00"
+    },
+    {
+      "id": "6b126c50acf9",
+      "title": "Network Traffic Analysis with Process Mining: The UPSIDE Case Study",
+      "summary": "arXiv:2512.23718v1 Announce Type: new Abstract: Online gaming is a popular activity involving the adoption of complex systems and network infrastructures. The relevance of gaming, which generates larg",
+      "url": "https://arxiv.org/abs/2512.23718",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.492133+00:00"
+    },
+    {
+      "id": "183c5bbe113f",
+      "title": "Deep Reinforcement Learning for Solving the Fleet Size and Mix Vehicle Routing Problem",
+      "summary": "arXiv:2512.24251v1 Announce Type: new Abstract: The Fleet Size and Mix Vehicle Routing Problem (FSMVRP) is a prominent variant of the Vehicle Routing Problem (VRP), extensively studied in operations r",
+      "url": "https://arxiv.org/abs/2512.24251",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.231267+00:00"
+    },
+    {
+      "id": "07e9a9c3d1ef",
+      "title": "SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents",
+      "summary": "arXiv:2512.24189v1 Announce Type: new Abstract: We introduce SCP: the Science Context Protocol, an open-source standard designed to accelerate discovery by enabling a global network of autonomous scie",
+      "url": "https://arxiv.org/abs/2512.24189",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.231146+00:00"
+    },
+    {
+      "id": "471a271d2f81",
+      "title": "Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks",
+      "summary": "arXiv:2512.24156v1 Announce Type: new Abstract: We present a training-free graph-based approach for solving interactive reasoning tasks in the ARC-AGI-3 benchmark. ARC-AGI-3 comprises game-like tasks ",
+      "url": "https://arxiv.org/abs/2512.24156",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.231025+00:00"
+    },
+    {
+      "id": "40e8b0fb99ff",
+      "title": "CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation",
+      "summary": "arXiv:2512.24113v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated a remarkable capacity in understanding user preferences for recommendation systems. However, they are con",
+      "url": "https://arxiv.org/abs/2512.24113",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.230902+00:00"
+    },
+    {
+      "id": "63a2217c833a",
+      "title": "LoongFlow: Directed Evolutionary Search via a Cognitive Plan-Execute-Summarize Paradigm",
+      "summary": "arXiv:2512.24077v1 Announce Type: new Abstract: The transition from static Large Language Models (LLMs) to self-improving agents is hindered by the lack of structured reasoning in traditional evolutio",
+      "url": "https://arxiv.org/abs/2512.24077",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.230774+00:00"
+    },
+    {
+      "id": "1a60d6aef3f0",
+      "title": "ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment",
+      "summary": "arXiv:2512.24040v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) has emerged as a critical technique for enhancing Large Language Model (LLM) performance, yet current state-of-the-a",
+      "url": "https://arxiv.org/abs/2512.24040",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.230630+00:00"
+    },
+    {
+      "id": "d14f8823d897",
+      "title": "SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing",
+      "summary": "arXiv:2512.24008v1 Announce Type: new Abstract: Personalized search demands the ability to model users' evolving, multi-dimensional information needs; a challenge for systems constrained by static pro",
+      "url": "https://arxiv.org/abs/2512.24008",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.230497+00:00"
+    },
+    {
+      "id": "066aa616fb08",
+      "title": "A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming",
+      "summary": "arXiv:2512.23932v1 Announce Type: new Abstract: Accurate disease prediction is vital for timely intervention, effective treatment, and reducing medical complications. While symbolic AI has been applie",
+      "url": "https://arxiv.org/abs/2512.23932",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.230368+00:00"
+    },
+    {
+      "id": "93dbf3c357d9",
+      "title": "CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution",
+      "summary": "arXiv:2512.23880v1 Announce Type: new Abstract: Large language model (LLM) agents currently depend on predefined tools or brittle tool generation, constraining their capability and adaptability to com",
+      "url": "https://arxiv.org/abs/2512.23880",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.230267+00:00"
+    },
+    {
+      "id": "573e0caf851b",
+      "title": "The Drill-Down and Fabricate Test (DDFT): A Protocol for Measuring Epistemic Robustness in Language Models",
+      "summary": "arXiv:2512.23850v1 Announce Type: new Abstract: Current language model evaluations measure what models know under ideal conditions but not how robustly they know it under realistic stress. Static benc",
+      "url": "https://arxiv.org/abs/2512.23850",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-01T00:00:00-05:00",
+      "scrapedAt": "2026-01-01T08:36:21.230145+00:00"
+    },
+    {
+      "id": "1ce45597ef38",
+      "title": "Investors predict AI is coming for labor in 2026",
+      "summary": "The exact impact AI will have on the enterprise labor market is unclear but investors predict trends will start to emerge in 2026.",
+      "url": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2025-12-31T16:40:00+00:00",
+      "scrapedAt": "2026-01-01T08:36:20.599941+00:00"
+    },
+    {
+      "id": "19efea12c547",
+      "title": "‘College dropout’ has become the most coveted startup founder credential",
+      "summary": "AI founders are increasingly using their \"dropout\" status as a credential during YC pitches.",
+      "url": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-01T02:44:02+00:00",
+      "scrapedAt": "2026-01-01T08:36:20.599857+00:00"
+    },
+    {
+      "id": "8879e24948f9",
+      "title": "Why it’s time to reset our expectations for AI",
+      "summary": "Can I ask you a question: How do you feel about AI right now? Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off",
+      "url": "https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-16T12:29:04+00:00",
+      "scrapedAt": "2026-01-01T08:36:19.728853+00:00"
+    },
+    {
+      "id": "4d28728b4158",
+      "title": "Creating psychological safety in the AI era",
+      "summary": "Rolling out enterprise-grade AI means climbing two steep cliffs at once. First, understanding and implementing the tech itself. And second, creating the cultural conditions where employees can maximiz",
+      "url": "https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-16T15:00:00+00:00",
+      "scrapedAt": "2026-01-01T08:36:19.727664+00:00"
+    },
     {
       "id": "3d939e29841a",
       "title": "Billion-Dollar Data Centers Are Taking Over the World",
@@ -1161,206 +1361,6 @@
       "category": "product",
       "publishedAt": "2025-12-25T10:00:00+00:00",
       "scrapedAt": "2025-12-26T08:35:28.279458+00:00"
-    },
-    {
-      "id": "64711c8d7da2",
-      "title": "Parameter-Efficient Neural CDEs via Implicit Function Jacobians",
-      "summary": "arXiv:2512.20625v1 Announce Type: new Abstract: Neural Controlled Differential Equations (Neural CDEs, NCDEs) are a unique branch of methods, specifically tailored for analysing temporal sequences. Ho",
-      "url": "https://arxiv.org/abs/2512.20625",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.757117+00:00"
-    },
-    {
-      "id": "4bb0eb5e1a36",
-      "title": "Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence",
-      "summary": "arXiv:2512.20651v1 Announce Type: new Abstract: Large language models (LLMs) face inherent limitations in memory, including restricted context windows, long-term knowledge forgetting, redundant inform",
-      "url": "https://arxiv.org/abs/2512.20651",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.540806+00:00"
-    },
-    {
-      "id": "a7dea85ab89c",
-      "title": "Mixture of Attention Schemes (MoAS): Learning to Route Between MHA, GQA, and MQA",
-      "summary": "arXiv:2512.20650v1 Announce Type: new Abstract: The choice of attention mechanism in Transformer models involves a critical trade-off between modeling quality and inference efficiency. Multi-Head Atte",
-      "url": "https://arxiv.org/abs/2512.20650",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.540691+00:00"
-    },
-    {
-      "id": "3441aa7a2e4a",
-      "title": "AIAuditTrack: A Framework for AI Security system",
-      "summary": "arXiv:2512.20649v1 Announce Type: new Abstract: The rapid expansion of AI-driven applications powered by large language models has led to a surge in AI interaction data, raising urgent challenges in s",
-      "url": "https://arxiv.org/abs/2512.20649",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.540588+00:00"
-    },
-    {
-      "id": "c522e0aa16eb",
-      "title": "Reasoning Relay: Evaluating Stability and Interchangeability of Large Language Models in Mathematical Reasoning",
-      "summary": "arXiv:2512.20647v1 Announce Type: new Abstract: Chain-of-Thought (CoT) prompting has significantly advanced the reasoning capabilities of large language models (LLMs). While prior work focuses on impr",
-      "url": "https://arxiv.org/abs/2512.20647",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.540481+00:00"
-    },
-    {
-      "id": "ef4eb58c848b",
-      "title": "Erkang-Diagnosis-1.1 Technical Report",
-      "summary": "arXiv:2512.20632v1 Announce Type: new Abstract: This report provides a detailed introduction to Erkang-Diagnosis-1.1 model, our AI healthcare consulting assistant developed using Alibaba Qwen-3 model.",
-      "url": "https://arxiv.org/abs/2512.20632",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.540356+00:00"
-    },
-    {
-      "id": "d273ca3cb4db",
-      "title": "MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data",
-      "summary": "arXiv:2512.20630v1 Announce Type: new Abstract: Foundation model reliability assessment typically requires thousands of evaluation examples, making it computationally expensive and time-consuming for ",
-      "url": "https://arxiv.org/abs/2512.20630",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.540258+00:00"
-    },
-    {
-      "id": "7bb42ded0a7e",
-      "title": "Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)",
-      "summary": "arXiv:2512.20628v1 Announce Type: new Abstract: This volume presents the proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025), held in",
-      "url": "https://arxiv.org/abs/2512.20628",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.540120+00:00"
-    },
-    {
-      "id": "f0c1570453ae",
-      "title": "MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation",
-      "summary": "arXiv:2512.20626v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) enables large language models (LLMs) to dynamically access external information, which is powerful for answering qu",
-      "url": "https://arxiv.org/abs/2512.20626",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.540029+00:00"
-    },
-    {
-      "id": "49951ad976df",
-      "title": "Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment",
-      "summary": "arXiv:2512.20624v1 Announce Type: new Abstract: This study introduces a quantum inspired framework for optimizing the exploration exploitation tradeoff in multiagent reinforcement learning, applied to",
-      "url": "https://arxiv.org/abs/2512.20624",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.539910+00:00"
-    },
-    {
-      "id": "2a732a680328",
-      "title": "BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization",
-      "summary": "arXiv:2512.20623v1 Announce Type: new Abstract: Smart home lighting systems consume 15-20% of residential energy but lack adaptive intelligence to optimize for user comfort and energy efficiency simul",
-      "url": "https://arxiv.org/abs/2512.20623",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-25T00:00:00-05:00",
-      "scrapedAt": "2025-12-25T08:35:52.539776+00:00"
-    },
-    {
-      "id": "7edf7da8899b",
-      "title": "Can AI fix the operating room? This startup thinks so",
-      "summary": "There’s plenty of hype around AI and robots in healthcare, but the problem that’s actually costing hospitals money right now is operating room coordination. Two to four hours of OR time is lost every ",
-      "url": "https://techcrunch.com/video/can-ai-fix-the-operating-room-this-startup-thinks-so/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T04:48:00+00:00",
-      "scrapedAt": "2025-12-25T08:35:51.908398+00:00"
-    },
-    {
-      "id": "ea7de2c0be13",
-      "title": "Italy tells Meta to suspend its policy that bans rival AI chatbots from WhatsApp",
-      "summary": "Italy has ordered Meta to suspend its policy that bans companies from using WhatsApp's business tools to offer their own AI chatbots on the popular chat app.",
-      "url": "https://techcrunch.com/2025/12/24/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T14:40:34+00:00",
-      "scrapedAt": "2025-12-25T08:35:51.891620+00:00"
-    },
-    {
-      "id": "d465e7d72906",
-      "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis",
-      "summary": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
-      "url": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T16:27:55+00:00",
-      "scrapedAt": "2025-12-25T08:35:51.891550+00:00"
-    },
-    {
-      "id": "55b1042172b5",
-      "title": "Why the operating room is ripe for AI, according to Akara",
-      "summary": "There’s plenty of hype around AI and robots in healthcare, but the problem that’s actually costing hospitals money right now is operating room coordination. Two to four hours of OR time is lost every ",
-      "url": "https://techcrunch.com/podcast/why-the-operating-room-is-ripe-for-ai-according-to-akara/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T16:47:41+00:00",
-      "scrapedAt": "2025-12-25T08:35:51.891476+00:00"
-    },
-    {
-      "id": "da9ea638c8e1",
-      "title": "The European startup market’s data doesn’t match its energy — yet",
-      "summary": "Europe's startup market hasn't produced meaningful numbers but there is reason to believe the data will start to change.",
-      "url": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T18:00:00+00:00",
-      "scrapedAt": "2025-12-25T08:35:51.891377+00:00"
-    },
-    {
-      "id": "63267dfea261",
-      "title": "The year data centers went from backend to center stage",
-      "summary": "Data centers are no longer the boring tech issue they once were.",
-      "url": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T20:16:41+00:00",
-      "scrapedAt": "2025-12-25T08:35:51.891303+00:00"
-    },
-    {
-      "id": "bc52d4d41e63",
-      "title": "Nvidia to license AI chip challenger Groq’s tech and hire its CEO",
-      "summary": "With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.",
-      "url": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T22:03:16+00:00",
-      "scrapedAt": "2025-12-25T08:35:51.891218+00:00"
-    },
-    {
-      "id": "8879e24948f9",
-      "title": "Why it’s time to reset our expectations for AI",
-      "summary": "Can I ask you a question: How do you feel about AI right now? Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off",
-      "url": "https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T12:29:04+00:00",
-      "scrapedAt": "2025-12-25T08:35:50.835563+00:00"
-    },
-    {
-      "id": "4d28728b4158",
-      "title": "Creating psychological safety in the AI era",
-      "summary": "Rolling out enterprise-grade AI means climbing two steep cliffs at once. First, understanding and implementing the tech itself. And second, creating the cultural conditions where employees can maximiz",
-      "url": "https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-16T15:00:00+00:00",
-      "scrapedAt": "2025-12-25T08:35:50.834387+00:00"
     }
   ]
 }
