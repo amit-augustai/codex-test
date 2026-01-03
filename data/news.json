@@ -1,6 +1,211 @@
 {
-  "lastUpdated": "2026-01-02T08:37:40.763993+00:00",
+  "lastUpdated": "2026-01-03T08:35:28.692555+00:00",
   "articles": [
+    {
+      "id": "8a3136ab3d15",
+      "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
+      "summary": "Score: 52 points",
+      "url": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-03T04:01:03+00:00",
+      "scrapedAt": "2026-01-03T08:34:31.670836+00:00"
+    },
+    {
+      "id": "07799e7ea215",
+      "title": "Trump’s war on offshore wind faces another lawsuit",
+      "summary": "Dominion Energy, an offshore wind developer and utility serving Virginia's \"data center alley,\" filed suit against the Trump administration this week over its decision to pause federal leases for larg",
+      "url": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2025-12-26T17:14:47-05:00",
+      "scrapedAt": "2026-01-03T08:34:31.252130+00:00"
+    },
+    {
+      "id": "18df960031a3",
+      "title": "Grok is undressing anyone, including minors",
+      "summary": "xAI's Grok is removing clothing from pictures of people without their consent following this week's rollout of a feature that allows X users to instantly edit any image using the bot without needing t",
+      "url": "https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-02T14:52:34-05:00",
+      "scrapedAt": "2026-01-03T08:34:31.250696+00:00"
+    },
+    {
+      "id": "47febd3494ae",
+      "title": "In 2026, AI will move from hype to pragmatism",
+      "summary": "In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.",
+      "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-02T14:43:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.387963+00:00"
+    },
+    {
+      "id": "a07fcb1cc154",
+      "title": "Nvidia’s AI empire: A look at its top startup investments",
+      "summary": "Over the last two years, Nvidia has used its ballooning fortunes to invest in over 100 AI startups. Here are the giant semiconductor's largest investments.",
+      "url": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-02T16:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.387885+00:00"
+    },
+    {
+      "id": "c869e96b4f78",
+      "title": "How AI is reshaping work and who gets to do it, according to Mercor’s CEO",
+      "summary": "Three-year-old startup Mercor has become a $10 billion middleman in AI’s data gold rush. The company connects AI labs like OpenAI and Anthropic with former employees of Goldman Sachs, McKinsey, and wh",
+      "url": "https://techcrunch.com/podcast/how-ai-is-reshaping-work-and-who-gets-to-do-it-according-to-mercors-ceo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-02T17:33:18+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.387748+00:00"
+    },
+    {
+      "id": "ba29c20d1b93",
+      "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
+      "summary": "India's IT ministry has given X 72 hours to submit an action-taken report.",
+      "url": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-02T18:29:26+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.374995+00:00"
+    },
+    {
+      "id": "1b1c5c5cd15c",
+      "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+      "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt inj",
+      "url": "https://openai.com/index/gpt-5-2-codex-system-card",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T00:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.215847+00:00"
+    },
+    {
+      "id": "2d1c87f7a022",
+      "title": "Introducing GPT-5.2-Codex",
+      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "url": "https://openai.com/index/introducing-gpt-5-2-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T00:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.215755+00:00"
+    },
+    {
+      "id": "92da98d14454",
+      "title": "Introducing GPT-5.2-Codex",
+      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "url": "https://openai.com/index/gpt-5-2-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T00:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.215685+00:00"
+    },
+    {
+      "id": "e6aea9b0c8ad",
+      "title": "AI literacy resources for teens and parents",
+      "summary": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, h",
+      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T11:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.215612+00:00"
+    },
+    {
+      "id": "82b7c5841700",
+      "title": "Deepening our collaboration with the U.S. Department of Energy",
+      "summary": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongo",
+      "url": "https://openai.com/index/us-department-of-energy-collaboration",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T11:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.215545+00:00"
+    },
+    {
+      "id": "d23b98b1f881",
+      "title": "Updating our Model Spec with teen protections",
+      "summary": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthen",
+      "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T11:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.215472+00:00"
+    },
+    {
+      "id": "f58701c4459f",
+      "title": "Evaluating chain-of-thought monitorability",
+      "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoni",
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T12:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.215400+00:00"
+    },
+    {
+      "id": "d3941dee22b6",
+      "title": "Announcing OpenAI Grove Cohort 2",
+      "summary": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to",
+      "url": "https://openai.com/index/openai-grove",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-02T10:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:30.215157+00:00"
+    },
+    {
+      "id": "5fd1315d5c83",
+      "title": "Watch a podcast discussion about Gemini 3 and the future of Search.",
+      "summary": "Watch a podcast discussion about Gemini 3 and the future of Search.",
+      "url": "https://blog.google/technology/ai/release-notes-podcast-search/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T00:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:29.618428+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "221d17f9d227",
+      "title": "Inside Kaggle's AI Agents intensive course with Google",
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "url": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T16:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:29.618407+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/kaggle_AI_intensive_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6c144d11391f",
+      "title": "You can now verify Google AI-generated videos in the Gemini app.",
+      "summary": "You can now verify Google AI-generated videos in the Gemini app.",
+      "url": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T17:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:29.618315+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "fee1f5e4bd98",
+      "title": "5 ways AI agents will transform the way we work in 2026",
+      "summary": "Today, Google Cloud dropped its 2026 AI Agent Trends Report.",
+      "url": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-19T14:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:29.618293+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_xCoMYQ5.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7b19d2ff6046",
+      "title": "40 of our most helpful AI tips from 2025",
+      "summary": "Learn more about the AI tips and tools Google shared in 2025.",
+      "url": "https://blog.google/technology/ai/ai-tips-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-19T16:00:00+00:00",
+      "scrapedAt": "2026-01-03T08:34:29.618206+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_hero.max-600x600.format-webp.webp"
+    },
     {
       "id": "04d1ddb01de9",
       "title": "Dell's version of the DGX Spark fixes pain points",
@@ -1155,212 +1360,6 @@
       "category": "product",
       "publishedAt": "2025-12-28T01:00:00+00:00",
       "scrapedAt": "2025-12-28T08:33:51.878244+00:00"
-    },
-    {
-      "id": "c95b2dcac9b5",
-      "title": "Rob Pike goes nuclear over GenAI",
-      "summary": "Related: <i>Rob Pike got spammed with an AI slop &quot;act of kindness&quot;</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46394867\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;it",
-      "url": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-26T14:08:47+00:00",
-      "scrapedAt": "2025-12-27T08:33:46.862685+00:00"
-    },
-    {
-      "id": "f096759d30b5",
-      "title": "What happened to all the gold Spain got from the New World? (1985)",
-      "summary": "Score: 100 points",
-      "url": "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-22T07:18:08+00:00",
-      "scrapedAt": "2025-12-27T08:33:46.768770+00:00"
-    },
-    {
-      "id": "5c6b792d638d",
-      "title": "Show HN: Witr – Explain why a process is running on your Linux system",
-      "summary": "Hi HN,<p>I built a small Linux CLI tool called witr (Why Is This Running?).<p>The idea came from a situation most of us have hit: you log into a machine, see a process or port running, and immediately",
-      "url": "https://github.com/pranshuparmar/witr",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-26T15:20:36+00:00",
-      "scrapedAt": "2025-12-27T08:33:45.911647+00:00"
-    },
-    {
-      "id": "cbdc56205d54",
-      "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
-      "summary": "Score: 366 points",
-      "url": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-26T17:07:53+00:00",
-      "scrapedAt": "2025-12-27T08:33:45.596086+00:00"
-    },
-    {
-      "id": "f8107d2322c7",
-      "title": "AI Police Reports: Year in Review",
-      "summary": "Score: 88 points",
-      "url": "https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-23T17:30:15+00:00",
-      "scrapedAt": "2025-12-27T08:33:45.192804+00:00"
-    },
-    {
-      "id": "07799e7ea215",
-      "title": "Trump’s war on offshore wind faces another lawsuit",
-      "summary": "Dominion Energy, an offshore wind developer and utility serving Virginia's \"data center alley,\" filed suit against the Trump administration this week over its decision to pause federal leases for larg",
-      "url": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-26T17:14:47-05:00",
-      "scrapedAt": "2025-12-27T08:33:44.881308+00:00"
-    },
-    {
-      "id": "80a3e33c7ab3",
-      "title": "Equity’s 2026 Predictions: AI Agents, Blockbuster IPOs, and the Future of VC",
-      "summary": "TechCrunch’s Equity crew is bringing 2025 to a close and getting ahead on the year to come with our annual predictions episode! Hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan were joined by Bui",
-      "url": "https://techcrunch.com/podcast/equitys-2026-predictions-ai-agents-blockbuster-ipos-and-the-future-of-vc/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-26T18:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:44.385087+00:00"
-    },
-    {
-      "id": "1b1c5c5cd15c",
-      "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
-      "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt inj",
-      "url": "https://openai.com/index/gpt-5-2-codex-system-card",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:44.232248+00:00"
-    },
-    {
-      "id": "92da98d14454",
-      "title": "Introducing GPT-5.2-Codex",
-      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
-      "url": "https://openai.com/index/gpt-5-2-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:44.232177+00:00"
-    },
-    {
-      "id": "2d1c87f7a022",
-      "title": "Introducing GPT-5.2-Codex",
-      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
-      "url": "https://openai.com/index/introducing-gpt-5-2-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:44.232106+00:00"
-    },
-    {
-      "id": "d23b98b1f881",
-      "title": "Updating our Model Spec with teen protections",
-      "summary": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthen",
-      "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T11:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:44.232029+00:00"
-    },
-    {
-      "id": "e6aea9b0c8ad",
-      "title": "AI literacy resources for teens and parents",
-      "summary": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, h",
-      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T11:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:44.231954+00:00"
-    },
-    {
-      "id": "82b7c5841700",
-      "title": "Deepening our collaboration with the U.S. Department of Energy",
-      "summary": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongo",
-      "url": "https://openai.com/index/us-department-of-energy-collaboration",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T11:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:44.231881+00:00"
-    },
-    {
-      "id": "f58701c4459f",
-      "title": "Evaluating chain-of-thought monitorability",
-      "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoni",
-      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T12:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:44.231805+00:00"
-    },
-    {
-      "id": "7774b43512c2",
-      "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
-      "summary": "You can now have more fluid and expressive conversations when you go Live with Search.",
-      "url": "https://blog.google/products/search/live-audio-gemini-model-update/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-12T17:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:43.786155+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5fd1315d5c83",
-      "title": "Watch a podcast discussion about Gemini 3 and the future of Search.",
-      "summary": "Watch a podcast discussion about Gemini 3 and the future of Search.",
-      "url": "https://blog.google/technology/ai/release-notes-podcast-search/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:43.785981+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "221d17f9d227",
-      "title": "Inside Kaggle's AI Agents intensive course with Google",
-      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "url": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T16:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:43.785959+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/kaggle_AI_intensive_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6c144d11391f",
-      "title": "You can now verify Google AI-generated videos in the Gemini app.",
-      "summary": "You can now verify Google AI-generated videos in the Gemini app.",
-      "url": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T17:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:43.785860+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "fee1f5e4bd98",
-      "title": "5 ways AI agents will transform the way we work in 2026",
-      "summary": "Today, Google Cloud dropped its 2026 AI Agent Trends Report.",
-      "url": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-19T14:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:43.785838+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_xCoMYQ5.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7b19d2ff6046",
-      "title": "40 of our most helpful AI tips from 2025",
-      "summary": "Learn more about the AI tips and tools Google shared in 2025.",
-      "url": "https://blog.google/technology/ai/ai-tips-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-19T16:00:00+00:00",
-      "scrapedAt": "2025-12-27T08:33:43.785741+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_hero.max-600x600.format-webp.webp"
     }
   ]
 }
