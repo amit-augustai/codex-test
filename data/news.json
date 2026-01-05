@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-01-04T08:35:31.160006+00:00",
+  "lastUpdated": "2026-01-05T08:42:36.372675+00:00",
   "articles": [
+    {
+      "id": "954084e5e3bb",
+      "title": "Dynamic Bayesian Optimization Framework for Instruction Tuning in Partial Differential Equation Discovery",
+      "summary": "arXiv:2601.00088v1 Announce Type: new Abstract: Large Language Models (LLMs) show promise for equation discovery, yet their outputs are highly sensitive to prompt phrasing, a phenomenon we term instru",
+      "url": "https://arxiv.org/abs/2601.00088",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.706343+00:00"
+    },
+    {
+      "id": "652fc6cdf0b9",
+      "title": "Exploration in the Limit",
+      "summary": "arXiv:2601.00084v1 Announce Type: new Abstract: In fixed-confidence best arm identification (BAI), the objective is to quickly identify the optimal option while controlling the probability of error be",
+      "url": "https://arxiv.org/abs/2601.00084",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.706226+00:00"
+    },
+    {
+      "id": "a28d6c504471",
+      "title": "IMBWatch -- a Spatio-Temporal Graph Neural Network approach to detect Illicit Massage Business",
+      "summary": "arXiv:2601.00075v1 Announce Type: new Abstract: Illicit Massage Businesses (IMBs) are a covert and persistent form of organized exploitation that operate under the facade of legitimate wellness servic",
+      "url": "https://arxiv.org/abs/2601.00075",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.706098+00:00"
+    },
+    {
+      "id": "5dc4f3e668e1",
+      "title": "The Trojan in the Vocabulary: Stealthy Sabotage of LLM Composition",
+      "summary": "arXiv:2601.00065v1 Announce Type: new Abstract: The open-weight LLM ecosystem is increasingly defined by model composition techniques (such as weight merging, speculative decoding, and vocabulary expa",
+      "url": "https://arxiv.org/abs/2601.00065",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.705956+00:00"
+    },
+    {
+      "id": "efa64b0c9577",
+      "title": "Yahtzee: Reinforcement Learning Techniques for Stochastic Combinatorial Games",
+      "summary": "arXiv:2601.00007v1 Announce Type: new Abstract: Yahtzee is a classic dice game with a stochastic, combinatorial structure and delayed rewards, making it an interesting mid-scale RL benchmark. While an",
+      "url": "https://arxiv.org/abs/2601.00007",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.705834+00:00"
+    },
+    {
+      "id": "fce92124dbd2",
+      "title": "Evaluating Anomaly Detectors for Simulated Highly Imbalanced Industrial Classification Problems",
+      "summary": "arXiv:2601.00005v1 Announce Type: new Abstract: Machine learning offers potential solutions to current issues in industrial systems in areas such as quality control and predictive maintenance, but als",
+      "url": "https://arxiv.org/abs/2601.00005",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.705697+00:00"
+    },
+    {
+      "id": "46ce1c0a83e7",
+      "title": "Constructing a Neuro-Symbolic Mathematician from First Principles",
+      "summary": "arXiv:2601.00125v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit persistent logical failures in complex reasoning due to the lack of an internal axiomatic framework. We propose Mat",
+      "url": "https://arxiv.org/abs/2601.00125",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.476586+00:00"
+    },
+    {
+      "id": "565d2f2305d9",
+      "title": "Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control",
+      "summary": "arXiv:2601.00121v1 Announce Type: new Abstract: Inventory management remains a challenge for many small and medium-sized businesses that lack the expertise to deploy advanced optimization methods. Thi",
+      "url": "https://arxiv.org/abs/2601.00121",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.476492+00:00"
+    },
+    {
+      "id": "b60cd85be092",
+      "title": "Mortar: Evolving Mechanics for Automatic Game Design",
+      "summary": "arXiv:2601.00105v1 Announce Type: new Abstract: We present Mortar, a system for autonomously evolving game mechanics for automatic game design. Game mechanics define the rules and interactions that go",
+      "url": "https://arxiv.org/abs/2601.00105",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.476365+00:00"
+    },
+    {
+      "id": "e28c19416a3e",
+      "title": "The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs",
+      "summary": "arXiv:2601.00097v1 Announce Type: new Abstract: We design a large-language-model (LLM) agent that extracts causal feedback fuzzy cognitive maps (FCMs) from raw text. The causal learning or extraction ",
+      "url": "https://arxiv.org/abs/2601.00097",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.476236+00:00"
+    },
+    {
+      "id": "bd4650146205",
+      "title": "From Clay to Code: Typological and Material Reasoning in AI Interpretations of Iranian Pigeon Towers",
+      "summary": "arXiv:2601.00029v1 Announce Type: new Abstract: This study investigates how generative AI systems interpret the architectural intelligence embedded in vernacular form. Using the Iranian pigeon tower a",
+      "url": "https://arxiv.org/abs/2601.00029",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.476102+00:00"
+    },
+    {
+      "id": "a00264c5afa6",
+      "title": "Quantitative Rule-Based Strategy modeling in Classic Indian Rummy: A Metric Optimization Approach",
+      "summary": "arXiv:2601.00024v1 Announce Type: new Abstract: The 13-card variant of Classic Indian Rummy is a sequential game of incomplete information that requires probabilistic reasoning and combinatorial decis",
+      "url": "https://arxiv.org/abs/2601.00024",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.476000+00:00"
+    },
+    {
+      "id": "7a2c6010ac66",
+      "title": "A multi-algorithm approach for operational human resources workload balancing in a last mile urban delivery system",
+      "summary": "arXiv:2601.00023v1 Announce Type: new Abstract: Efficient workload assignment to the workforce is critical in last-mile package delivery systems. In this context, traditional methods of assigning pack",
+      "url": "https://arxiv.org/abs/2601.00023",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.475893+00:00"
+    },
+    {
+      "id": "ba9bd08f3893",
+      "title": "Toward a Physical Theory of Intelligence",
+      "summary": "arXiv:2601.00021v1 Announce Type: new Abstract: We present a physical theory of intelligence grounded in irreversible information processing in systems constrained by conservation laws. An intelligent",
+      "url": "https://arxiv.org/abs/2601.00021",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.475752+00:00"
+    },
+    {
+      "id": "5ea417ca941a",
+      "title": "Finetuning Large Language Models for Automated Depression Screening in Nigerian Pidgin English: GENSCORE Pilot Study",
+      "summary": "arXiv:2601.00004v1 Announce Type: new Abstract: Depression is a major contributor to the mental-health burden in Nigeria, yet screening coverage remains limited due to low access to clinicians, stigma",
+      "url": "https://arxiv.org/abs/2601.00004",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.475604+00:00"
+    },
+    {
+      "id": "64170ad0ccd8",
+      "title": "Reasoning in Action: MCTS-Driven Knowledge Retrieval for Large Language Models",
+      "summary": "arXiv:2601.00003v1 Announce Type: new Abstract: Large language models (LLMs) typically enhance their performance through either the retrieval of semantically similar information or the improvement of ",
+      "url": "https://arxiv.org/abs/2601.00003",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-05T00:00:00-05:00",
+      "scrapedAt": "2026-01-05T08:41:40.475446+00:00"
+    },
+    {
+      "id": "1a8d1088d87a",
+      "title": "Subtle releases ear buds with its noise isolation models",
+      "summary": "Subtle's new $199 earbuds will also let you dictate in any app on desktop or phone",
+      "url": "https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-04T12:00:00+00:00",
+      "scrapedAt": "2026-01-05T08:41:39.606776+00:00"
+    },
+    {
+      "id": "57b7d0aaef42",
+      "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
+      "summary": "Plaud is going after the likes of Granola to launch a desktop app that records online meetings",
+      "url": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-04T16:28:10+00:00",
+      "scrapedAt": "2026-01-05T08:41:39.606706+00:00"
+    },
+    {
+      "id": "74ed19530eac",
+      "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
+      "summary": "France and Malaysia have joined India in condemning Grok for creating sexualized deepfakes of women and minors.",
+      "url": "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-04T16:50:19+00:00",
+      "scrapedAt": "2026-01-05T08:41:39.606633+00:00"
+    },
+    {
+      "id": "f84ab66bdcef",
+      "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
+      "summary": "DoorDash seems to have confirmed a viral story about a driver using an AI-generated photo to lie about making a delivery.",
+      "url": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-04T21:14:23+00:00",
+      "scrapedAt": "2026-01-05T08:41:39.606548+00:00"
+    },
     {
       "id": "c3075ba6d2ad",
       "title": "Chain Flinger",
@@ -1150,206 +1350,6 @@
       "publishedAt": "2025-12-29T18:15:00+00:00",
       "scrapedAt": "2025-12-30T08:37:00.398617+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dec_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "d626b0f8ba05",
-      "title": "Statistical vs. Deep Learning Models for Estimating Substance Overdose Excess Mortality in the US",
-      "summary": "arXiv:2512.21456v1 Announce Type: new Abstract: Substance overdose mortality in the United States claimed over 80,000 lives in 2023, with the COVID-19 pandemic exacerbating existing trends through hea",
-      "url": "https://arxiv.org/abs/2512.21456",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.622234+00:00"
-    },
-    {
-      "id": "63fb69fb40db",
-      "title": "RLLaVA: An RL-central Framework for Language and Vision Assistants",
-      "summary": "arXiv:2512.21450v1 Announce Type: new Abstract: We present an RL-central framework for Language and Vision Assistants (RLLaVA) with its formulation of Markov decision process (MDP). RLLaVA decouples R",
-      "url": "https://arxiv.org/abs/2512.21450",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.622099+00:00"
-    },
-    {
-      "id": "6e52d88d7ede",
-      "title": "An Equivariance Toolbox for Learning Dynamics",
-      "summary": "arXiv:2512.21447v1 Announce Type: new Abstract: Many theoretical results in deep learning can be traced to symmetry or equivariance of neural networks under parameter transformations. However, existin",
-      "url": "https://arxiv.org/abs/2512.21447",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.622000+00:00"
-    },
-    {
-      "id": "56a24348ca91",
-      "title": "dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning",
-      "summary": "arXiv:2512.21446v1 Announce Type: new Abstract: Masked diffusion language models (MDLMs) offer the potential for parallel token generation, but most open-source MDLMs decode fewer than 5 tokens per mo",
-      "url": "https://arxiv.org/abs/2512.21446",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.621887+00:00"
-    },
-    {
-      "id": "158fb1296a64",
-      "title": "DeepCQ: General-Purpose Deep-Surrogate Framework for Lossy Compression Quality Prediction",
-      "summary": "arXiv:2512.21433v1 Announce Type: new Abstract: Error-bounded lossy compression techniques have become vital for scientific data management and analytics, given the ever-increasing volume of data gene",
-      "url": "https://arxiv.org/abs/2512.21433",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.621768+00:00"
-    },
-    {
-      "id": "3ede7a7b5855",
-      "title": "A Survey of Freshness-Aware Wireless Networking with Reinforcement Learning",
-      "summary": "arXiv:2512.21412v1 Announce Type: new Abstract: The age of information (AoI) has become a central measure of data freshness in modern wireless systems, yet existing surveys either focus on classical A",
-      "url": "https://arxiv.org/abs/2512.21412",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.621623+00:00"
-    },
-    {
-      "id": "2b26e3d93518",
-      "title": "kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning",
-      "summary": "arXiv:2512.21409v1 Announce Type: new Abstract: kooplearn is a machine-learning library that implements linear, kernel, and deep-learning estimators of dynamical operators and their spectral decomposi",
-      "url": "https://arxiv.org/abs/2512.21409",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.621505+00:00"
-    },
-    {
-      "id": "dbba21286b3b",
-      "title": "A Reinforcement Learning Approach to Synthetic Data Generation",
-      "summary": "arXiv:2512.21395v1 Announce Type: new Abstract: Synthetic data generation (SDG) is a promising approach for enabling data sharing in biomedical studies while preserving patient privacy. Yet, state-of-",
-      "url": "https://arxiv.org/abs/2512.21395",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.621404+00:00"
-    },
-    {
-      "id": "bc6569785d0b",
-      "title": "Physics-Informed Neural Solvers for Periodic Quantum Eigenproblems",
-      "summary": "arXiv:2512.21349v1 Announce Type: new Abstract: This thesis presents a physics-informed machine learning framework for solving the Floquet-Bloch eigenvalue problem associated with particles in two-dim",
-      "url": "https://arxiv.org/abs/2512.21349",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.621282+00:00"
-    },
-    {
-      "id": "72c754a7b1fb",
-      "title": "AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for Analog and Mixed-Signal Integrated Circuit Input/Output Design",
-      "summary": "arXiv:2512.21613v1 Announce Type: new Abstract: In this paper, we propose AMS-IO-Agent, a domain-specialized LLM-based agent for structure-aware input/output (I/O) subsystem generation in analog and m",
-      "url": "https://arxiv.org/abs/2512.21613",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.466431+00:00"
-    },
-    {
-      "id": "5b4d73e5ac56",
-      "title": "A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning",
-      "summary": "arXiv:2512.21583v1 Announce Type: new Abstract: With the rapid growth of large language models (LLMs) and vision-language models (VLMs) in medicine, simply integrating clinical text and medical imagin",
-      "url": "https://arxiv.org/abs/2512.21583",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.466322+00:00"
-    },
-    {
-      "id": "f7af58354b5d",
-      "title": "NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent",
-      "summary": "arXiv:2512.21578v1 Announce Type: new Abstract: We present the development and optimization of PayPal's Commerce Agent, powered by NEMO-4-PAYPAL, a multi-agent system designed to revolutionize agentic",
-      "url": "https://arxiv.org/abs/2512.21578",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.466225+00:00"
-    },
-    {
-      "id": "4563197f488c",
-      "title": "Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model",
-      "summary": "arXiv:2512.21540v1 Announce Type: new Abstract: Existing approaches typically rely on fixed length penalties, but such penalties are hard to tune and fail to adapt to the evolving reasoning abilities ",
-      "url": "https://arxiv.org/abs/2512.21540",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.466114+00:00"
-    },
-    {
-      "id": "5ea440426bcf",
-      "title": "LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis",
-      "summary": "arXiv:2512.21482v1 Announce Type: new Abstract: Sophisticated text-centric forgeries, fueled by rapid AIGC advancements, pose a significant threat to societal security and information authenticity. Cu",
-      "url": "https://arxiv.org/abs/2512.21482",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.466005+00:00"
-    },
-    {
-      "id": "d58f7f5a8ce0",
-      "title": "Three-way decision with incomplete information based on similarity and satisfiability",
-      "summary": "arXiv:2512.21421v1 Announce Type: new Abstract: Three-way decision is widely applied with rough set theory to learn classification or decision rules. The approaches dealing with complete information a",
-      "url": "https://arxiv.org/abs/2512.21421",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.465877+00:00"
-    },
-    {
-      "id": "23e9a3ac9959",
-      "title": "Feasible strategies in three-way conflict analysis with three-valued ratings",
-      "summary": "arXiv:2512.21420v1 Announce Type: new Abstract: Most existing work on three-way conflict analysis has focused on trisecting agent pairs, agents, or issues, which contributes to understanding the natur",
-      "url": "https://arxiv.org/abs/2512.21420",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.465757+00:00"
-    },
-    {
-      "id": "93ed60f7ee9e",
-      "title": "Three-way conflict analysis based on alliance and conflict functions",
-      "summary": "arXiv:2512.21419v1 Announce Type: new Abstract: Trisecting agents, issues, and agent pairs are essential topics of three-way conflict analysis. They have been commonly studied based on either a rating",
-      "url": "https://arxiv.org/abs/2512.21419",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.465609+00:00"
-    },
-    {
-      "id": "3ca17483094c",
-      "title": "A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers",
-      "summary": "arXiv:2512.21365v1 Announce Type: new Abstract: This paper analyzes the behavior of solving Life-and-Death (L&D) problems in the game of Go using current state-of-the-art computer Go solvers with two ",
-      "url": "https://arxiv.org/abs/2512.21365",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.465487+00:00"
-    },
-    {
-      "id": "e984b0a8e51c",
-      "title": "From Visual Perception to Deep Empathy: An Automated Assessment Framework for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration",
-      "summary": "arXiv:2512.21360v1 Announce Type: new Abstract: Background: The House-Tree-Person (HTP) drawing test, introduced by John Buck in 1948, remains a widely used projective technique in clinical psychology",
-      "url": "https://arxiv.org/abs/2512.21360",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-29T00:00:00-05:00",
-      "scrapedAt": "2025-12-29T08:39:23.465350+00:00"
-    },
-    {
-      "id": "376f54376353",
-      "title": "OpenAI is looking for a new Head of Preparedness",
-      "summary": "OpenAI is looking to hire a new executive responsible for studying emerging AI-related risks in areas ranging from computer security to mental health.",
-      "url": "https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-28T15:08:19+00:00",
-      "scrapedAt": "2025-12-29T08:39:22.937323+00:00"
     }
   ]
 }
