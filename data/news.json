@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-01-05T08:42:36.372675+00:00",
+  "lastUpdated": "2026-01-06T08:39:57.731458+00:00",
   "articles": [
+    {
+      "id": "3aa1d71c9248",
+      "title": "Enhancing Temporal Awareness in LLMs for Temporal Point Processes",
+      "summary": "arXiv:2601.00845v1 Announce Type: new Abstract: Temporal point processes (TPPs) are crucial for analyzing events over time and are widely used in fields such as finance, healthcare, and social systems",
+      "url": "https://arxiv.org/abs/2601.00845",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-06T00:00:00-05:00",
+      "scrapedAt": "2026-01-06T08:39:01.320618+00:00"
+    },
+    {
+      "id": "1a2b6aa50807",
+      "title": "OmniNeuro: A Multimodal HCI Framework for Explainable BCI Feedback via Generative AI and Sonification",
+      "summary": "arXiv:2601.00843v1 Announce Type: new Abstract: While Deep Learning has improved Brain-Computer Interface (BCI) decoding accuracy, clinical adoption is hindered by the \"Black Box\" nature of these algo",
+      "url": "https://arxiv.org/abs/2601.00843",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-06T00:00:00-05:00",
+      "scrapedAt": "2026-01-06T08:39:01.320498+00:00"
+    },
+    {
+      "id": "35c9f81d7ace",
+      "title": "Can We Trust AI Explanations? Evidence of Systematic Underreporting in Chain-of-Thought Reasoning",
+      "summary": "arXiv:2601.00830v1 Announce Type: new Abstract: When AI systems explain their reasoning step-by-step, practitioners often assume these explanations reveal what actually influenced the AI's answer. We ",
+      "url": "https://arxiv.org/abs/2601.00830",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-06T00:00:00-05:00",
+      "scrapedAt": "2026-01-06T08:39:01.320392+00:00"
+    },
+    {
+      "id": "abf20bec44dd",
+      "title": "Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis",
+      "summary": "arXiv:2601.00828v1 Announce Type: new Abstract: Large Language Models (LLMs) are widely believed to possess self-correction capabilities, yet recent studies suggest that intrinsic self-correction--whe",
+      "url": "https://arxiv.org/abs/2601.00828",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-06T00:00:00-05:00",
+      "scrapedAt": "2026-01-06T08:39:01.320260+00:00"
+    },
+    {
+      "id": "d39a0414c11d",
+      "title": "Energy-Aware Routing to Large Reasoning Models",
+      "summary": "arXiv:2601.00823v1 Announce Type: new Abstract: Large reasoning models (LRMs) have heterogeneous inference energy costs based on which model is used and how much it reasons. To reduce energy, it is im",
+      "url": "https://arxiv.org/abs/2601.00823",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-06T00:00:00-05:00",
+      "scrapedAt": "2026-01-06T08:39:01.320135+00:00"
+    },
+    {
+      "id": "8b7a7eec3d99",
+      "title": "CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations",
+      "summary": "arXiv:2601.00821v1 Announce Type: new Abstract: Large language models face a fundamental tension between context window limits and information fidelity in long conversations. Existing approaches--trun",
+      "url": "https://arxiv.org/abs/2601.00821",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-06T00:00:00-05:00",
+      "scrapedAt": "2026-01-06T08:39:01.319995+00:00"
+    },
+    {
+      "id": "f9af5012c0ae",
+      "title": "Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making",
+      "summary": "arXiv:2601.00818v1 Announce Type: new Abstract: Significant digitalization of financial services in a short period of time has led to an urgent demand to have autonomous, transparent and real-time cre",
+      "url": "https://arxiv.org/abs/2601.00818",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-06T00:00:00-05:00",
+      "scrapedAt": "2026-01-06T08:39:01.319886+00:00"
+    },
+    {
+      "id": "9bf07684e079",
+      "title": "MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback",
+      "summary": "arXiv:2601.00816v1 Announce Type: new Abstract: Contemporary AI systems achieve extraordinary performance yet remain opaque and non-verifiable, creating a crisis of trust for safety-critical deploymen",
+      "url": "https://arxiv.org/abs/2601.00816",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-06T00:00:00-05:00",
+      "scrapedAt": "2026-01-06T08:39:01.319758+00:00"
+    },
+    {
+      "id": "1268d44945ea",
+      "title": "Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections",
+      "summary": "arXiv:2601.00814v1 Announce Type: new Abstract: The paper presents our work on cross-lingual ontology alignment system which uses embedding based cosine similarity matching. The ontology entities are ",
+      "url": "https://arxiv.org/abs/2601.00814",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-06T00:00:00-05:00",
+      "scrapedAt": "2026-01-06T08:39:01.319640+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.775871+00:00"
+    },
+    {
+      "id": "d5be75fd48dd",
+      "title": "Google previews new Gemini features for TV at CES 2026",
+      "summary": "Google TV will let you ask Gemini to find and edit your photos, adjust your TV settings, and more.",
+      "url": "https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T14:00:00+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.588674+00:00"
+    },
+    {
+      "id": "d4efcbbd5ab1",
+      "title": "Amazon’s AI assistant comes to the web with Alexa.com",
+      "summary": "Amazon is bringing Alexa+ to the web with a new Alexa.com site, expanding its AI assistant beyond devices and positioning it as a family-focused, agent-style chatbot.",
+      "url": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T15:00:00+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.588609+00:00"
+    },
+    {
+      "id": "091b54b8845b",
+      "title": "CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals",
+      "summary": "CES 2026, the annual consumer tech conference held in Las Vegas, is here. And lucky for you, we have TechCrunch editors and reporters on the ground to cover the news, scout out the interesting, weird,",
+      "url": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T16:09:26+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.588535+00:00"
+    },
+    {
+      "id": "ec854b291250",
+      "title": "Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to ‘think like a human’",
+      "summary": "Nvidia unveiled Alpamayo at CES 2026, which includes a reasoning vision language action model that allows an autonomous vehicle to think more like a human and provide chain-of-thought reasoning.",
+      "url": "https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T21:52:22+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.588445+00:00"
+    },
+    {
+      "id": "19d35d007f61",
+      "title": "Nvidia launches powerful new Rubin chip architecture",
+      "summary": "Nvidia CEO Jensen Huang officially launched the company’s new Rubin computing architecture, which he described as the state of the art in AI computing.",
+      "url": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T22:16:58+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.588364+00:00"
+    },
+    {
+      "id": "8508386bf812",
+      "title": "Nvidia wants to be the Android of generalist robotics",
+      "summary": "Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.",
+      "url": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T23:00:00+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.588289+00:00"
+    },
+    {
+      "id": "c94a69b04c59",
+      "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
+      "summary": "Nadella wants us to think of AI as a human helper instead of a slop-generating job killer. New data for 2026 indicates he could be right.",
+      "url": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T23:09:56+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.588216+00:00"
+    },
+    {
+      "id": "71008efe7134",
+      "title": "AMD unveils new AI PC processors for general use and gaming at CES",
+      "summary": "AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks from gaming to content creation and multitasking.",
+      "url": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-06T03:30:00+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.588131+00:00"
+    },
+    {
+      "id": "6dd8644a9ef3",
+      "title": "The latest AI news we announced in December",
+      "summary": "Here are Google’s latest AI updates from December 2025",
+      "url": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-29T18:15:00+00:00",
+      "scrapedAt": "2026-01-06T08:39:00.014972+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dec_AI_Recap_still.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "8bdc2f5ab58f",
+      "title": "What’s next for AI in 2026",
+      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . In an industry in constant fl",
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T11:04:46+00:00",
+      "scrapedAt": "2026-01-06T08:38:59.658397+00:00"
+    },
     {
       "id": "954084e5e3bb",
       "title": "Dynamic Bayesian Optimization Framework for Instruction Tuning in Partial Differential Equation Discovery",
@@ -1149,207 +1350,6 @@
       "category": "product",
       "publishedAt": "2025-12-30T11:00:00+00:00",
       "scrapedAt": "2025-12-31T08:37:00.415064+00:00"
-    },
-    {
-      "id": "0e5cea425298",
-      "title": "Wireless Traffic Prediction with Large Language Model",
-      "summary": "arXiv:2512.22178v1 Announce Type: new Abstract: The growing demand for intelligent, adaptive resource management in next-generation wireless networks has underscored the importance of accurate and sca",
-      "url": "https://arxiv.org/abs/2512.22178",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.916929+00:00"
-    },
-    {
-      "id": "708fe4461dc3",
-      "title": "SoliReward: Mitigating Susceptibility to Reward Hacking and Annotation Noise in Video Generation Reward Models",
-      "summary": "arXiv:2512.22170v1 Announce Type: new Abstract: Post-training alignment of video generation models with human preferences is a critical goal. Developing effective Reward Models (RMs) for this process ",
-      "url": "https://arxiv.org/abs/2512.22170",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.916801+00:00"
-    },
-    {
-      "id": "51ff1c042bb5",
-      "title": "Towards Unsupervised Causal Representation Learning via Latent Additive Noise Model Causal Autoencoders",
-      "summary": "arXiv:2512.22150v1 Announce Type: new Abstract: Unsupervised representation learning seeks to recover latent generative factors, yet standard methods relying on statistical independence often fail to ",
-      "url": "https://arxiv.org/abs/2512.22150",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.916676+00:00"
-    },
-    {
-      "id": "392f1815e2ad",
-      "title": "Pruning Graphs by Adversarial Robustness Evaluation to Strengthen GNN Defenses",
-      "summary": "arXiv:2512.22128v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) have emerged as a dominant paradigm for learning on graph-structured data, thanks to their ability to jointly exploit node ",
-      "url": "https://arxiv.org/abs/2512.22128",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.916514+00:00"
-    },
-    {
-      "id": "54ae5548101f",
-      "title": "Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback",
-      "summary": "arXiv:2512.22336v1 Announce Type: new Abstract: Symbolic world models (e.g., PDDL domains or executable simulators) are central to model-based planning, but training LLMs to generate such world models",
-      "url": "https://arxiv.org/abs/2512.22336",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.622505+00:00"
-    },
-    {
-      "id": "40433063bf3b",
-      "title": "SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence",
-      "summary": "arXiv:2512.22334v1 Announce Type: new Abstract: We introduce SciEvalKit, a unified benchmarking toolkit designed to evaluate AI models for science across a broad range of scientific disciplines and ta",
-      "url": "https://arxiv.org/abs/2512.22334",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.622384+00:00"
-    },
-    {
-      "id": "14740ebda148",
-      "title": "Logic Sketch Prompting (LSP): A Deterministic and Interpretable Prompting Method",
-      "summary": "arXiv:2512.22258v1 Announce Type: new Abstract: Large language models (LLMs) excel at natural language reasoning but remain unreliable on tasks requiring strict rule adherence, determinism, and audita",
-      "url": "https://arxiv.org/abs/2512.22258",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.622270+00:00"
-    },
-    {
-      "id": "4000b47b2e03",
-      "title": "Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks",
-      "summary": "arXiv:2512.22255v1 Announce Type: new Abstract: We present the surprising finding that a language model's reasoning capabilities can be improved by training on synthetic datasets of chain-of-thought (",
-      "url": "https://arxiv.org/abs/2512.22255",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.622157+00:00"
-    },
-    {
-      "id": "527dfe41fcb6",
-      "title": "We are not able to identify AI-generated images",
-      "summary": "arXiv:2512.22236v1 Announce Type: new Abstract: AI-generated images are now pervasive online, yet many people believe they can easily tell them apart from real photographs. We test this assumption thr",
-      "url": "https://arxiv.org/abs/2512.22236",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.622031+00:00"
-    },
-    {
-      "id": "2dd51200d67b",
-      "title": "With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems",
-      "summary": "arXiv:2512.22211v1 Announce Type: new Abstract: Agentic AI systems present both significant opportunities and novel risks due to their capacity for autonomous action, encompassing tasks such as code e",
-      "url": "https://arxiv.org/abs/2512.22211",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.621926+00:00"
-    },
-    {
-      "id": "f62b7bb917be",
-      "title": "Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing Post-Flood Aid in Bangladesh",
-      "summary": "arXiv:2512.22210v1 Announce Type: new Abstract: Post-disaster aid allocation in developing nations often suffers from systematic biases that disadvantage vulnerable regions, perpetuating historical in",
-      "url": "https://arxiv.org/abs/2512.22210",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.621797+00:00"
-    },
-    {
-      "id": "7ec27f4b3398",
-      "title": "GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks",
-      "summary": "arXiv:2512.22207v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are proficient in perception and instruction-following, but they still struggle with spatial reasoning: the abi",
-      "url": "https://arxiv.org/abs/2512.22207",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.621668+00:00"
-    },
-    {
-      "id": "e986e33e26eb",
-      "title": "Emergent Persuasion: Will LLMs Persuade Without Being Prompted?",
-      "summary": "arXiv:2512.22201v1 Announce Type: new Abstract: With the wide-scale adoption of conversational AI systems, AI are now able to exert unprecedented influence on human opinion and beliefs. Recent work ha",
-      "url": "https://arxiv.org/abs/2512.22201",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.621512+00:00"
-    },
-    {
-      "id": "6102cd3c73a1",
-      "title": "Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation",
-      "summary": "arXiv:2512.22199v1 Announce Type: new Abstract: Retrieval-Augmented Generation RAG systems enhance large language models by grounding responses in external knowledge bases, but conventional RAG archit",
-      "url": "https://arxiv.org/abs/2512.22199",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2025-12-30T00:00:00-05:00",
-      "scrapedAt": "2025-12-30T08:37:01.621380+00:00"
-    },
-    {
-      "id": "94eea76ec68f",
-      "title": "VCs predict strong enterprise AI adoption next year — again",
-      "summary": "More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets, and more for 2026.",
-      "url": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-29T14:00:00+00:00",
-      "scrapedAt": "2025-12-30T08:37:01.017772+00:00"
-    },
-    {
-      "id": "dce051a76bb3",
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-      "url": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-29T15:51:40+00:00",
-      "scrapedAt": "2025-12-30T08:37:01.017704+00:00"
-    },
-    {
-      "id": "70baa9334e9e",
-      "title": "Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere",
-      "summary": "Plaud Note Pro is a $179 notetaker, which is an excellent recording device first",
-      "url": "https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-29T18:00:00+00:00",
-      "scrapedAt": "2025-12-30T08:37:01.017617+00:00"
-    },
-    {
-      "id": "69d873e92e18",
-      "title": "2025 was the year AI got a vibe check",
-      "summary": "AI’s early-2025 spending spree featured massive raises and trillion-dollar infrastructure promises. By year’s end, hype gave way to a vibe check, with growing scrutiny over sustainability, safety, and",
-      "url": "https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-29T19:00:00+00:00",
-      "scrapedAt": "2025-12-30T08:37:01.017546+00:00"
-    },
-    {
-      "id": "ffc2aa2f5baa",
-      "title": "Meta just bought Manus, an AI startup everyone has been talking about",
-      "summary": "Meta says it'll keep Manus running independently while weaving its agents into Facebook, Instagram, and WhatsApp, where Meta's own chatbot, Meta AI, is already available to users.",
-      "url": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-30T05:39:08+00:00",
-      "scrapedAt": "2025-12-30T08:37:01.017450+00:00"
-    },
-    {
-      "id": "6dd8644a9ef3",
-      "title": "The latest AI news we announced in December",
-      "summary": "Here are Google’s latest AI updates from December 2025",
-      "url": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-29T18:15:00+00:00",
-      "scrapedAt": "2025-12-30T08:37:00.398617+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dec_AI_Recap_still.max-600x600.format-webp.webp"
     }
   ]
 }
