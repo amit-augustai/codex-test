@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-01-06T08:39:57.731458+00:00",
+  "lastUpdated": "2026-01-07T08:39:47.418477+00:00",
   "articles": [
+    {
+      "id": "0c8bcf8ec58c",
+      "title": "Commonwealth Fusion Systems installs reactor magnet, lands deal with Nvidia",
+      "summary": "The fusion power frontrunner said that construction on its Sparc reactor was proceeding as planned. Meanwhile, it's building a digital twin to help dial it in.",
+      "url": "https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-06T16:30:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:53.030659+00:00"
+    },
+    {
+      "id": "8a61f5c349ce",
+      "title": "Intel is building a handheld gaming platform including a dedicated chip",
+      "summary": "Intel has been building chips designed for gaming PCs for years but the company is now moving into handheld devices too.",
+      "url": "https://techcrunch.com/2026/01/06/intel-is-building-a-handheld-gaming-platform-including-a-dedicated-chip/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-06T19:39:59+00:00",
+      "scrapedAt": "2026-01-07T08:38:53.030558+00:00"
+    },
+    {
+      "id": "0bb36db62f70",
+      "title": "The most bizarre tech announced so far at CES 2026",
+      "summary": "From an AI panda pet to an anime girl hologram for your desk, here are the wildest products at CES 2026.",
+      "url": "https://techcrunch.com/2026/01/06/the-most-bizarre-tech-announced-so-far-at-ces-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-06T20:10:22+00:00",
+      "scrapedAt": "2026-01-07T08:38:53.030488+00:00"
+    },
+    {
+      "id": "6d9eea432c5a",
+      "title": "California lawmaker proposes a four-year ban on AI chatbots in kids’ toys",
+      "summary": "“Our children cannot be used as lab rats for Big Tech to experiment on,” Senator Steve Padilla said. He just introduced a bill to ban AI chatbots in toys until safety regulations are developed.",
+      "url": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-06T20:22:21+00:00",
+      "scrapedAt": "2026-01-07T08:38:53.030415+00:00"
+    },
+    {
+      "id": "74dfd6991b19",
+      "title": "xAI says it raised $20B in Series E funding",
+      "summary": "Nvidia is among the many investors, but xAI has not disclosed if these investments come in the form of equity or debt.",
+      "url": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-06T20:57:16+00:00",
+      "scrapedAt": "2026-01-07T08:38:53.030328+00:00"
+    },
+    {
+      "id": "95a2e6a0d029",
+      "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated",
+      "summary": "When fake content goes viral, the damage has already been done, even if the post is debunked.",
+      "url": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-06T22:23:39+00:00",
+      "scrapedAt": "2026-01-07T08:38:53.030249+00:00"
+    },
+    {
+      "id": "7a7932357744",
+      "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+      "summary": "CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sun",
+      "url": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-06T22:47:48+00:00",
+      "scrapedAt": "2026-01-07T08:38:53.030134+00:00"
+    },
+    {
+      "id": "6b10952ba6cb",
+      "title": "Meta’s Manus news is getting different receptions in Washington and Beijing",
+      "summary": "Chinese officials are reportedly reviewing whether the Meta deal violates technology export controls, potentially giving Beijing leverage it wasn't initially perceived as having.",
+      "url": "https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T02:52:57+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.986913+00:00"
+    },
+    {
+      "id": "8025fb57286e",
+      "title": "McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over",
+      "summary": "Calacanis, General Catalyst's Taneja, and McKinsey's Sternfels discussed how AI is reshaping technology and the labor force.",
+      "url": "https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T03:09:04+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.986827+00:00"
+    },
+    {
+      "id": "a0178f3d36c7",
+      "title": "One in a million: celebrating the customers shaping AI’s future",
+      "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moder",
+      "url": "https://openai.com/index/one-in-a-million-customers",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.841427+00:00"
+    },
+    {
+      "id": "22651b90723c",
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel expl",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-22T00:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.841347+00:00"
+    },
+    {
+      "id": "8752663be10c",
+      "title": "We’re publishing an AI playbook to help others with sustainability reporting.",
+      "summary": "We’re publishing an AI playbook to help others with sustainability reporting.",
+      "url": "https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-15T17:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.359310+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-2025-AI-Playbook-for-Sus.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6ce3269fdc7a",
+      "title": "60 of our biggest AI announcements in 2025",
+      "summary": "Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.",
+      "url": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-22T17:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.358876+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025AI_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "acc80ee66f2e",
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "summary": "This year saw new AI models, transformative products and new breakthroughs in science and robotics.",
+      "url": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-23T17:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.358781+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/end-of-year-blog_header_light_2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "585a5937b1b7",
+      "title": "The AI doomers feel undeterred",
+      "summary": "It’s a weird time to be an AI doomer. This small but influential community of researchers, scientists, and policy experts believes, in the simplest terms, that AI could get so good it could be bad—ver",
+      "url": "https://www.technologyreview.com/2025/12/15/1129171/the-ai-doomers-feel-undeterred/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T10:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.218752+00:00"
+    },
+    {
+      "id": "502a12f0c237",
+      "title": "A brief history of Sam Altman’s hype",
+      "summary": "Each time you’ve heard a borderline outlandish idea of what AI will be capable of, it often turns out that Sam Altman was, if not the first to articulate it, at least the most persuasive and influenti",
+      "url": "https://www.technologyreview.com/2025/12/15/1129169/a-brief-history-of-sam-altmans-hype/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T10:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.211320+00:00"
+    },
+    {
+      "id": "9124bb9d461d",
+      "title": "The fast and the future-focused are revolutionizing motorsport",
+      "summary": "When the ABB FIA Formula E World Championship launched its first race through Beijing’s Olympic Park in 2014, the idea of all-electric motorsport still bordered on experimental. Batteries couldn’t yet",
+      "url": "https://www.technologyreview.com/2025/12/15/1127432/the-fast-and-the-future-focused-are-revolutionizing-motorsport/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-15T15:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.210513+00:00"
+    },
+    {
+      "id": "7ff0f39e64c0",
+      "title": "How social media encourages the worst of AI boosterism",
+      "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words : “This is embarrassing.” Hassabis was replying on X to an overexcited post by Sébastien Bubeck, a research scientist at the rival f",
+      "url": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-23T10:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.203094+00:00"
+    },
+    {
+      "id": "e4a7bbc2992e",
+      "title": "The ascent of the AI therapist",
+      "summary": "We’re in the midst of a global mental-­health crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety ",
+      "url": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-30T11:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.196210+00:00"
+    },
+    {
+      "id": "f2318d54ac54",
+      "title": "Why AI predictions are so hard",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Sometimes AI feels like a niche topic to write about, but the",
+      "url": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-06T10:00:00+00:00",
+      "scrapedAt": "2026-01-07T08:38:52.188906+00:00"
+    },
     {
       "id": "3aa1d71c9248",
       "title": "Enhancing Temporal Awareness in LLMs for Temporal Point Processes",
@@ -1147,209 +1350,6 @@
       "category": "product",
       "publishedAt": "2025-12-16T15:00:00+00:00",
       "scrapedAt": "2026-01-01T08:36:19.727664+00:00"
-    },
-    {
-      "id": "3d939e29841a",
-      "title": "Billion-Dollar Data Centers Are Taking Over the World",
-      "summary": "The battle for AI dominance has left a large footprint—and it’s only getting bigger and more expensive.",
-      "url": "https://www.wired.com/story/expired-tired-wired-data-centers/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-28T11:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:01.891625+00:00"
-    },
-    {
-      "id": "27f065fcb52e",
-      "title": "3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade",
-      "summary": "Google's AI is now even smarter, and more versatile.",
-      "url": "https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-29T11:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:01.891551+00:00"
-    },
-    {
-      "id": "de885ce9b971",
-      "title": "The Great Big Power Play",
-      "summary": "US support for nuclear energy is soaring. Meanwhile, coal plants are on their way out and electricity-sucking data centers are meeting huge pushback. Welcome to the next front in the energy battle.",
-      "url": "https://www.wired.com/story/expired-tired-wired-nuclear-plants/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-30T11:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:01.891474+00:00"
-    },
-    {
-      "id": "b88a8615c8b8",
-      "title": "Indie Game Awards retracts Expedition 33 prizes due to generative AI",
-      "summary": "Clair Obscur: Expedition 33 had earned another Game of the Year award by the Indie Game Awards last week, but the organization has since announced that the award would be retracted because developer S",
-      "url": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-22T13:47:58-05:00",
-      "scrapedAt": "2025-12-31T08:37:01.815790+00:00"
-    },
-    {
-      "id": "9ed8822fe408",
-      "title": "ChatGPT’s yearly recap sums up your conversations with the chatbot",
-      "summary": "ChatGPT is joining the flood of apps offering yearly recaps for users. It's rolling out a \"Year in Review\" feature that will show you a bunch of stats - like how many messages you sent to the chatbot ",
-      "url": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-22T17:12:11-05:00",
-      "scrapedAt": "2025-12-31T08:37:01.815336+00:00"
-    },
-    {
-      "id": "fe36edfaf2a4",
-      "title": "VCs predict enterprises will spend more on AI in 2026 — through fewer vendors",
-      "summary": "Enterprises have been experimenting with AI tools for a few years. Investors predict they will start to pick winners in 2026.",
-      "url": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-30T15:30:24+00:00",
-      "scrapedAt": "2025-12-31T08:37:01.291426+00:00"
-    },
-    {
-      "id": "5467df13f5d1",
-      "title": "The best AI-powered dictation apps of 2025",
-      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-      "url": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-30T16:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:01.291354+00:00"
-    },
-    {
-      "id": "f31cd12e7bf9",
-      "title": "The phone is dead. Long live . . . what exactly?",
-      "summary": "\"We're not going to be using iPhones in 10 years,\" Callaghan says flatly. \"I kind of don't think we'll be using them in five years.\"",
-      "url": "https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2025-12-31T05:37:03+00:00",
-      "scrapedAt": "2025-12-31T08:37:01.291273+00:00"
-    },
-    {
-      "id": "22651b90723c",
-      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-      "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel expl",
-      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-22T00:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:01.201557+00:00"
-    },
-    {
-      "id": "a0178f3d36c7",
-      "title": "One in a million: celebrating the customers shaping AI’s future",
-      "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moder",
-      "url": "https://openai.com/index/one-in-a-million-customers",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-22T00:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:01.201471+00:00"
-    },
-    {
-      "id": "8752663be10c",
-      "title": "We’re publishing an AI playbook to help others with sustainability reporting.",
-      "summary": "We’re publishing an AI playbook to help others with sustainability reporting.",
-      "url": "https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-15T17:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.761006+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-2025-AI-Playbook-for-Sus.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6ce3269fdc7a",
-      "title": "60 of our biggest AI announcements in 2025",
-      "summary": "Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.",
-      "url": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-22T17:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.760581+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025AI_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "acc80ee66f2e",
-      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-      "summary": "This year saw new AI models, transformative products and new breakthroughs in science and robotics.",
-      "url": "https://blog.google/technology/ai/2025-research-breakthroughs/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-23T17:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.760490+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/end-of-year-blog_header_light_2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "0c78069d767f",
-      "title": "Generative AI hype distracts us from AI’s more important breakthroughs",
-      "summary": "On April 28, 2022, at a highly anticipated concert in Spokane, Washington, the musician Paul McCartney astonished his audience with a groundbreaking application of AI: He began to perform with a lifel",
-      "url": "https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-15T10:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.442799+00:00"
-    },
-    {
-      "id": "fa144fedb153",
-      "title": "The great AI hype correction of 2025",
-      "summary": "Some disillusionment was inevitable. When OpenAI released a free web app called ChatGPT in late 2022, it changed the course of an entire industry—and several world economies. Millions of people starte",
-      "url": "https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-15T10:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.440778+00:00"
-    },
-    {
-      "id": "585a5937b1b7",
-      "title": "The AI doomers feel undeterred",
-      "summary": "It’s a weird time to be an AI doomer. This small but influential community of researchers, scientists, and policy experts believes, in the simplest terms, that AI could get so good it could be bad—ver",
-      "url": "https://www.technologyreview.com/2025/12/15/1129171/the-ai-doomers-feel-undeterred/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-15T10:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.437191+00:00"
-    },
-    {
-      "id": "502a12f0c237",
-      "title": "A brief history of Sam Altman’s hype",
-      "summary": "Each time you’ve heard a borderline outlandish idea of what AI will be capable of, it often turns out that Sam Altman was, if not the first to articulate it, at least the most persuasive and influenti",
-      "url": "https://www.technologyreview.com/2025/12/15/1129169/a-brief-history-of-sam-altmans-hype/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-15T10:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.429866+00:00"
-    },
-    {
-      "id": "9124bb9d461d",
-      "title": "The fast and the future-focused are revolutionizing motorsport",
-      "summary": "When the ABB FIA Formula E World Championship launched its first race through Beijing’s Olympic Park in 2014, the idea of all-electric motorsport still bordered on experimental. Batteries couldn’t yet",
-      "url": "https://www.technologyreview.com/2025/12/15/1127432/the-fast-and-the-future-focused-are-revolutionizing-motorsport/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-15T15:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.429081+00:00"
-    },
-    {
-      "id": "7ff0f39e64c0",
-      "title": "How social media encourages the worst of AI boosterism",
-      "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words : “This is embarrassing.” Hassabis was replying on X to an overexcited post by Sébastien Bubeck, a research scientist at the rival f",
-      "url": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-23T10:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.421930+00:00"
-    },
-    {
-      "id": "e4a7bbc2992e",
-      "title": "The ascent of the AI therapist",
-      "summary": "We’re in the midst of a global mental-­health crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety ",
-      "url": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-30T11:00:00+00:00",
-      "scrapedAt": "2025-12-31T08:37:00.415064+00:00"
     }
   ]
 }
