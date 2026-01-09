@@ -1,6 +1,216 @@
 {
-  "lastUpdated": "2026-01-08T08:39:26.067866+00:00",
+  "lastUpdated": "2026-01-09T08:39:36.349180+00:00",
   "articles": [
+    {
+      "id": "8bb0f0ec1be7",
+      "title": "Snowflake announces its intent to buy observability platform Observe",
+      "summary": "Snowflake is bolstering its data stack to make the platform better suited to the sheer volume of data produced by AI agents.",
+      "url": "https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T17:00:49+00:00",
+      "scrapedAt": "2026-01-09T08:38:38.081711+00:00"
+    },
+    {
+      "id": "d751e5b2a942",
+      "title": "Nvidia’s reportedly asking Chinese customers to pay upfront for its H200 AI chips",
+      "summary": "Nvidia is now requiring its customers in China to pay upfront in full for its H200 AI chips even as approval stateside and from Beijing remains uncertain.",
+      "url": "https://techcrunch.com/2026/01/08/nvidias-reportedly-asking-chinese-customers-to-pay-upfront-its-for-h200-ai-chips/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T17:29:31+00:00",
+      "scrapedAt": "2026-01-09T08:38:38.081639+00:00"
+    },
+    {
+      "id": "d5c48322cd7a",
+      "title": "CES 2026: Follow live for the best, weirdest, and most interesting tech as physical AI and robots dominate the event",
+      "summary": "CES 2026, the annual consumer tech conference held in Las Vegas, is here. And lucky for you, we have TechCrunch editors and reporters on the ground to cover the news, scout out the interesting, weird,",
+      "url": "https://techcrunch.com/storyline/ces-2026-follow-live-for-the-best-weirdest-most-interesting-tech-as-physical-ai-and-robots-dominates-the-event/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T17:46:09+00:00",
+      "scrapedAt": "2026-01-09T08:38:38.081548+00:00"
+    },
+    {
+      "id": "254add20ca6f",
+      "title": "The most bizarre tech announced so far at CES 2026",
+      "summary": "From an AI panda pet to an anime girl hologram for your desk, here are the wildest products at CES 2026.",
+      "url": "https://techcrunch.com/2026/01/08/the-most-bizarre-tech-announced-so-far-at-ces-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T17:46:19+00:00",
+      "scrapedAt": "2026-01-09T08:38:38.081417+00:00"
+    },
+    {
+      "id": "5845d7831707",
+      "title": "OpenAI to acquire the team behind executive coaching AI tool Convogo",
+      "summary": "OpenAI is acquiring the team behind executive coaching AI tool Convogo in an all-stock deal, adding to the firm's M&A spree.",
+      "url": "https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T18:11:14+00:00",
+      "scrapedAt": "2026-01-09T08:38:38.081301+00:00"
+    },
+    {
+      "id": "0de9ad8c725e",
+      "title": "Governments grapple with the flood of non-consensual nudity on X",
+      "summary": "For the past two weeks, X has been flooded with AI-manipulated nude images, created by the Grok AI chatbot — and governments around the world are promising to take action.",
+      "url": "https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T22:08:58+00:00",
+      "scrapedAt": "2026-01-09T08:38:38.030758+00:00"
+    },
+    {
+      "id": "bb1620397c03",
+      "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+      "summary": "CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sun",
+      "url": "https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-09T00:35:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:38.030669+00:00"
+    },
+    {
+      "id": "359738e7b0d6",
+      "title": "OpenAI for Healthcare",
+      "summary": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+      "url": "https://openai.com/index/openai-for-healthcare",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-08T12:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.884455+00:00"
+    },
+    {
+      "id": "52ec0eca2ce4",
+      "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+      "summary": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
+      "url": "https://openai.com/index/netomi",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-08T13:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.884365+00:00"
+    },
+    {
+      "id": "477787eb5c21",
+      "title": "Learn more about Gemini, our most capable AI model",
+      "summary": "Explore our collection to find out more about Gemini, the most capable and general model we’ve ever built.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/gemini-collection/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2023-12-06T15:15:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.280253+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyword_collection_header-2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "4889f0ceb48a",
+      "title": "2023 at Google",
+      "summary": "Explore our collection looking back on some of our biggest moments and milestones from 2023.",
+      "url": "https://blog.google/company-news/inside-google/google-2023-recaps-highlights/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2023-12-20T17:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.280164+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_5.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "00e716bb6ddc",
+      "title": "The AI for Science Forum: A new era of discovery",
+      "summary": "Google DeepMind and the Royal Society are co-hosting the AI for Science Forum to explore how AI is rapidly accelerating science.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-science-forum-2024/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2024-11-18T17:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.280070+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIFS_Collection_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a98b05affe08",
+      "title": "New AI features and more for Android and Pixel",
+      "summary": "Learn more about the latest Pixel and Android updates, featuring the latest in Google AI innovation.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-android-ai-updates-december-2024/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2024-12-05T17:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.279985+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12-05-24_Collection_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "95c97b0c5537",
+      "title": "The Check Up with Google",
+      "summary": "At The Check Up 2025, we shared more about the potential of AI in health and our latest health AI research, partnership and product updates.",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-03-18T13:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.279900+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CheckUpCollectionHeader.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ecca2f867424",
+      "title": "Google Cloud Next 25",
+      "summary": "Here’s a look at what we announced at Google Cloud Next 25.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-04-09T12:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.279810+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Collection_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "57a00d710cb9",
+      "title": "I/O 2025",
+      "summary": "We’re doing cutting-edge research to build the most helpful AI that’s more intelligent, agentic and personalized.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2025-collection/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-05-20T17:45:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.279723+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ec2c242cce27",
+      "title": "Investing in America 2025",
+      "summary": "Google’s deep investments in American technical infrastructure, R&D and the workforce will help the U.S. continue to lead the world in AI.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/investing-in-america-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-17T20:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.279631+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c585a0bd9ee5",
+      "title": "The Google guide for holiday help",
+      "summary": "Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-25T18:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.279523+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6cb364887a15",
+      "title": "2025 at Google",
+      "summary": "Learn more about Google’s launches, milestones and more from 2025.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/look-back-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-09T16:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:37.279399+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "91fd04c2eace",
+      "title": "AI Wrapped: The 14 AI terms you couldn’t avoid in 2025",
+      "summary": "If the past 12 months have taught us anything, it’s that the AI hype train is showing no signs of slowing. It’s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire i",
+      "url": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2025-12-25T10:00:00+00:00",
+      "scrapedAt": "2026-01-09T08:38:36.896652+00:00"
+    },
     {
       "id": "05b3609ad3f3",
       "title": "An Empirical Study of On-Device Translation for Real-Time Live-Stream Chat on Mobile Devices",
@@ -1149,207 +1359,6 @@
       "publishedAt": "2025-12-19T16:00:00+00:00",
       "scrapedAt": "2026-01-03T08:34:29.618206+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "04d1ddb01de9",
-      "title": "Dell's version of the DGX Spark fixes pain points",
-      "summary": "Score: 130 points",
-      "url": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-01T19:11:53+00:00",
-      "scrapedAt": "2026-01-02T08:36:46.035868+00:00"
-    },
-    {
-      "id": "39b44e8153fe",
-      "title": "FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)",
-      "summary": "Score: 11 points",
-      "url": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-02T06:48:32+00:00",
-      "scrapedAt": "2026-01-02T08:36:45.112401+00:00"
-    },
-    {
-      "id": "9e463a0972bc",
-      "title": "Happy Public Domain Day 2026",
-      "summary": "Score: 232 points",
-      "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-02T01:42:16+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.925969+00:00"
-    },
-    {
-      "id": "baec811cc3ce",
-      "title": "Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis",
-      "summary": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
-      "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-23T11:30:00+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.691437+00:00"
-    },
-    {
-      "id": "4319a7905fdb",
-      "title": "AlphaFold Changed Science. After 5 Years, It’s Still Evolving",
-      "summary": "WIRED spoke with DeepMind’s Pushmeet Kohli about the recent past—and promising future—of the Nobel Prize-winning research project that changed biology and chemistry forever.",
-      "url": "https://www.wired.com/story/alphafold-changed-science-after-5-years-its-still-evolving/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T10:00:00+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.691370+00:00"
-    },
-    {
-      "id": "16cd1ec17d11",
-      "title": "Pinterest Users Are Tired of All the AI Slop",
-      "summary": "A surge of AI-generated content is frustrating Pinterest users and left some questioning whether the platform still works at all.",
-      "url": "https://www.wired.com/story/pinterst-ai-slop-content/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T10:30:00+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.691299+00:00"
-    },
-    {
-      "id": "d33a962a1cf9",
-      "title": "The Age of the All-Access AI Agent Is Here",
-      "summary": "Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.",
-      "url": "https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T11:00:00+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.691233+00:00"
-    },
-    {
-      "id": "0b93791f42c9",
-      "title": "AI-Powered Dating Is All Hype. IRL Cruising Is the Future",
-      "summary": "Dating apps and AI companies have been touting bot wingmen for months. But the future might just be good old-fashioned meet-cutes.",
-      "url": "https://www.wired.com/story/expired-tired-wired-ai-powered-dating/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-31T11:00:00+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.690886+00:00"
-    },
-    {
-      "id": "a27265e78b01",
-      "title": "AI Labor Is Boring. AI Lust Is Big Business",
-      "summary": "After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.",
-      "url": "https://www.wired.com/story/expired-tired-wired-sexy-chatbots/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-01T11:00:00+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.690805+00:00"
-    },
-    {
-      "id": "a525ea107d89",
-      "title": "How AI broke the smart home in 2025",
-      "summary": "This morning, I asked my Alexa-enabled Bosch coffee machin e to make me a coffee. Instead of running my routine , it told me it couldn't do that. Ever since I upgraded to Alexa Plus, Amazon's generati",
-      "url": "https://www.theverge.com/tech/845958/ai-smart-home-broken",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-23T08:30:00-05:00",
-      "scrapedAt": "2026-01-02T08:36:44.617401+00:00"
-    },
-    {
-      "id": "e22d0c172505",
-      "title": "New York’s landmark AI safety bill was defanged — and universities were part of the push against it",
-      "summary": "A group of tech companies and academic institutions spent tens of thousands of dollars in the past month - likely between $17,000 and $25,000 - on an ad campaign against New York's landmark AI safety ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-23T11:18:49-05:00",
-      "scrapedAt": "2026-01-02T08:36:44.616885+00:00"
-    },
-    {
-      "id": "f569b05700da",
-      "title": "In 2025, AI became a lightning rod for gamers and developers",
-      "summary": "2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game stu",
-      "url": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-24T08:00:00-05:00",
-      "scrapedAt": "2026-01-02T08:36:44.616357+00:00"
-    },
-    {
-      "id": "32664cd9ee66",
-      "title": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
-      "summary": "AI isn't new to Hollywood - but this was the year when it really made its presence felt. For years now, the entertainment industry has used different kinds of generative AI products for a variety of p",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-25T08:00:00-05:00",
-      "scrapedAt": "2026-01-02T08:36:44.615972+00:00"
-    },
-    {
-      "id": "5493e4d736f6",
-      "title": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
-      "summary": "Buddy’s in space. When your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. I've heard this advice again and again, but never",
-      "url": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-25T09:00:00-05:00",
-      "scrapedAt": "2026-01-02T08:36:44.615575+00:00"
-    },
-    {
-      "id": "94213bc71548",
-      "title": "You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram",
-      "summary": "Instagram boss Adam Mosseri is closing out 2025 with a 20-images-deep dive into what a new era of \"infinite synthetic content\" means as it all becomes harder and harder to distinguish from reality, an",
-      "url": "https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-31T17:54:10-05:00",
-      "scrapedAt": "2026-01-02T08:36:44.614173+00:00"
-    },
-    {
-      "id": "1c5452ec78cd",
-      "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
-      "summary": "The form factors may differ, but the thesis is the same: audio is the interface of the future. Every space -- your home, your car, even your face -- is becoming an interface.",
-      "url": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-01T18:29:29+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.275213+00:00"
-    },
-    {
-      "id": "69e1443b9f07",
-      "title": "European banks plan to cut 200,000 jobs as AI takes hold",
-      "summary": "The bloodletting will hit hardest in back-office operations, risk management, and compliance.",
-      "url": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-01T20:28:20+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.275129+00:00"
-    },
-    {
-      "id": "a32667d0ddfb",
-      "title": "Introducing OpenAI Academy for News Organizations",
-      "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy",
-      "url": "https://openai.com/index/openai-academy-for-news-organizations",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-17T06:00:00+00:00",
-      "scrapedAt": "2026-01-02T08:36:44.204664+00:00"
-    },
-    {
-      "id": "006948276717",
-      "title": "Gemini 3 Flash: frontier intelligence built for speed",
-      "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
-      "url": "https://blog.google/products/gemini/gemini-3-flash/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-17T16:00:00+00:00",
-      "scrapedAt": "2026-01-02T08:36:43.743896+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_flash_model_blog_heade.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "91fd04c2eace",
-      "title": "AI Wrapped: The 14 AI terms you couldn’t avoid in 2025",
-      "summary": "If the past 12 months have taught us anything, it’s that the AI hype train is showing no signs of slowing. It’s hard to believe that at the beginning of the year, DeepSeek had yet to turn the entire i",
-      "url": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-25T10:00:00+00:00",
-      "scrapedAt": "2026-01-02T08:36:43.413968+00:00"
     }
   ]
 }
