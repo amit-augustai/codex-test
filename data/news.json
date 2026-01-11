@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-01-10T08:34:37.612515+00:00",
+  "lastUpdated": "2026-01-11T08:35:16.539098+00:00",
   "articles": [
+    {
+      "id": "1ce5e46acb49",
+      "title": "ChatGPT Health is a marketplace, guess who is the product?",
+      "summary": "Score: 272 points",
+      "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-08T14:40:20+00:00",
+      "scrapedAt": "2026-01-11T08:34:21.057638+00:00"
+    },
+    {
+      "id": "b42fb88993b1",
+      "title": "Show HN: Play poker with LLMs, or watch them play against each other",
+      "summary": "I was curious to see how some of the latest models behaved and played no limit texas holdem.<p>I built this website which allows you to:<p>Spectate: Watch different models play against each other.<p>P",
+      "url": "https://llmholdem.com/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-10T19:27:39+00:00",
+      "scrapedAt": "2026-01-11T08:34:20.918734+00:00"
+    },
+    {
+      "id": "f5004af65803",
+      "title": "AI is a business model stress test",
+      "summary": "Score: 236 points",
+      "url": "https://dri.es/ai-is-a-business-model-stress-test",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-10T16:56:34+00:00",
+      "scrapedAt": "2026-01-11T08:34:20.782560+00:00"
+    },
+    {
+      "id": "e5837ef2b03a",
+      "title": "A battle over Canada’s mystery brain disease",
+      "summary": "Score: 119 points",
+      "url": "https://www.bbc.com/news/articles/c623r47d67lo",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-11T04:45:27+00:00",
+      "scrapedAt": "2026-01-11T08:34:20.442194+00:00"
+    },
+    {
+      "id": "72021b915f7b",
+      "title": "Show HN: I used Claude Code to discover connections between 100 books",
+      "summary": "I think LLMs are overused to summarise and underused to help us read deeper.<p>I built a system for Claude Code to browse 100 non-fiction books and find interesting connections between them.<p>I start",
+      "url": "https://trails.pieterma.es/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-10T16:56:55+00:00",
+      "scrapedAt": "2026-01-11T08:34:20.349487+00:00"
+    },
+    {
+      "id": "eca73015bd73",
+      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+      "summary": "Ferrite: Fast Markdown&#x2F;Text&#x2F;Code editor in Rust with native Mermaid diagrams<p>Built a Markdown editor using Rust + egui. v0.2.1 just dropped with major Mermaid improvements:<p>→ Native Merm",
+      "url": "https://github.com/OlaProeis/Ferrite",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-11T01:50:01+00:00",
+      "scrapedAt": "2026-01-11T08:34:20.163642+00:00"
+    },
+    {
+      "id": "651716289978",
+      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
+      "summary": "Score: 17 points",
+      "url": "https://github.com/vojtapolasek/vojtux",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-07T11:43:26+00:00",
+      "scrapedAt": "2026-01-11T08:34:20.117272+00:00"
+    },
+    {
+      "id": "58bd791a39ab",
+      "title": "AI Models Are Starting to Learn by Asking Themselves Questions",
+      "summary": "An AI model that learns without human input—by posing interesting queries for itself—might point the way to superintelligence.",
+      "url": "https://www.wired.com/story/ai-models-keep-learning-after-training-research/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T19:00:00+00:00",
+      "scrapedAt": "2026-01-11T08:34:19.842652+00:00"
+    },
+    {
+      "id": "5d991b338f1d",
+      "title": "Grok Is Generating Sexual Content Far More Graphic Than What's on X",
+      "summary": "A WIRED review of outputs hosted on Grok’s official website shows it’s being used to create violent sexual images and videos, as well as content that includes apparent minors.",
+      "url": "https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T21:47:56+00:00",
+      "scrapedAt": "2026-01-11T08:34:19.842593+00:00"
+    },
+    {
+      "id": "1188099d679d",
+      "title": "Is Craigslist the Last Real Place on the Internet?",
+      "summary": "Millennials are still using Craigslist to find jobs, love, and even to cast creative projects—eschewing other AI- and algorithm-dominated online spaces. “There’s a purity to it.”",
+      "url": "https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T10:00:00+00:00",
+      "scrapedAt": "2026-01-11T08:34:19.842530+00:00"
+    },
+    {
+      "id": "27377e21363b",
+      "title": "Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails",
+      "summary": "New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.",
+      "url": "https://www.wired.com/story/google-ai-inbox-gmail/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T13:00:00+00:00",
+      "scrapedAt": "2026-01-11T08:34:19.842470+00:00"
+    },
+    {
+      "id": "252ab550ea80",
+      "title": "People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good",
+      "summary": "Online detectives are inaccurately claiming to have identified the federal agent who shot and killed a 37-year-old woman in Minnesota based on AI-manipulated images.",
+      "url": "https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T16:33:56+00:00",
+      "scrapedAt": "2026-01-11T08:34:19.842408+00:00"
+    },
+    {
+      "id": "52e617c3b607",
+      "title": "AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?",
+      "summary": "Tech companies are calling AI the next platform. But some developers are reluctant to let AI agents stand between them and their users.",
+      "url": "https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-08T19:00:00+00:00",
+      "scrapedAt": "2026-01-11T08:34:19.842350+00:00"
+    },
+    {
+      "id": "17d831bddacf",
+      "title": "‘Physical AI’ Is Coming for Your Car",
+      "summary": "What the latest tech-marketing buzzword has to say about the future of automotive.",
+      "url": "https://www.wired.com/story/physical-ai-is-coming-for-your-car/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-09T11:30:00+00:00",
+      "scrapedAt": "2026-01-11T08:34:19.842275+00:00"
+    },
+    {
+      "id": "cfde5c341033",
+      "title": "X Didn’t Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It",
+      "summary": "X is allowing only “verified” users to create images with Grok. Experts say it represents the “monetization of abuse”—and anyone can still generate images on Grok’s app and website.",
+      "url": "https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-09T15:19:18+00:00",
+      "scrapedAt": "2026-01-11T08:34:19.842218+00:00"
+    },
+    {
+      "id": "c2b232316560",
+      "title": "Grok Is Being Used to Mock and Strip Women in Hijabs and Saris",
+      "summary": "A substantial number of AI images generated or edited with Grok are targeting women in religious and cultural clothing.",
+      "url": "https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-10T00:23:08+00:00",
+      "scrapedAt": "2026-01-11T08:34:19.842149+00:00"
+    },
+    {
+      "id": "4b72cad440c3",
+      "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
+      "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+      "url": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-10T19:37:54+00:00",
+      "scrapedAt": "2026-01-11T08:34:18.837641+00:00"
+    },
+    {
+      "id": "af581abff509",
+      "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+      "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+      "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-10T21:18:29+00:00",
+      "scrapedAt": "2026-01-11T08:34:18.837563+00:00"
+    },
+    {
+      "id": "f58701c4459f",
+      "title": "Evaluating chain-of-thought monitorability",
+      "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoni",
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-18T12:00:00+00:00",
+      "scrapedAt": "2026-01-11T08:34:18.696278+00:00"
+    },
+    {
+      "id": "d3941dee22b6",
+      "title": "Announcing OpenAI Grove Cohort 2",
+      "summary": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to",
+      "url": "https://openai.com/index/openai-grove",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-02T10:00:00+00:00",
+      "scrapedAt": "2026-01-11T08:34:18.696089+00:00"
+    },
     {
       "id": "b380d6eb9fd7",
       "title": "OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents",
@@ -1354,211 +1554,6 @@
       "category": "product",
       "publishedAt": "2026-01-03T23:45:07+00:00",
       "scrapedAt": "2026-01-04T08:34:49.385386+00:00"
-    },
-    {
-      "id": "8a3136ab3d15",
-      "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
-      "summary": "Score: 52 points",
-      "url": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-03T04:01:03+00:00",
-      "scrapedAt": "2026-01-03T08:34:31.670836+00:00"
-    },
-    {
-      "id": "07799e7ea215",
-      "title": "Trump’s war on offshore wind faces another lawsuit",
-      "summary": "Dominion Energy, an offshore wind developer and utility serving Virginia's \"data center alley,\" filed suit against the Trump administration this week over its decision to pause federal leases for larg",
-      "url": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-26T17:14:47-05:00",
-      "scrapedAt": "2026-01-03T08:34:31.252130+00:00"
-    },
-    {
-      "id": "18df960031a3",
-      "title": "Grok is undressing anyone, including minors",
-      "summary": "xAI's Grok is removing clothing from pictures of people without their consent following this week's rollout of a feature that allows X users to instantly edit any image using the bot without needing t",
-      "url": "https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-02T14:52:34-05:00",
-      "scrapedAt": "2026-01-03T08:34:31.250696+00:00"
-    },
-    {
-      "id": "47febd3494ae",
-      "title": "In 2026, AI will move from hype to pragmatism",
-      "summary": "In 2026, here's what you can expect from the AI industry: new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use.",
-      "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-02T14:43:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.387963+00:00"
-    },
-    {
-      "id": "a07fcb1cc154",
-      "title": "Nvidia’s AI empire: A look at its top startup investments",
-      "summary": "Over the last two years, Nvidia has used its ballooning fortunes to invest in over 100 AI startups. Here are the giant semiconductor's largest investments.",
-      "url": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-02T16:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.387885+00:00"
-    },
-    {
-      "id": "c869e96b4f78",
-      "title": "How AI is reshaping work and who gets to do it, according to Mercor’s CEO",
-      "summary": "Three-year-old startup Mercor has become a $10 billion middleman in AI’s data gold rush. The company connects AI labs like OpenAI and Anthropic with former employees of Goldman Sachs, McKinsey, and wh",
-      "url": "https://techcrunch.com/podcast/how-ai-is-reshaping-work-and-who-gets-to-do-it-according-to-mercors-ceo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-02T17:33:18+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.387748+00:00"
-    },
-    {
-      "id": "ba29c20d1b93",
-      "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
-      "summary": "India's IT ministry has given X 72 hours to submit an action-taken report.",
-      "url": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-02T18:29:26+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.374995+00:00"
-    },
-    {
-      "id": "1b1c5c5cd15c",
-      "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
-      "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt inj",
-      "url": "https://openai.com/index/gpt-5-2-codex-system-card",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.215847+00:00"
-    },
-    {
-      "id": "2d1c87f7a022",
-      "title": "Introducing GPT-5.2-Codex",
-      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
-      "url": "https://openai.com/index/introducing-gpt-5-2-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.215755+00:00"
-    },
-    {
-      "id": "92da98d14454",
-      "title": "Introducing GPT-5.2-Codex",
-      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
-      "url": "https://openai.com/index/gpt-5-2-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.215685+00:00"
-    },
-    {
-      "id": "e6aea9b0c8ad",
-      "title": "AI literacy resources for teens and parents",
-      "summary": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, h",
-      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T11:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.215612+00:00"
-    },
-    {
-      "id": "82b7c5841700",
-      "title": "Deepening our collaboration with the U.S. Department of Energy",
-      "summary": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongo",
-      "url": "https://openai.com/index/us-department-of-energy-collaboration",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T11:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.215545+00:00"
-    },
-    {
-      "id": "d23b98b1f881",
-      "title": "Updating our Model Spec with teen protections",
-      "summary": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthen",
-      "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T11:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.215472+00:00"
-    },
-    {
-      "id": "f58701c4459f",
-      "title": "Evaluating chain-of-thought monitorability",
-      "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoni",
-      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T12:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.215400+00:00"
-    },
-    {
-      "id": "d3941dee22b6",
-      "title": "Announcing OpenAI Grove Cohort 2",
-      "summary": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to",
-      "url": "https://openai.com/index/openai-grove",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-02T10:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:30.215157+00:00"
-    },
-    {
-      "id": "5fd1315d5c83",
-      "title": "Watch a podcast discussion about Gemini 3 and the future of Search.",
-      "summary": "Watch a podcast discussion about Gemini 3 and the future of Search.",
-      "url": "https://blog.google/technology/ai/release-notes-podcast-search/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T00:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:29.618428+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "221d17f9d227",
-      "title": "Inside Kaggle's AI Agents intensive course with Google",
-      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "url": "https://blog.google/technology/developers/ai-agents-intensive-recap/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T16:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:29.618407+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/kaggle_AI_intensive_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6c144d11391f",
-      "title": "You can now verify Google AI-generated videos in the Gemini app.",
-      "summary": "You can now verify Google AI-generated videos in the Gemini app.",
-      "url": "https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T17:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:29.618315+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SynthID_Social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "fee1f5e4bd98",
-      "title": "5 ways AI agents will transform the way we work in 2026",
-      "summary": "Today, Google Cloud dropped its 2026 AI Agent Trends Report.",
-      "url": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-19T14:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:29.618293+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_xCoMYQ5.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7b19d2ff6046",
-      "title": "40 of our most helpful AI tips from 2025",
-      "summary": "Learn more about the AI tips and tools Google shared in 2025.",
-      "url": "https://blog.google/technology/ai/ai-tips-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-19T16:00:00+00:00",
-      "scrapedAt": "2026-01-03T08:34:29.618206+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_hero.max-600x600.format-webp.webp"
     }
   ]
 }
