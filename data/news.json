@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-01-11T08:35:16.539098+00:00",
+  "lastUpdated": "2026-01-12T08:41:28.247580+00:00",
   "articles": [
+    {
+      "id": "5d5cd0786075",
+      "title": "The Kernel Manifold: A Geometric Approach to Gaussian Process Model Selection",
+      "summary": "arXiv:2601.05371v1 Announce Type: new Abstract: Gaussian Process (GP) regression is a powerful nonparametric Bayesian framework, but its performance depends critically on the choice of covariance kern",
+      "url": "https://arxiv.org/abs/2601.05371",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:32.095069+00:00"
+    },
+    {
+      "id": "f2d6cbd8106b",
+      "title": "GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting",
+      "summary": "arXiv:2601.05353v1 Announce Type: new Abstract: Accurate forecasting of blood glucose from CGM is essential for preventing dysglycemic events, thus enabling proactive diabetes management. However, cur",
+      "url": "https://arxiv.org/abs/2601.05353",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:32.094948+00:00"
+    },
+    {
+      "id": "9e96211a1c11",
+      "title": "When the Server Steps In: Calibrated Updates for Fair Federated Learning",
+      "summary": "arXiv:2601.05352v1 Announce Type: new Abstract: Federated learning (FL) has emerged as a transformative distributed learning paradigm, enabling multiple clients to collaboratively train a global model",
+      "url": "https://arxiv.org/abs/2601.05352",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:32.094801+00:00"
+    },
+    {
+      "id": "1cf85eaad7bf",
+      "title": "Ontology Neural Networks for Topologically Conditioned Constraint Satisfaction",
+      "summary": "arXiv:2601.05304v1 Announce Type: new Abstract: Neuro-symbolic reasoning systems face fundamental challenges in maintaining semantic coherence while satisfying physical and logical constraints. Buildi",
+      "url": "https://arxiv.org/abs/2601.05304",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:32.094674+00:00"
+    },
+    {
+      "id": "2f9758e651cf",
+      "title": "TIME: Temporally Intelligent Meta-reasoning Engine for Context Triggered Explicit Reasoning",
+      "summary": "arXiv:2601.05300v1 Announce Type: new Abstract: Reasoning oriented large language models often expose explicit \"thinking\" as long, turn-global traces at the start of every response, either always on o",
+      "url": "https://arxiv.org/abs/2601.05300",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:32.094563+00:00"
+    },
+    {
+      "id": "d21b4d4f8c13",
+      "title": "MoEBlaze: Breaking the Memory Wall for Efficient MoE Training on Modern GPUs",
+      "summary": "arXiv:2601.05296v1 Announce Type: new Abstract: The pervasive \"memory wall\" bottleneck is significantly amplified in modern large-scale Mixture-of-Experts (MoE) architectures. MoE's inherent architect",
+      "url": "https://arxiv.org/abs/2601.05296",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:32.094376+00:00"
+    },
+    {
+      "id": "ada945d8e212",
+      "title": "MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis",
+      "summary": "arXiv:2601.05483v1 Announce Type: new Abstract: Understanding urban environment change is essential for sustainable development. However, current approaches, particularly remote sensing change detecti",
+      "url": "https://arxiv.org/abs/2601.05483",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.940001+00:00"
+    },
+    {
+      "id": "caffb91acaa3",
+      "title": "PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering",
+      "summary": "arXiv:2601.05465v1 Announce Type: new Abstract: Answering real-world open-domain multi-hop questions over massive corpora is a critical challenge in Retrieval-Augmented Generation (RAG) systems. Recen",
+      "url": "https://arxiv.org/abs/2601.05465",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.939893+00:00"
+    },
+    {
+      "id": "872ddb50ad1e",
+      "title": "ART: Adaptive Reasoning Trees for Explainable Claim Verification",
+      "summary": "arXiv:2601.05455v1 Announce Type: new Abstract: Large Language Models (LLMs) are powerful candidates for complex decision-making, leveraging vast encoded knowledge and remarkable zero-shot abilities. ",
+      "url": "https://arxiv.org/abs/2601.05455",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.939768+00:00"
+    },
+    {
+      "id": "63e27bbfd985",
+      "title": "On the Effect of Cheating in Chess",
+      "summary": "arXiv:2601.05386v1 Announce Type: new Abstract: Cheating in chess, by using advice from powerful software, has become a major problem, reaching the highest levels. As opposed to the large majority of ",
+      "url": "https://arxiv.org/abs/2601.05386",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.939658+00:00"
+    },
+    {
+      "id": "5d64e07233bf",
+      "title": "Conformity and Social Impact on AI Agents",
+      "summary": "arXiv:2601.05384v1 Announce Type: new Abstract: As AI agents increasingly operate in multi-agent environments, understanding their collective behavior becomes critical for predicting the dynamics of a",
+      "url": "https://arxiv.org/abs/2601.05384",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.939571+00:00"
+    },
+    {
+      "id": "1d780a5904fb",
+      "title": "The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models",
+      "summary": "arXiv:2601.05376v1 Announce Type: new Abstract: Persona conditioning can be viewed as a behavioral prior for large language models (LLMs) and is often assumed to confer expertise and improve safety in",
+      "url": "https://arxiv.org/abs/2601.05376",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.939459+00:00"
+    },
+    {
+      "id": "6070e3fc324a",
+      "title": "Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings",
+      "summary": "arXiv:2601.05330v1 Announce Type: new Abstract: Predicting enzyme-substrate interactions has long been a fundamental problem in biochemistry and metabolic engineering. While existing methods could lev",
+      "url": "https://arxiv.org/abs/2601.05330",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.939324+00:00"
+    },
+    {
+      "id": "10b50d27c17f",
+      "title": "Effects of personality steering on cooperative behavior in Large Language Model agents",
+      "summary": "arXiv:2601.05302v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as autonomous agents in strategic and social interactions. Although recent studies suggest that assig",
+      "url": "https://arxiv.org/abs/2601.05302",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.939161+00:00"
+    },
+    {
+      "id": "4895640b5beb",
+      "title": "Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing",
+      "summary": "arXiv:2601.05298v1 Announce Type: new Abstract: Additive manufacturing (AM) relies critically on understanding and extrapolating process-property relationships; however, existing data-driven approache",
+      "url": "https://arxiv.org/abs/2601.05298",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.939043+00:00"
+    },
+    {
+      "id": "37c8c6d96db4",
+      "title": "Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring",
+      "summary": "arXiv:2601.05256v1 Announce Type: new Abstract: Inland water monitoring is vital for safeguarding public health and ecosystems, enabling timely interventions to mitigate risks. Existing methods often ",
+      "url": "https://arxiv.org/abs/2601.05256",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-12T00:00:00-05:00",
+      "scrapedAt": "2026-01-12T08:40:31.938897+00:00"
+    },
+    {
+      "id": "53480a5b0552",
+      "title": "Google announces a new protocol to facilitate commerce using AI agents",
+      "summary": "Google said that merchants can now offer discounts to users directly in AI mode results",
+      "url": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-11T15:00:00+00:00",
+      "scrapedAt": "2026-01-12T08:40:31.509234+00:00"
+    },
+    {
+      "id": "745db865b4c2",
+      "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
+      "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+      "url": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-11T15:07:49+00:00",
+      "scrapedAt": "2026-01-12T08:40:31.509161+00:00"
+    },
+    {
+      "id": "01a97c6a708d",
+      "title": "Google removes AI Overviews for certain medical queries",
+      "summary": "This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.",
+      "url": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-11T17:56:41+00:00",
+      "scrapedAt": "2026-01-12T08:40:31.509086+00:00"
+    },
+    {
+      "id": "bf615d203336",
+      "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
+      "summary": "Motional says it will launch a driverless robotaxi service in Las Vegas before the end of 2026.",
+      "url": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T00:10:54+00:00",
+      "scrapedAt": "2026-01-12T08:40:31.509004+00:00"
+    },
     {
       "id": "1ce5e46acb49",
       "title": "ChatGPT Health is a marketplace, guess who is the product?",
@@ -1414,146 +1614,6 @@
       "category": "product",
       "publishedAt": "2026-01-04T21:14:23+00:00",
       "scrapedAt": "2026-01-05T08:41:39.606548+00:00"
-    },
-    {
-      "id": "c3075ba6d2ad",
-      "title": "Chain Flinger",
-      "summary": "Score: 62 points",
-      "url": "https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2025-12-28T21:56:27+00:00",
-      "scrapedAt": "2026-01-04T08:34:54.338738+00:00"
-    },
-    {
-      "id": "76f2f46dd9fa",
-      "title": "Comparing benefits of every-third-day vs. daily low-dose aspirin therapy (2001)",
-      "summary": "Score: 33 points",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/11190906/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-03T23:10:30+00:00",
-      "scrapedAt": "2026-01-04T08:34:53.684456+00:00"
-    },
-    {
-      "id": "7ed1adfb01e6",
-      "title": "Advanced Rail Energy Storage of North America",
-      "summary": "Score: 33 points",
-      "url": "https://aresnorthamerica.com/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-03T22:35:11+00:00",
-      "scrapedAt": "2026-01-04T08:34:51.719382+00:00"
-    },
-    {
-      "id": "68d815002bef",
-      "title": "Recursive Language Models",
-      "summary": "Score: 141 points",
-      "url": "https://arxiv.org/abs/2512.24601",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-03T11:29:33+00:00",
-      "scrapedAt": "2026-01-04T08:34:51.630339+00:00"
-    },
-    {
-      "id": "cccea2fa93a9",
-      "title": "Scaling Latent Reasoning via Looped Language Models",
-      "summary": "Score: 62 points",
-      "url": "https://arxiv.org/abs/2510.25741",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-03T21:34:33+00:00",
-      "scrapedAt": "2026-01-04T08:34:51.325691+00:00"
-    },
-    {
-      "id": "7e236a094e67",
-      "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
-      "summary": "Score: 31 points",
-      "url": "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-04T01:26:39+00:00",
-      "scrapedAt": "2026-01-04T08:34:51.067802+00:00"
-    },
-    {
-      "id": "c03999abdade",
-      "title": "Show HN: Claude Reflect – Auto-turn Claude corrections into project config",
-      "summary": "Score: 21 points",
-      "url": "https://github.com/BayramAnnakov/claude-reflect",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-04T04:31:11+00:00",
-      "scrapedAt": "2026-01-04T08:34:50.717311+00:00"
-    },
-    {
-      "id": "7a102d1eabb3",
-      "title": "How Thomas Mann Wrote the Magic Mountain",
-      "summary": "Score: 51 points",
-      "url": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-04T02:13:23+00:00",
-      "scrapedAt": "2026-01-04T08:34:50.630700+00:00"
-    },
-    {
-      "id": "e345449d1dfc",
-      "title": "Neural Networks: Zero to Hero",
-      "summary": "Score: 181 points",
-      "url": "https://karpathy.ai/zero-to-hero.html",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-04T05:02:16+00:00",
-      "scrapedAt": "2026-01-04T08:34:50.242983+00:00"
-    },
-    {
-      "id": "4e072bd49993",
-      "title": "So Long, GPT-5. Hello, Qwen",
-      "summary": "In the AI boom, chatbots and GPTs come and go quickly. (Remember Llama?) GPT-5 had a big year, but 2026 will be all about Qwen.",
-      "url": "https://www.wired.com/story/expired-tired-wired-gpt-5/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2025-12-27T11:00:00+00:00",
-      "scrapedAt": "2026-01-04T08:34:49.972785+00:00"
-    },
-    {
-      "id": "071252fc0a79",
-      "title": "The US Invaded Venezuela and Captured Nicolás Maduro. ChatGPT Disagrees",
-      "summary": "Some AI chatbots have a surprisingly good handle on breaking news. Others decidedly don’t.",
-      "url": "https://www.wired.com/story/us-invaded-venezuela-and-captured-nicolas-maduro-chatgpt-disagrees/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-03T16:03:15+00:00",
-      "scrapedAt": "2026-01-04T08:34:49.972348+00:00"
-    },
-    {
-      "id": "1cd41c8c16ee",
-      "title": "Disinformation Floods Social Media After Nicolás Maduro’s Capture",
-      "summary": "From seemingly AI-generated videos to repurposed old footage, TikTok, Instagram, and X did little to stop the onslaught of misleading posts in the wake of the US invasion of Venezuela.",
-      "url": "https://www.wired.com/story/disinformation-floods-social-media-after-nicolas-maduros-capture/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-03T18:14:47+00:00",
-      "scrapedAt": "2026-01-04T08:34:49.972266+00:00"
-    },
-    {
-      "id": "d237074d5be7",
-      "title": "Sam Altman is hiring someone to worry about the dangers of AI",
-      "summary": "ISO corporate scapegoat. OpenAI is hiring a Head of Preparedness . Or, in other words, someone whose primary job is to think about all the ways AI could go horribly, horribly wrong. In a post on X , S",
-      "url": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2025-12-27T14:00:35-05:00",
-      "scrapedAt": "2026-01-04T08:34:49.850385+00:00"
-    },
-    {
-      "id": "2b4dcecf9a69",
-      "title": "Tech billionaires cashed out $16 billion in 2025 as stocks soared",
-      "summary": "Jeff Bezos led the way. The Amazon founder sold 25 million shares for $5.7 billion in June and July, right around the time he was getting hitched to Lauren Sanchez in Venice.",
-      "url": "https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-03T23:45:07+00:00",
-      "scrapedAt": "2026-01-04T08:34:49.385386+00:00"
     }
   ]
 }
