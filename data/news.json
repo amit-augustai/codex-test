@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-01-12T08:41:28.247580+00:00",
+  "lastUpdated": "2026-01-13T08:39:44.871238+00:00",
   "articles": [
+    {
+      "id": "c082dc3a2533",
+      "title": "Dynamic Intelligence Ceilings: Measuring Long-Horizon Limits of Planning and Creativity in Artificial Systems",
+      "summary": "arXiv:2601.06102v1 Announce Type: new Abstract: Recent advances in artificial intelligence have produced systems capable of remarkable performance across a wide range of tasks. These gains, however, a",
+      "url": "https://arxiv.org/abs/2601.06102",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-13T00:00:00-05:00",
+      "scrapedAt": "2026-01-13T08:38:49.841307+00:00"
+    },
+    {
+      "id": "569bfc9c0088",
+      "title": "Automatic Question Generation for Intuitive Learning Utilizing Causal Graph Guided Chain of Thought Reasoning",
+      "summary": "arXiv:2601.06098v1 Announce Type: new Abstract: Intuitive learning is crucial for developing deep conceptual understanding, especially in STEM education, where students often struggle with abstract an",
+      "url": "https://arxiv.org/abs/2601.06098",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-13T00:00:00-05:00",
+      "scrapedAt": "2026-01-13T08:38:49.841169+00:00"
+    },
+    {
+      "id": "c76f792fbd1e",
+      "title": "\"They parted illusions -- they parted disclaim marinade\": Misalignment as structural fidelity in LLMs",
+      "summary": "arXiv:2601.06047v1 Announce Type: new Abstract: The prevailing technical literature in AI Safety interprets scheming and sandbagging behaviors in large language models (LLMs) as indicators of deceptiv",
+      "url": "https://arxiv.org/abs/2601.06047",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-13T00:00:00-05:00",
+      "scrapedAt": "2026-01-13T08:38:49.841043+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:49.239426+00:00"
+    },
+    {
+      "id": "dae3c3589bd7",
+      "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
+      "summary": "French defense tech company Harmattan AI is now valued at $1.4 billion after raising a $200 million Series B round led by Dassault Aviation, which is best known for making the Rafale fighter jet.",
+      "url": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T14:00:44+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.930353+00:00"
+    },
+    {
+      "id": "57fec8b95ce6",
+      "title": "A New Jersey lawsuit shows how hard it is to fight deepfake porn",
+      "summary": "A number of US laws have already banned deepfake pornography — most notably the Take It Down Act. But while specific users are clearly breaking those laws, it’s much harder to hold the entire platform",
+      "url": "https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T16:34:53+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.930284+00:00"
+    },
+    {
+      "id": "3d226d70d4e3",
+      "title": "Google’s Gemini to power Apple’s AI features like Siri",
+      "summary": "Apple and Google have embarked on a non-exclusive, multi-year partnership that will involve Apple using Gemini models and Google cloud technology for future foundational models.",
+      "url": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T17:12:41+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.930211+00:00"
+    },
+    {
+      "id": "704abc09aa59",
+      "title": "Amazon says 97% of its devices can support Alexa+",
+      "summary": "Amazon is counting on its Alexa footprint to help it gain traction in the consumer AI race.",
+      "url": "https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T19:20:05+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.930145+00:00"
+    },
+    {
+      "id": "01810619a384",
+      "title": "Anthropic’s new Cowork tool offers Claude Code without the code",
+      "summary": "Built into the Claude Desktop app, Cowork lets users designate a specific folder where Claude can read or modify files, with further instructions given through the standard chat interface.",
+      "url": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T19:30:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.930080+00:00"
+    },
+    {
+      "id": "b0530c6cf851",
+      "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+      "summary": "Anthropic's Claude for Healthcare is unveiled about a week after OpenAI announced its ChatGPT Health product.",
+      "url": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T20:48:21+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.930010+00:00"
+    },
+    {
+      "id": "d1a70383d526",
+      "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+      "summary": "Meta is ramping up its efforts to build out its AI capacity — Zuckerberg said the company intended to drastically expand its energy footprint in the coming years.",
+      "url": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T21:44:43+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.929933+00:00"
+    },
+    {
+      "id": "1d916b38eadf",
+      "title": "Why Amazon bought Bee, an AI wearable",
+      "summary": "Amazon explains where its wearable Bee fits in and whether it will merge with Alexa.",
+      "url": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T21:55:44+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.929848+00:00"
+    },
+    {
+      "id": "72f2e3bc1ac9",
+      "title": "Hands-on with Bee, Amazon’s latest AI wearable",
+      "summary": "We tried Amazon's new AI wearable Bee. It's not for pro users yet, but more features are expected this year.",
+      "url": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T00:00:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.929762+00:00"
+    },
+    {
+      "id": "7fd351027cb1",
+      "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
+      "summary": "Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global",
+      "url": "https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T04:00:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:48.929682+00:00"
+    },
+    {
+      "id": "ef679125669c",
+      "title": "Generative coding: 10 Breakthrough Technologies 2026",
+      "summary": "Generative AI’s ability to write software code has quickly created one of the technology’s first real use cases for business. Professional software engineers and novices alike are using AI coding assi",
+      "url": "https://www.technologyreview.com/2026/01/12/1130027/generative-coding-ai-software-2026-breakthrough-technology/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:47.920411+00:00"
+    },
+    {
+      "id": "4b93938d13af",
+      "title": "AI companions: 10 Breakthrough Technologies 2026",
+      "summary": "Chatbots are skilled at crafting sophisticated dialogue and mimicking empathetic behavior. They never get tired of chatting. It’s no wonder, then, that so many people now use them for companionship—fo",
+      "url": "https://www.technologyreview.com/2026/01/12/1130018/ai-companions-chatbots-relationships-2026-breakthrough-technology/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:47.919851+00:00"
+    },
+    {
+      "id": "1af5103bd6db",
+      "title": "Mechanistic interpretability: 10 Breakthrough Technologies 2026",
+      "summary": "Hundreds of millions of people now use chatbots every day. And yet the large language models that drive them are so complicated that nobody really understands what they are, how they work, or exactly ",
+      "url": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:47.919333+00:00"
+    },
+    {
+      "id": "9e7b6c5e5d5f",
+      "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+      "summary": "In sprawling stretches of farmland and industrial parks, supersized buildings packed with racks of computers are springing up to fuel the AI race. These engineering marvels are a new species of infras",
+      "url": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:47.918800+00:00"
+    },
+    {
+      "id": "7073e90a3d39",
+      "title": "Meet the new biologists treating LLMs like aliens",
+      "summary": "How large is a large language model? Think about it this way. In the center of San Francisco there’s a hill called Twin Peaks from which you can view nearly the entire city. Picture all of it—every bl",
+      "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:47.917993+00:00"
+    },
+    {
+      "id": "563c95e5e369",
+      "title": "CES showed me why Chinese tech companies feel so optimistic",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . I decided to go to CES kind of at the last minute. Over the h",
+      "url": "https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T17:01:00+00:00",
+      "scrapedAt": "2026-01-13T08:38:47.914006+00:00"
+    },
     {
       "id": "5d5cd0786075",
       "title": "The Kernel Manifold: A Geometric Approach to Gaussian Process Model Selection",
@@ -1414,206 +1614,6 @@
       "category": "product",
       "publishedAt": "2026-01-05T11:04:46+00:00",
       "scrapedAt": "2026-01-06T08:38:59.658397+00:00"
-    },
-    {
-      "id": "954084e5e3bb",
-      "title": "Dynamic Bayesian Optimization Framework for Instruction Tuning in Partial Differential Equation Discovery",
-      "summary": "arXiv:2601.00088v1 Announce Type: new Abstract: Large Language Models (LLMs) show promise for equation discovery, yet their outputs are highly sensitive to prompt phrasing, a phenomenon we term instru",
-      "url": "https://arxiv.org/abs/2601.00088",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.706343+00:00"
-    },
-    {
-      "id": "652fc6cdf0b9",
-      "title": "Exploration in the Limit",
-      "summary": "arXiv:2601.00084v1 Announce Type: new Abstract: In fixed-confidence best arm identification (BAI), the objective is to quickly identify the optimal option while controlling the probability of error be",
-      "url": "https://arxiv.org/abs/2601.00084",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.706226+00:00"
-    },
-    {
-      "id": "a28d6c504471",
-      "title": "IMBWatch -- a Spatio-Temporal Graph Neural Network approach to detect Illicit Massage Business",
-      "summary": "arXiv:2601.00075v1 Announce Type: new Abstract: Illicit Massage Businesses (IMBs) are a covert and persistent form of organized exploitation that operate under the facade of legitimate wellness servic",
-      "url": "https://arxiv.org/abs/2601.00075",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.706098+00:00"
-    },
-    {
-      "id": "5dc4f3e668e1",
-      "title": "The Trojan in the Vocabulary: Stealthy Sabotage of LLM Composition",
-      "summary": "arXiv:2601.00065v1 Announce Type: new Abstract: The open-weight LLM ecosystem is increasingly defined by model composition techniques (such as weight merging, speculative decoding, and vocabulary expa",
-      "url": "https://arxiv.org/abs/2601.00065",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.705956+00:00"
-    },
-    {
-      "id": "efa64b0c9577",
-      "title": "Yahtzee: Reinforcement Learning Techniques for Stochastic Combinatorial Games",
-      "summary": "arXiv:2601.00007v1 Announce Type: new Abstract: Yahtzee is a classic dice game with a stochastic, combinatorial structure and delayed rewards, making it an interesting mid-scale RL benchmark. While an",
-      "url": "https://arxiv.org/abs/2601.00007",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.705834+00:00"
-    },
-    {
-      "id": "fce92124dbd2",
-      "title": "Evaluating Anomaly Detectors for Simulated Highly Imbalanced Industrial Classification Problems",
-      "summary": "arXiv:2601.00005v1 Announce Type: new Abstract: Machine learning offers potential solutions to current issues in industrial systems in areas such as quality control and predictive maintenance, but als",
-      "url": "https://arxiv.org/abs/2601.00005",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.705697+00:00"
-    },
-    {
-      "id": "46ce1c0a83e7",
-      "title": "Constructing a Neuro-Symbolic Mathematician from First Principles",
-      "summary": "arXiv:2601.00125v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit persistent logical failures in complex reasoning due to the lack of an internal axiomatic framework. We propose Mat",
-      "url": "https://arxiv.org/abs/2601.00125",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.476586+00:00"
-    },
-    {
-      "id": "565d2f2305d9",
-      "title": "Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control",
-      "summary": "arXiv:2601.00121v1 Announce Type: new Abstract: Inventory management remains a challenge for many small and medium-sized businesses that lack the expertise to deploy advanced optimization methods. Thi",
-      "url": "https://arxiv.org/abs/2601.00121",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.476492+00:00"
-    },
-    {
-      "id": "b60cd85be092",
-      "title": "Mortar: Evolving Mechanics for Automatic Game Design",
-      "summary": "arXiv:2601.00105v1 Announce Type: new Abstract: We present Mortar, a system for autonomously evolving game mechanics for automatic game design. Game mechanics define the rules and interactions that go",
-      "url": "https://arxiv.org/abs/2601.00105",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.476365+00:00"
-    },
-    {
-      "id": "e28c19416a3e",
-      "title": "The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs",
-      "summary": "arXiv:2601.00097v1 Announce Type: new Abstract: We design a large-language-model (LLM) agent that extracts causal feedback fuzzy cognitive maps (FCMs) from raw text. The causal learning or extraction ",
-      "url": "https://arxiv.org/abs/2601.00097",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.476236+00:00"
-    },
-    {
-      "id": "bd4650146205",
-      "title": "From Clay to Code: Typological and Material Reasoning in AI Interpretations of Iranian Pigeon Towers",
-      "summary": "arXiv:2601.00029v1 Announce Type: new Abstract: This study investigates how generative AI systems interpret the architectural intelligence embedded in vernacular form. Using the Iranian pigeon tower a",
-      "url": "https://arxiv.org/abs/2601.00029",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.476102+00:00"
-    },
-    {
-      "id": "a00264c5afa6",
-      "title": "Quantitative Rule-Based Strategy modeling in Classic Indian Rummy: A Metric Optimization Approach",
-      "summary": "arXiv:2601.00024v1 Announce Type: new Abstract: The 13-card variant of Classic Indian Rummy is a sequential game of incomplete information that requires probabilistic reasoning and combinatorial decis",
-      "url": "https://arxiv.org/abs/2601.00024",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.476000+00:00"
-    },
-    {
-      "id": "7a2c6010ac66",
-      "title": "A multi-algorithm approach for operational human resources workload balancing in a last mile urban delivery system",
-      "summary": "arXiv:2601.00023v1 Announce Type: new Abstract: Efficient workload assignment to the workforce is critical in last-mile package delivery systems. In this context, traditional methods of assigning pack",
-      "url": "https://arxiv.org/abs/2601.00023",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.475893+00:00"
-    },
-    {
-      "id": "ba9bd08f3893",
-      "title": "Toward a Physical Theory of Intelligence",
-      "summary": "arXiv:2601.00021v1 Announce Type: new Abstract: We present a physical theory of intelligence grounded in irreversible information processing in systems constrained by conservation laws. An intelligent",
-      "url": "https://arxiv.org/abs/2601.00021",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.475752+00:00"
-    },
-    {
-      "id": "5ea417ca941a",
-      "title": "Finetuning Large Language Models for Automated Depression Screening in Nigerian Pidgin English: GENSCORE Pilot Study",
-      "summary": "arXiv:2601.00004v1 Announce Type: new Abstract: Depression is a major contributor to the mental-health burden in Nigeria, yet screening coverage remains limited due to low access to clinicians, stigma",
-      "url": "https://arxiv.org/abs/2601.00004",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.475604+00:00"
-    },
-    {
-      "id": "64170ad0ccd8",
-      "title": "Reasoning in Action: MCTS-Driven Knowledge Retrieval for Large Language Models",
-      "summary": "arXiv:2601.00003v1 Announce Type: new Abstract: Large language models (LLMs) typically enhance their performance through either the retrieval of semantically similar information or the improvement of ",
-      "url": "https://arxiv.org/abs/2601.00003",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-05T00:00:00-05:00",
-      "scrapedAt": "2026-01-05T08:41:40.475446+00:00"
-    },
-    {
-      "id": "1a8d1088d87a",
-      "title": "Subtle releases ear buds with its noise isolation models",
-      "summary": "Subtle's new $199 earbuds will also let you dictate in any app on desktop or phone",
-      "url": "https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-04T12:00:00+00:00",
-      "scrapedAt": "2026-01-05T08:41:39.606776+00:00"
-    },
-    {
-      "id": "57b7d0aaef42",
-      "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
-      "summary": "Plaud is going after the likes of Granola to launch a desktop app that records online meetings",
-      "url": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-04T16:28:10+00:00",
-      "scrapedAt": "2026-01-05T08:41:39.606706+00:00"
-    },
-    {
-      "id": "74ed19530eac",
-      "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
-      "summary": "France and Malaysia have joined India in condemning Grok for creating sexualized deepfakes of women and minors.",
-      "url": "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-04T16:50:19+00:00",
-      "scrapedAt": "2026-01-05T08:41:39.606633+00:00"
-    },
-    {
-      "id": "f84ab66bdcef",
-      "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
-      "summary": "DoorDash seems to have confirmed a viral story about a driver using an AI-generated photo to lie about making a delivery.",
-      "url": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-04T21:14:23+00:00",
-      "scrapedAt": "2026-01-05T08:41:39.606548+00:00"
     }
   ]
 }
