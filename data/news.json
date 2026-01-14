@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-01-13T08:39:44.871238+00:00",
+  "lastUpdated": "2026-01-14T08:39:36.084923+00:00",
   "articles": [
+    {
+      "id": "07816d5c54c6",
+      "title": "Internal Deployment Gaps in AI Regulation",
+      "summary": "arXiv:2601.08005v1 Announce Type: new Abstract: Frontier AI regulations primarily focus on systems deployed to external users, where deployment is more visible and subject to outside scrutiny. However",
+      "url": "https://arxiv.org/abs/2601.08005",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-14T00:00:00-05:00",
+      "scrapedAt": "2026-01-14T08:38:40.228431+00:00"
+    },
+    {
+      "id": "0bd94d14508e",
+      "title": "Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety",
+      "summary": "arXiv:2601.08000v1 Announce Type: new Abstract: Ensuring that Large Language Models (LLMs) adhere to safety principles without refusing benign requests remains a significant challenge. While OpenAI in",
+      "url": "https://arxiv.org/abs/2601.08000",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-14T00:00:00-05:00",
+      "scrapedAt": "2026-01-14T08:38:40.228296+00:00"
+    },
+    {
+      "id": "7fa5dfd0b2a6",
+      "title": "When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning",
+      "summary": "arXiv:2601.07965v1 Announce Type: new Abstract: When a model knows when it does not know, many possibilities emerge. The first question is how to enable a model to recognize that it does not know. A p",
+      "url": "https://arxiv.org/abs/2601.07965",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-14T00:00:00-05:00",
+      "scrapedAt": "2026-01-14T08:38:40.228153+00:00"
+    },
+    {
+      "id": "8f6a365b06a4",
+      "title": "Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling",
+      "summary": "arXiv:2601.07964v1 Announce Type: new Abstract: This paper examines the application of Executable Ontologies (EO), implemented through the boldsea framework, to game development. We argue that EO repr",
+      "url": "https://arxiv.org/abs/2601.07964",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-14T00:00:00-05:00",
+      "scrapedAt": "2026-01-14T08:38:40.228017+00:00"
+    },
+    {
+      "id": "5a757dd4d352",
+      "title": "Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh",
+      "summary": "arXiv:2601.07866v1 Announce Type: new Abstract: While machine learning shows promise for maternal health risk prediction, clinical adoption in resource-constrained settings faces a critical barrier: l",
+      "url": "https://arxiv.org/abs/2601.07866",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-14T00:00:00-05:00",
+      "scrapedAt": "2026-01-14T08:38:40.227904+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.766755+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.757833+00:00"
+    },
+    {
+      "id": "202e9a418096",
+      "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
+      "summary": "Brazil's competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app. The agency has also started an",
+      "url": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T12:21:47+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584905+00:00"
+    },
+    {
+      "id": "b1f3edad3e46",
+      "title": "Slackbot is an AI agent now",
+      "summary": "Salesforce unveils Slackbot, a new AI agent that allows users to complete tasks across multiple enterprise applications from Slack.",
+      "url": "https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584834+00:00"
+    },
+    {
+      "id": "9cbfd41edd4e",
+      "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
+      "summary": "Deepgram is raising its Series C round at a $1.3 billion valuation.",
+      "url": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:30:00+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584767+00:00"
+    },
+    {
+      "id": "582d3b5dc6ae",
+      "title": "Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month",
+      "summary": "The bundle includes access to Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, as well as Motion, Compressor, and MainStage on Mac.",
+      "url": "https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T14:40:19+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584704+00:00"
+    },
+    {
+      "id": "80aec1053e22",
+      "title": "ElevenLabs CEO says the voice AI startup crossed $330M ARR last year",
+      "summary": "The company said it took only five months to go from $200 million to $330 million in annual recurring revenue.",
+      "url": "https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T16:15:22+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584636+00:00"
+    },
+    {
+      "id": "d61d9737bbd9",
+      "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+      "summary": "1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.",
+      "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T17:14:08+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584568+00:00"
+    },
+    {
+      "id": "0a0996fd31ed",
+      "title": "Doctors think AI has a place in healthcare — but maybe not as a chatbot",
+      "summary": "OpenAI and Anthropic have each launched healthcare-focused products over the last week.",
+      "url": "https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T18:51:18+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584497+00:00"
+    },
+    {
+      "id": "b85c7387702c",
+      "title": "Ring founder details the camera company’s ‘intelligent assistant’ era",
+      "summary": "AI is ushering in Ring’s next chapter, as the Amazon-owned video doorbell maker shifts toward becoming an “intelligent assistant.”",
+      "url": "https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T19:05:49+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584425+00:00"
+    },
+    {
+      "id": "9df0d0477eae",
+      "title": "A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong",
+      "summary": "A consumer economics watchdog says Google's new Universal Commerce Protocol is ripe for misuse where consumers could pay more for items. Google denies this.",
+      "url": "https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T19:40:57+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584347+00:00"
+    },
+    {
+      "id": "294e33cdd65a",
+      "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+      "summary": "The tech giant has pledged to be a \"good neighbor\" as it continues to invest in AI infrastructure throughout the country.",
+      "url": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T20:15:58+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.584259+00:00"
+    },
+    {
+      "id": "3465dbe784f0",
+      "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+      "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver",
+      "url": "https://openai.com/index/zenken",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-13T16:00:00+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.483413+00:00"
+    },
+    {
+      "id": "6e2a72463300",
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "summary": "Today, we’re introducing an enhanced version of Veo 3.1 “Ingredients to Video.”",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-13T17:00:00+00:00",
+      "scrapedAt": "2026-01-14T08:38:39.036904+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo-3-1_keyword_blog_header_209.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "8bdc2f5ab58f",
+      "title": "What’s next for AI in 2026",
+      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . In an industry in constant fl",
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T11:04:46+00:00",
+      "scrapedAt": "2026-01-14T08:38:38.722742+00:00"
+    },
     {
       "id": "c082dc3a2533",
       "title": "Dynamic Intelligence Ceilings: Measuring Long-Horizon Limits of Planning and Creativity in Artificial Systems",
@@ -1413,207 +1614,6 @@
       "category": "product",
       "publishedAt": "2026-01-06T10:00:00+00:00",
       "scrapedAt": "2026-01-07T08:38:52.188906+00:00"
-    },
-    {
-      "id": "3aa1d71c9248",
-      "title": "Enhancing Temporal Awareness in LLMs for Temporal Point Processes",
-      "summary": "arXiv:2601.00845v1 Announce Type: new Abstract: Temporal point processes (TPPs) are crucial for analyzing events over time and are widely used in fields such as finance, healthcare, and social systems",
-      "url": "https://arxiv.org/abs/2601.00845",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-06T00:00:00-05:00",
-      "scrapedAt": "2026-01-06T08:39:01.320618+00:00"
-    },
-    {
-      "id": "1a2b6aa50807",
-      "title": "OmniNeuro: A Multimodal HCI Framework for Explainable BCI Feedback via Generative AI and Sonification",
-      "summary": "arXiv:2601.00843v1 Announce Type: new Abstract: While Deep Learning has improved Brain-Computer Interface (BCI) decoding accuracy, clinical adoption is hindered by the \"Black Box\" nature of these algo",
-      "url": "https://arxiv.org/abs/2601.00843",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-06T00:00:00-05:00",
-      "scrapedAt": "2026-01-06T08:39:01.320498+00:00"
-    },
-    {
-      "id": "35c9f81d7ace",
-      "title": "Can We Trust AI Explanations? Evidence of Systematic Underreporting in Chain-of-Thought Reasoning",
-      "summary": "arXiv:2601.00830v1 Announce Type: new Abstract: When AI systems explain their reasoning step-by-step, practitioners often assume these explanations reveal what actually influenced the AI's answer. We ",
-      "url": "https://arxiv.org/abs/2601.00830",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-06T00:00:00-05:00",
-      "scrapedAt": "2026-01-06T08:39:01.320392+00:00"
-    },
-    {
-      "id": "abf20bec44dd",
-      "title": "Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis",
-      "summary": "arXiv:2601.00828v1 Announce Type: new Abstract: Large Language Models (LLMs) are widely believed to possess self-correction capabilities, yet recent studies suggest that intrinsic self-correction--whe",
-      "url": "https://arxiv.org/abs/2601.00828",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-06T00:00:00-05:00",
-      "scrapedAt": "2026-01-06T08:39:01.320260+00:00"
-    },
-    {
-      "id": "d39a0414c11d",
-      "title": "Energy-Aware Routing to Large Reasoning Models",
-      "summary": "arXiv:2601.00823v1 Announce Type: new Abstract: Large reasoning models (LRMs) have heterogeneous inference energy costs based on which model is used and how much it reasons. To reduce energy, it is im",
-      "url": "https://arxiv.org/abs/2601.00823",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-06T00:00:00-05:00",
-      "scrapedAt": "2026-01-06T08:39:01.320135+00:00"
-    },
-    {
-      "id": "8b7a7eec3d99",
-      "title": "CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations",
-      "summary": "arXiv:2601.00821v1 Announce Type: new Abstract: Large language models face a fundamental tension between context window limits and information fidelity in long conversations. Existing approaches--trun",
-      "url": "https://arxiv.org/abs/2601.00821",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-06T00:00:00-05:00",
-      "scrapedAt": "2026-01-06T08:39:01.319995+00:00"
-    },
-    {
-      "id": "f9af5012c0ae",
-      "title": "Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making",
-      "summary": "arXiv:2601.00818v1 Announce Type: new Abstract: Significant digitalization of financial services in a short period of time has led to an urgent demand to have autonomous, transparent and real-time cre",
-      "url": "https://arxiv.org/abs/2601.00818",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-06T00:00:00-05:00",
-      "scrapedAt": "2026-01-06T08:39:01.319886+00:00"
-    },
-    {
-      "id": "9bf07684e079",
-      "title": "MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback",
-      "summary": "arXiv:2601.00816v1 Announce Type: new Abstract: Contemporary AI systems achieve extraordinary performance yet remain opaque and non-verifiable, creating a crisis of trust for safety-critical deploymen",
-      "url": "https://arxiv.org/abs/2601.00816",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-06T00:00:00-05:00",
-      "scrapedAt": "2026-01-06T08:39:01.319758+00:00"
-    },
-    {
-      "id": "1268d44945ea",
-      "title": "Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections",
-      "summary": "arXiv:2601.00814v1 Announce Type: new Abstract: The paper presents our work on cross-lingual ontology alignment system which uses embedding based cosine similarity matching. The ontology entities are ",
-      "url": "https://arxiv.org/abs/2601.00814",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-06T00:00:00-05:00",
-      "scrapedAt": "2026-01-06T08:39:01.319640+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.775871+00:00"
-    },
-    {
-      "id": "d5be75fd48dd",
-      "title": "Google previews new Gemini features for TV at CES 2026",
-      "summary": "Google TV will let you ask Gemini to find and edit your photos, adjust your TV settings, and more.",
-      "url": "https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T14:00:00+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.588674+00:00"
-    },
-    {
-      "id": "d4efcbbd5ab1",
-      "title": "Amazon’s AI assistant comes to the web with Alexa.com",
-      "summary": "Amazon is bringing Alexa+ to the web with a new Alexa.com site, expanding its AI assistant beyond devices and positioning it as a family-focused, agent-style chatbot.",
-      "url": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T15:00:00+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.588609+00:00"
-    },
-    {
-      "id": "091b54b8845b",
-      "title": "CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals",
-      "summary": "CES 2026, the annual consumer tech conference held in Las Vegas, is here. And lucky for you, we have TechCrunch editors and reporters on the ground to cover the news, scout out the interesting, weird,",
-      "url": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T16:09:26+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.588535+00:00"
-    },
-    {
-      "id": "ec854b291250",
-      "title": "Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to ‘think like a human’",
-      "summary": "Nvidia unveiled Alpamayo at CES 2026, which includes a reasoning vision language action model that allows an autonomous vehicle to think more like a human and provide chain-of-thought reasoning.",
-      "url": "https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T21:52:22+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.588445+00:00"
-    },
-    {
-      "id": "19d35d007f61",
-      "title": "Nvidia launches powerful new Rubin chip architecture",
-      "summary": "Nvidia CEO Jensen Huang officially launched the company’s new Rubin computing architecture, which he described as the state of the art in AI computing.",
-      "url": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T22:16:58+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.588364+00:00"
-    },
-    {
-      "id": "8508386bf812",
-      "title": "Nvidia wants to be the Android of generalist robotics",
-      "summary": "Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.",
-      "url": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T23:00:00+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.588289+00:00"
-    },
-    {
-      "id": "c94a69b04c59",
-      "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
-      "summary": "Nadella wants us to think of AI as a human helper instead of a slop-generating job killer. New data for 2026 indicates he could be right.",
-      "url": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T23:09:56+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.588216+00:00"
-    },
-    {
-      "id": "71008efe7134",
-      "title": "AMD unveils new AI PC processors for general use and gaming at CES",
-      "summary": "AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks from gaming to content creation and multitasking.",
-      "url": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-06T03:30:00+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.588131+00:00"
-    },
-    {
-      "id": "6dd8644a9ef3",
-      "title": "The latest AI news we announced in December",
-      "summary": "Here are Google’s latest AI updates from December 2025",
-      "url": "https://blog.google/technology/ai/google-ai-updates-december-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-29T18:15:00+00:00",
-      "scrapedAt": "2026-01-06T08:39:00.014972+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dec_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "8bdc2f5ab58f",
-      "title": "What’s next for AI in 2026",
-      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . In an industry in constant fl",
-      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T11:04:46+00:00",
-      "scrapedAt": "2026-01-06T08:38:59.658397+00:00"
     }
   ]
 }
