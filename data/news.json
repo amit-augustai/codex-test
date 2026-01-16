@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-01-15T08:39:40.701925+00:00",
+  "lastUpdated": "2026-01-16T08:38:55.372266+00:00",
   "articles": [
+    {
+      "id": "33005a7cc7b0",
+      "title": "Thinking Long, but Short: Stable Sequential Test-Time Scaling for Large Reasoning Models",
+      "summary": "arXiv:2601.09855v1 Announce Type: new Abstract: Sequential test-time scaling is a promising training-free method to improve large reasoning model accuracy, but as currently implemented, significant li",
+      "url": "https://arxiv.org/abs/2601.09855",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-16T00:00:00-05:00",
+      "scrapedAt": "2026-01-16T08:37:59.819480+00:00"
+    },
+    {
+      "id": "98a51c4902d9",
+      "title": "Improving Chain-of-Thought for Logical Reasoning via Attention-Aware Intervention",
+      "summary": "arXiv:2601.09805v1 Announce Type: new Abstract: Modern logical reasoning with LLMs primarily relies on employing complex interactive frameworks that decompose the reasoning process into subtasks solve",
+      "url": "https://arxiv.org/abs/2601.09805",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-16T00:00:00-05:00",
+      "scrapedAt": "2026-01-16T08:37:59.819369+00:00"
+    },
+    {
+      "id": "c80d275bcfb3",
+      "title": "Antisocial behavior towards large language model users: experimental evidence",
+      "summary": "arXiv:2601.09772v1 Announce Type: new Abstract: The rapid spread of large language models (LLMs) has raised concerns about the social reactions they provoke. Prior research documents negative attitude",
+      "url": "https://arxiv.org/abs/2601.09772",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-16T00:00:00-05:00",
+      "scrapedAt": "2026-01-16T08:37:59.819243+00:00"
+    },
+    {
+      "id": "bd110e1c91e6",
+      "title": "PCN-Rec: Agentic Proof-Carrying Negotiation for Reliable Governance-Constrained Recommendation",
+      "summary": "arXiv:2601.09771v1 Announce Type: new Abstract: Modern LLM-based recommenders can generate compelling ranked lists, but they struggle to reliably satisfy governance constraints such as minimum long-ta",
+      "url": "https://arxiv.org/abs/2601.09771",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-16T00:00:00-05:00",
+      "scrapedAt": "2026-01-16T08:37:59.819106+00:00"
+    },
+    {
+      "id": "cf0d8cdb5317",
+      "title": "GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents",
+      "summary": "arXiv:2601.09770v1 Announce Type: new Abstract: Recent advances in vision-language models (VLMs) and reinforcement learning (RL) have driven progress in GUI automation. However, most existing methods ",
+      "url": "https://arxiv.org/abs/2601.09770",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-16T00:00:00-05:00",
+      "scrapedAt": "2026-01-16T08:37:59.818918+00:00"
+    },
+    {
+      "id": "6683b0a927d2",
+      "title": "AI Survival Stories: a Taxonomic Analysis of AI Existential Risk",
+      "summary": "arXiv:2601.09765v1 Announce Type: new Abstract: Since the release of ChatGPT, there has been a lot of debate about whether AI systems pose an existential risk to humanity. This paper develops a genera",
+      "url": "https://arxiv.org/abs/2601.09765",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-16T00:00:00-05:00",
+      "scrapedAt": "2026-01-16T08:37:59.818773+00:00"
+    },
+    {
+      "id": "19ecf4acfc17",
+      "title": "US senators demand answers from X, Meta, Alphabet, and others on sexualized deepfakes",
+      "summary": "In a letter to the leaders of X, Meta, Alphabet, Snap, Reddit, and TikTok, several U.S. senators are demanding the companies provide proof that they have \"robust protections and policies\" in place, an",
+      "url": "https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T15:00:00+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.233265+00:00"
+    },
+    {
+      "id": "94ba56f995a9",
+      "title": "Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity, and others",
+      "summary": "The AI partnerships allow companies to access the org's content, like Wikipedia, at scale.",
+      "url": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T15:19:05+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.233191+00:00"
+    },
+    {
+      "id": "7a807279e1cd",
+      "title": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
+      "summary": "Merge Labs is a “research lab” dedicated to “bridging biological and artificial intelligence to maximize human ability.” OpenAI wrote the largest check in Merge Labs' $250 million seed round at an $85",
+      "url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T16:31:00+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.233123+00:00"
+    },
+    {
+      "id": "222ea94452d3",
+      "title": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China",
+      "summary": "The Trump administration formalized its 25% cut of H200 chip sales in China with a tariff that applies to certain semiconductors.",
+      "url": "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T16:56:20+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.233044+00:00"
+    },
+    {
+      "id": "7f9ce989d22c",
+      "title": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
+      "summary": "Higgsfield says it's on a $200 million annual revenue run rate. So it opened its previous Series A round back up and sold another $80 million in shares.",
+      "url": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T19:28:45+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.232956+00:00"
+    },
+    {
+      "id": "e79d4e9f2497",
+      "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+      "summary": "The U.S. struck a trade deal with Taiwan as the country looks to help boost domestic semiconductor manufacturing.",
+      "url": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T20:52:44+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.232888+00:00"
+    },
+    {
+      "id": "8644e7d4d4ed",
+      "title": "The AI lab revolving door spins ever faster",
+      "summary": "AI labs just can't get their employees to stay put. Yesterday’s big AI news was the abrupt and seemingly acrimonious departure of three top executives at Mira Murati’s Thinking Machines lab.",
+      "url": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T22:04:02+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.232817+00:00"
+    },
+    {
+      "id": "ff29dbed3419",
+      "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp",
+      "summary": "The startup claims its AI platform can help optimize editorial processes and research.",
+      "url": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T00:49:54+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.232735+00:00"
+    },
+    {
+      "id": "44618e1c6226",
+      "title": "Silicon Valley’s messiest breakup is definitely headed to court",
+      "summary": "OpenAI and Microsoft tried to dodge a courtroom showdown with Elon Musk, but a federal judge on Thursday rejected their requests to dismiss the case.",
+      "url": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T06:45:15+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.232664+00:00"
+    },
+    {
+      "id": "4938c558dc3e",
+      "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+      "summary": "Irina Ghose joins Anthropic as India managing director after 24 years at Microsoft.",
+      "url": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T07:28:25+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.232568+00:00"
+    },
+    {
+      "id": "c34820ee1851",
+      "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+      "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+      "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-15T00:00:00+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.077389+00:00"
+    },
+    {
+      "id": "dbf80c81a6d4",
+      "title": "Investing in Merge Labs",
+      "summary": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+      "url": "https://openai.com/index/investing-in-merge-labs",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-15T07:00:00+00:00",
+      "scrapedAt": "2026-01-16T08:37:59.077299+00:00"
+    },
+    {
+      "id": "1c3efbc3d0f3",
+      "title": "Learners and educators are AI’s new “super users”",
+      "summary": "Google’s 2025 Our Life with AI survey found people are using AI tools to learn new things.",
+      "url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-15T11:00:00+00:00",
+      "scrapedAt": "2026-01-16T08:37:58.625557+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/aiineducatiuonJan2026_hero_v2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "0976a6e65ecb",
+      "title": "How Nano Banana got its name",
+      "summary": "We’re peeling back the origin story of Nano Banana, one of Google DeepMind’s most popular models.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-15T16:06:00+00:00",
+      "scrapedAt": "2026-01-16T08:37:58.625444+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NanoBananaName_Hero.max-600x600.format-webp.webp"
+    },
     {
       "id": "b37d93646457",
       "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
