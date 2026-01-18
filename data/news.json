@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-01-17T08:34:24.086202+00:00",
+  "lastUpdated": "2026-01-18T08:34:47.332749+00:00",
   "articles": [
+    {
+      "id": "f45e5cdd4b1a",
+      "title": "The Real AI Talent War Is for Plumbers and Electricians",
+      "summary": "The AI boom is driving an unprecedented wave of data center construction, but there aren’t enough skilled tradespeople in the US to keep up.",
+      "url": "https://www.wired.com/story/why-there-arent-enough-electricians-and-plumbers-to-build-ai-data-centers/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T11:30:00+00:00",
+      "scrapedAt": "2026-01-18T08:33:51.512900+00:00"
+    },
+    {
+      "id": "6609e498efda",
+      "title": "Livestream: Welcome to the Chinese Century",
+      "summary": "Join our livestream—and pose a question to WIRED’s panel of experts—on China’s dominance, influence, and how it is rewriting the future.",
+      "url": "https://www.wired.com/story/livestream-welcome-to-the-chinese-century/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T12:00:00+00:00",
+      "scrapedAt": "2026-01-18T08:33:51.512831+00:00"
+    },
+    {
+      "id": "7240a27ef385",
+      "title": "Former CISA Director Jen Easterly Will Lead RSAC Conference",
+      "summary": "The longtime cybersecurity professional says she’s taking the helm of the legacy security organization at “an inflection point” for tech and the world beyond.",
+      "url": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T13:00:00+00:00",
+      "scrapedAt": "2026-01-18T08:33:51.512765+00:00"
+    },
+    {
+      "id": "e1f58bc1ea5d",
+      "title": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
+      "summary": "Cowork is a user-friendly version of Anthropic’s Claude Code AI-powered tool that’s built for file management and basic computing tasks. Here’s what it's like to use it.",
+      "url": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T17:40:41+00:00",
+      "scrapedAt": "2026-01-18T08:33:51.512697+00:00"
+    },
+    {
+      "id": "18c0108cbbfb",
+      "title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
+      "summary": "Merge Labs has emerged from stealth with $252 million in funding from OpenAI and others. It aims to use ultrasound to read from and write to the brain.",
+      "url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T18:24:51+00:00",
+      "scrapedAt": "2026-01-18T08:33:51.512628+00:00"
+    },
+    {
+      "id": "9430923ef6f4",
+      "title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
+      "summary": "X has placed more restrictions on Grok’s ability to generate explicit AI images, but tests show that the updates have created a patchwork of limitations that fail to fully address the issue.",
+      "url": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T19:30:14+00:00",
+      "scrapedAt": "2026-01-18T08:33:51.512560+00:00"
+    },
+    {
+      "id": "215d2da491fd",
+      "title": "Inside OpenAI’s Raid on Thinking Machines Lab",
+      "summary": "OpenAI is planning to bring over more researchers from Thinking Machines Lab after nabbing two cofounders, a source familiar with the situation says. Plus, the latest efforts to automate jobs with AI.",
+      "url": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T21:14:23+00:00",
+      "scrapedAt": "2026-01-18T08:33:51.512485+00:00"
+    },
+    {
+      "id": "a15d4e457559",
+      "title": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
+      "summary": "OpenAI says ads will not influence ChatGPT’s responses, and that it won’t sell user data to advertisers.",
+      "url": "https://www.wired.com/story/openai-testing-ads-us/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T18:00:00+00:00",
+      "scrapedAt": "2026-01-18T08:33:51.512410+00:00"
+    },
+    {
+      "id": "0c3f08c79c2a",
+      "title": "Thinking Machines Cofounder’s Office Relationship Preceded His Termination",
+      "summary": "Leaders at Mira Murati’s startup believe Barret Zoph engaged in an incident of “serious misconduct.” The details are now coming to light.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-17T00:40:41+00:00",
+      "scrapedAt": "2026-01-18T08:33:51.512321+00:00"
+    },
+    {
+      "id": "ce55b509d763",
+      "title": "Apple lost the AI race — now the real challenge starts",
+      "summary": "Siri, are you there? It’s me, Gemini. For an AI loser, Apple did an awful lot of winning last year. The mess that was the Apple Intelligence rollout was embarrassing, to be sure, but through it all, t",
+      "url": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T14:00:00-05:00",
+      "scrapedAt": "2026-01-18T08:33:51.437303+00:00"
+    },
+    {
+      "id": "3176bfeb5b45",
+      "title": "Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing",
+      "summary": "Ashley St. Clair, the mother of one of X owner Elon Musk's children, is suing his company for enabling its AI to virtually strip her down into a bikini without her consent. St. Clair is one of the man",
+      "url": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-15T18:33:29-05:00",
+      "scrapedAt": "2026-01-18T08:33:51.436876+00:00"
+    },
+    {
+      "id": "9b4eb345a1b8",
+      "title": "‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI",
+      "summary": "This is an excerpt of Sources by Alex Heath , a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Elon Musk first sued OpenAI in February 2024. Despite ",
+      "url": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T08:15:00-05:00",
+      "scrapedAt": "2026-01-18T08:33:51.436338+00:00"
+    },
+    {
+      "id": "6e3367639ee7",
+      "title": "Siri is a Gemini",
+      "summary": "We know how the next-generation Siri is supposed to work. Apple showed it off in 2024 , made commercials about it, and generally promised that AI would change the way we used our gadgets forever. And ",
+      "url": "https://www.theverge.com/podcast/863340/siri-is-a-gemini",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T09:21:05-05:00",
+      "scrapedAt": "2026-01-18T08:33:51.435847+00:00"
+    },
+    {
+      "id": "5313f56d7a78",
+      "title": "I saw the future of retail, and it’s all AI",
+      "summary": "Several people are gathered around a bleach blond man in a bright pink suit suspended in a clear plastic tube. With a microphone in front of him and a giant sign reading TALK TO ME placed above, \"Mike",
+      "url": "https://www.theverge.com/tech/863365/national-retail-federation-show-shopping-commerce-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T11:37:02-05:00",
+      "scrapedAt": "2026-01-18T08:33:51.435213+00:00"
+    },
+    {
+      "id": "3f0f7aef6b4a",
+      "title": "X is still having issues following an hour-long outage on Friday",
+      "summary": "On Friday morning, X and Grok went offline for users around the world on both the websites and apps. Outage reports began spiking on DownDetector around 10:00AM ET, while Cisco's ThousandEyes outage m",
+      "url": "https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T12:09:05-05:00",
+      "scrapedAt": "2026-01-18T08:33:51.434881+00:00"
+    },
+    {
+      "id": "9fa96f9bdf61",
+      "title": "OpenAI releases a cheaper ChatGPT subscription",
+      "summary": "OpenAI is expanding a low-cost subscription tier called ChatGPT Go to the US and the rest of the world. Go was released in India in August and later became available in another 170 countries prior to ",
+      "url": "https://www.theverge.com/news/863466/openai-chatgpt-go-global-release",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T13:00:00-05:00",
+      "scrapedAt": "2026-01-18T08:33:51.434390+00:00"
+    },
+    {
+      "id": "cb556c91010e",
+      "title": "Ads are coming soon to ChatGPT, starting with shopping links",
+      "summary": "ChatGPT will soon start showing you sponsored products or services if they're related to your conversation. In an announcement on Friday , OpenAI says it will start testing ads in the coming weeks for",
+      "url": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T13:00:00-05:00",
+      "scrapedAt": "2026-01-18T08:33:51.433815+00:00"
+    },
+    {
+      "id": "b26c148e06eb",
+      "title": "Google brings its AI videomaker to Workspace users",
+      "summary": "An AI-generated scene created by Flow. Google is expanding access to its AI videomaking tool. Launched last May , Flow was initially only available to Google AI Pro and AI Ultra subscribers, but now, ",
+      "url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:37:52-05:00",
+      "scrapedAt": "2026-01-18T08:33:51.433435+00:00"
+    },
+    {
+      "id": "61d07668ca24",
+      "title": "Datadog uses Codex for system-level code review",
+      "summary": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+      "url": "https://openai.com/index/datadog",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-09T00:00:00+00:00",
+      "scrapedAt": "2026-01-18T08:33:50.521955+00:00"
+    },
+    {
+      "id": "323646ccb1c0",
+      "title": "OpenAI and SoftBank Group partner with SB Energy",
+      "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+      "url": "https://openai.com/index/stargate-sb-energy-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-09T11:00:00+00:00",
+      "scrapedAt": "2026-01-18T08:33:50.521887+00:00"
+    },
     {
       "id": "9e6f7768889b",
       "title": "Trump and Mid-Atlantic governors want tech companies to pay for new power plants",
@@ -1410,206 +1610,6 @@
       "category": "research",
       "publishedAt": "2026-01-02T10:00:00+00:00",
       "scrapedAt": "2026-01-11T08:34:18.696089+00:00"
-    },
-    {
-      "id": "b380d6eb9fd7",
-      "title": "OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents",
-      "summary": "To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.",
-      "url": "https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-10T01:11:25+00:00",
-      "scrapedAt": "2026-01-10T08:33:41.287433+00:00"
-    },
-    {
-      "id": "16aa338ba3ba",
-      "title": "The MAGA-approved video of an ICE killing",
-      "summary": "The clips are filmed from different angles. Some are zoomed in, making them indecipherably grainy, and others are slowed down. Some are 20 seconds while others are longer, sandwiched by commentary fro",
-      "url": "https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-08T12:59:38-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.183610+00:00"
-    },
-    {
-      "id": "5286710d3719",
-      "title": "Most dubious uses of AI at CES 2026",
-      "summary": "Let’s take bets on how much Hayao Miyazaki would hate this. You can't shake a stick without hitting an AI gadget at CES this year, with artificial smarts now embedded in just about every wearable, scr",
-      "url": "https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-08T13:14:34-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.183242+00:00"
-    },
-    {
-      "id": "a34eb419c694",
-      "title": "UK Prime Minister says &#8216;we will take action&#8217; on Grok&#8217;s disgusting deepfakes",
-      "summary": "UK Prime Minister Keir Starmer says the country will take action against X following reports that the platform's Grok AI chatbot is generating sexualized deepfakes of adults and minors , as reported e",
-      "url": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-08T18:23:00-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.182748+00:00"
-    },
-    {
-      "id": "2866684fc952",
-      "title": "No, Grok hasn&#8217;t paywalled its deepfake image feature",
-      "summary": "Elon Musk's X has partially restricted access to Grok's image editing capabilities amid growing backlash to the flood of nonconsensual, sexualized deepfakes of adults and minors generated by the platf",
-      "url": "https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T08:09:54-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.182080+00:00"
-    },
-    {
-      "id": "7075b6aec7b1",
-      "title": "The best tech announced at CES 2026 so far",
-      "summary": "The CES show floor officially closes its doors at the end of the day, but there's still a trickle of announcements and reveals coming out of Las Vegas. If you're struggling to stay on top of all the n",
-      "url": "https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T08:53:49-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.181721+00:00"
-    },
-    {
-      "id": "9b38d78a056b",
-      "title": "Democrats ask Apple and Google to remove X’s undressing bot from their app stores",
-      "summary": "Apple and Google are being dragged into the uproar around X's AI chatbot that has continued to virtually undress women in images without their consent this week. In a letter to Apple CEO Tim Cook and ",
-      "url": "https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T11:55:03-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.181161+00:00"
-    },
-    {
-      "id": "2a21fbe1d2db",
-      "title": "Baldur&#8217;s Gate 3 studio says it won&#8217;t use AI for concept art or writing",
-      "summary": "Shadowheart contemplates a powerful artifact in Baldur’s Gate 3 Following some controversy, the developers at Baldur's Gate 3 creator Larian Studios have further clarified their use of generative AI. ",
-      "url": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T12:20:15-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.180726+00:00"
-    },
-    {
-      "id": "db9a1bf7d732",
-      "title": "Meta expands nuclear power ambitions to include Bill Gates&#8217; startup",
-      "summary": "Meta has forged agreements with three nuclear power providers in an effort to secure the vast amount of electricity it needs to power AI data centers. The agreements with TerraPower (which is backed b",
-      "url": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T13:53:21-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.180121+00:00"
-    },
-    {
-      "id": "fca4830f84c0",
-      "title": "The latest on Grok&#8217;s gross AI deepfakes problem",
-      "summary": "The launch of an AI image editing feature on xAI’s Grok has caused chaos on X after it was used to generate a flood of nonconsensual sexualized deepfakes. As Hayden Field wrote , “screenshots show Gro",
-      "url": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T14:13:32-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.179441+00:00"
-    },
-    {
-      "id": "2fb033e952de",
-      "title": "AI is coming for collectibles next",
-      "summary": "Buddyo is a smart base designed to add AI to figurines like Funko Pops using NFC tags. AI toys, companions, and robots have been everywhere at CES this year , but among the horde of waddling plushies ",
-      "url": "https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T17:52:36-05:00",
-      "scrapedAt": "2026-01-10T08:33:41.178439+00:00"
-    },
-    {
-      "id": "7c96940739c9",
-      "title": "Anthropic adds Allianz to growing list of enterprise wins",
-      "summary": "Anthropic announces its first enterprise deal of 2026, which includes building agents for, and giving Claude code to, Allianz.",
-      "url": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T09:00:00+00:00",
-      "scrapedAt": "2026-01-10T08:33:40.556963+00:00"
-    },
-    {
-      "id": "60ea0b0cbb9c",
-      "title": "X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire",
-      "summary": "Elon Musk's AI company has restricted Grok's controversial AI image-generation feature to only paying subscribers on X, after the tool invited heated criticism from across the world for letting users ",
-      "url": "https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T13:59:24+00:00",
-      "scrapedAt": "2026-01-10T08:33:40.556893+00:00"
-    },
-    {
-      "id": "70dcc1a975ae",
-      "title": "Meta signs deals with three nuclear companies for 6-plus GW of power",
-      "summary": "Two smaller companies, Oklo and TerraPower, along with Vistra, a large energy company, just signed agreements with Meta.",
-      "url": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T17:51:15+00:00",
-      "scrapedAt": "2026-01-10T08:33:40.556814+00:00"
-    },
-    {
-      "id": "bc83a730d6b1",
-      "title": "CES 2026: Follow live for the best, weirdest, most interesting tech as this robot and AI-heavy event wraps up",
-      "summary": "CES 2026, the annual consumer tech conference held in Las Vegas, is here. And lucky for you, we have TechCrunch editors and reporters on the ground to cover the news, scout out the interesting, weird,",
-      "url": "https://techcrunch.com/storyline/ces-2026-follow-live-for-the-best-weirdest-most-interesting-tech-as-this-robot-and-ai-heavy-event-wraps/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T17:57:00+00:00",
-      "scrapedAt": "2026-01-10T08:33:40.556735+00:00"
-    },
-    {
-      "id": "8e419775ba5c",
-      "title": "CES 2026 was all about ‘physical AI’ and robots, robots, robots",
-      "summary": "After years of chatbots and image generators, AI is finally leaving the screen. At CES 2026, that shift became impossible to ignore. The annual tech showcase in Las Vegas was dominated by “physical AI",
-      "url": "https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T18:02:09+00:00",
-      "scrapedAt": "2026-01-10T08:33:40.556587+00:00"
-    },
-    {
-      "id": "166b26c8548f",
-      "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
-      "summary": "Ozlo Sleepbuds are going to have a big year, with new products, AI features, and more.",
-      "url": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T19:36:04+00:00",
-      "scrapedAt": "2026-01-10T08:33:40.521144+00:00"
-    },
-    {
-      "id": "62443e6d24a7",
-      "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
-      "summary": "CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sun",
-      "url": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T22:36:27+00:00",
-      "scrapedAt": "2026-01-10T08:33:40.521063+00:00"
-    },
-    {
-      "id": "61d07668ca24",
-      "title": "Datadog uses Codex for system-level code review",
-      "summary": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
-      "url": "https://openai.com/index/datadog",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-09T00:00:00+00:00",
-      "scrapedAt": "2026-01-10T08:33:40.373958+00:00"
-    },
-    {
-      "id": "323646ccb1c0",
-      "title": "OpenAI and SoftBank Group partner with SB Energy",
-      "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
-      "url": "https://openai.com/index/stargate-sb-energy-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-09T11:00:00+00:00",
-      "scrapedAt": "2026-01-10T08:33:40.373870+00:00"
     }
   ]
 }
