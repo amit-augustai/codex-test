@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-01-18T08:34:47.332749+00:00",
+  "lastUpdated": "2026-01-19T08:42:09.120389+00:00",
   "articles": [
+    {
+      "id": "d883c955fb64",
+      "title": "AI-Guided Human-In-the-Loop Inverse Design of High Performance Engineering Structures",
+      "summary": "arXiv:2601.10859v1 Announce Type: new Abstract: Inverse design tools such as Topology Optimization (TO) can achieve new levels of improvement for high-performance engineered structures. However, wides",
+      "url": "https://arxiv.org/abs/2601.10859",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.572170+00:00"
+    },
+    {
+      "id": "477fc7625603",
+      "title": "Mugi: Value Level Parallelism For Efficient LLMs",
+      "summary": "arXiv:2601.10823v1 Announce Type: new Abstract: Value level parallelism (VLP) has been proposed to improve the efficiency of large-batch, low-precision general matrix multiply (GEMM) between symmetric",
+      "url": "https://arxiv.org/abs/2601.10823",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.572008+00:00"
+    },
+    {
+      "id": "b90478d72907",
+      "title": "Towards Reliable ML Feature Engineering via Planning in Constrained-Topology of LLM Agents",
+      "summary": "arXiv:2601.10820v1 Announce Type: new Abstract: Recent advances in code generation models have unlocked unprecedented opportunities for automating feature engineering, yet their adoption in real-world",
+      "url": "https://arxiv.org/abs/2601.10820",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.571891+00:00"
+    },
+    {
+      "id": "4f105e3c8844",
+      "title": "Digital Metabolism: Decoupling Logic from Facts via Regenerative Unlearning -- Towards a Pure Neural Logic Core",
+      "summary": "arXiv:2601.10810v1 Announce Type: new Abstract: Large language models (LLMs) currently suffer from parameter entanglement, where general reasoning capabilities (logic) and specific factual knowledge (",
+      "url": "https://arxiv.org/abs/2601.10810",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.571769+00:00"
+    },
+    {
+      "id": "8d7efb710734",
+      "title": "Towards Tensor Network Models for Low-Latency Jet Tagging on FPGAs",
+      "summary": "arXiv:2601.10801v1 Announce Type: new Abstract: We present a systematic study of Tensor Network (TN) models $\\unicode{x2013}$ Matrix Product States (MPS) and Tree Tensor Networks (TTN) $\\unicode{x2013",
+      "url": "https://arxiv.org/abs/2601.10801",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.571635+00:00"
+    },
+    {
+      "id": "9bf054422506",
+      "title": "Unified Optimization of Source Weights and Transfer Quantities in Multi-Source Transfer Learning: An Asymptotic Framework",
+      "summary": "arXiv:2601.10779v1 Announce Type: new Abstract: Transfer learning plays a vital role in improving model performance in data-scarce scenarios. However, naive uniform transfer from multiple source tasks",
+      "url": "https://arxiv.org/abs/2601.10779",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.571524+00:00"
+    },
+    {
+      "id": "4fde1aaae84f",
+      "title": "Analytic Bijections for Smooth and Interpretable Normalizing Flows",
+      "summary": "arXiv:2601.10774v1 Announce Type: new Abstract: A key challenge in designing normalizing flows is finding expressive scalar bijections that remain invertible with tractable Jacobians. Existing approac",
+      "url": "https://arxiv.org/abs/2601.10774",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.571380+00:00"
+    },
+    {
+      "id": "a8a69c807ab7",
+      "title": "AdaMARP: An Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing",
+      "summary": "arXiv:2601.11007v1 Announce Type: new Abstract: LLM role-playing aims to portray arbitrary characters in interactive narratives, yet existing systems often suffer from limited immersion and adaptabili",
+      "url": "https://arxiv.org/abs/2601.11007",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.410527+00:00"
+    },
+    {
+      "id": "555dba328748",
+      "title": "What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge",
+      "summary": "arXiv:2601.10922v1 Announce Type: new Abstract: We study data curation for multimodal reasoning through the NeurIPS 2025 Data Curation for Vision-Language Reasoning (DCVLR) challenge, which isolates d",
+      "url": "https://arxiv.org/abs/2601.10922",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.410419+00:00"
+    },
+    {
+      "id": "117dc8ddd21d",
+      "title": "ARC Prize 2025: Technical Report",
+      "summary": "arXiv:2601.10904v1 Announce Type: new Abstract: The ARC-AGI benchmark series serves as a critical measure of few-shot generalization on novel tasks, a core aspect of intelligence. The ARC Prize 2025 g",
+      "url": "https://arxiv.org/abs/2601.10904",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.410321+00:00"
+    },
+    {
+      "id": "890ed8f6bc8e",
+      "title": "Optimisation of complex product innovation processes based on trend models with three-valued logic",
+      "summary": "arXiv:2601.10768v1 Announce Type: new Abstract: This paper investigates complex product-innovation processes using models grounded in a set of heuristics. Each heuristic is expressed through simple tr",
+      "url": "https://arxiv.org/abs/2601.10768",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.410185+00:00"
+    },
+    {
+      "id": "ebd964624649",
+      "title": "Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration",
+      "summary": "arXiv:2601.10744v1 Announce Type: new Abstract: An ideal embodied agent should possess lifelong learning capabilities to handle long-horizon and complex tasks, enabling continuous operation in general",
+      "url": "https://arxiv.org/abs/2601.10744",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.410092+00:00"
+    },
+    {
+      "id": "256a1f46eff9",
+      "title": "CTHA: Constrained Temporal Hierarchical Architecture for Stable Multi-Agent LLM Systems",
+      "summary": "arXiv:2601.10738v1 Announce Type: new Abstract: Recently, multi-time-scale agent architectures have extended the ubiquitous single-loop paradigm by introducing temporal hierarchies with distinct cogni",
+      "url": "https://arxiv.org/abs/2601.10738",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.409958+00:00"
+    },
+    {
+      "id": "7c6028c9e5a7",
+      "title": "ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration",
+      "summary": "arXiv:2601.10729v1 Announce Type: new Abstract: Serving long-context LLMs is challenging because request lengths and batch composition vary during token generation, causing the memory footprint to flu",
+      "url": "https://arxiv.org/abs/2601.10729",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.409834+00:00"
+    },
+    {
+      "id": "2baf1c0b85ef",
+      "title": "Building AI Agents to Improve Job Referral Requests to Strangers",
+      "summary": "arXiv:2601.10726v1 Announce Type: new Abstract: This paper develops AI agents that help job seekers write effective requests for job referrals in a professional online community. The basic workflow co",
+      "url": "https://arxiv.org/abs/2601.10726",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.409714+00:00"
+    },
+    {
+      "id": "8060050e5898",
+      "title": "Do You Trust Me? Cognitive-Affective Signatures of Trustworthiness in Large Language Models",
+      "summary": "arXiv:2601.10719v1 Announce Type: new Abstract: Perceived trustworthiness underpins how users navigate online information, yet it remains unclear whether large language models (LLMs),increasingly embe",
+      "url": "https://arxiv.org/abs/2601.10719",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.409604+00:00"
+    },
+    {
+      "id": "181bff9476ab",
+      "title": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
+      "summary": "arXiv:2601.10718v1 Announce Type: new Abstract: Human papillomavirus (HPV) vaccine hesitancy poses significant public health challenges, particularly in Japan where proactive vaccination recommendatio",
+      "url": "https://arxiv.org/abs/2601.10718",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-19T00:00:00-05:00",
+      "scrapedAt": "2026-01-19T08:41:14.409476+00:00"
+    },
+    {
+      "id": "c83fca465586",
+      "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+      "summary": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
+      "url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-18T15:30:00+00:00",
+      "scrapedAt": "2026-01-19T08:41:13.648197+00:00"
+    },
+    {
+      "id": "a6589fb957eb",
+      "title": "A business that scales with the value of intelligence",
+      "summary": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
+      "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-18T10:00:00+00:00",
+      "scrapedAt": "2026-01-19T08:41:13.593628+00:00"
+    },
+    {
+      "id": "7946fccc4ebb",
+      "title": "AI for self empowerment",
+      "summary": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
+      "url": "https://openai.com/index/ai-for-human-agency",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-18T12:00:00+00:00",
+      "scrapedAt": "2026-01-19T08:41:13.593541+00:00"
+    },
     {
       "id": "f45e5cdd4b1a",
       "title": "The Real AI Talent War Is for Plumbers and Electricians",
@@ -1210,406 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-01-12T17:01:00+00:00",
       "scrapedAt": "2026-01-13T08:38:47.914006+00:00"
-    },
-    {
-      "id": "5d5cd0786075",
-      "title": "The Kernel Manifold: A Geometric Approach to Gaussian Process Model Selection",
-      "summary": "arXiv:2601.05371v1 Announce Type: new Abstract: Gaussian Process (GP) regression is a powerful nonparametric Bayesian framework, but its performance depends critically on the choice of covariance kern",
-      "url": "https://arxiv.org/abs/2601.05371",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:32.095069+00:00"
-    },
-    {
-      "id": "f2d6cbd8106b",
-      "title": "GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting",
-      "summary": "arXiv:2601.05353v1 Announce Type: new Abstract: Accurate forecasting of blood glucose from CGM is essential for preventing dysglycemic events, thus enabling proactive diabetes management. However, cur",
-      "url": "https://arxiv.org/abs/2601.05353",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:32.094948+00:00"
-    },
-    {
-      "id": "9e96211a1c11",
-      "title": "When the Server Steps In: Calibrated Updates for Fair Federated Learning",
-      "summary": "arXiv:2601.05352v1 Announce Type: new Abstract: Federated learning (FL) has emerged as a transformative distributed learning paradigm, enabling multiple clients to collaboratively train a global model",
-      "url": "https://arxiv.org/abs/2601.05352",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:32.094801+00:00"
-    },
-    {
-      "id": "1cf85eaad7bf",
-      "title": "Ontology Neural Networks for Topologically Conditioned Constraint Satisfaction",
-      "summary": "arXiv:2601.05304v1 Announce Type: new Abstract: Neuro-symbolic reasoning systems face fundamental challenges in maintaining semantic coherence while satisfying physical and logical constraints. Buildi",
-      "url": "https://arxiv.org/abs/2601.05304",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:32.094674+00:00"
-    },
-    {
-      "id": "2f9758e651cf",
-      "title": "TIME: Temporally Intelligent Meta-reasoning Engine for Context Triggered Explicit Reasoning",
-      "summary": "arXiv:2601.05300v1 Announce Type: new Abstract: Reasoning oriented large language models often expose explicit \"thinking\" as long, turn-global traces at the start of every response, either always on o",
-      "url": "https://arxiv.org/abs/2601.05300",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:32.094563+00:00"
-    },
-    {
-      "id": "d21b4d4f8c13",
-      "title": "MoEBlaze: Breaking the Memory Wall for Efficient MoE Training on Modern GPUs",
-      "summary": "arXiv:2601.05296v1 Announce Type: new Abstract: The pervasive \"memory wall\" bottleneck is significantly amplified in modern large-scale Mixture-of-Experts (MoE) architectures. MoE's inherent architect",
-      "url": "https://arxiv.org/abs/2601.05296",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:32.094376+00:00"
-    },
-    {
-      "id": "ada945d8e212",
-      "title": "MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis",
-      "summary": "arXiv:2601.05483v1 Announce Type: new Abstract: Understanding urban environment change is essential for sustainable development. However, current approaches, particularly remote sensing change detecti",
-      "url": "https://arxiv.org/abs/2601.05483",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.940001+00:00"
-    },
-    {
-      "id": "caffb91acaa3",
-      "title": "PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering",
-      "summary": "arXiv:2601.05465v1 Announce Type: new Abstract: Answering real-world open-domain multi-hop questions over massive corpora is a critical challenge in Retrieval-Augmented Generation (RAG) systems. Recen",
-      "url": "https://arxiv.org/abs/2601.05465",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.939893+00:00"
-    },
-    {
-      "id": "872ddb50ad1e",
-      "title": "ART: Adaptive Reasoning Trees for Explainable Claim Verification",
-      "summary": "arXiv:2601.05455v1 Announce Type: new Abstract: Large Language Models (LLMs) are powerful candidates for complex decision-making, leveraging vast encoded knowledge and remarkable zero-shot abilities. ",
-      "url": "https://arxiv.org/abs/2601.05455",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.939768+00:00"
-    },
-    {
-      "id": "63e27bbfd985",
-      "title": "On the Effect of Cheating in Chess",
-      "summary": "arXiv:2601.05386v1 Announce Type: new Abstract: Cheating in chess, by using advice from powerful software, has become a major problem, reaching the highest levels. As opposed to the large majority of ",
-      "url": "https://arxiv.org/abs/2601.05386",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.939658+00:00"
-    },
-    {
-      "id": "5d64e07233bf",
-      "title": "Conformity and Social Impact on AI Agents",
-      "summary": "arXiv:2601.05384v1 Announce Type: new Abstract: As AI agents increasingly operate in multi-agent environments, understanding their collective behavior becomes critical for predicting the dynamics of a",
-      "url": "https://arxiv.org/abs/2601.05384",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.939571+00:00"
-    },
-    {
-      "id": "1d780a5904fb",
-      "title": "The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models",
-      "summary": "arXiv:2601.05376v1 Announce Type: new Abstract: Persona conditioning can be viewed as a behavioral prior for large language models (LLMs) and is often assumed to confer expertise and improve safety in",
-      "url": "https://arxiv.org/abs/2601.05376",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.939459+00:00"
-    },
-    {
-      "id": "6070e3fc324a",
-      "title": "Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings",
-      "summary": "arXiv:2601.05330v1 Announce Type: new Abstract: Predicting enzyme-substrate interactions has long been a fundamental problem in biochemistry and metabolic engineering. While existing methods could lev",
-      "url": "https://arxiv.org/abs/2601.05330",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.939324+00:00"
-    },
-    {
-      "id": "10b50d27c17f",
-      "title": "Effects of personality steering on cooperative behavior in Large Language Model agents",
-      "summary": "arXiv:2601.05302v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as autonomous agents in strategic and social interactions. Although recent studies suggest that assig",
-      "url": "https://arxiv.org/abs/2601.05302",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.939161+00:00"
-    },
-    {
-      "id": "4895640b5beb",
-      "title": "Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing",
-      "summary": "arXiv:2601.05298v1 Announce Type: new Abstract: Additive manufacturing (AM) relies critically on understanding and extrapolating process-property relationships; however, existing data-driven approache",
-      "url": "https://arxiv.org/abs/2601.05298",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.939043+00:00"
-    },
-    {
-      "id": "37c8c6d96db4",
-      "title": "Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring",
-      "summary": "arXiv:2601.05256v1 Announce Type: new Abstract: Inland water monitoring is vital for safeguarding public health and ecosystems, enabling timely interventions to mitigate risks. Existing methods often ",
-      "url": "https://arxiv.org/abs/2601.05256",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-12T00:00:00-05:00",
-      "scrapedAt": "2026-01-12T08:40:31.938897+00:00"
-    },
-    {
-      "id": "53480a5b0552",
-      "title": "Google announces a new protocol to facilitate commerce using AI agents",
-      "summary": "Google said that merchants can now offer discounts to users directly in AI mode results",
-      "url": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-11T15:00:00+00:00",
-      "scrapedAt": "2026-01-12T08:40:31.509234+00:00"
-    },
-    {
-      "id": "745db865b4c2",
-      "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
-      "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
-      "url": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-11T15:07:49+00:00",
-      "scrapedAt": "2026-01-12T08:40:31.509161+00:00"
-    },
-    {
-      "id": "01a97c6a708d",
-      "title": "Google removes AI Overviews for certain medical queries",
-      "summary": "This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.",
-      "url": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-11T17:56:41+00:00",
-      "scrapedAt": "2026-01-12T08:40:31.509086+00:00"
-    },
-    {
-      "id": "bf615d203336",
-      "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
-      "summary": "Motional says it will launch a driverless robotaxi service in Las Vegas before the end of 2026.",
-      "url": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T00:10:54+00:00",
-      "scrapedAt": "2026-01-12T08:40:31.509004+00:00"
-    },
-    {
-      "id": "1ce5e46acb49",
-      "title": "ChatGPT Health is a marketplace, guess who is the product?",
-      "summary": "Score: 272 points",
-      "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-08T14:40:20+00:00",
-      "scrapedAt": "2026-01-11T08:34:21.057638+00:00"
-    },
-    {
-      "id": "b42fb88993b1",
-      "title": "Show HN: Play poker with LLMs, or watch them play against each other",
-      "summary": "I was curious to see how some of the latest models behaved and played no limit texas holdem.<p>I built this website which allows you to:<p>Spectate: Watch different models play against each other.<p>P",
-      "url": "https://llmholdem.com/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-10T19:27:39+00:00",
-      "scrapedAt": "2026-01-11T08:34:20.918734+00:00"
-    },
-    {
-      "id": "f5004af65803",
-      "title": "AI is a business model stress test",
-      "summary": "Score: 236 points",
-      "url": "https://dri.es/ai-is-a-business-model-stress-test",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-10T16:56:34+00:00",
-      "scrapedAt": "2026-01-11T08:34:20.782560+00:00"
-    },
-    {
-      "id": "e5837ef2b03a",
-      "title": "A battle over Canada’s mystery brain disease",
-      "summary": "Score: 119 points",
-      "url": "https://www.bbc.com/news/articles/c623r47d67lo",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-11T04:45:27+00:00",
-      "scrapedAt": "2026-01-11T08:34:20.442194+00:00"
-    },
-    {
-      "id": "72021b915f7b",
-      "title": "Show HN: I used Claude Code to discover connections between 100 books",
-      "summary": "I think LLMs are overused to summarise and underused to help us read deeper.<p>I built a system for Claude Code to browse 100 non-fiction books and find interesting connections between them.<p>I start",
-      "url": "https://trails.pieterma.es/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-10T16:56:55+00:00",
-      "scrapedAt": "2026-01-11T08:34:20.349487+00:00"
-    },
-    {
-      "id": "eca73015bd73",
-      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
-      "summary": "Ferrite: Fast Markdown&#x2F;Text&#x2F;Code editor in Rust with native Mermaid diagrams<p>Built a Markdown editor using Rust + egui. v0.2.1 just dropped with major Mermaid improvements:<p>→ Native Merm",
-      "url": "https://github.com/OlaProeis/Ferrite",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-11T01:50:01+00:00",
-      "scrapedAt": "2026-01-11T08:34:20.163642+00:00"
-    },
-    {
-      "id": "651716289978",
-      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
-      "summary": "Score: 17 points",
-      "url": "https://github.com/vojtapolasek/vojtux",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-07T11:43:26+00:00",
-      "scrapedAt": "2026-01-11T08:34:20.117272+00:00"
-    },
-    {
-      "id": "58bd791a39ab",
-      "title": "AI Models Are Starting to Learn by Asking Themselves Questions",
-      "summary": "An AI model that learns without human input—by posing interesting queries for itself—might point the way to superintelligence.",
-      "url": "https://www.wired.com/story/ai-models-keep-learning-after-training-research/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T19:00:00+00:00",
-      "scrapedAt": "2026-01-11T08:34:19.842652+00:00"
-    },
-    {
-      "id": "5d991b338f1d",
-      "title": "Grok Is Generating Sexual Content Far More Graphic Than What's on X",
-      "summary": "A WIRED review of outputs hosted on Grok’s official website shows it’s being used to create violent sexual images and videos, as well as content that includes apparent minors.",
-      "url": "https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T21:47:56+00:00",
-      "scrapedAt": "2026-01-11T08:34:19.842593+00:00"
-    },
-    {
-      "id": "1188099d679d",
-      "title": "Is Craigslist the Last Real Place on the Internet?",
-      "summary": "Millennials are still using Craigslist to find jobs, love, and even to cast creative projects—eschewing other AI- and algorithm-dominated online spaces. “There’s a purity to it.”",
-      "url": "https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-08T10:00:00+00:00",
-      "scrapedAt": "2026-01-11T08:34:19.842530+00:00"
-    },
-    {
-      "id": "27377e21363b",
-      "title": "Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails",
-      "summary": "New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.",
-      "url": "https://www.wired.com/story/google-ai-inbox-gmail/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-08T13:00:00+00:00",
-      "scrapedAt": "2026-01-11T08:34:19.842470+00:00"
-    },
-    {
-      "id": "252ab550ea80",
-      "title": "People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good",
-      "summary": "Online detectives are inaccurately claiming to have identified the federal agent who shot and killed a 37-year-old woman in Minnesota based on AI-manipulated images.",
-      "url": "https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-08T16:33:56+00:00",
-      "scrapedAt": "2026-01-11T08:34:19.842408+00:00"
-    },
-    {
-      "id": "52e617c3b607",
-      "title": "AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?",
-      "summary": "Tech companies are calling AI the next platform. But some developers are reluctant to let AI agents stand between them and their users.",
-      "url": "https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-08T19:00:00+00:00",
-      "scrapedAt": "2026-01-11T08:34:19.842350+00:00"
-    },
-    {
-      "id": "17d831bddacf",
-      "title": "‘Physical AI’ Is Coming for Your Car",
-      "summary": "What the latest tech-marketing buzzword has to say about the future of automotive.",
-      "url": "https://www.wired.com/story/physical-ai-is-coming-for-your-car/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T11:30:00+00:00",
-      "scrapedAt": "2026-01-11T08:34:19.842275+00:00"
-    },
-    {
-      "id": "cfde5c341033",
-      "title": "X Didn’t Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It",
-      "summary": "X is allowing only “verified” users to create images with Grok. Experts say it represents the “monetization of abuse”—and anyone can still generate images on Grok’s app and website.",
-      "url": "https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-09T15:19:18+00:00",
-      "scrapedAt": "2026-01-11T08:34:19.842218+00:00"
-    },
-    {
-      "id": "c2b232316560",
-      "title": "Grok Is Being Used to Mock and Strip Women in Hijabs and Saris",
-      "summary": "A substantial number of AI images generated or edited with Grok are targeting women in religious and cultural clothing.",
-      "url": "https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-10T00:23:08+00:00",
-      "scrapedAt": "2026-01-11T08:34:19.842149+00:00"
-    },
-    {
-      "id": "4b72cad440c3",
-      "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
-      "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
-      "url": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-10T19:37:54+00:00",
-      "scrapedAt": "2026-01-11T08:34:18.837641+00:00"
-    },
-    {
-      "id": "af581abff509",
-      "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
-      "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
-      "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-10T21:18:29+00:00",
-      "scrapedAt": "2026-01-11T08:34:18.837563+00:00"
-    },
-    {
-      "id": "f58701c4459f",
-      "title": "Evaluating chain-of-thought monitorability",
-      "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoni",
-      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-18T12:00:00+00:00",
-      "scrapedAt": "2026-01-11T08:34:18.696278+00:00"
-    },
-    {
-      "id": "d3941dee22b6",
-      "title": "Announcing OpenAI Grove Cohort 2",
-      "summary": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to",
-      "url": "https://openai.com/index/openai-grove",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-02T10:00:00+00:00",
-      "scrapedAt": "2026-01-11T08:34:18.696089+00:00"
     }
   ]
 }
