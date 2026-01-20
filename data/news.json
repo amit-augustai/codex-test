@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-01-19T08:42:09.120389+00:00",
+  "lastUpdated": "2026-01-20T08:41:31.207595+00:00",
   "articles": [
+    {
+      "id": "b40909d710d3",
+      "title": "I was a top 0.01% Cursor user, then switched to Claude Code 2.0",
+      "summary": "Score: 97 points",
+      "url": "https://blog.silennai.com/claude-code",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-19T09:00:14+00:00",
+      "scrapedAt": "2026-01-20T08:40:33.885994+00:00"
+    },
+    {
+      "id": "747b57734ba5",
+      "title": "The coming industrialisation of exploit generation with LLMs",
+      "summary": "Score: 135 points",
+      "url": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-19T07:57:04+00:00",
+      "scrapedAt": "2026-01-20T08:40:33.475707+00:00"
+    },
+    {
+      "id": "def807370b4c",
+      "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
+      "summary": "Score: 145 points",
+      "url": "https://github.com/jordanhubbard/nanolang",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-19T21:48:07+00:00",
+      "scrapedAt": "2026-01-20T08:40:33.347540+00:00"
+    },
+    {
+      "id": "fab0423fbcb3",
+      "title": "Kraków, Poland in top 5 worst air quality worldwide",
+      "summary": "Score: 14 points",
+      "url": "https://www.iqair.com/world-air-quality-ranking",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-20T08:16:07+00:00",
+      "scrapedAt": "2026-01-20T08:40:33.088727+00:00"
+    },
+    {
+      "id": "e1e9829f04bb",
+      "title": "The Race to Build the DeepSeek of Europe Is On",
+      "summary": "As Europe’s longstanding alliance with the US falters, its push to become a self-sufficient AI superpower has become more urgent.",
+      "url": "https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T07:00:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:32.774639+00:00"
+    },
+    {
+      "id": "8e17a70d3010",
+      "title": "Under Musk, the Grok disaster was inevitable",
+      "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field . The Stepback arrives in our subscriber",
+      "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-18T08:00:00-05:00",
+      "scrapedAt": "2026-01-20T08:40:31.613432+00:00"
+    },
+    {
+      "id": "7924b0adc43f",
+      "title": "Gamers love AI in game dev — they just don&#8217;t know it yet, says Razer&#8217;s CEO",
+      "summary": "We’re back to start the year off with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES. Razer is obvi",
+      "url": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T10:00:00-05:00",
+      "scrapedAt": "2026-01-20T08:40:31.612752+00:00"
+    },
+    {
+      "id": "a5ca31174d97",
+      "title": "OpenAI’s 2026 ‘focus’ is ‘practical adoption’",
+      "summary": "OpenAI plans to focus on \"practical adoption\" of AI in 2026, according to a blog post from CFO Sarah Friar . As the company spends a huge amount of money on infrastructure, OpenAI is working on \"closi",
+      "url": "https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T16:05:30-05:00",
+      "scrapedAt": "2026-01-20T08:40:31.595702+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:31.081027+00:00"
+    },
+    {
+      "id": "5f8725be4816",
+      "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
+      "summary": "Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved tools, blocking attacks, and ensuring compliance.",
+      "url": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T16:00:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:30.767245+00:00"
+    },
+    {
+      "id": "5de9765fdc9c",
+      "title": "Well, there goes the metaverse!",
+      "summary": "The metaverse is on its last legs as VR is eclipsed by AI. But that's not the only thing that went wrong for Meta's VR ambitions.",
+      "url": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T16:00:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:30.767166+00:00"
+    },
+    {
+      "id": "65c6c9ac38b9",
+      "title": "Here are the 55 US AI startups that raised $100M or more in 2025",
+      "summary": "Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?",
+      "url": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T18:06:34+00:00",
+      "scrapedAt": "2026-01-20T08:40:30.767077+00:00"
+    },
+    {
+      "id": "439c521becb0",
+      "title": "AI for self empowerment",
+      "summary": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
+      "url": "https://openai.com/index/ai-for-self-empowerment",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-18T12:00:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:30.633274+00:00"
+    },
+    {
+      "id": "ef679125669c",
+      "title": "Generative coding: 10 Breakthrough Technologies 2026",
+      "summary": "Generative AI’s ability to write software code has quickly created one of the technology’s first real use cases for business. Professional software engineers and novices alike are using AI coding assi",
+      "url": "https://www.technologyreview.com/2026/01/12/1130027/generative-coding-ai-software-2026-breakthrough-technology/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:29.698710+00:00"
+    },
+    {
+      "id": "4b93938d13af",
+      "title": "AI companions: 10 Breakthrough Technologies 2026",
+      "summary": "Chatbots are skilled at crafting sophisticated dialogue and mimicking empathetic behavior. They never get tired of chatting. It’s no wonder, then, that so many people now use them for companionship—fo",
+      "url": "https://www.technologyreview.com/2026/01/12/1130018/ai-companions-chatbots-relationships-2026-breakthrough-technology/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:29.697980+00:00"
+    },
+    {
+      "id": "1af5103bd6db",
+      "title": "Mechanistic interpretability: 10 Breakthrough Technologies 2026",
+      "summary": "Hundreds of millions of people now use chatbots every day. And yet the large language models that drive them are so complicated that nobody really understands what they are, how they work, or exactly ",
+      "url": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:29.697449+00:00"
+    },
+    {
+      "id": "9e7b6c5e5d5f",
+      "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+      "summary": "In sprawling stretches of farmland and industrial parks, supersized buildings packed with racks of computers are springing up to fuel the AI race. These engineering marvels are a new species of infras",
+      "url": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:29.696929+00:00"
+    },
+    {
+      "id": "7073e90a3d39",
+      "title": "Meet the new biologists treating LLMs like aliens",
+      "summary": "How large is a large language model? Think about it this way. In the center of San Francisco there’s a hill called Twin Peaks from which you can view nearly the entire city. Picture all of it—every bl",
+      "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:00:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:29.696203+00:00"
+    },
+    {
+      "id": "563c95e5e369",
+      "title": "CES showed me why Chinese tech companies feel so optimistic",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . I decided to go to CES kind of at the last minute. Over the h",
+      "url": "https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T17:01:00+00:00",
+      "scrapedAt": "2026-01-20T08:40:29.692055+00:00"
+    },
+    {
+      "id": "c01524373e59",
+      "title": "Going beyond pilots with composable and sovereign AI",
+      "summary": "Today marks an inflection point for enterprise AI adoption. Despite billions invested in generative AI, only 5% of integrated pilots deliver measurable business value and nearly one in two companies a",
+      "url": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T11:59:33+00:00",
+      "scrapedAt": "2026-01-20T08:40:29.690763+00:00"
+    },
     {
       "id": "d883c955fb64",
       "title": "AI-Guided Human-In-the-Loop Inverse Design of High Performance Engineering Structures",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-01-05T11:04:46+00:00",
       "scrapedAt": "2026-01-14T08:38:38.722742+00:00"
-    },
-    {
-      "id": "c082dc3a2533",
-      "title": "Dynamic Intelligence Ceilings: Measuring Long-Horizon Limits of Planning and Creativity in Artificial Systems",
-      "summary": "arXiv:2601.06102v1 Announce Type: new Abstract: Recent advances in artificial intelligence have produced systems capable of remarkable performance across a wide range of tasks. These gains, however, a",
-      "url": "https://arxiv.org/abs/2601.06102",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-13T00:00:00-05:00",
-      "scrapedAt": "2026-01-13T08:38:49.841307+00:00"
-    },
-    {
-      "id": "569bfc9c0088",
-      "title": "Automatic Question Generation for Intuitive Learning Utilizing Causal Graph Guided Chain of Thought Reasoning",
-      "summary": "arXiv:2601.06098v1 Announce Type: new Abstract: Intuitive learning is crucial for developing deep conceptual understanding, especially in STEM education, where students often struggle with abstract an",
-      "url": "https://arxiv.org/abs/2601.06098",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-13T00:00:00-05:00",
-      "scrapedAt": "2026-01-13T08:38:49.841169+00:00"
-    },
-    {
-      "id": "c76f792fbd1e",
-      "title": "\"They parted illusions -- they parted disclaim marinade\": Misalignment as structural fidelity in LLMs",
-      "summary": "arXiv:2601.06047v1 Announce Type: new Abstract: The prevailing technical literature in AI Safety interprets scheming and sandbagging behaviors in large language models (LLMs) as indicators of deceptiv",
-      "url": "https://arxiv.org/abs/2601.06047",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-13T00:00:00-05:00",
-      "scrapedAt": "2026-01-13T08:38:49.841043+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:49.239426+00:00"
-    },
-    {
-      "id": "dae3c3589bd7",
-      "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
-      "summary": "French defense tech company Harmattan AI is now valued at $1.4 billion after raising a $200 million Series B round led by Dassault Aviation, which is best known for making the Rafale fighter jet.",
-      "url": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T14:00:44+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.930353+00:00"
-    },
-    {
-      "id": "57fec8b95ce6",
-      "title": "A New Jersey lawsuit shows how hard it is to fight deepfake porn",
-      "summary": "A number of US laws have already banned deepfake pornography — most notably the Take It Down Act. But while specific users are clearly breaking those laws, it’s much harder to hold the entire platform",
-      "url": "https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T16:34:53+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.930284+00:00"
-    },
-    {
-      "id": "3d226d70d4e3",
-      "title": "Google’s Gemini to power Apple’s AI features like Siri",
-      "summary": "Apple and Google have embarked on a non-exclusive, multi-year partnership that will involve Apple using Gemini models and Google cloud technology for future foundational models.",
-      "url": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T17:12:41+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.930211+00:00"
-    },
-    {
-      "id": "704abc09aa59",
-      "title": "Amazon says 97% of its devices can support Alexa+",
-      "summary": "Amazon is counting on its Alexa footprint to help it gain traction in the consumer AI race.",
-      "url": "https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T19:20:05+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.930145+00:00"
-    },
-    {
-      "id": "01810619a384",
-      "title": "Anthropic’s new Cowork tool offers Claude Code without the code",
-      "summary": "Built into the Claude Desktop app, Cowork lets users designate a specific folder where Claude can read or modify files, with further instructions given through the standard chat interface.",
-      "url": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T19:30:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.930080+00:00"
-    },
-    {
-      "id": "b0530c6cf851",
-      "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
-      "summary": "Anthropic's Claude for Healthcare is unveiled about a week after OpenAI announced its ChatGPT Health product.",
-      "url": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T20:48:21+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.930010+00:00"
-    },
-    {
-      "id": "d1a70383d526",
-      "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
-      "summary": "Meta is ramping up its efforts to build out its AI capacity — Zuckerberg said the company intended to drastically expand its energy footprint in the coming years.",
-      "url": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T21:44:43+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.929933+00:00"
-    },
-    {
-      "id": "1d916b38eadf",
-      "title": "Why Amazon bought Bee, an AI wearable",
-      "summary": "Amazon explains where its wearable Bee fits in and whether it will merge with Alexa.",
-      "url": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T21:55:44+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.929848+00:00"
-    },
-    {
-      "id": "72f2e3bc1ac9",
-      "title": "Hands-on with Bee, Amazon’s latest AI wearable",
-      "summary": "We tried Amazon's new AI wearable Bee. It's not for pro users yet, but more features are expected this year.",
-      "url": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T00:00:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.929762+00:00"
-    },
-    {
-      "id": "7fd351027cb1",
-      "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
-      "summary": "Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global",
-      "url": "https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T04:00:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:48.929682+00:00"
-    },
-    {
-      "id": "ef679125669c",
-      "title": "Generative coding: 10 Breakthrough Technologies 2026",
-      "summary": "Generative AI’s ability to write software code has quickly created one of the technology’s first real use cases for business. Professional software engineers and novices alike are using AI coding assi",
-      "url": "https://www.technologyreview.com/2026/01/12/1130027/generative-coding-ai-software-2026-breakthrough-technology/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:00:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:47.920411+00:00"
-    },
-    {
-      "id": "4b93938d13af",
-      "title": "AI companions: 10 Breakthrough Technologies 2026",
-      "summary": "Chatbots are skilled at crafting sophisticated dialogue and mimicking empathetic behavior. They never get tired of chatting. It’s no wonder, then, that so many people now use them for companionship—fo",
-      "url": "https://www.technologyreview.com/2026/01/12/1130018/ai-companions-chatbots-relationships-2026-breakthrough-technology/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:00:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:47.919851+00:00"
-    },
-    {
-      "id": "1af5103bd6db",
-      "title": "Mechanistic interpretability: 10 Breakthrough Technologies 2026",
-      "summary": "Hundreds of millions of people now use chatbots every day. And yet the large language models that drive them are so complicated that nobody really understands what they are, how they work, or exactly ",
-      "url": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:00:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:47.919333+00:00"
-    },
-    {
-      "id": "9e7b6c5e5d5f",
-      "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
-      "summary": "In sprawling stretches of farmland and industrial parks, supersized buildings packed with racks of computers are springing up to fuel the AI race. These engineering marvels are a new species of infras",
-      "url": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:00:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:47.918800+00:00"
-    },
-    {
-      "id": "7073e90a3d39",
-      "title": "Meet the new biologists treating LLMs like aliens",
-      "summary": "How large is a large language model? Think about it this way. In the center of San Francisco there’s a hill called Twin Peaks from which you can view nearly the entire city. Picture all of it—every bl",
-      "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:00:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:47.917993+00:00"
-    },
-    {
-      "id": "563c95e5e369",
-      "title": "CES showed me why Chinese tech companies feel so optimistic",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . I decided to go to CES kind of at the last minute. Over the h",
-      "url": "https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T17:01:00+00:00",
-      "scrapedAt": "2026-01-13T08:38:47.914006+00:00"
     }
   ]
 }
