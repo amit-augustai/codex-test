@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-01-20T08:41:31.207595+00:00",
+  "lastUpdated": "2026-01-21T08:40:29.058236+00:00",
   "articles": [
+    {
+      "id": "ee750791bf55",
+      "title": "MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?",
+      "summary": "arXiv:2601.11559v1 Announce Type: new Abstract: Despite rare diseases affecting 1 in 10 Americans, their differential diagnosis remains challenging. Due to their impressive recall abilities, large lan",
+      "url": "https://arxiv.org/abs/2601.11559",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-21T00:00:00-05:00",
+      "scrapedAt": "2026-01-21T08:39:33.593156+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.900438+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.891605+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.884418+00:00"
+    },
+    {
+      "id": "9d281e8500af",
+      "title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT",
+      "summary": "Venture capital firms have historically avoided backing competing companies in the same sector, preferring to place their bets on a single winner. Yet here's Sequoia, already invested in both OpenAI a",
+      "url": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-18T22:15:17+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.559660+00:00"
+    },
+    {
+      "id": "c38211e40eb5",
+      "title": "Indian vibe-coding startup Emergent triples valuation to $300M with $70M fundraise",
+      "summary": "The funding comes as the startup claims it has scaled ARR to $50 million and is targeting $100 million by April 2026.",
+      "url": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-20T13:50:09+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.559372+00:00"
+    },
+    {
+      "id": "08ff47798b61",
+      "title": "Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
+      "summary": "Humans&, a startup that believes AI should empower people, not replace them, has reportedly raised a $480 million seed round at a $4.48 billion valuation.",
+      "url": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-20T16:00:57+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.559271+00:00"
+    },
+    {
+      "id": "836e5787601d",
+      "title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
+      "summary": "Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be ded",
+      "url": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-20T22:10:41+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.541915+00:00"
+    },
+    {
+      "id": "02824661b381",
+      "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
+      "summary": "The feature is designed to stop problematic content from being delivered to users under the age of 18.",
+      "url": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-20T23:29:56+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.541826+00:00"
+    },
+    {
+      "id": "b6bcc06b7730",
+      "title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
+      "summary": "Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a",
+      "url": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T01:39:58+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.541750+00:00"
+    },
+    {
+      "id": "c7af6c68ba5c",
+      "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
+      "summary": "Bolna said that 75% of its revenue is coming from self-serve customers.",
+      "url": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T02:00:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.541652+00:00"
+    },
+    {
+      "id": "5641131fd19f",
+      "title": "Our approach to age prediction",
+      "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+      "url": "https://openai.com/index/our-approach-to-age-prediction",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-20T00:00:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.384801+00:00"
+    },
+    {
+      "id": "89b0ac10d29b",
+      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "summary": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-20T05:45:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.384730+00:00"
+    },
+    {
+      "id": "b5479ebcde18",
+      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+      "summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+      "url": "https://openai.com/index/cisco",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-20T11:00:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.384658+00:00"
+    },
+    {
+      "id": "64f66092cc82",
+      "title": "Stargate Community",
+      "summary": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+      "url": "https://openai.com/index/stargate-community",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-20T19:00:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.384582+00:00"
+    },
+    {
+      "id": "13691a2ce123",
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+      "url": "https://openai.com/index/horizon-1000",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-20T21:00:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:32.384495+00:00"
+    },
+    {
+      "id": "6e2a72463300",
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "summary": "Today, we’re introducing an enhanced version of Veo 3.1 “Ingredients to Video.”",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-13T17:00:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:31.901597+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo-3-1_keyword_blog_header_209.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "95c475fde4ad",
+      "title": "Building a community-led future for AI in film with Sundance Institute",
+      "summary": "A look at how Sundance Institute will build a community-led ecosystem for AI education and empowerment, to support creatives.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-20T20:30:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:31.901097+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Building_a_community-led_future.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "f2497feb4b5e",
+      "title": "The UK government is backing AI that can run its own lab experiments",
+      "summary": "A number of startups and universities that are building “AI scientists” to design and run experiments in the lab, including robot biologists and chemists, have just won extra funding from the UK gover",
+      "url": "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-20T13:28:21+00:00",
+      "scrapedAt": "2026-01-21T08:39:31.645822+00:00"
+    },
+    {
+      "id": "651872a082d7",
+      "title": "The era of agentic chaos and how data will save us",
+      "summary": "AI agents are moving beyond coding assistants and customer service chatbots into the operational core of the enterprise. The ROI is promising, but autonomy without alignment is a recipe for chaos. Bus",
+      "url": "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-20T15:00:00+00:00",
+      "scrapedAt": "2026-01-21T08:39:31.644742+00:00"
+    },
     {
       "id": "b40909d710d3",
       "title": "I was a top 0.01% Cursor user, then switched to Claude Code 2.0",
@@ -1209,207 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-01-07T11:23:47+00:00",
       "scrapedAt": "2026-01-15T08:38:40.724706+00:00"
-    },
-    {
-      "id": "07816d5c54c6",
-      "title": "Internal Deployment Gaps in AI Regulation",
-      "summary": "arXiv:2601.08005v1 Announce Type: new Abstract: Frontier AI regulations primarily focus on systems deployed to external users, where deployment is more visible and subject to outside scrutiny. However",
-      "url": "https://arxiv.org/abs/2601.08005",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-14T00:00:00-05:00",
-      "scrapedAt": "2026-01-14T08:38:40.228431+00:00"
-    },
-    {
-      "id": "0bd94d14508e",
-      "title": "Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety",
-      "summary": "arXiv:2601.08000v1 Announce Type: new Abstract: Ensuring that Large Language Models (LLMs) adhere to safety principles without refusing benign requests remains a significant challenge. While OpenAI in",
-      "url": "https://arxiv.org/abs/2601.08000",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-14T00:00:00-05:00",
-      "scrapedAt": "2026-01-14T08:38:40.228296+00:00"
-    },
-    {
-      "id": "7fa5dfd0b2a6",
-      "title": "When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning",
-      "summary": "arXiv:2601.07965v1 Announce Type: new Abstract: When a model knows when it does not know, many possibilities emerge. The first question is how to enable a model to recognize that it does not know. A p",
-      "url": "https://arxiv.org/abs/2601.07965",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-14T00:00:00-05:00",
-      "scrapedAt": "2026-01-14T08:38:40.228153+00:00"
-    },
-    {
-      "id": "8f6a365b06a4",
-      "title": "Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling",
-      "summary": "arXiv:2601.07964v1 Announce Type: new Abstract: This paper examines the application of Executable Ontologies (EO), implemented through the boldsea framework, to game development. We argue that EO repr",
-      "url": "https://arxiv.org/abs/2601.07964",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-14T00:00:00-05:00",
-      "scrapedAt": "2026-01-14T08:38:40.228017+00:00"
-    },
-    {
-      "id": "5a757dd4d352",
-      "title": "Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh",
-      "summary": "arXiv:2601.07866v1 Announce Type: new Abstract: While machine learning shows promise for maternal health risk prediction, clinical adoption in resource-constrained settings faces a critical barrier: l",
-      "url": "https://arxiv.org/abs/2601.07866",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-14T00:00:00-05:00",
-      "scrapedAt": "2026-01-14T08:38:40.227904+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.766755+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.757833+00:00"
-    },
-    {
-      "id": "202e9a418096",
-      "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
-      "summary": "Brazil's competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app. The agency has also started an",
-      "url": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T12:21:47+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584905+00:00"
-    },
-    {
-      "id": "b1f3edad3e46",
-      "title": "Slackbot is an AI agent now",
-      "summary": "Salesforce unveils Slackbot, a new AI agent that allows users to complete tasks across multiple enterprise applications from Slack.",
-      "url": "https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584834+00:00"
-    },
-    {
-      "id": "9cbfd41edd4e",
-      "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
-      "summary": "Deepgram is raising its Series C round at a $1.3 billion valuation.",
-      "url": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:30:00+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584767+00:00"
-    },
-    {
-      "id": "582d3b5dc6ae",
-      "title": "Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month",
-      "summary": "The bundle includes access to Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, as well as Motion, Compressor, and MainStage on Mac.",
-      "url": "https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T14:40:19+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584704+00:00"
-    },
-    {
-      "id": "80aec1053e22",
-      "title": "ElevenLabs CEO says the voice AI startup crossed $330M ARR last year",
-      "summary": "The company said it took only five months to go from $200 million to $330 million in annual recurring revenue.",
-      "url": "https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T16:15:22+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584636+00:00"
-    },
-    {
-      "id": "d61d9737bbd9",
-      "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
-      "summary": "1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.",
-      "url": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T17:14:08+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584568+00:00"
-    },
-    {
-      "id": "0a0996fd31ed",
-      "title": "Doctors think AI has a place in healthcare — but maybe not as a chatbot",
-      "summary": "OpenAI and Anthropic have each launched healthcare-focused products over the last week.",
-      "url": "https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T18:51:18+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584497+00:00"
-    },
-    {
-      "id": "b85c7387702c",
-      "title": "Ring founder details the camera company’s ‘intelligent assistant’ era",
-      "summary": "AI is ushering in Ring’s next chapter, as the Amazon-owned video doorbell maker shifts toward becoming an “intelligent assistant.”",
-      "url": "https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T19:05:49+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584425+00:00"
-    },
-    {
-      "id": "9df0d0477eae",
-      "title": "A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong",
-      "summary": "A consumer economics watchdog says Google's new Universal Commerce Protocol is ripe for misuse where consumers could pay more for items. Google denies this.",
-      "url": "https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T19:40:57+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584347+00:00"
-    },
-    {
-      "id": "294e33cdd65a",
-      "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
-      "summary": "The tech giant has pledged to be a \"good neighbor\" as it continues to invest in AI infrastructure throughout the country.",
-      "url": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T20:15:58+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.584259+00:00"
-    },
-    {
-      "id": "3465dbe784f0",
-      "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
-      "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver",
-      "url": "https://openai.com/index/zenken",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-13T16:00:00+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.483413+00:00"
-    },
-    {
-      "id": "6e2a72463300",
-      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
-      "summary": "Today, we’re introducing an enhanced version of Veo 3.1 “Ingredients to Video.”",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-13T17:00:00+00:00",
-      "scrapedAt": "2026-01-14T08:38:39.036904+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo-3-1_keyword_blog_header_209.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "8bdc2f5ab58f",
-      "title": "What’s next for AI in 2026",
-      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . In an industry in constant fl",
-      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T11:04:46+00:00",
-      "scrapedAt": "2026-01-14T08:38:38.722742+00:00"
     }
   ]
 }
