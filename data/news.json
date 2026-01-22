@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-01-21T08:40:29.058236+00:00",
+  "lastUpdated": "2026-01-22T08:41:32.811493+00:00",
   "articles": [
+    {
+      "id": "d63ab3d0564d",
+      "title": "Epistemic Constitutionalism Or: how to avoid coherence bias",
+      "summary": "arXiv:2601.14295v1 Announce Type: new Abstract: Large language models increasingly function as artificial reasoners: they evaluate arguments, assign credibility, and express confidence. Yet their beli",
+      "url": "https://arxiv.org/abs/2601.14295",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-22T00:00:00-05:00",
+      "scrapedAt": "2026-01-22T08:40:38.136558+00:00"
+    },
+    {
+      "id": "2d606b9dd24f",
+      "title": "The Ontological Neutrality Theorem: Why Neutral Ontological Substrates Must Be Pre-Causal and Pre-Normative",
+      "summary": "arXiv:2601.14271v1 Announce Type: new Abstract: Modern data systems must support accountability across persistent legal, political, and analytic disagreement. This requirement imposes strict constrain",
+      "url": "https://arxiv.org/abs/2601.14271",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-22T00:00:00-05:00",
+      "scrapedAt": "2026-01-22T08:40:38.136426+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.862433+00:00"
+    },
+    {
+      "id": "c7ba07665fd2",
+      "title": "TechCrunch Disrupt 2026 tickets now on sale: Lowest rates all year",
+      "summary": "TechCrunch Disrupt 2026 tickets are officially on sale. Save up to $680 on your ticket and be among the first 500 registrants to score a plus-one pass at 50% off. Don't miss 10,000 tech leaders, found",
+      "url": "https://techcrunch.com/2026/01/21/techcrunch-disrupt-2026-tickets-now-on-sale-lowest-rates-all-year/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T15:00:00+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543928+00:00"
+    },
+    {
+      "id": "3e2a9c5c485e",
+      "title": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
+      "summary": "The AI startup is on track to announce its first hardware device in the second half of this year, OpenAI Chief Global Affairs Officer Chris Lehane said during an interview at Davos.",
+      "url": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T15:20:23+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543833+00:00"
+    },
+    {
+      "id": "23cd65d5934e",
+      "title": "YouTube will soon let creators make Shorts with their own AI likeness",
+      "summary": "YouTube Shorts viewers might soon see AI versions of their favorite creators when scrolling through their feeds.",
+      "url": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T15:41:15+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543762+00:00"
+    },
+    {
+      "id": "af3c46ad749f",
+      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+      "summary": "Research from startup GPTZero points to the impossible problem prestigious conferences face in the age of AI slop.",
+      "url": "https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T20:34:42+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543696+00:00"
+    },
+    {
+      "id": "4a6f3d5723ab",
+      "title": "Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness",
+      "summary": "The newly revised document offers a roadmap for what Anthropic says is a safer and more helpful chatbot experience.",
+      "url": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T22:07:58+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543630+00:00"
+    },
+    {
+      "id": "8505ffe7f9bc",
+      "title": "Apple plans to make Siri an AI chatbot, report says",
+      "summary": "Siri could look more like ChatGPT than its current state as an integrated feature across Apple products.",
+      "url": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T22:12:50+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543564+00:00"
+    },
+    {
+      "id": "a84c39131039",
+      "title": "Todoist’s app now lets you add tasks to your to-do list by speaking to its AI",
+      "summary": "The feature, now public, lets you create to-do's and action items by speaking naturally to the app's AI.",
+      "url": "https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T22:19:17+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543495+00:00"
+    },
+    {
+      "id": "4f8001cd4e4f",
+      "title": "A timeline of the US semiconductor market in 2025",
+      "summary": "From leadership changes at legacy semiconductor companies to wishy washy policy around chip exports, a lot happened last year.",
+      "url": "https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T22:46:13+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543421+00:00"
+    },
+    {
+      "id": "15e827a1fca0",
+      "title": "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
+      "summary": "SGLang, which originated as an open source research project at Ion Stoica’s UC Berkeley lab, has raised capital from Accel.",
+      "url": "https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T23:24:14+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543346+00:00"
+    },
+    {
+      "id": "97d02a5bc44d",
+      "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
+      "summary": "Should this wearable materialize, it could be released as early as 2027, according to a report on the device.",
+      "url": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T00:20:18+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.543259+00:00"
+    },
+    {
+      "id": "13755a0c6430",
+      "title": "Introducing Edu for Countries",
+      "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+      "url": "https://openai.com/index/edu-for-countries",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-21T01:00:00+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.393477+00:00"
+    },
+    {
+      "id": "6d323263652e",
+      "title": "How countries can end the capability overhang",
+      "summary": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-21T01:00:00+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.393401+00:00"
+    },
+    {
+      "id": "92f800a2e877",
+      "title": "How Higgsfield turns simple ideas into cinematic social videos",
+      "summary": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+      "url": "https://openai.com/index/higgsfield",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-21T10:00:00+00:00",
+      "scrapedAt": "2026-01-22T08:40:37.393304+00:00"
+    },
+    {
+      "id": "0489375a21e5",
+      "title": "Announcing the winner of the Global AI Film Award",
+      "summary": "Over the past year, we’ve witnessed how creators globally have been using our AI models and tools to share their stories with the world. That’s why we launched the AI Fi…",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-14T10:00:00+00:00",
+      "scrapedAt": "2026-01-22T08:40:36.912163+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FAYZ0207.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "82f3872c07ea",
+      "title": "Introducing Community Benchmarks on Kaggle",
+      "summary": "Community Benchmarks on Kaggle lets the community build, share and run custom evaluations for AI models.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-14T14:00:00+00:00",
+      "scrapedAt": "2026-01-22T08:40:36.912064+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero-final.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b6feb2385e67",
+      "title": "Everyone wants AI sovereignty. No one can truly have it.",
+      "summary": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in “sovereign AI,” with the premise being that countries should be in control of their own AI capabilities. The funds in",
+      "url": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T14:00:00+00:00",
+      "scrapedAt": "2026-01-22T08:40:36.601300+00:00"
+    },
+    {
+      "id": "d295f611218f",
+      "title": "Rethinking AI’s future in an augmented workplace",
+      "summary": "There are many paths AI evolution could take. On one end of the spectrum, AI is dismissed as a marginal fad, another bubble fueled by notoriety and misallocated capital. On the other end, it’s cast as",
+      "url": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-21T15:00:00+00:00",
+      "scrapedAt": "2026-01-22T08:40:36.599739+00:00"
+    },
     {
       "id": "ee750791bf55",
       "title": "MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?",
@@ -1209,208 +1411,6 @@
       "publishedAt": "2026-01-15T16:06:00+00:00",
       "scrapedAt": "2026-01-16T08:37:58.625444+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NanoBananaName_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:42.000609+00:00"
-    },
-    {
-      "id": "7d3e028e240c",
-      "title": "AI security firm, depthfirst, announces $40 million Series A",
-      "summary": "The company used an AI-native platform to help companies fight threats.",
-      "url": "https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-14T15:50:17+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.676254+00:00"
-    },
-    {
-      "id": "12099131344d",
-      "title": "Gemini’s new beta feature provides proactive responses based on your photos, emails, and more",
-      "summary": "Personal Intelligence is off by default, as users have the option to choose if and when they want to connect their Google apps to Gemini.",
-      "url": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-14T16:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.676198+00:00"
-    },
-    {
-      "id": "aedf9160ee14",
-      "title": "Robotics software maker Skild AI hits $14B valuation",
-      "summary": "Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.",
-      "url": "https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-14T16:13:33+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.676137+00:00"
-    },
-    {
-      "id": "55d68343dc91",
-      "title": "Google’s Trends Explore page gets new Gemini capabilities",
-      "summary": "The Trends Explore page for users to analyze search interest just got a major upgrade. It now uses Gemini to identify and compare relevant trends.",
-      "url": "https://techcrunch.com/2026/01/14/googles-trends-explore-page-gets-new-gemini-capabilities/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-14T18:36:41+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.676076+00:00"
-    },
-    {
-      "id": "6beaf65255df",
-      "title": "AI models are starting to crack high-level math problems",
-      "summary": "Since the release of GPT 5.2, AI tools have become inescapable in high-level mathematics.",
-      "url": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-14T19:10:23+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.676010+00:00"
-    },
-    {
-      "id": "22fe98afe060",
-      "title": "The multibillion-dollar AI security problem enterprises can’t ignore",
-      "summary": "AI agents are supposed to make work easier. But they’re also creating a whole new category of security nightmares. As companies deploy AI-powered chatbots, agents, and copilots across their operations",
-      "url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-14T19:26:51+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.675905+00:00"
-    },
-    {
-      "id": "a76f321c389d",
-      "title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
-      "summary": "The collaboration will help OpenAI's models deliver faster response times for more difficult or time-consuming tasks, the companies said.",
-      "url": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-14T22:25:32+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.632719+00:00"
-    },
-    {
-      "id": "8a3accf71675",
-      "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
-      "summary": "The California attorney general has opened a formal investigation into Elon Musk's xAI after its chatbot Grok began generating nonconsensual sexual images of real women and even children.",
-      "url": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-14T22:42:51+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.632655+00:00"
-    },
-    {
-      "id": "e4957f02e289",
-      "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
-      "summary": "Emversity has raised $30 million in a new round as it scales job-ready training in India.",
-      "url": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-15T00:04:46+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.632592+00:00"
-    },
-    {
-      "id": "27e7f274fa8a",
-      "title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
-      "summary": "The abrupt change in personnel was in the works for several weeks, according to an OpenAI executive.",
-      "url": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-15T02:16:37+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.632521+00:00"
-    },
-    {
-      "id": "22651b90723c",
-      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-      "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel expl",
-      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-22T00:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.499125+00:00"
-    },
-    {
-      "id": "a45ce88e0536",
-      "title": "Introducing ChatGPT Health",
-      "summary": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
-      "url": "https://openai.com/index/introducing-chatgpt-health",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-07T00:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.498997+00:00"
-    },
-    {
-      "id": "f1498ca4e7c6",
-      "title": "How Tolan builds voice-first AI with GPT-5.1",
-      "summary": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
-      "url": "https://openai.com/index/tolan",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-07T10:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.498936+00:00"
-    },
-    {
-      "id": "33cb87dbd94e",
-      "title": "OpenAI partners with Cerebras",
-      "summary": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
-      "url": "https://openai.com/index/cerebras-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-14T14:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.498525+00:00"
-    },
-    {
-      "id": "0489375a21e5",
-      "title": "Announcing the winner of the Global AI Film Award",
-      "summary": "Over the past year, we’ve witnessed how creators globally have been using our AI models and tools to share their stories with the world. That’s why we launched the AI Fi…",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-14T10:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.025731+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FAYZ0207.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "82f3872c07ea",
-      "title": "Introducing Community Benchmarks on Kaggle",
-      "summary": "Community Benchmarks on Kaggle lets the community build, share and run custom evaluations for AI models.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-14T14:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:41.025628+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero-final.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e4a7bbc2992e",
-      "title": "The ascent of the AI therapist",
-      "summary": "We’re in the midst of a global mental-­health crisis. More than a billion people worldwide suffer from a mental-health condition, according to the World Health Organization. The prevalence of anxiety ",
-      "url": "https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2025-12-30T11:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:40.731732+00:00"
-    },
-    {
-      "id": "f2318d54ac54",
-      "title": "Why AI predictions are so hard",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Sometimes AI feels like a niche topic to write about, but the",
-      "url": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-06T10:00:00+00:00",
-      "scrapedAt": "2026-01-15T08:38:40.725739+00:00"
-    },
-    {
-      "id": "0ba59559ed19",
-      "title": "LLMs contain a LOT of parameters. But what’s a parameter?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . I am writing this be",
-      "url": "https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T11:23:47+00:00",
-      "scrapedAt": "2026-01-15T08:38:40.724706+00:00"
     }
   ]
 }
