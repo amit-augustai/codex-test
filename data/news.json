@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-01-23T08:39:27.128140+00:00",
+  "lastUpdated": "2026-01-24T08:35:24.109986+00:00",
   "articles": [
+    {
+      "id": "f4a28348a67f",
+      "title": "Microsoft Paint can now make AI coloring books",
+      "summary": "Can we please appreciate how poor these designs are? None actually feature a cat ON a donut, and one doesn’t even have a finished face. | Image: Microsoft / The Verge (via Canva) Microsoft is giving i",
+      "url": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T06:06:39-05:00",
+      "scrapedAt": "2026-01-24T08:34:26.582997+00:00"
+    },
+    {
+      "id": "f548b8e5e10d",
+      "title": "AI labs wage a reputational knife fight at Davos",
+      "summary": "Demis Hassabis, chief executive officer of DeepMind Technologies Ltd., during a panel session at the World Economic Forum (WEF) in Davos, Switzerland. | Image: Bloomberg via Getty Images This is an ex",
+      "url": "https://www.theverge.com/column/866573/ai-labs-wage-a-reputational-knife-fight-at-davos",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T09:40:00-05:00",
+      "scrapedAt": "2026-01-24T08:34:26.582459+00:00"
+    },
+    {
+      "id": "830e0a7f4687",
+      "title": "The end of the Sony era in TVs",
+      "summary": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in mult",
+      "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T10:20:10-05:00",
+      "scrapedAt": "2026-01-24T08:34:26.581963+00:00"
+    },
+    {
+      "id": "a113c57f45bb",
+      "title": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
+      "summary": "Every week, more than 230 million people ask ChatGPT for health and wellness advice, according to OpenAI. The company says that many see the chatbot as an \"ally\" to help navigate the maze of insurance",
+      "url": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T11:07:24-05:00",
+      "scrapedAt": "2026-01-24T08:34:26.581457+00:00"
+    },
+    {
+      "id": "17d1e9ca86b1",
+      "title": "Meta is stopping teens from chatting with its AI characters",
+      "summary": "Meta is \"temporarily pausing\" the ability for teens to chat with its AI characters as it develops a \"new version\" of the characters that will offer a \"better experience.\" The company made the announce",
+      "url": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T14:50:59-05:00",
+      "scrapedAt": "2026-01-24T08:34:26.581015+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:26.083567+00:00"
+    },
+    {
+      "id": "fb6b0b4b7be9",
+      "title": "Only 1 week left (or until the first 500 passes are gone): The first TechCrunch Disrupt 2026 ticket discount is ending",
+      "summary": "Register now to save up to $680 on your TechCrunch Disrupt 2026 pass and get a second ticket at 50% off. This offer ends next week on January 30, or once the first 500 tickets are claimed — whichever ",
+      "url": "https://techcrunch.com/2026/01/23/only-1-week-left-or-until-the-first-500-passes-are-gone-the-first-disrupt-2026-ticket-discount-is-ending/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T15:00:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.822489+00:00"
+    },
+    {
+      "id": "65f265a0570d",
+      "title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
+      "summary": "The visit comes as New Delhi prepares to host a major AI summit expected to draw top executives from Meta, Google, and Anthropic. This will be Altman's first visit to the country in nearly a year.",
+      "url": "https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T15:30:09+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.822414+00:00"
+    },
+    {
+      "id": "3a22a5be6333",
+      "title": "AI CEOs transformed Davos into a tech conference",
+      "summary": "The World Economic Forum’s annual meeting in Davos felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade. AI dominated the conversation in a wa",
+      "url": "https://techcrunch.com/podcast/ai-ceos-transformed-davos-into-a-tech-conference/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T15:57:40+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.822340+00:00"
+    },
+    {
+      "id": "d77f68d164d6",
+      "title": "Meta pauses teen access to AI characters ahead of new version",
+      "summary": "Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version ",
+      "url": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T17:00:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.822218+00:00"
+    },
+    {
+      "id": "633a2fe28ce5",
+      "title": "Google Photos’ latest feature lets you meme yourself",
+      "summary": "The addition is meant to just be a fun way to explore your photos and experiment with Google's Gemini AI technology, and specifically Nano Banana.",
+      "url": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T17:02:22+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.822111+00:00"
+    },
+    {
+      "id": "4bc173ccfe75",
+      "title": "How did Davos turn into a tech conference?",
+      "summary": "The World Economic Forum’s annual meeting in Davos felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade. AI dominated the conversation in a wa",
+      "url": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T20:00:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.821979+00:00"
+    },
+    {
+      "id": "b81148a12674",
+      "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
+      "summary": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it.",
+      "url": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-24T00:04:45+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.808055+00:00"
+    },
+    {
+      "id": "07014cd4821e",
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
+      "summary": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the start",
+      "url": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-24T05:27:22+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.807976+00:00"
+    },
+    {
+      "id": "806619e99a4c",
+      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+      "summary": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-22T00:00:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.690229+00:00"
+    },
+    {
+      "id": "4d2f2d941042",
+      "title": "Unrolling the Codex agent loop",
+      "summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-23T12:00:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.689997+00:00"
+    },
+    {
+      "id": "ec2c242cce27",
+      "title": "Investing in America 2025",
+      "summary": "Google’s deep investments in American technical infrastructure, R&D and the workforce will help the U.S. continue to lead the world in AI.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/investing-in-america-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-17T20:00:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.140434+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c585a0bd9ee5",
+      "title": "The Google guide for holiday help",
+      "summary": "Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-11-25T18:00:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.140337+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6cb364887a15",
+      "title": "2025 at Google",
+      "summary": "Learn more about Google’s launches, milestones and more from 2025.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/look-back-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2025-12-09T16:00:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:25.140247+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "fd6ec8b9359d",
+      "title": "America’s coming war over AI regulation",
+      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . In the final weeks of 2025, t",
+      "url": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-23T10:00:00+00:00",
+      "scrapedAt": "2026-01-24T08:34:24.787831+00:00"
+    },
     {
       "id": "3a36c391bf97",
       "title": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
@@ -1207,211 +1410,6 @@
       "category": "research",
       "publishedAt": "2026-01-09T11:00:00+00:00",
       "scrapedAt": "2026-01-18T08:33:50.521887+00:00"
-    },
-    {
-      "id": "9e6f7768889b",
-      "title": "Trump and Mid-Atlantic governors want tech companies to pay for new power plants",
-      "summary": "An Amazon Web Services data center in Ashburn, Virginia, US, on Tuesday, Oct. 28, 2025. | Photo: Getty Images The Trump administration and a bipartisan group of governors are pressuring the PJM Interc",
-      "url": "https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T15:51:18-05:00",
-      "scrapedAt": "2026-01-17T08:33:27.781080+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.517645+00:00"
-    },
-    {
-      "id": "03f9758ed517",
-      "title": "The rise of ‘micro’ apps: non-developers are writing apps instead of buying them",
-      "summary": "A new era of app creation is here. It's fun, it's fast, and it's fleeting.",
-      "url": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:15:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.290451+00:00"
-    },
-    {
-      "id": "0e6ef9b6a669",
-      "title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
-      "summary": "AI companies are clustering around healthcare, and fast. In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for Health, and Sam Altman-backed Merge Labs closed a $250",
-      "url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T17:35:35+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.290374+00:00"
-    },
-    {
-      "id": "8783ea370527",
-      "title": "The AI healthcare gold rush is here",
-      "summary": "AI companies are clustering around healthcare and fast. In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for healthcare, and Sam Altman-backed MergeLabs closed a $2",
-      "url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T18:57:03+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.290235+00:00"
-    },
-    {
-      "id": "79a7269e3730",
-      "title": "Trump administration wants tech companies to buy $15B of power plants they may not use",
-      "summary": "In an attempt to alleviate rising electricity prices, the White House wants grid operator PJM to hold an auction for new generating capacity, and it wants tech companies to bid.",
-      "url": "https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T19:38:27+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.248948+00:00"
-    },
-    {
-      "id": "29a3b3c293e8",
-      "title": "ChatGPT users are about to get hit with targeted ads",
-      "summary": "OpenAI says that users impacted by the ads will have some control over what they see.",
-      "url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T19:54:19+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.248871+00:00"
-    },
-    {
-      "id": "75a6a1136561",
-      "title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
-      "summary": "The startup has partnered with Eli Lilly and enjoys the backing of some of Silicon Valley's most influential VCs.",
-      "url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T20:14:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.248786+00:00"
-    },
-    {
-      "id": "26745961b21f",
-      "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
-      "summary": "The flood of AI-generated sexual imagery has spurred concern from state and congressional officials alike.",
-      "url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T23:21:24+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.248701+00:00"
-    },
-    {
-      "id": "0946d6daa5c2",
-      "title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post",
-      "summary": "Their startup journey is a wild example of how if you build it well and the timing is lucky, they will definitely come.",
-      "url": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T23:46:33+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.248631+00:00"
-    },
-    {
-      "id": "22e915456e9f",
-      "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
-      "summary": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
-      "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-17T08:26:08+00:00",
-      "scrapedAt": "2026-01-17T08:33:27.248546+00:00"
-    },
-    {
-      "id": "52ec0eca2ce4",
-      "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
-      "summary": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
-      "url": "https://openai.com/index/netomi",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-08T13:00:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:26.744415+00:00"
-    },
-    {
-      "id": "d8bbfb0ca873",
-      "title": "Our approach to advertising and expanding access to ChatGPT",
-      "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
-      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-16T00:00:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:26.743896+00:00"
-    },
-    {
-      "id": "9de6d84c57af",
-      "title": "Introducing ChatGPT Go, now available worldwide",
-      "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
-      "url": "https://openai.com/index/introducing-chatgpt-go",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-16T00:00:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:26.743798+00:00"
-    },
-    {
-      "id": "c85f32cab7bd",
-      "title": "The truth left out from Elon Musk’s recent court filing",
-      "summary": "The truth left out from Elon Musk’s recent court filing.",
-      "url": "https://openai.com/index/the-truth-elon-left-out",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-16T12:00:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:26.743709+00:00"
-    },
-    {
-      "id": "ecca2f867424",
-      "title": "Google Cloud Next 25",
-      "summary": "Here’s a look at what we announced at Google Cloud Next 25.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-04-09T12:00:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:26.314274+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Collection_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "57a00d710cb9",
-      "title": "I/O 2025",
-      "summary": "We’re doing cutting-edge research to build the most helpful AI that’s more intelligent, agentic and personalized.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2025-collection/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-05-20T17:45:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:26.314189+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ec2c242cce27",
-      "title": "Investing in America 2025",
-      "summary": "Google’s deep investments in American technical infrastructure, R&D and the workforce will help the U.S. continue to lead the world in AI.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/investing-in-america-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-11-17T20:00:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:26.314100+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c585a0bd9ee5",
-      "title": "The Google guide for holiday help",
-      "summary": "Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-11-25T18:00:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:26.314002+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6cb364887a15",
-      "title": "2025 at Google",
-      "summary": "Learn more about Google’s launches, milestones and more from 2025.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/look-back-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2025-12-09T16:00:00+00:00",
-      "scrapedAt": "2026-01-17T08:33:26.313912+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp"
     }
   ]
 }
