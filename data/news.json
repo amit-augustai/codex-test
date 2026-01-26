@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-01-25T08:35:50.026638+00:00",
+  "lastUpdated": "2026-01-26T08:42:18.001908+00:00",
   "articles": [
+    {
+      "id": "bdc87098ad97",
+      "title": "A Regularized Actor-Critic Algorithm for Bi-Level Reinforcement Learning",
+      "summary": "arXiv:2601.16399v1 Announce Type: new Abstract: We study a structured bi-level optimization problem where the upper-level objective is a smooth function and the lower-level problem is policy optimizat",
+      "url": "https://arxiv.org/abs/2601.16399",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:21.067751+00:00"
+    },
+    {
+      "id": "4808aa8b7284",
+      "title": "Analyzing Neural Network Information Flow Using Differential Geometry",
+      "summary": "arXiv:2601.16366v1 Announce Type: new Abstract: This paper provides a fresh view of the neural network (NN) data flow problem, i.e., identifying the NN connections that are most important for the perf",
+      "url": "https://arxiv.org/abs/2601.16366",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:21.067633+00:00"
+    },
+    {
+      "id": "b54b0c667921",
+      "title": "Efficient Gaussian process learning via subspace projections",
+      "summary": "arXiv:2601.16332v1 Announce Type: new Abstract: We propose a novel training objective for GPs constructed using lower-dimensional linear projections of the data, referred to as \\emph{projected likelih",
+      "url": "https://arxiv.org/abs/2601.16332",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:21.067496+00:00"
+    },
+    {
+      "id": "7438e69513fc",
+      "title": "Student Mental Health Screening via Fitbit Data Collected During the COVID-19 Pandemic",
+      "summary": "arXiv:2601.16324v1 Announce Type: new Abstract: College students experience many stressors, resulting in high levels of anxiety and depression. Wearable technology provides unobtrusive sensor data tha",
+      "url": "https://arxiv.org/abs/2601.16324",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:21.067404+00:00"
+    },
+    {
+      "id": "19573e3ca6de",
+      "title": "Ordering-based Causal Discovery via Generalized Score Matching",
+      "summary": "arXiv:2601.16249v1 Announce Type: new Abstract: Learning DAG structures from purely observational data remains a long-standing challenge across scientific domains. An emerging line of research leverag",
+      "url": "https://arxiv.org/abs/2601.16249",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:21.067281+00:00"
+    },
+    {
+      "id": "4ecedf056ef2",
+      "title": "An Efficient Insect-inspired Approach for Visual Point-goal Navigation",
+      "summary": "arXiv:2601.16806v1 Announce Type: new Abstract: In this work we develop a novel insect-inspired agent for visual point-goal navigation. This combines abstracted models of two insect brain structures t",
+      "url": "https://arxiv.org/abs/2601.16806",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.866826+00:00"
+    },
+    {
+      "id": "6be7861ea9de",
+      "title": "LongCat-Flash-Thinking-2601 Technical Report",
+      "summary": "arXiv:2601.16725v1 Announce Type: new Abstract: We introduce LongCat-Flash-Thinking-2601, a 560-billion-parameter open-source Mixture-of-Experts (MoE) reasoning model with superior agentic reasoning c",
+      "url": "https://arxiv.org/abs/2601.16725",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.866739+00:00"
+    },
+    {
+      "id": "033670570f69",
+      "title": "AgentsEval: Clinically Faithful Evaluation of Medical Imaging Reports via Multi-Agent Reasoning",
+      "summary": "arXiv:2601.16685v1 Announce Type: new Abstract: Evaluating the clinical correctness and reasoning fidelity of automatically generated medical imaging reports remains a critical yet unresolved challeng",
+      "url": "https://arxiv.org/abs/2601.16685",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.866610+00:00"
+    },
+    {
+      "id": "6cee4f1a480a",
+      "title": "LUMINA: Long-horizon Understanding for Multi-turn Interactive Agents",
+      "summary": "arXiv:2601.16649v1 Announce Type: new Abstract: Large language models can perform well on many isolated tasks, yet they continue to struggle on multi-turn, long-horizon agentic problems that require s",
+      "url": "https://arxiv.org/abs/2601.16649",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.866501+00:00"
+    },
+    {
+      "id": "0ef9e0aabf70",
+      "title": "LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification",
+      "summary": "arXiv:2601.16549v1 Announce Type: new Abstract: The combination of multimodal Vision-Language Models (VLMs) and Large Language Models (LLMs) opens up new possibilities for medical classification. This",
+      "url": "https://arxiv.org/abs/2601.16549",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.866381+00:00"
+    },
+    {
+      "id": "1bab2e57cb7a",
+      "title": "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
+      "summary": "arXiv:2601.16529v1 Announce Type: new Abstract: Large language models (LLMs) show promise in clinical decision support yet risk acquiescing to patient pressure for inappropriate care. We introduce Syc",
+      "url": "https://arxiv.org/abs/2601.16529",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.866247+00:00"
+    },
+    {
+      "id": "fe62d3de2571",
+      "title": "Doc2AHP: Inferring Structured Multi-Criteria Decision Models via Semantic Trees with LLMs",
+      "summary": "arXiv:2601.16479v1 Announce Type: new Abstract: While Large Language Models (LLMs) demonstrate remarkable proficiency in semantic understanding, they often struggle to ensure structural consistency an",
+      "url": "https://arxiv.org/abs/2601.16479",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.866133+00:00"
+    },
+    {
+      "id": "d45575c39733",
+      "title": "DSGym: A Holistic Framework for Evaluating and Training Data Science Agents",
+      "summary": "arXiv:2601.16344v1 Announce Type: new Abstract: Data science agents promise to accelerate discovery and insight-generation by turning data into executable analyses and findings. Yet existing data scie",
+      "url": "https://arxiv.org/abs/2601.16344",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.866014+00:00"
+    },
+    {
+      "id": "f8bdcdd501a7",
+      "title": "SemanticALLI: Caching Reasoning, Not Just Responses, in Agentic Systems",
+      "summary": "arXiv:2601.16286v1 Announce Type: new Abstract: Agentic AI pipelines suffer from a hidden inefficiency: they frequently reconstruct identical intermediate logic, such as metric normalization or chart ",
+      "url": "https://arxiv.org/abs/2601.16286",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.865884+00:00"
+    },
+    {
+      "id": "24df52ed6764",
+      "title": "When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems",
+      "summary": "arXiv:2601.16280v1 Announce Type: new Abstract: Multi-agent systems powered by large language models (LLMs) are transforming enterprise automation, yet systematic evaluation methodologies for assessin",
+      "url": "https://arxiv.org/abs/2601.16280",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-01-26T00:00:00-05:00",
+      "scrapedAt": "2026-01-26T08:41:20.865760+00:00"
+    },
+    {
+      "id": "eec12141e1e9",
+      "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
+      "summary": "We’re about to get our first real look at the results of the recently announced AI partnership between Apple and Google.",
+      "url": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-25T16:56:31+00:00",
+      "scrapedAt": "2026-01-26T08:41:20.134688+00:00"
+    },
+    {
+      "id": "58426c062444",
+      "title": "Science fiction writers, Comic-Con say goodbye to AI",
+      "summary": "Some of the major players in science fiction and pop culture are taking firmer stances against generative AI.",
+      "url": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-25T21:53:42+00:00",
+      "scrapedAt": "2026-01-26T08:41:20.134606+00:00"
+    },
+    {
+      "id": "4133d8d45270",
+      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+      "summary": "Humans&, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
+      "url": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-25T22:11:06+00:00",
+      "scrapedAt": "2026-01-26T08:41:20.134517+00:00"
+    },
+    {
+      "id": "58a51c2fe634",
+      "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
+      "summary": "Information from the conservative-leaning, AI-generated encyclopedia developed by Elon Musk’s xAI is beginning to appear in answers from ChatGPT.",
+      "url": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-25T22:35:53+00:00",
+      "scrapedAt": "2026-01-26T08:41:20.090762+00:00"
+    },
+    {
+      "id": "4982f5f29e33",
+      "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
+      "summary": "The nozzle is just the beginning – what company founder Sunny Sethi calls \"the muscle on the ground.”",
+      "url": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-25T23:20:36+00:00",
+      "scrapedAt": "2026-01-26T08:41:20.090679+00:00"
+    },
     {
       "id": "002d286527d0",
       "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-01-19T11:59:33+00:00",
       "scrapedAt": "2026-01-20T08:40:29.690763+00:00"
-    },
-    {
-      "id": "d883c955fb64",
-      "title": "AI-Guided Human-In-the-Loop Inverse Design of High Performance Engineering Structures",
-      "summary": "arXiv:2601.10859v1 Announce Type: new Abstract: Inverse design tools such as Topology Optimization (TO) can achieve new levels of improvement for high-performance engineered structures. However, wides",
-      "url": "https://arxiv.org/abs/2601.10859",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.572170+00:00"
-    },
-    {
-      "id": "477fc7625603",
-      "title": "Mugi: Value Level Parallelism For Efficient LLMs",
-      "summary": "arXiv:2601.10823v1 Announce Type: new Abstract: Value level parallelism (VLP) has been proposed to improve the efficiency of large-batch, low-precision general matrix multiply (GEMM) between symmetric",
-      "url": "https://arxiv.org/abs/2601.10823",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.572008+00:00"
-    },
-    {
-      "id": "b90478d72907",
-      "title": "Towards Reliable ML Feature Engineering via Planning in Constrained-Topology of LLM Agents",
-      "summary": "arXiv:2601.10820v1 Announce Type: new Abstract: Recent advances in code generation models have unlocked unprecedented opportunities for automating feature engineering, yet their adoption in real-world",
-      "url": "https://arxiv.org/abs/2601.10820",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.571891+00:00"
-    },
-    {
-      "id": "4f105e3c8844",
-      "title": "Digital Metabolism: Decoupling Logic from Facts via Regenerative Unlearning -- Towards a Pure Neural Logic Core",
-      "summary": "arXiv:2601.10810v1 Announce Type: new Abstract: Large language models (LLMs) currently suffer from parameter entanglement, where general reasoning capabilities (logic) and specific factual knowledge (",
-      "url": "https://arxiv.org/abs/2601.10810",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.571769+00:00"
-    },
-    {
-      "id": "8d7efb710734",
-      "title": "Towards Tensor Network Models for Low-Latency Jet Tagging on FPGAs",
-      "summary": "arXiv:2601.10801v1 Announce Type: new Abstract: We present a systematic study of Tensor Network (TN) models $\\unicode{x2013}$ Matrix Product States (MPS) and Tree Tensor Networks (TTN) $\\unicode{x2013",
-      "url": "https://arxiv.org/abs/2601.10801",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.571635+00:00"
-    },
-    {
-      "id": "9bf054422506",
-      "title": "Unified Optimization of Source Weights and Transfer Quantities in Multi-Source Transfer Learning: An Asymptotic Framework",
-      "summary": "arXiv:2601.10779v1 Announce Type: new Abstract: Transfer learning plays a vital role in improving model performance in data-scarce scenarios. However, naive uniform transfer from multiple source tasks",
-      "url": "https://arxiv.org/abs/2601.10779",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.571524+00:00"
-    },
-    {
-      "id": "4fde1aaae84f",
-      "title": "Analytic Bijections for Smooth and Interpretable Normalizing Flows",
-      "summary": "arXiv:2601.10774v1 Announce Type: new Abstract: A key challenge in designing normalizing flows is finding expressive scalar bijections that remain invertible with tractable Jacobians. Existing approac",
-      "url": "https://arxiv.org/abs/2601.10774",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.571380+00:00"
-    },
-    {
-      "id": "a8a69c807ab7",
-      "title": "AdaMARP: An Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing",
-      "summary": "arXiv:2601.11007v1 Announce Type: new Abstract: LLM role-playing aims to portray arbitrary characters in interactive narratives, yet existing systems often suffer from limited immersion and adaptabili",
-      "url": "https://arxiv.org/abs/2601.11007",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.410527+00:00"
-    },
-    {
-      "id": "555dba328748",
-      "title": "What Matters in Data Curation for Multimodal Reasoning? Insights from the DCVLR Challenge",
-      "summary": "arXiv:2601.10922v1 Announce Type: new Abstract: We study data curation for multimodal reasoning through the NeurIPS 2025 Data Curation for Vision-Language Reasoning (DCVLR) challenge, which isolates d",
-      "url": "https://arxiv.org/abs/2601.10922",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.410419+00:00"
-    },
-    {
-      "id": "117dc8ddd21d",
-      "title": "ARC Prize 2025: Technical Report",
-      "summary": "arXiv:2601.10904v1 Announce Type: new Abstract: The ARC-AGI benchmark series serves as a critical measure of few-shot generalization on novel tasks, a core aspect of intelligence. The ARC Prize 2025 g",
-      "url": "https://arxiv.org/abs/2601.10904",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.410321+00:00"
-    },
-    {
-      "id": "890ed8f6bc8e",
-      "title": "Optimisation of complex product innovation processes based on trend models with three-valued logic",
-      "summary": "arXiv:2601.10768v1 Announce Type: new Abstract: This paper investigates complex product-innovation processes using models grounded in a set of heuristics. Each heuristic is expressed through simple tr",
-      "url": "https://arxiv.org/abs/2601.10768",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.410185+00:00"
-    },
-    {
-      "id": "ebd964624649",
-      "title": "Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration",
-      "summary": "arXiv:2601.10744v1 Announce Type: new Abstract: An ideal embodied agent should possess lifelong learning capabilities to handle long-horizon and complex tasks, enabling continuous operation in general",
-      "url": "https://arxiv.org/abs/2601.10744",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.410092+00:00"
-    },
-    {
-      "id": "256a1f46eff9",
-      "title": "CTHA: Constrained Temporal Hierarchical Architecture for Stable Multi-Agent LLM Systems",
-      "summary": "arXiv:2601.10738v1 Announce Type: new Abstract: Recently, multi-time-scale agent architectures have extended the ubiquitous single-loop paradigm by introducing temporal hierarchies with distinct cogni",
-      "url": "https://arxiv.org/abs/2601.10738",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.409958+00:00"
-    },
-    {
-      "id": "7c6028c9e5a7",
-      "title": "ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration",
-      "summary": "arXiv:2601.10729v1 Announce Type: new Abstract: Serving long-context LLMs is challenging because request lengths and batch composition vary during token generation, causing the memory footprint to flu",
-      "url": "https://arxiv.org/abs/2601.10729",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.409834+00:00"
-    },
-    {
-      "id": "2baf1c0b85ef",
-      "title": "Building AI Agents to Improve Job Referral Requests to Strangers",
-      "summary": "arXiv:2601.10726v1 Announce Type: new Abstract: This paper develops AI agents that help job seekers write effective requests for job referrals in a professional online community. The basic workflow co",
-      "url": "https://arxiv.org/abs/2601.10726",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.409714+00:00"
-    },
-    {
-      "id": "8060050e5898",
-      "title": "Do You Trust Me? Cognitive-Affective Signatures of Trustworthiness in Large Language Models",
-      "summary": "arXiv:2601.10719v1 Announce Type: new Abstract: Perceived trustworthiness underpins how users navigate online information, yet it remains unclear whether large language models (LLMs),increasingly embe",
-      "url": "https://arxiv.org/abs/2601.10719",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.409604+00:00"
-    },
-    {
-      "id": "181bff9476ab",
-      "title": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
-      "summary": "arXiv:2601.10718v1 Announce Type: new Abstract: Human papillomavirus (HPV) vaccine hesitancy poses significant public health challenges, particularly in Japan where proactive vaccination recommendatio",
-      "url": "https://arxiv.org/abs/2601.10718",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-19T00:00:00-05:00",
-      "scrapedAt": "2026-01-19T08:41:14.409476+00:00"
-    },
-    {
-      "id": "c83fca465586",
-      "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
-      "summary": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
-      "url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-18T15:30:00+00:00",
-      "scrapedAt": "2026-01-19T08:41:13.648197+00:00"
-    },
-    {
-      "id": "a6589fb957eb",
-      "title": "A business that scales with the value of intelligence",
-      "summary": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
-      "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-18T10:00:00+00:00",
-      "scrapedAt": "2026-01-19T08:41:13.593628+00:00"
-    },
-    {
-      "id": "7946fccc4ebb",
-      "title": "AI for self empowerment",
-      "summary": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
-      "url": "https://openai.com/index/ai-for-human-agency",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-18T12:00:00+00:00",
-      "scrapedAt": "2026-01-19T08:41:13.593541+00:00"
     }
   ]
 }
