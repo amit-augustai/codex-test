@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-01-27T08:41:52.280694+00:00",
+  "lastUpdated": "2026-01-28T08:41:29.165081+00:00",
   "articles": [
+    {
+      "id": "4b4600e5515c",
+      "title": "Airtable jumps into the AI agent game with Superagent",
+      "summary": "SuperAgent is Airtable's first stand-alone product in its 13-year history, and signals both the company's ambitions and the reality of the current AI moment: Every serious software player is racing to",
+      "url": "https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T15:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.735038+00:00"
+    },
+    {
+      "id": "41ce0053e009",
+      "title": "Phoebe Gates and Sophia Kianni’s Phia raises $35M to ‘make shopping fun again’",
+      "summary": "“We are just at such a prime time of opportunity,” Gates said to explain the new fundraise. “Commerce itself for the consumer hasn’t really been adapted in the last 30 years, and the opportunity to ma",
+      "url": "https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T15:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.734968+00:00"
+    },
+    {
+      "id": "e54af86b812e",
+      "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
+      "summary": "\"Our special sauce is the prompt libraries, the eval suites, and the thousands and thousands of real-world examples that the AI gets trained on to ensure it actually does what it's expected to do,” CE",
+      "url": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T15:25:22+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.734898+00:00"
+    },
+    {
+      "id": "ed17ffb14a28",
+      "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
+      "summary": "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.",
+      "url": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T17:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.734823+00:00"
+    },
+    {
+      "id": "bcef289b5a64",
+      "title": "OpenAI launches Prism, a new AI workspace for scientists",
+      "summary": "OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.",
+      "url": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T18:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.734746+00:00"
+    },
+    {
+      "id": "f2fcddabaaba",
+      "title": "Google’s more affordable AI Plus plan rolls out to all markets, including the US",
+      "summary": "Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.",
+      "url": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T18:00:39+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.734648+00:00"
+    },
+    {
+      "id": "644cdfa4085a",
+      "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.",
+      "url": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T18:19:19+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.734581+00:00"
+    },
+    {
+      "id": "5165f65cbc7e",
+      "title": "Anthropic reportedly upped its latest raise to $20B",
+      "summary": "Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports.",
+      "url": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T21:16:10+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.734509+00:00"
+    },
+    {
+      "id": "a1bd2cf60dce",
+      "title": "Anduril has invented a wild new drone-flying contest where jobs are the prize",
+      "summary": "This is a race series for software programmers and the brainchild of founder Palmer Luckey, he tells TechCrunch.",
+      "url": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T21:54:38+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.734438+00:00"
+    },
+    {
+      "id": "5c1b7f07192b",
+      "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
+      "summary": "Personal AI assistant Moltbot —formerly Clawdbot — has gone viral in a matter of weeks. But there’s more you should know before jumping on the bandwagon.",
+      "url": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-28T00:12:43+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.734358+00:00"
+    },
+    {
+      "id": "2d79546ea8ed",
+      "title": "Introducing Prism",
+      "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "url": "https://openai.com/index/introducing-prism",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T00:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.597030+00:00"
+    },
+    {
+      "id": "f3f47538cb05",
+      "title": "Powering tax donations with AI powered personalized recommendations",
+      "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system hel",
+      "url": "https://openai.com/index/trustbank",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T00:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.596955+00:00"
+    },
+    {
+      "id": "241c9fd7457d",
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "url": "https://openai.com/index/pvh-future-of-fashion",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T06:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.596873+00:00"
+    },
+    {
+      "id": "95c475fde4ad",
+      "title": "Building a community-led future for AI in film with Sundance Institute",
+      "summary": "A look at how Sundance Institute will build a community-led ecosystem for AI education and empowerment, to support creatives.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-20T20:30:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.009714+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Building_a_community-led_future.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5c29f7c09ca7",
+      "title": "In our latest podcast, hear how the “Smokejumpers” team brings Gemini to billions of people.",
+      "summary": "In our latest podcast, hear how the “Smokejumpers” team brings Gemini to billions of people.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T10:28:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.009409+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnails_EP24_002_ccRelease_N.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ebce41117912",
+      "title": "Just ask anything: a seamless new Search experience",
+      "summary": "Search users around the world now have easier access to frontier AI capabilities.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T17:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.009384+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Seamless_Search_-_Blog_header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7339b1ffbe26",
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "summary": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T18:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:29.009266+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp"
+    },
+    {
+      "id": "f2497feb4b5e",
+      "title": "The UK government is backing AI that can run its own lab experiments",
+      "summary": "A number of startups and university teams that are building “AI scientists” to design and run experiments in the lab, including robot biologists and chemists, have just won extra funding from the UK g",
+      "url": "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-20T13:28:21+00:00",
+      "scrapedAt": "2026-01-28T08:40:28.654425+00:00"
+    },
+    {
+      "id": "651872a082d7",
+      "title": "The era of agentic chaos and how data will save us",
+      "summary": "AI agents are moving beyond coding assistants and customer service chatbots into the operational core of the enterprise. The ROI is promising, but autonomy without alignment is a recipe for chaos. Bus",
+      "url": "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-20T15:00:00+00:00",
+      "scrapedAt": "2026-01-28T08:40:28.653239+00:00"
+    },
+    {
+      "id": "bee9e2719cef",
+      "title": "OpenAI’s latest product lets you vibe code science",
+      "summary": "OpenAI just revealed what its new in-house team, OpenAI for Science , has been up to. The firm has released a free LLM-powered tool for scientists called Prism , which embeds ChatGPT in a text editor ",
+      "url": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T18:00:43+00:00",
+      "scrapedAt": "2026-01-28T08:40:28.637920+00:00"
+    },
     {
       "id": "41ea381671df",
       "title": "High-Fidelity Longitudinal Patient Simulation Using Real-World Data",
@@ -1209,208 +1413,6 @@
       "category": "product",
       "publishedAt": "2026-01-21T15:00:00+00:00",
       "scrapedAt": "2026-01-22T08:40:36.599739+00:00"
-    },
-    {
-      "id": "ee750791bf55",
-      "title": "MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?",
-      "summary": "arXiv:2601.11559v1 Announce Type: new Abstract: Despite rare diseases affecting 1 in 10 Americans, their differential diagnosis remains challenging. Due to their impressive recall abilities, large lan",
-      "url": "https://arxiv.org/abs/2601.11559",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-21T00:00:00-05:00",
-      "scrapedAt": "2026-01-21T08:39:33.593156+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.900438+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.891605+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.884418+00:00"
-    },
-    {
-      "id": "9d281e8500af",
-      "title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT",
-      "summary": "Venture capital firms have historically avoided backing competing companies in the same sector, preferring to place their bets on a single winner. Yet here's Sequoia, already invested in both OpenAI a",
-      "url": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-18T22:15:17+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.559660+00:00"
-    },
-    {
-      "id": "c38211e40eb5",
-      "title": "Indian vibe-coding startup Emergent triples valuation to $300M with $70M fundraise",
-      "summary": "The funding comes as the startup claims it has scaled ARR to $50 million and is targeting $100 million by April 2026.",
-      "url": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-20T13:50:09+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.559372+00:00"
-    },
-    {
-      "id": "08ff47798b61",
-      "title": "Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
-      "summary": "Humans&, a startup that believes AI should empower people, not replace them, has reportedly raised a $480 million seed round at a $4.48 billion valuation.",
-      "url": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-20T16:00:57+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.559271+00:00"
-    },
-    {
-      "id": "836e5787601d",
-      "title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
-      "summary": "Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be ded",
-      "url": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-20T22:10:41+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.541915+00:00"
-    },
-    {
-      "id": "02824661b381",
-      "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
-      "summary": "The feature is designed to stop problematic content from being delivered to users under the age of 18.",
-      "url": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-20T23:29:56+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.541826+00:00"
-    },
-    {
-      "id": "b6bcc06b7730",
-      "title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
-      "summary": "Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a",
-      "url": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-21T01:39:58+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.541750+00:00"
-    },
-    {
-      "id": "c7af6c68ba5c",
-      "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
-      "summary": "Bolna said that 75% of its revenue is coming from self-serve customers.",
-      "url": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-21T02:00:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.541652+00:00"
-    },
-    {
-      "id": "5641131fd19f",
-      "title": "Our approach to age prediction",
-      "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
-      "url": "https://openai.com/index/our-approach-to-age-prediction",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-20T00:00:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.384801+00:00"
-    },
-    {
-      "id": "89b0ac10d29b",
-      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
-      "summary": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
-      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-20T05:45:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.384730+00:00"
-    },
-    {
-      "id": "b5479ebcde18",
-      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
-      "summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
-      "url": "https://openai.com/index/cisco",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-20T11:00:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.384658+00:00"
-    },
-    {
-      "id": "64f66092cc82",
-      "title": "Stargate Community",
-      "summary": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
-      "url": "https://openai.com/index/stargate-community",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-20T19:00:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.384582+00:00"
-    },
-    {
-      "id": "13691a2ce123",
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
-      "url": "https://openai.com/index/horizon-1000",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-20T21:00:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:32.384495+00:00"
-    },
-    {
-      "id": "6e2a72463300",
-      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
-      "summary": "Today, we’re introducing an enhanced version of Veo 3.1 “Ingredients to Video.”",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-13T17:00:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:31.901597+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo-3-1_keyword_blog_header_209.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "95c475fde4ad",
-      "title": "Building a community-led future for AI in film with Sundance Institute",
-      "summary": "A look at how Sundance Institute will build a community-led ecosystem for AI education and empowerment, to support creatives.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-20T20:30:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:31.901097+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Building_a_community-led_future.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "f2497feb4b5e",
-      "title": "The UK government is backing AI that can run its own lab experiments",
-      "summary": "A number of startups and universities that are building “AI scientists” to design and run experiments in the lab, including robot biologists and chemists, have just won extra funding from the UK gover",
-      "url": "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-20T13:28:21+00:00",
-      "scrapedAt": "2026-01-21T08:39:31.645822+00:00"
-    },
-    {
-      "id": "651872a082d7",
-      "title": "The era of agentic chaos and how data will save us",
-      "summary": "AI agents are moving beyond coding assistants and customer service chatbots into the operational core of the enterprise. The ROI is promising, but autonomy without alignment is a recipe for chaos. Bus",
-      "url": "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-20T15:00:00+00:00",
-      "scrapedAt": "2026-01-21T08:39:31.644742+00:00"
     }
   ]
 }
