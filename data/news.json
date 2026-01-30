@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-01-29T08:51:35.256457+00:00",
+  "lastUpdated": "2026-01-30T08:50:41.394616+00:00",
   "articles": [
+    {
+      "id": "904324d998b5",
+      "title": "India is teaching Google how AI in education can scale",
+      "summary": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
+      "url": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T15:29:31+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.256134+00:00"
+    },
+    {
+      "id": "c475207b48ff",
+      "title": "Music publishers sue Anthropic for $3B over ‘flagrant piracy’ of 20,000 works",
+      "summary": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
+      "url": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T16:30:29+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.256066+00:00"
+    },
+    {
+      "id": "8807311fdd5e",
+      "title": "OpenAI’s Sora app is struggling after its stellar launch",
+      "summary": "New data suggests the app is seeing declines in both app downloads and consumer spending, as the early hype about the AI video social network wears off.",
+      "url": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T16:48:44+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.255979+00:00"
+    },
+    {
+      "id": "664b87b36ed9",
+      "title": "I built marshmallow castles in Google’s new AI-world generator",
+      "summary": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano",
+      "url": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T17:29:11+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.255910+00:00"
+    },
+    {
+      "id": "9a8080eff042",
+      "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+      "summary": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
+      "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T18:58:07+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.255830+00:00"
+    },
+    {
+      "id": "1a5c0e67f101",
+      "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+      "summary": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+      "url": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T20:06:56+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.255758+00:00"
+    },
+    {
+      "id": "6ce5fb18223d",
+      "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+      "summary": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
+      "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T22:11:09+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.255688+00:00"
+    },
+    {
+      "id": "8f0eea186e84",
+      "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+      "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+      "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T22:47:42+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.255616+00:00"
+    },
+    {
+      "id": "480fa6dd21f7",
+      "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
+      "summary": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
+      "url": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T23:51:17+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.255536+00:00"
+    },
+    {
+      "id": "6f26b8f0647a",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, t",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-29T00:00:00+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.180578+00:00"
+    },
+    {
+      "id": "db33a82befb3",
+      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "summary": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
+      "url": "https://openai.com/index/taisei",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-29T00:00:00+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.180492+00:00"
+    },
+    {
+      "id": "6a15bb49ecb1",
+      "title": "Inside OpenAI’s in-house data agent",
+      "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "url": "https://openai.com/index/inside-our-in-house-data-agent",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-29T10:00:00+00:00",
+      "scrapedAt": "2026-01-30T08:49:46.180407+00:00"
+    },
+    {
+      "id": "1c3efbc3d0f3",
+      "title": "Learners and educators are AI’s new “super users”",
+      "summary": "Google’s 2025 Our Life with AI survey found people are using AI tools to learn new things.",
+      "url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-15T11:00:00+00:00",
+      "scrapedAt": "2026-01-30T08:49:45.687596+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/aiineducatiuonJan2026_hero_v2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "0976a6e65ecb",
+      "title": "How Nano Banana got its name",
+      "summary": "We’re peeling back the origin story of Nano Banana, one of Google DeepMind’s most popular models.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-15T16:06:00+00:00",
+      "scrapedAt": "2026-01-30T08:49:45.687505+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NanoBananaName_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "319ee5aa6ade",
+      "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+      "summary": "Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.",
+      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-22T16:00:00+00:00",
+      "scrapedAt": "2026-01-30T08:49:45.687321+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pcontext_sizzle_thumbnail.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "01db31c0f930",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "summary": "Google AI Ultra subscribers in the U.S. can now try out Project Genie.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-29T17:00:00+00:00",
+      "scrapedAt": "2026-01-30T08:49:45.686947+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__project-genie__hero-fi.max-600x600.format-webp_d7CisM6.webp"
+    },
+    {
+      "id": "f9214a138ea4",
+      "title": "Yann LeCun’s new venture is a contrarian bet against large language models",
+      "summary": "Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the industry’s current obsession with large language models",
+      "url": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T10:00:00+00:00",
+      "scrapedAt": "2026-01-30T08:49:45.436956+00:00"
+    },
+    {
+      "id": "ef11a4734383",
+      "title": "“Dr. Google” had its issues. Can ChatGPT Health do better?",
+      "summary": "For the past two decades, there’s been a clear first step for anyone who starts experiencing new medical symptoms: Look them up online. The practice was so common that it gained the pejorative moniker",
+      "url": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T17:38:09+00:00",
+      "scrapedAt": "2026-01-30T08:49:45.434043+00:00"
+    },
+    {
+      "id": "432c89d00a25",
+      "title": "DHS is using Google and Adobe AI to make videos",
+      "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have",
+      "url": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T18:57:11+00:00",
+      "scrapedAt": "2026-01-30T08:49:45.421889+00:00"
+    },
+    {
+      "id": "8ff1ee9780bc",
+      "title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
+      "summary": "Everyone is panicking because AI is very bad; everyone is panicking because AI is very good. It’s just that you never know which one you’re going to get. Grok is a pornography machine. Claude Code can",
+      "url": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T20:56:23+00:00",
+      "scrapedAt": "2026-01-30T08:49:45.420743+00:00"
+    },
     {
       "id": "1bd5d5f60cc3",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -1210,209 +1414,6 @@
       "category": "product",
       "publishedAt": "2026-01-23T10:00:00+00:00",
       "scrapedAt": "2026-01-24T08:34:24.787831+00:00"
-    },
-    {
-      "id": "3a36c391bf97",
-      "title": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
-      "summary": "arXiv:2601.14456v1 Announce Type: new Abstract: Recent work shows that fine-tuned Large Language Models (LLMs) can achieve high valid plan rates on PDDL planning tasks. However, it remains unclear whe",
-      "url": "https://arxiv.org/abs/2601.14456",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-22T00:00:00-05:00",
-      "scrapedAt": "2026-01-23T08:38:32.523664+00:00"
-    },
-    {
-      "id": "82e36d50ec2f",
-      "title": "VisTIRA: Closing the Image-Text Modality Gap in Visual Math Reasoning via Structured Tool Integration",
-      "summary": "arXiv:2601.14440v1 Announce Type: new Abstract: Vision-language models (VLMs) lag behind text-only language models on mathematical reasoning when the same problems are presented as images rather than ",
-      "url": "https://arxiv.org/abs/2601.14440",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-22T00:00:00-05:00",
-      "scrapedAt": "2026-01-23T08:38:32.523560+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-01-23T08:38:32.037227+00:00"
-    },
-    {
-      "id": "8d89ce735f2b",
-      "title": "Google snags team behind AI voice startup Hume AI",
-      "summary": "Google has hired the CEO and top engineer behind voice AI startup Hume AI, signaling that voice is increasingly becoming the preferred interface over screens.",
-      "url": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T15:12:51+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.737996+00:00"
-    },
-    {
-      "id": "25e9306527d7",
-      "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
-      "summary": "The company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts and the model’s responses.",
-      "url": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T16:00:00+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.737918+00:00"
-    },
-    {
-      "id": "78770bacbac6",
-      "title": "Google now offers free SAT practice exams, powered by Gemini",
-      "summary": "Students can prompt Gemini by typing \"I want to take a practice SAT test,” and the AI will provide them with a free practice exam. Gemini then analyzes the results, highlighting strengths and identify",
-      "url": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T18:27:36+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.737826+00:00"
-    },
-    {
-      "id": "ac5bb0312af6",
-      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
-      "summary": "Humans&, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
-      "url": "https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T19:24:13+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.737696+00:00"
-    },
-    {
-      "id": "ebd151673db9",
-      "title": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
-      "summary": "Google DeepMind CEO Demis Hassabis says the tech giant isn't pressuring him to insert ads into the AI chatbot experience.",
-      "url": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T19:41:01+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.669688+00:00"
-    },
-    {
-      "id": "f83fa8b669a2",
-      "title": "Are AI agents ready for the workplace? A new benchmark raises doubts",
-      "summary": "New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed.",
-      "url": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T21:42:18+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.669632+00:00"
-    },
-    {
-      "id": "52356e39fd6a",
-      "title": "Inference startup Inferact lands $150M to commercialize vLLM",
-      "summary": "The seed round values the newly formed startup at $800 million.",
-      "url": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T22:42:00+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.669572+00:00"
-    },
-    {
-      "id": "44310b60e0d0",
-      "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
-      "summary": "The five-year-old-startup powers OpenAI’s ChatGPT voice mode and raised a $100 million round led by Index Ventures.",
-      "url": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T22:44:29+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.669510+00:00"
-    },
-    {
-      "id": "5d4e164a25e1",
-      "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
-      "summary": "OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company.",
-      "url": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-23T00:52:33+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.669442+00:00"
-    },
-    {
-      "id": "4a052a6bcb87",
-      "title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
-      "summary": "Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia.",
-      "url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-23T02:29:24+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.669370+00:00"
-    },
-    {
-      "id": "b746527079a4",
-      "title": "Inside Praktika's conversational approach to language learning",
-      "summary": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
-      "url": "https://openai.com/index/praktika",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-22T05:00:00+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.523323+00:00"
-    },
-    {
-      "id": "93ae90489e60",
-      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
-      "summary": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
-      "url": "https://openai.com/index/scaling-postgresql",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-22T12:00:00+00:00",
-      "scrapedAt": "2026-01-23T08:38:31.523248+00:00"
-    },
-    {
-      "id": "1c3efbc3d0f3",
-      "title": "Learners and educators are AI’s new “super users”",
-      "summary": "Google’s 2025 Our Life with AI survey found people are using AI tools to learn new things.",
-      "url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-15T11:00:00+00:00",
-      "scrapedAt": "2026-01-23T08:38:30.438188+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/aiineducatiuonJan2026_hero_v2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "0976a6e65ecb",
-      "title": "How Nano Banana got its name",
-      "summary": "We’re peeling back the origin story of Nano Banana, one of Google DeepMind’s most popular models.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/how-nano-banana-got-its-name/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-15T16:06:00+00:00",
-      "scrapedAt": "2026-01-23T08:38:30.438099+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NanoBananaName_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "319ee5aa6ade",
-      "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
-      "summary": "Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.",
-      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-22T16:00:00+00:00",
-      "scrapedAt": "2026-01-23T08:38:30.437918+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pcontext_sizzle_thumbnail.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "f9214a138ea4",
-      "title": "Yann LeCun’s new venture is a contrarian bet against large language models",
-      "summary": "Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the industry’s current obsession with large language models",
-      "url": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T10:00:00+00:00",
-      "scrapedAt": "2026-01-23T08:38:30.134347+00:00"
-    },
-    {
-      "id": "ef11a4734383",
-      "title": "“Dr. Google” had its issues. Can ChatGPT Health do better?",
-      "summary": "For the past two decades, there’s been a clear first step for anyone who starts experiencing new medical symptoms: Look them up online. The practice was so common that it gained the pejorative moniker",
-      "url": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T17:38:09+00:00",
-      "scrapedAt": "2026-01-23T08:38:30.131685+00:00"
     }
   ]
 }
