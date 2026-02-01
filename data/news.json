@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-01-31T08:39:01.668997+00:00",
+  "lastUpdated": "2026-02-01T08:40:57.033087+00:00",
   "articles": [
+    {
+      "id": "1b9ddedea6ec",
+      "title": "Show HN: OpenJuris – AI legal research with citations from primary sources",
+      "summary": "We built tooling that connects LLMs directly to case law databases with citation verification to address hallucination in legal AI. Think of it as giving the model access to actual legal sources inste",
+      "url": "https://openjuris.org/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-02-01T02:48:34+00:00",
+      "scrapedAt": "2026-02-01T08:40:03.025023+00:00"
+    },
+    {
+      "id": "21fe10d12655",
+      "title": "CPython Internals Explained",
+      "summary": "Score: 194 points",
+      "url": "https://github.com/zpoint/CPython-Internals",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-27T14:07:37+00:00",
+      "scrapedAt": "2026-02-01T08:40:02.767651+00:00"
+    },
+    {
+      "id": "52c08e59ad1c",
+      "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
+      "summary": "I would like to share Minimal - Its a open source collection of hardened container images build using Apko, Melange and Wolfi packages. The images are build daily, checked for updates and resolved as ",
+      "url": "https://github.com/rtvkiz/minimal",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-31T19:58:00+00:00",
+      "scrapedAt": "2026-02-01T08:40:02.630069+00:00"
+    },
+    {
+      "id": "6ac26fa0bd64",
+      "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+      "summary": "Score: 137 points",
+      "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-31T21:14:02+00:00",
+      "scrapedAt": "2026-02-01T08:40:02.178008+00:00"
+    },
+    {
+      "id": "e6aecc5af04e",
+      "title": "In praise of –dry-run",
+      "summary": "Score: 149 points",
+      "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-01-31T20:42:13+00:00",
+      "scrapedAt": "2026-02-01T08:40:02.148061+00:00"
+    },
+    {
+      "id": "e0b869d9b570",
+      "title": "List animals until failure",
+      "summary": "Score: 131 points",
+      "url": "https://rose.systems/animalist/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-02-01T01:03:23+00:00",
+      "scrapedAt": "2026-02-01T08:40:02.127812+00:00"
+    },
+    {
+      "id": "a1775e53c054",
+      "title": "Moltbot Is Taking Over Silicon Valley",
+      "summary": "People are letting the viral AI assistant formerly known as Clawdbot run their lives, regardless of the privacy concerns.",
+      "url": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-28T19:01:04+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899827+00:00"
+    },
+    {
+      "id": "89351923bcba",
+      "title": "The Doomsday Clock Is Now 85 Seconds to Midnight. Here’s What That Means",
+      "summary": "Catastrophic risks are increasing, cooperation is declining, and swift action is needed from global leaders to correct course.",
+      "url": "https://www.wired.com/story/the-doomsday-clock-is-now-85-seconds-to-midnight-heres-what-that-means/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-28T20:09:07+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899760+00:00"
+    },
+    {
+      "id": "c24ac9fbd48a",
+      "title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
+      "summary": "ICE has been using an AI-powered Palantir system to summarize tips sent to its tip line since last spring, according to a newly released Homeland Security document.",
+      "url": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-28T21:40:18+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899696+00:00"
+    },
+    {
+      "id": "b84349cf14b0",
+      "title": "Data Centers Are Driving a US Gas Boom",
+      "summary": "Gas projects in the US pipeline explicitly linked to data centers increased by almost 25 times over the past two years, according to new research from Global Energy Monitor.",
+      "url": "https://www.wired.com/story/data-centers-are-driving-a-us-gas-boom/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T00:00:00+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899623+00:00"
+    },
+    {
+      "id": "b16add9ee739",
+      "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
+      "summary": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company’s stuffed animals.",
+      "url": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T17:00:00+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899535+00:00"
+    },
+    {
+      "id": "591b60f81b99",
+      "title": "A Yann LeCun–Linked Startup Charts a New Path to AGI",
+      "summary": "As the world’s largest companies pour hundreds of billions of dollars into large language models, San Francisco-based Logical Intelligence is trying something different in pursuit of AI that can mimic",
+      "url": "https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T19:00:00+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899463+00:00"
+    },
+    {
+      "id": "71d4ad0c6b05",
+      "title": "AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment",
+      "summary": "Across Instagram and Facebook, AI-generated videos show people of color putting ICE agents in their place. Are they cathartic or just adding to a stew of misinformation?",
+      "url": "https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T19:07:14+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899388+00:00"
+    },
+    {
+      "id": "a0def16ba81b",
+      "title": "‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype",
+      "summary": "On this episode of Uncanny Valley, we dive into the news that's held our attention this week: ICE activity as it's been unfolding in Minnesota.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-29T22:19:59+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899318+00:00"
+    },
+    {
+      "id": "d875752dccd9",
+      "title": "I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click",
+      "summary": "Auto Browse can shop for clothes, plan a trip, and buy tickets for you. Or at least, that’s the idea.",
+      "url": "https://www.wired.com/story/google-chrome-auto-browse-hands-on/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-30T20:41:49+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899246+00:00"
+    },
+    {
+      "id": "3a9a6856840b",
+      "title": "Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims",
+      "summary": "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China executes 11 scam compound bosses, a $40 million crypto theft has an unexpected alleged culprit, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-01-31T11:30:00+00:00",
+      "scrapedAt": "2026-02-01T08:40:01.899164+00:00"
+    },
+    {
+      "id": "f3e0bc60a817",
+      "title": "ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia",
+      "summary": "ChatGPT is using Grokipedia as a source , and it's not the only AI tool to do so. Citations to Elon Musk's AI-generated encyclopedia are starting to appear in answers from Google's AI Overviews, AI Mo",
+      "url": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-31T08:00:00-05:00",
+      "scrapedAt": "2026-02-01T08:40:01.787165+00:00"
+    },
+    {
+      "id": "74b1efde3a2e",
+      "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
+      "summary": "SpaceX filed a request with the FCC on Friday seeking approval to put a constellation of 1 million data center satellites into orbit. While the FCC is unlikely to approve a network that expansive, Spa",
+      "url": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-31T14:38:36-05:00",
+      "scrapedAt": "2026-02-01T08:40:01.786697+00:00"
+    },
+    {
+      "id": "66789b855ae8",
+      "title": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
+      "summary": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would",
+      "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-01-31T18:37:56-05:00",
+      "scrapedAt": "2026-02-01T08:40:01.786110+00:00"
+    },
+    {
+      "id": "f87410448391",
+      "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+      "summary": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
+      "url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-01-31T17:54:12+00:00",
+      "scrapedAt": "2026-02-01T08:40:00.975126+00:00"
+    },
     {
       "id": "025fd53d02db",
       "title": "Mark Zuckerberg is all in on AI as the new social media",
@@ -1211,206 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-01-25T23:20:36+00:00",
       "scrapedAt": "2026-01-26T08:41:20.090679+00:00"
-    },
-    {
-      "id": "002d286527d0",
-      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
-      "summary": "Score: 43 points",
-      "url": "https://arxiv.org/abs/2601.05047",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-25T02:48:36+00:00",
-      "scrapedAt": "2026-01-25T08:34:55.257686+00:00"
-    },
-    {
-      "id": "df403e38edb5",
-      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-      "summary": "Score: 332 points",
-      "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-01-25T00:14:40+00:00",
-      "scrapedAt": "2026-01-25T08:34:55.041922+00:00"
-    },
-    {
-      "id": "1616b46d2495",
-      "title": "Micron Megafab Project Faces a New Hurdle as Activists Seek a Benefits Deal",
-      "summary": "Activists are demanding a way to hold the memory-chip maker accountable to its promises to protect the environment and embrace communities of color in central New York.",
-      "url": "https://www.wired.com/story/micron-chip-fab-community-benefits-agreement/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-21T16:00:00+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.802583+00:00"
-    },
-    {
-      "id": "84e32d9cbd62",
-      "title": "The US and China Are Collaborating More Closely on AI Than You Think",
-      "summary": "WIRED analyzed more than 5,000 papers from NeurIPS using OpenAI’s Codex to understand the areas where the US and China actually work together on AI research.",
-      "url": "https://www.wired.com/story/us-china-collaboration-neurips-papers/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-21T19:00:00+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.802516+00:00"
-    },
-    {
-      "id": "6609e498efda",
-      "title": "Livestream: Welcome to the Chinese Century",
-      "summary": "Watch our livestream on China’s dominance, influence, and how it is rewriting the future.",
-      "url": "https://www.wired.com/story/livestream-welcome-to-the-chinese-century/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T10:35:53+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.802448+00:00"
-    },
-    {
-      "id": "cfb472387331",
-      "title": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to ‘Humanize’ Chatbots",
-      "summary": "The web’s best resource for spotting AI writing has ironically become a manual for AI models to hide it.",
-      "url": "https://www.wired.com/story/wikipedia-group-made-guide-to-detect-ai-writing-now-a-plug-in-uses-it-to-humanize-chatbots/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T12:00:00+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.802381+00:00"
-    },
-    {
-      "id": "3d2abb098d5e",
-      "title": "Google Nabs Top Talent From AI Voice Startup Hume AI",
-      "summary": "Hume AI’s CEO, Alan Cowen, will join Google DeepMind along with several top engineers as part of a major licensing deal.",
-      "url": "https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T12:00:00+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.802313+00:00"
-    },
-    {
-      "id": "72324d49905e",
-      "title": "How Claude Code Is Reshaping Software—and Anthropic",
-      "summary": "WIRED spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.",
-      "url": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T19:00:00+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.802243+00:00"
-    },
-    {
-      "id": "7fe561ff19ee",
-      "title": "AI-Powered Disinformation Swarms Are Coming for Democracy",
-      "summary": "Advances in artificial intelligence are creating a perfect storm for those seeking to spread disinformation at unprecedented speed and scale. And it’s virtually impossible to detect.",
-      "url": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T19:00:00+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.802165+00:00"
-    },
-    {
-      "id": "1215fab6bd90",
-      "title": "The Math on AI Agents Doesn’t Add Up",
-      "summary": "A research paper suggests AI agents are mathematically doomed to fail. The industry doesn’t agree.",
-      "url": "https://www.wired.com/story/ai-agents-math-doesnt-add-up/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-23T16:00:00+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.802053+00:00"
-    },
-    {
-      "id": "566902f3449b",
-      "title": "‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort",
-      "summary": "On this episode of Uncanny Valley, our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-23T22:26:01+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.801979+00:00"
-    },
-    {
-      "id": "55d284e9fac8",
-      "title": "Gear News of the Week: Apple’s AI Wearable and a Phone That Can Boot Android, Linux, and Windows",
-      "summary": "Plus: Asus exits the smartphone market, and Sony partners with TCL on TVs.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-01-24T11:00:00+00:00",
-      "scrapedAt": "2026-01-25T08:34:54.801899+00:00"
-    },
-    {
-      "id": "e6d6229b5059",
-      "title": "Why nobody&#8217;s stopping Grok",
-      "summary": "Today’s episode of Decoder is about X, Grok, and Elon Musk. By now we’re several weeks into one of the worst, most upsetting, and most stupidly irresponsible AI controversies in the short history of g",
-      "url": "https://www.theverge.com/podcast/865275/grok-deepfake-undressing-elon-musk-content-moderation",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T11:45:00-05:00",
-      "scrapedAt": "2026-01-25T08:34:54.680827+00:00"
-    },
-    {
-      "id": "8e3d89fb3187",
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "summary": "Developers have been comparing the strengths and weaknesses of Anthropic's Claude Code, Anysphere's Cursor, and Microsoft's GitHub Copilot for months now, looking for a winner. While no individual AI ",
-      "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T12:00:00-05:00",
-      "scrapedAt": "2026-01-25T08:34:54.678923+00:00"
-    },
-    {
-      "id": "727ab8876383",
-      "title": "Sen. Markey questions OpenAI about ‘deceptive advertising’ in ChatGPT",
-      "summary": "Sen. Ed Markey (D-MA) is pressing OpenAI about its move to bring ads to ChatGPT, and is asking several other companies whether they have similar plans. In letters to the CEOs of OpenAI , Anthropic, Go",
-      "url": "https://www.theverge.com/news/865854/senator-ed-markey-ai-companies-chatbots-advertising",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T16:30:00-05:00",
-      "scrapedAt": "2026-01-25T08:34:54.678569+00:00"
-    },
-    {
-      "id": "35f8f9c8b155",
-      "title": "Gemini with Personal Intelligence is awfully familiar",
-      "summary": "I respect Gemini using the royal “we” here. By lots of metrics, Gemini is winning . It has raced ahead of OpenAI, become scarily good at creating convincing imagery , and even won Apple's business . S",
-      "url": "https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-24T08:00:00-05:00",
-      "scrapedAt": "2026-01-25T08:34:54.675813+00:00"
-    },
-    {
-      "id": "3a71d4367884",
-      "title": "Get ready for the AI ad-pocalypse",
-      "summary": "Of course ad agencies love AI commercials, this Kalshi ad only cost $2,000 to make. I'll confess, with no shame whatsoever, that I really love ads. Artsy ones, funny ones, weird ones, emotional ones -",
-      "url": "https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-24T10:00:00-05:00",
-      "scrapedAt": "2026-01-25T08:34:54.675309+00:00"
-    },
-    {
-      "id": "214d18b5b3c3",
-      "title": "A new test for AI labs: Are you even trying to make money?",
-      "summary": "It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.",
-      "url": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-24T17:00:00+00:00",
-      "scrapedAt": "2026-01-25T08:34:53.851272+00:00"
-    },
-    {
-      "id": "d2c16d13c1b0",
-      "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
-      "summary": "Sparkli said that education systems often fall behind in teaching modern concepts. The company wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating",
-      "url": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-24T18:21:21+00:00",
-      "scrapedAt": "2026-01-25T08:34:53.851192+00:00"
-    },
-    {
-      "id": "996bdf0af00d",
-      "title": "Tech CEOs boast and bicker about AI at Davos",
-      "summary": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
-      "url": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-24T20:00:46+00:00",
-      "scrapedAt": "2026-01-25T08:34:53.851070+00:00"
     }
   ]
 }
