@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-02-01T08:40:57.033087+00:00",
+  "lastUpdated": "2026-02-02T08:54:29.331601+00:00",
   "articles": [
+    {
+      "id": "b1a9b0dfb66d",
+      "title": "FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation",
+      "summary": "arXiv:2601.22204v1 Announce Type: new Abstract: Federated learning (FL) encounters substantial challenges due to heterogeneity, leading to gradient noise, client drift, and partial client participatio",
+      "url": "https://arxiv.org/abs/2601.22204",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:37.049405+00:00"
+    },
+    {
+      "id": "f2af25f040ff",
+      "title": "Neural Signals Generate Clinical Notes in the Wild",
+      "summary": "arXiv:2601.22197v1 Announce Type: new Abstract: Generating clinical reports that summarize abnormal patterns, diagnostic findings, and clinical interpretations from long-term EEG recordings remains la",
+      "url": "https://arxiv.org/abs/2601.22197",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:37.049282+00:00"
+    },
+    {
+      "id": "e1f6f65f9c92",
+      "title": "Multitask Learning for Earth Observation Data Classification with Hybrid Quantum Network",
+      "summary": "arXiv:2601.22195v1 Announce Type: new Abstract: Quantum machine learning (QML) has gained increasing attention as a potential solution to address the challenges of computation requirements in the futu",
+      "url": "https://arxiv.org/abs/2601.22195",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:37.049154+00:00"
+    },
+    {
+      "id": "17b97065fb04",
+      "title": "Attention Isn't All You Need for Emotion Recognition:Domain Features Outperform Transformers on the EAV Dataset",
+      "summary": "arXiv:2601.22161v1 Announce Type: new Abstract: We present a systematic study of multimodal emotion recognition using the EAV dataset, investigating whether complex attention mechanisms improve perfor",
+      "url": "https://arxiv.org/abs/2601.22161",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:37.048990+00:00"
+    },
+    {
+      "id": "ba59f9b74557",
+      "title": "Controllable Information Production",
+      "summary": "arXiv:2601.22449v1 Announce Type: new Abstract: Intrinsic Motivation (IM) is a paradigm for generating intelligent behavior without external utilities. The existing information-theoretic methods for I",
+      "url": "https://arxiv.org/abs/2601.22449",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.708552+00:00"
+    },
+    {
+      "id": "a182d192c89d",
+      "title": "Anytime Safe PAC Efficient Reasoning",
+      "summary": "arXiv:2601.22446v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have demonstrated remarkable performance on complex tasks but suffer from high computational costs and latency. While sele",
+      "url": "https://arxiv.org/abs/2601.22446",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.708454+00:00"
+    },
+    {
+      "id": "43ccda9c7eea",
+      "title": "When LLM meets Fuzzy-TOPSIS for Personnel Selection through Automated Profile Analysis",
+      "summary": "arXiv:2601.22433v1 Announce Type: new Abstract: In this highly competitive employment environment, the selection of suitable personnel is essential for organizational success. This study presents an a",
+      "url": "https://arxiv.org/abs/2601.22433",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.708347+00:00"
+    },
+    {
+      "id": "44ae5997bf68",
+      "title": "AI-Enabled Waste Classification as a Data-Driven Decision Support Tool for Circular Economy and Urban Sustainability",
+      "summary": "arXiv:2601.22418v1 Announce Type: new Abstract: Efficient waste sorting is crucial for enabling circular-economy practices and resource recovery in smart cities. This paper evaluates both traditional ",
+      "url": "https://arxiv.org/abs/2601.22418",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.708209+00:00"
+    },
+    {
+      "id": "e5fbbf7d6411",
+      "title": "Semi-Autonomous Mathematics Discovery with Gemini: A Case Study on the Erd\\H{o}s Problems",
+      "summary": "arXiv:2601.22401v1 Announce Type: new Abstract: We present a case study in semi-autonomous mathematics discovery, using Gemini to systematically evaluate 700 conjectures labeled 'Open' in Bloom's Erd\\",
+      "url": "https://arxiv.org/abs/2601.22401",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.708081+00:00"
+    },
+    {
+      "id": "76bc0d8dc6a5",
+      "title": "Learning Provably Correct Distributed Protocols Without Human Knowledge",
+      "summary": "arXiv:2601.22369v1 Announce Type: new Abstract: Provably correct distributed protocols, which are a critical component of modern distributed systems, are highly challenging to design and have often re",
+      "url": "https://arxiv.org/abs/2601.22369",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.707982+00:00"
+    },
+    {
+      "id": "2a69bf7d2f66",
+      "title": "Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice?",
+      "summary": "arXiv:2601.22329v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly positioned as decision engines for hiring, healthcare, and economic judgment, yet real-world human judgmen",
+      "url": "https://arxiv.org/abs/2601.22329",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.707869+00:00"
+    },
+    {
+      "id": "f9285a007fb3",
+      "title": "Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents",
+      "summary": "arXiv:2601.22311v1 Announce Type: new Abstract: Large language model (LLM)-based agents exhibit strong step-by-step reasoning capabilities over short horizons, yet often fail to sustain coherent behav",
+      "url": "https://arxiv.org/abs/2601.22311",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.707743+00:00"
+    },
+    {
+      "id": "09848cbbe97a",
+      "title": "The Six Sigma Agent: Achieving Enterprise-Grade Reliability in LLM Systems Through Consensus-Driven Decomposed Execution",
+      "summary": "arXiv:2601.22290v1 Announce Type: new Abstract: Large Language Models demonstrate remarkable capabilities yet remain fundamentally probabilistic, presenting critical reliability challenges for enterpr",
+      "url": "https://arxiv.org/abs/2601.22290",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.707619+00:00"
+    },
+    {
+      "id": "000600aa3064",
+      "title": "JAF: Judge Agent Forest",
+      "summary": "arXiv:2601.22269v1 Announce Type: new Abstract: Judge agents are fundamental to agentic AI frameworks: they provide automated evaluation, and enable iterative self-refinement of reasoning processes. W",
+      "url": "https://arxiv.org/abs/2601.22269",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00-05:00",
+      "scrapedAt": "2026-02-02T08:53:36.707483+00:00"
+    },
+    {
+      "id": "9b02a1a9aecb",
+      "title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
+      "summary": "Elon Musk's reported merging of SpaceX, xAI, and Tesla harkens back to the heyday of General Electric — or maybe the robber barons of the Gilded Age.",
+      "url": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-01T15:39:08+00:00",
+      "scrapedAt": "2026-02-02T08:53:36.110517+00:00"
+    },
+    {
+      "id": "89401f105ae6",
+      "title": "India offers zero taxes through 2047 to lure global AI workloads",
+      "summary": "New Delhi's latest move comes as Amazon, Google, and Microsoft expand data center investments in India.",
+      "url": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-01T16:30:00+00:00",
+      "scrapedAt": "2026-02-02T08:53:36.110441+00:00"
+    },
+    {
+      "id": "56e44289e77e",
+      "title": "Indonesia ‘conditionally’ lifts ban on Grok",
+      "summary": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok.",
+      "url": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-01T17:20:00+00:00",
+      "scrapedAt": "2026-02-02T08:53:36.110373+00:00"
+    },
+    {
+      "id": "f4842d64f83a",
+      "title": "Why Tether’s CEO is everywhere right now",
+      "summary": "For years, Tether's CEO avoided the United States, watching from offshore as regulators circled and prosecutors investigated. Those days are over.",
+      "url": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-01T20:32:21+00:00",
+      "scrapedAt": "2026-02-02T08:53:36.110298+00:00"
+    },
+    {
+      "id": "c179a072f4f8",
+      "title": "AI layoffs or ‘AI-washing’?",
+      "summary": "How many of the companies with recent layoffs are just using AI as an excuse?",
+      "url": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-01T22:15:53+00:00",
+      "scrapedAt": "2026-02-02T08:53:36.110224+00:00"
+    },
+    {
+      "id": "fe5d7b83fb05",
+      "title": "These AI notetaking devices can help you record and transcribe your meetings",
+      "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+      "url": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T08:00:00+00:00",
+      "scrapedAt": "2026-02-02T08:53:36.110130+00:00"
+    },
     {
       "id": "1b9ddedea6ec",
       "title": "Show HN: OpenJuris – AI legal research with citations from primary sources",
@@ -1211,206 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-01-26T18:32:15+00:00",
       "scrapedAt": "2026-01-27T08:40:54.734568+00:00"
-    },
-    {
-      "id": "bdc87098ad97",
-      "title": "A Regularized Actor-Critic Algorithm for Bi-Level Reinforcement Learning",
-      "summary": "arXiv:2601.16399v1 Announce Type: new Abstract: We study a structured bi-level optimization problem where the upper-level objective is a smooth function and the lower-level problem is policy optimizat",
-      "url": "https://arxiv.org/abs/2601.16399",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:21.067751+00:00"
-    },
-    {
-      "id": "4808aa8b7284",
-      "title": "Analyzing Neural Network Information Flow Using Differential Geometry",
-      "summary": "arXiv:2601.16366v1 Announce Type: new Abstract: This paper provides a fresh view of the neural network (NN) data flow problem, i.e., identifying the NN connections that are most important for the perf",
-      "url": "https://arxiv.org/abs/2601.16366",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:21.067633+00:00"
-    },
-    {
-      "id": "b54b0c667921",
-      "title": "Efficient Gaussian process learning via subspace projections",
-      "summary": "arXiv:2601.16332v1 Announce Type: new Abstract: We propose a novel training objective for GPs constructed using lower-dimensional linear projections of the data, referred to as \\emph{projected likelih",
-      "url": "https://arxiv.org/abs/2601.16332",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:21.067496+00:00"
-    },
-    {
-      "id": "7438e69513fc",
-      "title": "Student Mental Health Screening via Fitbit Data Collected During the COVID-19 Pandemic",
-      "summary": "arXiv:2601.16324v1 Announce Type: new Abstract: College students experience many stressors, resulting in high levels of anxiety and depression. Wearable technology provides unobtrusive sensor data tha",
-      "url": "https://arxiv.org/abs/2601.16324",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:21.067404+00:00"
-    },
-    {
-      "id": "19573e3ca6de",
-      "title": "Ordering-based Causal Discovery via Generalized Score Matching",
-      "summary": "arXiv:2601.16249v1 Announce Type: new Abstract: Learning DAG structures from purely observational data remains a long-standing challenge across scientific domains. An emerging line of research leverag",
-      "url": "https://arxiv.org/abs/2601.16249",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:21.067281+00:00"
-    },
-    {
-      "id": "4ecedf056ef2",
-      "title": "An Efficient Insect-inspired Approach for Visual Point-goal Navigation",
-      "summary": "arXiv:2601.16806v1 Announce Type: new Abstract: In this work we develop a novel insect-inspired agent for visual point-goal navigation. This combines abstracted models of two insect brain structures t",
-      "url": "https://arxiv.org/abs/2601.16806",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.866826+00:00"
-    },
-    {
-      "id": "6be7861ea9de",
-      "title": "LongCat-Flash-Thinking-2601 Technical Report",
-      "summary": "arXiv:2601.16725v1 Announce Type: new Abstract: We introduce LongCat-Flash-Thinking-2601, a 560-billion-parameter open-source Mixture-of-Experts (MoE) reasoning model with superior agentic reasoning c",
-      "url": "https://arxiv.org/abs/2601.16725",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.866739+00:00"
-    },
-    {
-      "id": "033670570f69",
-      "title": "AgentsEval: Clinically Faithful Evaluation of Medical Imaging Reports via Multi-Agent Reasoning",
-      "summary": "arXiv:2601.16685v1 Announce Type: new Abstract: Evaluating the clinical correctness and reasoning fidelity of automatically generated medical imaging reports remains a critical yet unresolved challeng",
-      "url": "https://arxiv.org/abs/2601.16685",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.866610+00:00"
-    },
-    {
-      "id": "6cee4f1a480a",
-      "title": "LUMINA: Long-horizon Understanding for Multi-turn Interactive Agents",
-      "summary": "arXiv:2601.16649v1 Announce Type: new Abstract: Large language models can perform well on many isolated tasks, yet they continue to struggle on multi-turn, long-horizon agentic problems that require s",
-      "url": "https://arxiv.org/abs/2601.16649",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.866501+00:00"
-    },
-    {
-      "id": "0ef9e0aabf70",
-      "title": "LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification",
-      "summary": "arXiv:2601.16549v1 Announce Type: new Abstract: The combination of multimodal Vision-Language Models (VLMs) and Large Language Models (LLMs) opens up new possibilities for medical classification. This",
-      "url": "https://arxiv.org/abs/2601.16549",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.866381+00:00"
-    },
-    {
-      "id": "1bab2e57cb7a",
-      "title": "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
-      "summary": "arXiv:2601.16529v1 Announce Type: new Abstract: Large language models (LLMs) show promise in clinical decision support yet risk acquiescing to patient pressure for inappropriate care. We introduce Syc",
-      "url": "https://arxiv.org/abs/2601.16529",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.866247+00:00"
-    },
-    {
-      "id": "fe62d3de2571",
-      "title": "Doc2AHP: Inferring Structured Multi-Criteria Decision Models via Semantic Trees with LLMs",
-      "summary": "arXiv:2601.16479v1 Announce Type: new Abstract: While Large Language Models (LLMs) demonstrate remarkable proficiency in semantic understanding, they often struggle to ensure structural consistency an",
-      "url": "https://arxiv.org/abs/2601.16479",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.866133+00:00"
-    },
-    {
-      "id": "d45575c39733",
-      "title": "DSGym: A Holistic Framework for Evaluating and Training Data Science Agents",
-      "summary": "arXiv:2601.16344v1 Announce Type: new Abstract: Data science agents promise to accelerate discovery and insight-generation by turning data into executable analyses and findings. Yet existing data scie",
-      "url": "https://arxiv.org/abs/2601.16344",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.866014+00:00"
-    },
-    {
-      "id": "f8bdcdd501a7",
-      "title": "SemanticALLI: Caching Reasoning, Not Just Responses, in Agentic Systems",
-      "summary": "arXiv:2601.16286v1 Announce Type: new Abstract: Agentic AI pipelines suffer from a hidden inefficiency: they frequently reconstruct identical intermediate logic, such as metric normalization or chart ",
-      "url": "https://arxiv.org/abs/2601.16286",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.865884+00:00"
-    },
-    {
-      "id": "24df52ed6764",
-      "title": "When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems",
-      "summary": "arXiv:2601.16280v1 Announce Type: new Abstract: Multi-agent systems powered by large language models (LLMs) are transforming enterprise automation, yet systematic evaluation methodologies for assessin",
-      "url": "https://arxiv.org/abs/2601.16280",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00-05:00",
-      "scrapedAt": "2026-01-26T08:41:20.865760+00:00"
-    },
-    {
-      "id": "eec12141e1e9",
-      "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
-      "summary": "We’re about to get our first real look at the results of the recently announced AI partnership between Apple and Google.",
-      "url": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-25T16:56:31+00:00",
-      "scrapedAt": "2026-01-26T08:41:20.134688+00:00"
-    },
-    {
-      "id": "58426c062444",
-      "title": "Science fiction writers, Comic-Con say goodbye to AI",
-      "summary": "Some of the major players in science fiction and pop culture are taking firmer stances against generative AI.",
-      "url": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-25T21:53:42+00:00",
-      "scrapedAt": "2026-01-26T08:41:20.134606+00:00"
-    },
-    {
-      "id": "4133d8d45270",
-      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
-      "summary": "Humans&, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
-      "url": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-25T22:11:06+00:00",
-      "scrapedAt": "2026-01-26T08:41:20.134517+00:00"
-    },
-    {
-      "id": "58a51c2fe634",
-      "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
-      "summary": "Information from the conservative-leaning, AI-generated encyclopedia developed by Elon Musk’s xAI is beginning to appear in answers from ChatGPT.",
-      "url": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-25T22:35:53+00:00",
-      "scrapedAt": "2026-01-26T08:41:20.090762+00:00"
-    },
-    {
-      "id": "4982f5f29e33",
-      "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
-      "summary": "The nozzle is just the beginning – what company founder Sunny Sethi calls \"the muscle on the ground.”",
-      "url": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-25T23:20:36+00:00",
-      "scrapedAt": "2026-01-26T08:41:20.090679+00:00"
     }
   ]
 }
