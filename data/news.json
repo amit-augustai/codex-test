@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-02-02T08:54:29.331601+00:00",
+  "lastUpdated": "2026-02-03T08:50:12.139844+00:00",
   "articles": [
+    {
+      "id": "2dfb98bc25e0",
+      "title": "Scalable and Secure AI Inference in Healthcare: A Comparative Benchmarking of FastAPI and Triton Inference Server on Kubernetes",
+      "summary": "arXiv:2602.00053v1 Announce Type: new Abstract: Efficient and scalable deployment of machine learning (ML) models is a prerequisite for modern production environments, particularly within regulated do",
+      "url": "https://arxiv.org/abs/2602.00053",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-03T00:00:00-05:00",
+      "scrapedAt": "2026-02-03T08:49:15.913763+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:15.019551+00:00"
+    },
+    {
+      "id": "a510501379ca",
+      "title": "Linq raises $20M to enable AI assistants to live within messaging apps",
+      "summary": "Linq offers an API that lets companies offer their AI assistants via iMessage, RCS, and SMS.",
+      "url": "https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T14:16:13+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.817264+00:00"
+    },
+    {
+      "id": "027d80a73193",
+      "title": "Coalition demands federal Grok ban over nonconsensual sexual content",
+      "summary": "Nonprofits urge the U.S. government to suspend Grok in federal agencies after the xAI chatbot generated thousands of nonconsensual sexual images, raising national security and child safety concerns.",
+      "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T15:00:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.817198+00:00"
+    },
+    {
+      "id": "38f873eb269d",
+      "title": "Carbon Robotics built an AI model that detects and identifies plants",
+      "summary": "Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.",
+      "url": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T15:00:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.817127+00:00"
+    },
+    {
+      "id": "2479eadea93a",
+      "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
+      "summary": "Ring's Search Party feature for finding lost dogs is now available across the U.S. — even if you don't own a Ring camera.",
+      "url": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T15:33:45+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.817057+00:00"
+    },
+    {
+      "id": "b04e1823f7c2",
+      "title": "OpenAI launches new macOS app for agentic coding",
+      "summary": "OpenAI has released a new macOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
+      "url": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T18:19:31+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.816983+00:00"
+    },
+    {
+      "id": "3678b4490990",
+      "title": "Firefox will soon let you block all of its generative AI features",
+      "summary": "Starting with Firefox 148 arriving later this month, users will find a new AI controls section within the desktop browser settings.",
+      "url": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T18:34:45+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.816911+00:00"
+    },
+    {
+      "id": "e565f5acf597",
+      "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+      "summary": "Snowflake is the latest enterprise to sign multi-year deals with multiple AI companies in what could be a sign to come of a future trend.",
+      "url": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T19:09:44+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.816835+00:00"
+    },
+    {
+      "id": "e66a916a8507",
+      "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+      "summary": "The merger creates the world's most valuable private company and paves the way for Musk to try and prove out the usefulness of space-based data centers.",
+      "url": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T22:21:57+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.816728+00:00"
+    },
+    {
+      "id": "a0060c5667e9",
+      "title": "Introducing the Codex app",
+      "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+      "url": "https://openai.com/index/introducing-the-codex-app",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-02T00:00:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.695233+00:00"
+    },
+    {
+      "id": "cb03906252fb",
+      "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+      "summary": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
+      "url": "https://openai.com/index/snowflake-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-02T06:00:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.695136+00:00"
+    },
+    {
+      "id": "178c06f67976",
+      "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+      "summary": "Today, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-26T18:00:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.056900+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DUN_poster_16x9_v02.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3cd6e7bc61f5",
+      "title": "Hear more about interactive world models in our latest podcast.",
+      "summary": "The latest episode of the Google AI: Release Notes podcast focuses on Genie 3, a real-time, interactive world model. Host Logan Kilpatrick chats with Diego Rivas, Shlomi…",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/release-notes-podcast-project-genie/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-29T15:00:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.056652+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RN25_Episode_Thumbnail.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "12f40143f5b2",
+      "title": "Advancing AI benchmarking with Game Arena",
+      "summary": "We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-02T17:00:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.056456+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/kaggle_Gsmes_Hero.png"
+    },
+    {
+      "id": "a91db7797e09",
+      "title": "How we’re helping preserve the genetic information of endangered species with AI",
+      "summary": "Scientists are working to sequence the genome of every known species on Earth.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-02T18:00:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:14.056341+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Terria-Clay_Collage_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "01b7674e0b62",
+      "title": "Why chatbots are starting to check your age",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . How do tech companies check if their users are kids? This que",
+      "url": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-26T17:05:00+00:00",
+      "scrapedAt": "2026-02-03T08:49:13.664702+00:00"
+    },
+    {
+      "id": "8d740ca68856",
+      "title": "Inside OpenAI’s big play for science",
+      "summary": "In the three years since ChatGPT’s explosive debut , OpenAI’s technology has upended a remarkable range of everyday activities at home, at work, in schools—anywhere people have a browser open or a pho",
+      "url": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-26T18:32:15+00:00",
+      "scrapedAt": "2026-02-03T08:49:13.663550+00:00"
+    },
+    {
+      "id": "771ce3967507",
+      "title": "The crucial first step for designing a successful enterprise AI system",
+      "summary": "Many organizations rushed into generative AI, only to see pilots fail to deliver value . Now, companies want measurable outcomes—but how do you design for success? At Mistral AI, we partner with globa",
+      "url": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T14:20:29+00:00",
+      "scrapedAt": "2026-02-03T08:49:13.653499+00:00"
+    },
+    {
+      "id": "4dab3d5d00d8",
+      "title": "What we’ve been getting wrong about AI’s truth crisis",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . What would it take to convince you that the era of truth deca",
+      "url": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-02T18:09:57+00:00",
+      "scrapedAt": "2026-02-03T08:49:13.651547+00:00"
+    },
     {
       "id": "b1a9b0dfb66d",
       "title": "FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation",
@@ -1210,207 +1414,6 @@
       "category": "product",
       "publishedAt": "2026-01-27T18:00:43+00:00",
       "scrapedAt": "2026-01-28T08:40:28.637920+00:00"
-    },
-    {
-      "id": "41ea381671df",
-      "title": "High-Fidelity Longitudinal Patient Simulation Using Real-World Data",
-      "summary": "arXiv:2601.17310v1 Announce Type: new Abstract: Simulation is a powerful tool for exploring uncertainty. Its potential in clinical medicine is transformative and includes personalized treatment planni",
-      "url": "https://arxiv.org/abs/2601.17310",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-27T00:00:00-05:00",
-      "scrapedAt": "2026-01-27T08:40:56.436428+00:00"
-    },
-    {
-      "id": "0a1123cb7db6",
-      "title": "Implementing Tensor Logic: Unifying Datalog and Neural Reasoning via Tensor Contraction",
-      "summary": "arXiv:2601.17188v1 Announce Type: new Abstract: The unification of symbolic reasoning and neural networks remains a central challenge in artificial intelligence. Symbolic systems offer reliability and",
-      "url": "https://arxiv.org/abs/2601.17188",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-27T00:00:00-05:00",
-      "scrapedAt": "2026-01-27T08:40:56.436319+00:00"
-    },
-    {
-      "id": "b022418d763e",
-      "title": "Interpreting Agentic Systems: Beyond Model Explanations to System-Level Accountability",
-      "summary": "arXiv:2601.17168v1 Announce Type: new Abstract: Agentic systems have transformed how Large Language Models (LLMs) can be leveraged to create autonomous systems with goal-directed behaviors, consisting",
-      "url": "https://arxiv.org/abs/2601.17168",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-27T00:00:00-05:00",
-      "scrapedAt": "2026-01-27T08:40:56.436191+00:00"
-    },
-    {
-      "id": "9085d7a4bcb4",
-      "title": "Online parameter estimation for the Crazyflie quadcopter through an EM algorithm",
-      "summary": "arXiv:2601.17009v1 Announce Type: new Abstract: Drones are becoming more and more popular nowadays. They are small in size, low in cost, and reliable in operation. They contain a variety of sensors an",
-      "url": "https://arxiv.org/abs/2601.17009",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-01-27T00:00:00-05:00",
-      "scrapedAt": "2026-01-27T08:40:56.436049+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.996690+00:00"
-    },
-    {
-      "id": "1d012f0589c5",
-      "title": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
-      "summary": "Nvidia announced three new AI weather tools today. Together, they promise to improve the accuracy of weather forecasts while also making them accessible to more users.",
-      "url": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T14:00:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.715336+00:00"
-    },
-    {
-      "id": "36dd53278fab",
-      "title": "Only 5 days left: Over half of the first 500 TechCrunch Disrupt 2026 plus-one passes at 50% off are already gone",
-      "summary": "Register now to save up to $680 on your TechCrunch Disrupt 2026 pass and get a +1 ticket at 50% off. Offer ends this Friday, January 30.",
-      "url": "https://techcrunch.com/2026/01/26/only-5-days-left-over-half-of-the-first-500-techcrunch-disrupt-2026-plus-one-passes-at-50-off-are-already-gone/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T15:00:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.715252+00:00"
-    },
-    {
-      "id": "016d8c93f4e6",
-      "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
-      "summary": "CoreWeave will also integrate Nvidia's products across its platform, including the new Rubin chip architecture.",
-      "url": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T15:52:55+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.715175+00:00"
-    },
-    {
-      "id": "450f4184f7b9",
-      "title": "Microsoft announces powerful new chip for AI inference",
-      "summary": "Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.",
-      "url": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T16:00:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.715109+00:00"
-    },
-    {
-      "id": "705bf4a13a24",
-      "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
-      "summary": "More than 450 tech workers from companies like Google, Meta, OpenAI, Amazon, and Salesforce have signed a letter urging their CEOs to call the White House and demand ICE leave our cities.",
-      "url": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T16:26:49+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.715034+00:00"
-    },
-    {
-      "id": "c07d64bfae46",
-      "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
-      "summary": "The 12-year-old firm raised $360,360,360 for its fifth fund. And there's a reason for that number.",
-      "url": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T18:00:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.714962+00:00"
-    },
-    {
-      "id": "933b0a36c934",
-      "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
-      "summary": "Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon.",
-      "url": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T18:00:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.714894+00:00"
-    },
-    {
-      "id": "8162f166876a",
-      "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
-      "summary": "Now, founders Richard Zhang and Tyler Ruggles are tasked with a bigger challenge: showing customers and investors how this AI-powered software layer translates to real savings on an industrial scale.",
-      "url": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T19:10:03+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.714822+00:00"
-    },
-    {
-      "id": "6076a1640e2a",
-      "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
-      "summary": "The YouTubers claim Snap, like others, used AI datasets meant for research and academic use to train its AI models.",
-      "url": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T21:43:14+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.714746+00:00"
-    },
-    {
-      "id": "915b58e7ecf3",
-      "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
-      "summary": "SpotDraft now processes over 1 million contracts annually using its AI tool, with contract volumes up 173% year-over-year.",
-      "url": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T01:30:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.714664+00:00"
-    },
-    {
-      "id": "b407300fc1f5",
-      "title": "How Indeed uses AI to help evolve the job search",
-      "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
-      "url": "https://openai.com/index/indeed-maggie-hulce",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-26T00:00:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.575924+00:00"
-    },
-    {
-      "id": "178c06f67976",
-      "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
-      "summary": "Today, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-26T18:00:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:55.134136+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DUN_poster_16x9_v02.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c01524373e59",
-      "title": "Going beyond pilots with composable and sovereign AI",
-      "summary": "Today marks an inflection point for enterprise AI adoption. Despite billions invested in generative AI, only 5% of integrated pilots deliver measurable business value and nearly one in two companies a",
-      "url": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T11:59:33+00:00",
-      "scrapedAt": "2026-01-27T08:40:54.748607+00:00"
-    },
-    {
-      "id": "01b7674e0b62",
-      "title": "Why chatbots are starting to check your age",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . How do tech companies check if their users are kids? This que",
-      "url": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T17:05:00+00:00",
-      "scrapedAt": "2026-01-27T08:40:54.735888+00:00"
-    },
-    {
-      "id": "8d740ca68856",
-      "title": "Inside OpenAI’s big play for science",
-      "summary": "In the three years since ChatGPT’s explosive debut , OpenAI’s technology has upended a remarkable range of everyday activities at home, at work, in schools—anywhere people have a browser open or a pho",
-      "url": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-26T18:32:15+00:00",
-      "scrapedAt": "2026-01-27T08:40:54.734568+00:00"
     }
   ]
 }
