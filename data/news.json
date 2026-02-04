@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-02-03T08:50:12.139844+00:00",
+  "lastUpdated": "2026-02-04T08:53:56.981683+00:00",
   "articles": [
+    {
+      "id": "f9335372ac2c",
+      "title": "SayNext-Bench: Why Do LLMs Struggle with Next-Utterance Prediction?",
+      "summary": "arXiv:2602.00327v1 Announce Type: new Abstract: We explore the use of large language models (LLMs) for next-utterance prediction in human dialogue. Despite recent advances in LLMs demonstrating their ",
+      "url": "https://arxiv.org/abs/2602.00327",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-04T00:00:00-05:00",
+      "scrapedAt": "2026-02-04T08:53:00.370585+00:00"
+    },
+    {
+      "id": "d6c2b940cec2",
+      "title": "Autonomous Data Processing using Meta-Agents",
+      "summary": "arXiv:2602.00307v1 Announce Type: new Abstract: Traditional data processing pipelines are typically static and handcrafted for specific tasks, limiting their adaptability to evolving requirements. Whi",
+      "url": "https://arxiv.org/abs/2602.00307",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-04T00:00:00-05:00",
+      "scrapedAt": "2026-02-04T08:53:00.370445+00:00"
+    },
+    {
+      "id": "0a600732e905",
+      "title": "Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning",
+      "summary": "arXiv:2602.00298v1 Announce Type: new Abstract: Emergent misalignment poses risks to AI safety as language models are increasingly used for autonomous tasks. In this paper, we present a population of ",
+      "url": "https://arxiv.org/abs/2602.00298",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-04T00:00:00-05:00",
+      "scrapedAt": "2026-02-04T08:53:00.370310+00:00"
+    },
+    {
+      "id": "2033e4cc66c7",
+      "title": "Localizing and Correcting Errors for LLM-based Planners",
+      "summary": "arXiv:2602.00276v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated strong reasoning capabilities on math and coding, but frequently fail on symbolic classical planning task",
+      "url": "https://arxiv.org/abs/2602.00276",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-04T00:00:00-05:00",
+      "scrapedAt": "2026-02-04T08:53:00.370173+00:00"
+    },
+    {
+      "id": "38d03c61383e",
+      "title": "Complete Identification of Deep ReLU Neural Networks by Many-Valued Logic",
+      "summary": "arXiv:2602.00266v1 Announce Type: new Abstract: Deep ReLU neural networks admit nontrivial functional symmetries: vastly different architectures and parameters (weights and biases) can realize the sam",
+      "url": "https://arxiv.org/abs/2602.00266",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-04T00:00:00-05:00",
+      "scrapedAt": "2026-02-04T08:53:00.370066+00:00"
+    },
+    {
+      "id": "4695212ea969",
+      "title": "From Gameplay Traces to Game Mechanics: Causal Induction with Large Language Models",
+      "summary": "arXiv:2602.00190v1 Announce Type: new Abstract: Deep learning agents can achieve high performance in complex game domains without often understanding the underlying causal game mechanics. To address t",
+      "url": "https://arxiv.org/abs/2602.00190",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-04T00:00:00-05:00",
+      "scrapedAt": "2026-02-04T08:53:00.369956+00:00"
+    },
+    {
+      "id": "12537dbb1a9c",
+      "title": "Learning to Price: Interpretable Attribute-Level Models for Dynamic Markets",
+      "summary": "arXiv:2602.00188v1 Announce Type: new Abstract: Dynamic pricing in high-dimensional markets poses fundamental challenges of scalability, uncertainty, and interpretability. Existing low-rank bandit for",
+      "url": "https://arxiv.org/abs/2602.00188",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-04T00:00:00-05:00",
+      "scrapedAt": "2026-02-04T08:53:00.369832+00:00"
+    },
+    {
+      "id": "1ba08a2f07c9",
+      "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
+      "summary": "Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.",
+      "url": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-03T14:14:33+00:00",
+      "scrapedAt": "2026-02-04T08:52:59.472002+00:00"
+    },
+    {
+      "id": "eadf3951f065",
+      "title": "Fitbit founders launch AI platform to help families monitor their health",
+      "summary": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.",
+      "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-03T15:53:36+00:00",
+      "scrapedAt": "2026-02-04T08:52:59.471934+00:00"
+    },
+    {
+      "id": "1f1b7d7187f8",
+      "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+      "summary": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins.",
+      "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-03T17:14:27+00:00",
+      "scrapedAt": "2026-02-04T08:52:59.471865+00:00"
+    },
+    {
+      "id": "c34d2ab78c7b",
+      "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
+      "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
+      "url": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-03T18:00:00+00:00",
+      "scrapedAt": "2026-02-04T08:52:59.471798+00:00"
+    },
+    {
+      "id": "1a50803cc1ab",
+      "title": "Intel will start making GPUs, a market dominated by Nvidia",
+      "summary": "Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.",
+      "url": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-03T21:01:34+00:00",
+      "scrapedAt": "2026-02-04T08:52:59.471729+00:00"
+    },
+    {
+      "id": "8f5d0b4775ba",
+      "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
+      "summary": "The investment comes from backers including the Qatar Investment Authority as demand for chips beyond Nvidia soars and as Qatar aims to build out its AI infrastructure.",
+      "url": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T08:18:51+00:00",
+      "scrapedAt": "2026-02-04T08:52:59.471641+00:00"
+    },
+    {
+      "id": "241c9fd7457d",
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "url": "https://openai.com/index/pvh-future-of-fashion",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T06:00:00+00:00",
+      "scrapedAt": "2026-02-04T08:52:59.335054+00:00"
+    },
+    {
+      "id": "4d9450ab9ccf",
+      "title": "The Sora feed philosophy",
+      "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+      "url": "https://openai.com/index/sora-feed-philosophy",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-03T00:00:00+00:00",
+      "scrapedAt": "2026-02-04T08:52:59.334350+00:00"
+    },
+    {
+      "id": "95c475fde4ad",
+      "title": "Building a community-led future for AI in film with Sundance Institute",
+      "summary": "A look at how Sundance Institute will build a community-led ecosystem for AI education and empowerment, to support creatives.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-20T20:30:00+00:00",
+      "scrapedAt": "2026-02-04T08:52:58.830411+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Building_a_community-led_future.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5c29f7c09ca7",
+      "title": "In our latest podcast, hear how the “Smoke Jumpers” team brings Gemini to billions of people.",
+      "summary": "In our latest podcast, hear how the “Smoke Jumpers” team brings Gemini to billions of people.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T10:28:00+00:00",
+      "scrapedAt": "2026-02-04T08:52:58.830146+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnails_EP24_002_ccRelease_N.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ebce41117912",
+      "title": "Just ask anything: a seamless new Search experience",
+      "summary": "Search users around the world now have easier access to frontier AI capabilities.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T17:00:00+00:00",
+      "scrapedAt": "2026-02-04T08:52:58.830125+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Seamless_Search_-_Blog_header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7339b1ffbe26",
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "summary": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-27T18:00:00+00:00",
+      "scrapedAt": "2026-02-04T08:52:58.830036+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp"
+    },
+    {
+      "id": "bee9e2719cef",
+      "title": "OpenAI’s latest product lets you vibe code science",
+      "summary": "OpenAI just revealed what its new in-house team, OpenAI for Science , has been up to. The firm has released a free LLM-powered tool for scientists called Prism , which embeds ChatGPT in a text editor ",
+      "url": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-27T18:00:43+00:00",
+      "scrapedAt": "2026-02-04T08:52:58.444207+00:00"
+    },
     {
       "id": "2dfb98bc25e0",
       "title": "Scalable and Secure AI Inference in Healthcare: A Comparative Benchmarking of FastAPI and Triton Inference Server on Kubernetes",
@@ -1210,210 +1414,6 @@
       "category": "product",
       "publishedAt": "2026-01-28T14:57:37+00:00",
       "scrapedAt": "2026-01-29T08:50:35.269091+00:00"
-    },
-    {
-      "id": "4b4600e5515c",
-      "title": "Airtable jumps into the AI agent game with Superagent",
-      "summary": "SuperAgent is Airtable's first stand-alone product in its 13-year history, and signals both the company's ambitions and the reality of the current AI moment: Every serious software player is racing to",
-      "url": "https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T15:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.735038+00:00"
-    },
-    {
-      "id": "41ce0053e009",
-      "title": "Phoebe Gates and Sophia Kianni’s Phia raises $35M to ‘make shopping fun again’",
-      "summary": "“We are just at such a prime time of opportunity,” Gates said to explain the new fundraise. “Commerce itself for the consumer hasn’t really been adapted in the last 30 years, and the opportunity to ma",
-      "url": "https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T15:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.734968+00:00"
-    },
-    {
-      "id": "e54af86b812e",
-      "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
-      "summary": "\"Our special sauce is the prompt libraries, the eval suites, and the thousands and thousands of real-world examples that the AI gets trained on to ensure it actually does what it's expected to do,” CE",
-      "url": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T15:25:22+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.734898+00:00"
-    },
-    {
-      "id": "ed17ffb14a28",
-      "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
-      "summary": "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.",
-      "url": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T17:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.734823+00:00"
-    },
-    {
-      "id": "bcef289b5a64",
-      "title": "OpenAI launches Prism, a new AI workspace for scientists",
-      "summary": "OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.",
-      "url": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T18:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.734746+00:00"
-    },
-    {
-      "id": "f2fcddabaaba",
-      "title": "Google’s more affordable AI Plus plan rolls out to all markets, including the US",
-      "summary": "Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.",
-      "url": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T18:00:39+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.734648+00:00"
-    },
-    {
-      "id": "644cdfa4085a",
-      "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.",
-      "url": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T18:19:19+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.734581+00:00"
-    },
-    {
-      "id": "5165f65cbc7e",
-      "title": "Anthropic reportedly upped its latest raise to $20B",
-      "summary": "Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports.",
-      "url": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T21:16:10+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.734509+00:00"
-    },
-    {
-      "id": "a1bd2cf60dce",
-      "title": "Anduril has invented a wild new drone-flying contest where jobs are the prize",
-      "summary": "This is a race series for software programmers and the brainchild of founder Palmer Luckey, he tells TechCrunch.",
-      "url": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T21:54:38+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.734438+00:00"
-    },
-    {
-      "id": "5c1b7f07192b",
-      "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
-      "summary": "Personal AI assistant Moltbot —formerly Clawdbot — has gone viral in a matter of weeks. But there’s more you should know before jumping on the bandwagon.",
-      "url": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T00:12:43+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.734358+00:00"
-    },
-    {
-      "id": "2d79546ea8ed",
-      "title": "Introducing Prism",
-      "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
-      "url": "https://openai.com/index/introducing-prism",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-27T00:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.597030+00:00"
-    },
-    {
-      "id": "f3f47538cb05",
-      "title": "Powering tax donations with AI powered personalized recommendations",
-      "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system hel",
-      "url": "https://openai.com/index/trustbank",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-27T00:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.596955+00:00"
-    },
-    {
-      "id": "241c9fd7457d",
-      "title": "PVH reimagines the future of fashion with OpenAI",
-      "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
-      "url": "https://openai.com/index/pvh-future-of-fashion",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-27T06:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.596873+00:00"
-    },
-    {
-      "id": "95c475fde4ad",
-      "title": "Building a community-led future for AI in film with Sundance Institute",
-      "summary": "A look at how Sundance Institute will build a community-led ecosystem for AI education and empowerment, to support creatives.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-20T20:30:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.009714+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Building_a_community-led_future.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5c29f7c09ca7",
-      "title": "In our latest podcast, hear how the “Smokejumpers” team brings Gemini to billions of people.",
-      "summary": "In our latest podcast, hear how the “Smokejumpers” team brings Gemini to billions of people.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-27T10:28:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.009409+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnails_EP24_002_ccRelease_N.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ebce41117912",
-      "title": "Just ask anything: a seamless new Search experience",
-      "summary": "Search users around the world now have easier access to frontier AI capabilities.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-27T17:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.009384+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Seamless_Search_-_Blog_header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7339b1ffbe26",
-      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
-      "summary": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-27T18:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:29.009266+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp"
-    },
-    {
-      "id": "f2497feb4b5e",
-      "title": "The UK government is backing AI that can run its own lab experiments",
-      "summary": "A number of startups and university teams that are building “AI scientists” to design and run experiments in the lab, including robot biologists and chemists, have just won extra funding from the UK g",
-      "url": "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-20T13:28:21+00:00",
-      "scrapedAt": "2026-01-28T08:40:28.654425+00:00"
-    },
-    {
-      "id": "651872a082d7",
-      "title": "The era of agentic chaos and how data will save us",
-      "summary": "AI agents are moving beyond coding assistants and customer service chatbots into the operational core of the enterprise. The ROI is promising, but autonomy without alignment is a recipe for chaos. Bus",
-      "url": "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-20T15:00:00+00:00",
-      "scrapedAt": "2026-01-28T08:40:28.653239+00:00"
-    },
-    {
-      "id": "bee9e2719cef",
-      "title": "OpenAI’s latest product lets you vibe code science",
-      "summary": "OpenAI just revealed what its new in-house team, OpenAI for Science , has been up to. The firm has released a free LLM-powered tool for scientists called Prism , which embeds ChatGPT in a text editor ",
-      "url": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-27T18:00:43+00:00",
-      "scrapedAt": "2026-01-28T08:40:28.637920+00:00"
     }
   ]
 }
