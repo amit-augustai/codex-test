@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-02-04T08:53:56.981683+00:00",
+  "lastUpdated": "2026-02-05T08:54:19.131584+00:00",
   "articles": [
+    {
+      "id": "d0c8ef7db5e7",
+      "title": "Knowledge Model Prompting Increases LLM Performance on Planning Tasks",
+      "summary": "arXiv:2602.03900v1 Announce Type: new Abstract: Large Language Models (LLM) can struggle with reasoning ability and planning tasks. Many prompting techniques have been developed to assist with LLM rea",
+      "url": "https://arxiv.org/abs/2602.03900",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-05T00:00:00-05:00",
+      "scrapedAt": "2026-02-05T08:53:24.061130+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.695478+00:00"
+    },
+    {
+      "id": "26b54c6ea37c",
+      "title": "Roblox’s 4D creation feature is now available in open beta",
+      "summary": "Roblox's highly anticipated 4D creation feature has officially arrived in open beta.",
+      "url": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T17:00:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.368319+00:00"
+    },
+    {
+      "id": "bb38075431dc",
+      "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+      "summary": "Tinder is testing AI recommendations and insight from your Camera Roll for better matches.",
+      "url": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T18:08:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.368245+00:00"
+    },
+    {
+      "id": "3623e7304d71",
+      "title": "What a16z is actually funding (and what it’s ignoring) when it comes to AI infra",
+      "summary": "Andreessen Horowitz just raised a whopping new $15 billion in funding. And a $1.7 billion chunk of that is going to its infrastructure team, the one responsible for some of its biggest, most prominent",
+      "url": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T20:19:12+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.368124+00:00"
+    },
+    {
+      "id": "e2881b2ed043",
+      "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+      "summary": "Andreessen Horowitz just raised a whopping ⁠new $15 billion in funding⁠. And a $1.7 billion chunk of that is going to its ⁠infrastructure team⁠, the one responsible for some of its biggest, most promi",
+      "url": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T20:24:12+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.367904+00:00"
+    },
+    {
+      "id": "9102561f136b",
+      "title": "Amazon to begin testing AI tools for film and TV production next month",
+      "summary": "Amazon MGM Studios will reportedly begin a closed beta program in March to test its AI tools to help with film and TV production.",
+      "url": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T21:26:43+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.358252+00:00"
+    },
+    {
+      "id": "44781d878057",
+      "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+      "summary": "The two-year-old startup confirms that it closed a Series A led by Lightspeed at $1 billion valuation.",
+      "url": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T21:39:26+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.358175+00:00"
+    },
+    {
+      "id": "a1a95a6402cb",
+      "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
+      "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun.",
+      "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T21:45:32+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.358091+00:00"
+    },
+    {
+      "id": "5e73391c78ad",
+      "title": "Google’s Gemini app has surpassed 750M monthly active users",
+      "summary": "Google revealed a significant milestone for its Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
+      "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T22:53:46+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.358023+00:00"
+    },
+    {
+      "id": "d8675af27ee2",
+      "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
+      "summary": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
+      "url": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T23:28:31+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.357951+00:00"
+    },
+    {
+      "id": "072715feed62",
+      "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+      "summary": "He posted a novella-sized rant that devolved into to calling his rival \"dishonest\" and \"authoritarian.\"",
+      "url": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-05T00:45:11+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.357872+00:00"
+    },
+    {
+      "id": "6a8d895b91c1",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-01-28T01:00:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.282477+00:00"
+    },
+    {
+      "id": "8a585390ee56",
+      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+      "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+      "url": "https://openai.com/index/vfl-wolfsburg",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-04T00:00:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.281913+00:00"
+    },
+    {
+      "id": "8207a8a99cd4",
+      "title": "Unlocking the Codex harness: how we built the App Server",
+      "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+      "url": "https://openai.com/index/unlocking-the-codex-harness",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-04T13:00:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.281833+00:00"
+    },
+    {
+      "id": "42d80ec95c72",
+      "title": "Navigating health questions with ChatGPT",
+      "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+      "url": "https://openai.com/index/navigating-health-questions",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-05T00:00:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:23.281747+00:00"
+    },
+    {
+      "id": "1eabfc9fe70e",
+      "title": "The latest AI news we announced in January",
+      "summary": "Google AI announcements from January",
+      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-04T16:55:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:22.636324+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LatestAI_v5.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a2225af0b24e",
+      "title": "Rules fail at the prompt, succeed at the boundary",
+      "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic’s Claude code as an automated intrusion engine, the coercion of human-in-the-loop ag",
+      "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-28T14:00:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:22.386243+00:00"
+    },
+    {
+      "id": "fd84872e94c8",
+      "title": "What AI “remembers” about you is privacy’s next frontier",
+      "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents. Earlier this month, Google announced Personal Intelligence , a new way for people t",
+      "url": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-28T14:57:37+00:00",
+      "scrapedAt": "2026-02-05T08:53:22.384254+00:00"
+    },
+    {
+      "id": "1ca5a0160866",
+      "title": "From guardrails to governance: A CEO’s guide for securing agentic systems",
+      "summary": "The previous article in this series, “ Rules fail at the prompt, succeed at the boundary ,” focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This articl",
+      "url": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T14:00:00+00:00",
+      "scrapedAt": "2026-02-05T08:53:22.377209+00:00"
+    },
     {
       "id": "f9335372ac2c",
       "title": "SayNext-Bench: Why Do LLMs Struggle with Next-Utterance Prediction?",
@@ -1212,208 +1413,6 @@
       "category": "product",
       "publishedAt": "2026-01-29T20:56:23+00:00",
       "scrapedAt": "2026-01-30T08:49:45.420743+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.927052+00:00"
-    },
-    {
-      "id": "c2748b09e92c",
-      "title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
-      "summary": "Apple’s Creator Studio Pro leverages AI to help creators with tedious tasks — like finding clips or building slides — without trying to do the work for them.",
-      "url": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T17:04:50+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401744+00:00"
-    },
-    {
-      "id": "007b979c976e",
-      "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama",
-      "summary": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a U.S. company.",
-      "url": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T17:30:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401671+00:00"
-    },
-    {
-      "id": "af2105a0f3aa",
-      "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
-      "summary": "Google Chrome is adding Gemini in the sidebar and is rolling out an agentic feature for AI Pro and Ultra users.",
-      "url": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T18:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401612+00:00"
-    },
-    {
-      "id": "ccf92ecfafc6",
-      "title": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
-      "summary": "The deal’s purpose is primarily to acquire talent, aka an acqui-hire, adding nine key Cleanlab employees to Handshake’s research organization.",
-      "url": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T19:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401555+00:00"
-    },
-    {
-      "id": "6c8c72d5c5c5",
-      "title": "WhatsApp will now charge AI chatbots to operate in Italy",
-      "summary": "WhatsApp plans to charge developers of AI chatbots per message.",
-      "url": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T19:18:59+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401490+00:00"
-    },
-    {
-      "id": "e91e95c1751d",
-      "title": "ServiceNow inks another AI partnership, this time with Anthropic",
-      "summary": "ServiceNow partners with Anthropic just a week after announcing a partnership with OpenAI as the company takes a multi-model approach.",
-      "url": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T21:13:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401432+00:00"
-    },
-    {
-      "id": "5d6850b9d9ef",
-      "title": "Elon Musk teases a new image-labeling system for X… we think?",
-      "summary": "Elon Musk says X will begin identifying \"manipulated media\" but doesn't share details.",
-      "url": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T21:46:18+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401374+00:00"
-    },
-    {
-      "id": "3ab0f4a5a57b",
-      "title": "Tesla to invest $2B in Elon Musk’s xAI",
-      "summary": "Elon Musk's AI company xAI disclosed earlier this month it had raised $20 billion.",
-      "url": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T21:52:21+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401317+00:00"
-    },
-    {
-      "id": "869190a5a021",
-      "title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
-      "summary": "Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now.",
-      "url": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T22:31:20+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401259+00:00"
-    },
-    {
-      "id": "247d78d3ea1f",
-      "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
-      "summary": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
-      "url": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T23:16:02+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.401186+00:00"
-    },
-    {
-      "id": "ce43bcebacd2",
-      "title": "Keeping your data safe when an AI agent clicks a link",
-      "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
-      "url": "https://openai.com/index/ai-agent-link-safety",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-28T00:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.235723+00:00"
-    },
-    {
-      "id": "6a8d895b91c1",
-      "title": "EMEA Youth & Wellbeing Grant",
-      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-28T01:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.235657+00:00"
-    },
-    {
-      "id": "b962872038b8",
-      "title": "The next chapter for AI in the EU",
-      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-28T01:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:36.235564+00:00"
-    },
-    {
-      "id": "0489375a21e5",
-      "title": "Announcing the winner of the Global AI Film Award",
-      "summary": "Over the past year, we’ve witnessed how creators globally have been using our AI models and tools to share their stories with the world. That’s why we launched the AI Fi…",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-middle-east/winner-of-the-global-ai-film-award/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-14T10:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:35.652780+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FAYZ0207.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "82f3872c07ea",
-      "title": "Introducing Community Benchmarks on Kaggle",
-      "summary": "Community Benchmarks on Kaggle lets the community build, share and run custom evaluations for AI models.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-14T14:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:35.652678+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero-final.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b6feb2385e67",
-      "title": "Everyone wants AI sovereignty. No one can truly have it.",
-      "summary": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in “sovereign AI,” with the premise being that countries should be in control of their own AI capabilities. The funds in",
-      "url": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-21T14:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:35.284387+00:00"
-    },
-    {
-      "id": "d295f611218f",
-      "title": "Rethinking AI’s future in an augmented workplace",
-      "summary": "There are many paths AI evolution could take. On one end of the spectrum, AI is dismissed as a marginal fad, another bubble fueled by notoriety and misallocated capital. On the other end, it’s cast as",
-      "url": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-21T15:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:35.283082+00:00"
-    },
-    {
-      "id": "a2225af0b24e",
-      "title": "Rules fail at the prompt, succeed at the boundary",
-      "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic’s Claude code as an automated intrusion engine, the coercion of human-in-the-loop ag",
-      "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T14:00:00+00:00",
-      "scrapedAt": "2026-01-29T08:50:35.270866+00:00"
-    },
-    {
-      "id": "fd84872e94c8",
-      "title": "What AI “remembers” about you is privacy’s next frontier",
-      "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents. Earlier this month, Google announced Personal Intelligence , a new way for people t",
-      "url": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T14:57:37+00:00",
-      "scrapedAt": "2026-01-29T08:50:35.269091+00:00"
     }
   ]
 }
