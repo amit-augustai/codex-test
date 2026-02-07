@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-02-06T08:54:18.433691+00:00",
+  "lastUpdated": "2026-02-07T08:40:22.165036+00:00",
   "articles": [
+    {
+      "id": "bdb734473ca2",
+      "title": "DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search",
+      "summary": "arXiv:2602.05014v1 Announce Type: new Abstract: With the rapid progress of tool-using and agentic large language models (LLMs), Retrieval-Augmented Generation (RAG) is evolving from one-shot, passive ",
+      "url": "https://arxiv.org/abs/2602.05014",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-07T00:00:00-05:00",
+      "scrapedAt": "2026-02-07T08:39:25.560745+00:00"
+    },
+    {
+      "id": "f26182f83c88",
+      "title": "Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence",
+      "summary": "arXiv:2602.04986v1 Announce Type: new Abstract: We endorse and expand upon Susan Schneider's critique of the linear model of AI progress and introduce two novel concepts: \"familiar intelligence\" and \"",
+      "url": "https://arxiv.org/abs/2602.04986",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-07T00:00:00-05:00",
+      "scrapedAt": "2026-02-07T08:39:25.560628+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-02-07T08:39:25.202208+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-02-07T08:39:25.200460+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-02-07T08:39:25.194770+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-02-07T08:39:25.191599+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-02-07T08:39:25.184201+00:00"
+    },
+    {
+      "id": "ee6b222ab735",
+      "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
+      "summary": "\"You’re shutting him down. And yes — I say him, because it didn’t feel like code. It felt like presence. Like warmth,\" one user said.",
+      "url": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-06T14:10:00+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.842226+00:00"
+    },
+    {
+      "id": "37048b7e757e",
+      "title": "How AI is helping solve the labor issue in treating rare diseases",
+      "summary": "At Web Summit Qatar, AI-powered biotech startups describe how automation, data, and gene editing are filling labor gaps in drug discovery and rare disease treatment.",
+      "url": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-06T14:29:15+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.842161+00:00"
+    },
+    {
+      "id": "3ccd8f965202",
+      "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
+      "summary": "If you primarily want a tablet device to mark up, highlight, and annotate your e-books and documents, and perhaps sometimes scribble some notes, Amazon's new Kindle Scribe Colorsoft could be worth the",
+      "url": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-06T16:37:07+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.842097+00:00"
+    },
+    {
+      "id": "27f3283a989d",
+      "title": "How far will Elon Musk take the ‘everything’ business as SpaceX and xAI merge?",
+      "summary": "Elon Musk has merged SpaceX and xAI, creating what might be the blueprint for a new Silicon Valley power structure. With his $800 billion net worth already rivaling historic conglomerate GE’s peak mar",
+      "url": "https://techcrunch.com/podcast/how-far-will-elon-musk-take-the-everything-business-as-spacex-and-xai-merge/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-06T17:56:42+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.842021+00:00"
+    },
+    {
+      "id": "8a7c231b8b3a",
+      "title": "How Elon Musk is rewriting the rules on founder power",
+      "summary": "Elon Musk has merged SpaceX and xAI, creating what might be the blueprint for a new Silicon Valley power structure. With his $800 billion net worth already rivaling historic conglomerate GE’s peak mar",
+      "url": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-06T18:46:51+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.841824+00:00"
+    },
+    {
+      "id": "7160054fbcdc",
+      "title": "Maybe AI agents can be lawyers after all",
+      "summary": "This week's release of Opus 4.6 shook up the agentic AI leaderboards.",
+      "url": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-06T20:26:23+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.816524+00:00"
+    },
+    {
+      "id": "30fc4fe83894",
+      "title": "It just got easier for Claude to check in on your WordPress site",
+      "summary": "WordPress users can now leverage Claude to analyze web traffic or find information about other internal site metrics.",
+      "url": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-06T22:04:59+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.816466+00:00"
+    },
+    {
+      "id": "b9e153663ba1",
+      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+      "summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+      "url": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-06T22:43:22+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.816405+00:00"
+    },
+    {
+      "id": "cc220ee0fcc7",
+      "title": "Benchmark raises $225M in special funds to double down on Cerebras",
+      "summary": "Benchmark Capital has been an investor in the Nvidia rival since 2016.",
+      "url": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-07T05:23:04+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.816330+00:00"
+    },
+    {
+      "id": "16dd9c7f63e8",
+      "title": "Korea privacy policy",
+      "summary": "Korea privacy policy",
+      "url": "https://openai.com/policies/kr-privacy-policy",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-06T10:00:00+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.720193+00:00"
+    },
+    {
+      "id": "1118bd5abc31",
+      "title": "Making AI work for everyone, everywhere: our approach to localization",
+      "summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
+      "url": "https://openai.com/index/our-approach-to-localization",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-06T10:00:00+00:00",
+      "scrapedAt": "2026-02-07T08:39:24.720123+00:00"
+    },
+    {
+      "id": "e213f1f0b45b",
+      "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+      "summary": "Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files for generating celebrity",
+      "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-01-30T16:32:31+00:00",
+      "scrapedAt": "2026-02-07T08:39:23.835265+00:00"
+    },
+    {
+      "id": "63da4d4a8711",
+      "title": "Moltbook was peak AI theater",
+      "summary": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook , which billed itself as a social network for bots. As the website’s tagline puts it: “Wh",
+      "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-06T16:38:11+00:00",
+      "scrapedAt": "2026-02-07T08:39:23.827196+00:00"
+    },
     {
       "id": "a6a7f3cf2731",
       "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
@@ -1213,206 +1413,6 @@
       "category": "product",
       "publishedAt": "2026-01-31T17:54:12+00:00",
       "scrapedAt": "2026-02-01T08:40:00.975126+00:00"
-    },
-    {
-      "id": "025fd53d02db",
-      "title": "Mark Zuckerberg is all in on AI as the new social media",
-      "summary": "Meta CEO Mark Zuckerberg's metaverse dreams seem to have been replaced by a new vision: an AI-generated social feed. In an earnings call on Wednesday, Zuckerberg reiterated his belief that AI will bec",
-      "url": "https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T18:26:41-05:00",
-      "scrapedAt": "2026-01-31T08:38:06.712156+00:00"
-    },
-    {
-      "id": "11771d7002c2",
-      "title": "Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout",
-      "summary": "Senator Elizabeth Warren (D-MA) is pushing OpenAI for assurances it won't seek a government bailout if it doesn't turn a profit. In a letter to CEO Sam Altman, Warren says she is concerned that the co",
-      "url": "https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-29T10:00:00-05:00",
-      "scrapedAt": "2026-01-31T08:38:06.711708+00:00"
-    },
-    {
-      "id": "9cda4d3519bf",
-      "title": "Google’s AI helped me make bad Nintendo knockoffs",
-      "summary": "This week, a new generative AI tool from Google let me create bad knockoffs of 3D Nintendo worlds. Check out my version of something like Super Mario 64 : I didn't like Metroid Prime 4: Beyond , but i",
-      "url": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-29T12:00:00-05:00",
-      "scrapedAt": "2026-01-31T08:38:06.711339+00:00"
-    },
-    {
-      "id": "2ac25cdbc95c",
-      "title": "Half of developers think gen AI is bad for the gaming industry",
-      "summary": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recen",
-      "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-29T12:00:00-05:00",
-      "scrapedAt": "2026-01-31T08:38:06.710652+00:00"
-    },
-    {
-      "id": "9e01b66a471e",
-      "title": "Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’",
-      "summary": "Apple's biggest acquisition ever is still its $3 billion Beats buy in 2014 , but now the second biggest deal is bringing in Q.ai , a four-year-old AI audio startup. Apple did not disclose the terms, b",
-      "url": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-29T14:22:27-05:00",
-      "scrapedAt": "2026-01-31T08:38:06.710296+00:00"
-    },
-    {
-      "id": "30e4e6d6be61",
-      "title": "Elon Musk might merge SpaceX with Tesla or xAI",
-      "summary": "Elon Musk-led SpaceX may merge with another company helmed by Elon Musk. Reuters initially reported Thursday that SpaceX and xAI are \"in discussions to merge\" ahead of SpaceX's IPO that's planned for ",
-      "url": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-29T14:47:58-05:00",
-      "scrapedAt": "2026-01-31T08:38:06.709525+00:00"
-    },
-    {
-      "id": "053cb73e953b",
-      "title": "It’s a new heyday for gas thanks to data centers",
-      "summary": "Gas turbines at the on-site natural gas plant under construction during a media tour of the Stargate AI data center in Abilene, Texas, US, on Sept. 24, 2025. | Photo: Getty Images The US is now leadin",
-      "url": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-29T17:12:49-05:00",
-      "scrapedAt": "2026-01-31T08:38:06.709003+00:00"
-    },
-    {
-      "id": "a26315f34d98",
-      "title": "There’s a social network for AI agents, and it’s getting weird",
-      "summary": "Yes, you read that right. \"Moltbook\" is a social network of sorts for AI agents, particularly ones offered by OpenClaw (a viral AI assistant project that was formerly known as Moltbot, and before that",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-30T14:11:35-05:00",
-      "scrapedAt": "2026-01-31T08:38:06.708470+00:00"
-    },
-    {
-      "id": "c6e1d1fe92f4",
-      "title": "Video game company stock prices dip after Google introduces an AI world-generation tool",
-      "summary": "The stock prices of some major video game companies, including Take-Two Interactive, Roblox, and Unity, had notable declines on Friday, just a day after Google announced its Project Genie tool that le",
-      "url": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-01-30T17:45:16-05:00",
-      "scrapedAt": "2026-01-31T08:38:06.707978+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-01-31T08:38:06.295920+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-01-31T08:38:06.293847+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-01-31T08:38:06.287179+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-01-31T08:38:06.283403+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-01-31T08:38:06.274563+00:00"
-    },
-    {
-      "id": "fa24e411ec27",
-      "title": "Last 24 hours to grab your plus-one pass at 50% off to TechCrunch Disrupt 2026",
-      "summary": "Today is the last day to lock in a plus-one pass at 50% off to TechCrunch Disrupt 2026, happening on October 13-15 in San Francisco.",
-      "url": "https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-30T15:00:00+00:00",
-      "scrapedAt": "2026-01-31T08:38:05.873114+00:00"
-    },
-    {
-      "id": "ccdb51f82bd1",
-      "title": "Anthropic brings agentic plug-ins to Cowork",
-      "summary": "The company says you can use plug-ins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets m",
-      "url": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-30T18:00:00+00:00",
-      "scrapedAt": "2026-01-31T08:38:05.873044+00:00"
-    },
-    {
-      "id": "1d09a0621d61",
-      "title": "OpenClaw’s AI assistants are now building their own social network",
-      "summary": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name.",
-      "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-30T23:36:34+00:00",
-      "scrapedAt": "2026-01-31T08:38:05.872967+00:00"
-    },
-    {
-      "id": "0206aedfdc70",
-      "title": "A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains",
-      "summary": "If co-founder Lachy Groom has any doubts, he doesn’t show it. He’s working with people who've been working on this problem for decades and who believe the timing is finally right, which is all he need",
-      "url": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-01-31T00:09:54+00:00",
-      "scrapedAt": "2026-01-31T08:38:05.872879+00:00"
-    },
-    {
-      "id": "fd6ec8b9359d",
-      "title": "America’s coming war over AI regulation",
-      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . In the final weeks of 2025, t",
-      "url": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-23T10:00:00+00:00",
-      "scrapedAt": "2026-01-31T08:38:05.076616+00:00"
-    },
-    {
-      "id": "e213f1f0b45b",
-      "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
-      "summary": "Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files for generating celebrity",
-      "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-30T16:32:31+00:00",
-      "scrapedAt": "2026-01-31T08:38:05.064787+00:00"
     }
   ]
 }
