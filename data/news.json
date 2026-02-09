@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-02-08T08:41:29.058128+00:00",
+  "lastUpdated": "2026-02-09T09:02:22.308940+00:00",
   "articles": [
+    {
+      "id": "1b6fbfaba0c7",
+      "title": "Urban Spatio-Temporal Foundation Models for Climate-Resilient Housing: Scaling Diffusion Transformers for Disaster Risk Prediction",
+      "summary": "arXiv:2602.06129v1 Announce Type: new Abstract: Climate hazards increasingly disrupt urban transportation and emergency-response operations by damaging housing stock, degrading infrastructure, and red",
+      "url": "https://arxiv.org/abs/2602.06129",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.505548+00:00"
+    },
+    {
+      "id": "520c9a50f689",
+      "title": "Compressing LLMs with MoP: Mixture of Pruners",
+      "summary": "arXiv:2602.06127v1 Announce Type: new Abstract: The high computational demands of Large Language Models (LLMs) motivate methods that reduce parameter count and accelerate inference. In response, model",
+      "url": "https://arxiv.org/abs/2602.06127",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.505424+00:00"
+    },
+    {
+      "id": "d44114a628cb",
+      "title": "Private and interpretable clinical prediction with quantum-inspired tensor train models",
+      "summary": "arXiv:2602.06110v1 Announce Type: new Abstract: Machine learning in clinical settings must balance predictive accuracy, interpretability, and privacy. Models such as logistic regression (LR) offer tra",
+      "url": "https://arxiv.org/abs/2602.06110",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.505316+00:00"
+    },
+    {
+      "id": "2444be9969ac",
+      "title": "Pragmatic Curiosity: A Hybrid Learning-Optimization Paradigm via Active Inference",
+      "summary": "arXiv:2602.06104v1 Announce Type: new Abstract: Many engineering and scientific workflows depend on expensive black-box evaluations, requiring decision-making that simultaneously improves performance ",
+      "url": "https://arxiv.org/abs/2602.06104",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.505189+00:00"
+    },
+    {
+      "id": "b26c443e3fb9",
+      "title": "Toward Faithful and Complete Answer Construction from a Single Document",
+      "summary": "arXiv:2602.06103v1 Announce Type: new Abstract: Modern large language models (LLMs) are powerful generators driven by statistical next-token prediction. While effective at producing fluent text, this ",
+      "url": "https://arxiv.org/abs/2602.06103",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.505080+00:00"
+    },
+    {
+      "id": "34fcf70de837",
+      "title": "Agentic Workflow Using RBA$_\\theta$ for Event Prediction",
+      "summary": "arXiv:2602.06097v1 Announce Type: new Abstract: Wind power ramp events are difficult to forecast due to strong variability, multi-scale dynamics, and site-specific meteorological effects. This paper p",
+      "url": "https://arxiv.org/abs/2602.06097",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.504953+00:00"
+    },
+    {
+      "id": "9afef7c22077",
+      "title": "NanoNet: Parameter-Efficient Learning with Label-Scarce Supervision for Lightweight Text Mining Model",
+      "summary": "arXiv:2602.06093v1 Announce Type: new Abstract: The lightweight semi-supervised learning (LSL) strategy provides an effective approach of conserving labeled samples and minimizing model inference cost",
+      "url": "https://arxiv.org/abs/2602.06093",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.504760+00:00"
+    },
+    {
+      "id": "6ecdbc857d88",
+      "title": "AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents",
+      "summary": "arXiv:2602.06485v1 Announce Type: new Abstract: While Large Language Model (LLM)-based agents have shown remarkable potential for solving complex tasks, existing systems remain heavily reliant on larg",
+      "url": "https://arxiv.org/abs/2602.06485",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.144546+00:00"
+    },
+    {
+      "id": "d32202f3a8b2",
+      "title": "Intrinsic Stability Limits of Autoregressive Reasoning: Structural Consequences for Long-Horizon Execution",
+      "summary": "arXiv:2602.06413v1 Announce Type: new Abstract: Large language models (LLMs) demonstrate remarkable reasoning capabilities, yet their performance often deteriorates sharply in long-horizon tasks, exhi",
+      "url": "https://arxiv.org/abs/2602.06413",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.144423+00:00"
+    },
+    {
+      "id": "6180721aca84",
+      "title": "Unlocking Noisy Real-World Corpora for Foundation Model Pre-Training via Quality-Aware Tokenization",
+      "summary": "arXiv:2602.06394v1 Announce Type: new Abstract: Current tokenization methods process sequential data without accounting for signal quality, limiting their effectiveness on noisy real-world corpora. We",
+      "url": "https://arxiv.org/abs/2602.06394",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.144296+00:00"
+    },
+    {
+      "id": "cd2353eb437d",
+      "title": "Difficulty-Estimated Policy Optimization",
+      "summary": "arXiv:2602.06375v1 Announce Type: new Abstract: Recent advancements in Large Reasoning Models (LRMs), exemplified by DeepSeek-R1, have underscored the potential of scaling inference-time compute throu",
+      "url": "https://arxiv.org/abs/2602.06375",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.144188+00:00"
+    },
+    {
+      "id": "d404fbd28bb9",
+      "title": "Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion",
+      "summary": "arXiv:2602.06351v1 Announce Type: new Abstract: GUI grounding maps natural language instructions to the correct interface elements, serving as the perception foundation for GUI agents. Existing approa",
+      "url": "https://arxiv.org/abs/2602.06351",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.144060+00:00"
+    },
+    {
+      "id": "ab99fb7d068b",
+      "title": "Exposing Weaknesses of Large Reasoning Models through Graph Algorithm Problems",
+      "summary": "arXiv:2602.06319v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have advanced rapidly; however, existing benchmarks in mathematics, code, and common-sense reasoning remain limited. They ",
+      "url": "https://arxiv.org/abs/2602.06319",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.143921+00:00"
+    },
+    {
+      "id": "67f4a4b08a78",
+      "title": "Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making",
+      "summary": "arXiv:2602.06286v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as agents in high-stakes domains where optimal actions depend on both uncertainty about the world",
+      "url": "https://arxiv.org/abs/2602.06286",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.143747+00:00"
+    },
+    {
+      "id": "c4ddfee311ed",
+      "title": "Do It for HER: First-Order Temporal Logic Reward Specification in Reinforcement Learning (Extended Version)",
+      "summary": "arXiv:2602.06227v1 Announce Type: new Abstract: In this work, we propose a novel framework for the logical specification of non-Markovian rewards in Markov Decision Processes (MDPs) with large state s",
+      "url": "https://arxiv.org/abs/2602.06227",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.143634+00:00"
+    },
+    {
+      "id": "728b2ef6c657",
+      "title": "Large Language Model Reasoning Failures",
+      "summary": "arXiv:2602.06176v1 Announce Type: new Abstract: Large Language Models (LLMs) have exhibited remarkable reasoning capabilities, achieving impressive results across a wide range of tasks. Despite these ",
+      "url": "https://arxiv.org/abs/2602.06176",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.143509+00:00"
+    },
+    {
+      "id": "da30a056a453",
+      "title": "Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning",
+      "summary": "arXiv:2602.06107v1 Announce Type: new Abstract: Reinforcement learning (RL) for large language models (LLMs) remains expensive, particularly because the rollout is expensive. Decoupling rollout genera",
+      "url": "https://arxiv.org/abs/2602.06107",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-09T00:00:00-05:00",
+      "scrapedAt": "2026-02-09T09:01:24.143368+00:00"
+    },
+    {
+      "id": "b64d40f28a53",
+      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+      "summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+      "url": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-08T16:18:16+00:00",
+      "scrapedAt": "2026-02-09T09:01:23.175277+00:00"
+    },
+    {
+      "id": "90a3d8d16883",
+      "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
+      "summary": "But this is still a bad idea.",
+      "url": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-08T19:36:28+00:00",
+      "scrapedAt": "2026-02-09T09:01:23.175205+00:00"
+    },
+    {
+      "id": "d55143d90f16",
+      "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
+      "summary": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.",
+      "url": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-08T20:19:47+00:00",
+      "scrapedAt": "2026-02-09T09:01:23.175127+00:00"
+    },
     {
       "id": "905e08b664c7",
       "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
@@ -1213,206 +1413,6 @@
       "category": "product",
       "publishedAt": "2026-02-02T18:09:57+00:00",
       "scrapedAt": "2026-02-03T08:49:13.651547+00:00"
-    },
-    {
-      "id": "b1a9b0dfb66d",
-      "title": "FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation",
-      "summary": "arXiv:2601.22204v1 Announce Type: new Abstract: Federated learning (FL) encounters substantial challenges due to heterogeneity, leading to gradient noise, client drift, and partial client participatio",
-      "url": "https://arxiv.org/abs/2601.22204",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:37.049405+00:00"
-    },
-    {
-      "id": "f2af25f040ff",
-      "title": "Neural Signals Generate Clinical Notes in the Wild",
-      "summary": "arXiv:2601.22197v1 Announce Type: new Abstract: Generating clinical reports that summarize abnormal patterns, diagnostic findings, and clinical interpretations from long-term EEG recordings remains la",
-      "url": "https://arxiv.org/abs/2601.22197",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:37.049282+00:00"
-    },
-    {
-      "id": "e1f6f65f9c92",
-      "title": "Multitask Learning for Earth Observation Data Classification with Hybrid Quantum Network",
-      "summary": "arXiv:2601.22195v1 Announce Type: new Abstract: Quantum machine learning (QML) has gained increasing attention as a potential solution to address the challenges of computation requirements in the futu",
-      "url": "https://arxiv.org/abs/2601.22195",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:37.049154+00:00"
-    },
-    {
-      "id": "17b97065fb04",
-      "title": "Attention Isn't All You Need for Emotion Recognition:Domain Features Outperform Transformers on the EAV Dataset",
-      "summary": "arXiv:2601.22161v1 Announce Type: new Abstract: We present a systematic study of multimodal emotion recognition using the EAV dataset, investigating whether complex attention mechanisms improve perfor",
-      "url": "https://arxiv.org/abs/2601.22161",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:37.048990+00:00"
-    },
-    {
-      "id": "ba59f9b74557",
-      "title": "Controllable Information Production",
-      "summary": "arXiv:2601.22449v1 Announce Type: new Abstract: Intrinsic Motivation (IM) is a paradigm for generating intelligent behavior without external utilities. The existing information-theoretic methods for I",
-      "url": "https://arxiv.org/abs/2601.22449",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.708552+00:00"
-    },
-    {
-      "id": "a182d192c89d",
-      "title": "Anytime Safe PAC Efficient Reasoning",
-      "summary": "arXiv:2601.22446v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have demonstrated remarkable performance on complex tasks but suffer from high computational costs and latency. While sele",
-      "url": "https://arxiv.org/abs/2601.22446",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.708454+00:00"
-    },
-    {
-      "id": "43ccda9c7eea",
-      "title": "When LLM meets Fuzzy-TOPSIS for Personnel Selection through Automated Profile Analysis",
-      "summary": "arXiv:2601.22433v1 Announce Type: new Abstract: In this highly competitive employment environment, the selection of suitable personnel is essential for organizational success. This study presents an a",
-      "url": "https://arxiv.org/abs/2601.22433",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.708347+00:00"
-    },
-    {
-      "id": "44ae5997bf68",
-      "title": "AI-Enabled Waste Classification as a Data-Driven Decision Support Tool for Circular Economy and Urban Sustainability",
-      "summary": "arXiv:2601.22418v1 Announce Type: new Abstract: Efficient waste sorting is crucial for enabling circular-economy practices and resource recovery in smart cities. This paper evaluates both traditional ",
-      "url": "https://arxiv.org/abs/2601.22418",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.708209+00:00"
-    },
-    {
-      "id": "e5fbbf7d6411",
-      "title": "Semi-Autonomous Mathematics Discovery with Gemini: A Case Study on the Erd\\H{o}s Problems",
-      "summary": "arXiv:2601.22401v1 Announce Type: new Abstract: We present a case study in semi-autonomous mathematics discovery, using Gemini to systematically evaluate 700 conjectures labeled 'Open' in Bloom's Erd\\",
-      "url": "https://arxiv.org/abs/2601.22401",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.708081+00:00"
-    },
-    {
-      "id": "76bc0d8dc6a5",
-      "title": "Learning Provably Correct Distributed Protocols Without Human Knowledge",
-      "summary": "arXiv:2601.22369v1 Announce Type: new Abstract: Provably correct distributed protocols, which are a critical component of modern distributed systems, are highly challenging to design and have often re",
-      "url": "https://arxiv.org/abs/2601.22369",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.707982+00:00"
-    },
-    {
-      "id": "2a69bf7d2f66",
-      "title": "Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice?",
-      "summary": "arXiv:2601.22329v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly positioned as decision engines for hiring, healthcare, and economic judgment, yet real-world human judgmen",
-      "url": "https://arxiv.org/abs/2601.22329",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.707869+00:00"
-    },
-    {
-      "id": "f9285a007fb3",
-      "title": "Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents",
-      "summary": "arXiv:2601.22311v1 Announce Type: new Abstract: Large language model (LLM)-based agents exhibit strong step-by-step reasoning capabilities over short horizons, yet often fail to sustain coherent behav",
-      "url": "https://arxiv.org/abs/2601.22311",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.707743+00:00"
-    },
-    {
-      "id": "09848cbbe97a",
-      "title": "The Six Sigma Agent: Achieving Enterprise-Grade Reliability in LLM Systems Through Consensus-Driven Decomposed Execution",
-      "summary": "arXiv:2601.22290v1 Announce Type: new Abstract: Large Language Models demonstrate remarkable capabilities yet remain fundamentally probabilistic, presenting critical reliability challenges for enterpr",
-      "url": "https://arxiv.org/abs/2601.22290",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.707619+00:00"
-    },
-    {
-      "id": "000600aa3064",
-      "title": "JAF: Judge Agent Forest",
-      "summary": "arXiv:2601.22269v1 Announce Type: new Abstract: Judge agents are fundamental to agentic AI frameworks: they provide automated evaluation, and enable iterative self-refinement of reasoning processes. W",
-      "url": "https://arxiv.org/abs/2601.22269",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-02T00:00:00-05:00",
-      "scrapedAt": "2026-02-02T08:53:36.707483+00:00"
-    },
-    {
-      "id": "9b02a1a9aecb",
-      "title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
-      "summary": "Elon Musk's reported merging of SpaceX, xAI, and Tesla harkens back to the heyday of General Electric — or maybe the robber barons of the Gilded Age.",
-      "url": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-01T15:39:08+00:00",
-      "scrapedAt": "2026-02-02T08:53:36.110517+00:00"
-    },
-    {
-      "id": "89401f105ae6",
-      "title": "India offers zero taxes through 2047 to lure global AI workloads",
-      "summary": "New Delhi's latest move comes as Amazon, Google, and Microsoft expand data center investments in India.",
-      "url": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-01T16:30:00+00:00",
-      "scrapedAt": "2026-02-02T08:53:36.110441+00:00"
-    },
-    {
-      "id": "56e44289e77e",
-      "title": "Indonesia ‘conditionally’ lifts ban on Grok",
-      "summary": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok.",
-      "url": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-01T17:20:00+00:00",
-      "scrapedAt": "2026-02-02T08:53:36.110373+00:00"
-    },
-    {
-      "id": "f4842d64f83a",
-      "title": "Why Tether’s CEO is everywhere right now",
-      "summary": "For years, Tether's CEO avoided the United States, watching from offshore as regulators circled and prosecutors investigated. Those days are over.",
-      "url": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-01T20:32:21+00:00",
-      "scrapedAt": "2026-02-02T08:53:36.110298+00:00"
-    },
-    {
-      "id": "c179a072f4f8",
-      "title": "AI layoffs or ‘AI-washing’?",
-      "summary": "How many of the companies with recent layoffs are just using AI as an excuse?",
-      "url": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-01T22:15:53+00:00",
-      "scrapedAt": "2026-02-02T08:53:36.110224+00:00"
-    },
-    {
-      "id": "fe5d7b83fb05",
-      "title": "These AI notetaking devices can help you record and transcribe your meetings",
-      "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
-      "url": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-02T08:00:00+00:00",
-      "scrapedAt": "2026-02-02T08:53:36.110130+00:00"
     }
   ]
 }
