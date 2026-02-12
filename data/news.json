@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-02-11T08:59:08.340178+00:00",
+  "lastUpdated": "2026-02-12T08:56:53.209689+00:00",
   "articles": [
+    {
+      "id": "2f80b3a47d29",
+      "title": "MERIT Feedback Elicits Better Bargaining in LLM Negotiators",
+      "summary": "arXiv:2602.10467v1 Announce Type: new Abstract: Bargaining is often regarded as a logical arena rather than an art or a matter of intuition, yet Large Language Models (LLMs) still struggle to navigate",
+      "url": "https://arxiv.org/abs/2602.10467",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-12T00:00:00-05:00",
+      "scrapedAt": "2026-02-12T08:55:58.845714+00:00"
+    },
+    {
+      "id": "a83b0b22b6ed",
+      "title": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving",
+      "summary": "arXiv:2602.10458v1 Announce Type: new Abstract: Reinforcement Learning (RL) has emerged as a dominant paradigm for end-to-end autonomous driving (AD). However, RL suffers from sample inefficiency and ",
+      "url": "https://arxiv.org/abs/2602.10458",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-12T00:00:00-05:00",
+      "scrapedAt": "2026-02-12T08:55:58.845602+00:00"
+    },
+    {
+      "id": "f45d64da2e80",
+      "title": "LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation",
+      "summary": "arXiv:2602.10367v1 Announce Type: new Abstract: The deployment of Large Language Models (LLMs) in high-stakes clinical settings demands rigorous and reliable evaluation. However, existing medical benc",
+      "url": "https://arxiv.org/abs/2602.10367",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-12T00:00:00-05:00",
+      "scrapedAt": "2026-02-12T08:55:58.845469+00:00"
+    },
+    {
+      "id": "524a6c677dd8",
+      "title": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
+      "summary": "arXiv:2602.10324v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly deployed in social and strategic scenarios, it becomes critical to understand where and why their behav",
+      "url": "https://arxiv.org/abs/2602.10324",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-12T00:00:00-05:00",
+      "scrapedAt": "2026-02-12T08:55:58.845302+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.322177+00:00"
+    },
+    {
+      "id": "32b74a41ea28",
+      "title": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
+      "summary": "The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed.",
+      "url": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T18:00:00+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.109488+00:00"
+    },
+    {
+      "id": "638a2c6e4cd1",
+      "title": "Why the economics of orbital AI are so brutal",
+      "summary": "A 1 GW orbital data center would cost roughly $42.4 billion — almost three times its ground-bound equivalent.",
+      "url": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T18:15:21+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.109417+00:00"
+    },
+    {
+      "id": "e07349983ab3",
+      "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+      "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mou",
+      "url": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T20:47:00+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.109343+00:00"
+    },
+    {
+      "id": "636873458307",
+      "title": "Who will own your company’s AI layer? Glean’s CEO explains",
+      "summary": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it? Glean, which starte",
+      "url": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T20:49:07+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.109252+00:00"
+    },
+    {
+      "id": "1ae6ce3876ab",
+      "title": "Glean’s fight to own the AI layer inside every company",
+      "summary": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it? Glean, which starte",
+      "url": "https://techcrunch.com/podcast/glean-arvind-jain-equity-podcast-own-the-ai-layer-inside-every-company/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T21:07:28+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.109117+00:00"
+    },
+    {
+      "id": "0851e76eed60",
+      "title": "Uber Eats launches AI assistant to help with grocery cart creation",
+      "summary": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
+      "url": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T21:07:37+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.080617+00:00"
+    },
+    {
+      "id": "534c9aea7b16",
+      "title": "Apple’s Siri revamp reportedly delayed… again",
+      "summary": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May",
+      "url": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T21:19:46+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.080542+00:00"
+    },
+    {
+      "id": "986418e2d5bb",
+      "title": "OpenAI disbands mission alignment team",
+      "summary": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
+      "url": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T21:57:18+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.080466+00:00"
+    },
+    {
+      "id": "e7dcf295fc8d",
+      "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+      "summary": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
+      "url": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T22:48:35+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.080393+00:00"
+    },
+    {
+      "id": "6778a9c4fc1b",
+      "title": "xAI lays out interplanetary ambitions in public all-hands",
+      "summary": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
+      "url": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T23:29:08+00:00",
+      "scrapedAt": "2026-02-12T08:55:58.080305+00:00"
+    },
+    {
+      "id": "42d80ec95c72",
+      "title": "Navigating health questions with ChatGPT",
+      "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+      "url": "https://openai.com/index/navigating-health-questions",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-05T00:00:00+00:00",
+      "scrapedAt": "2026-02-12T08:55:57.963095+00:00"
+    },
+    {
+      "id": "118cb8ef5426",
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "summary": "By Ryan Lopopolo, Member of the Technical Staff",
+      "url": "https://openai.com/index/harness-engineering",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-11T09:00:00+00:00",
+      "scrapedAt": "2026-02-12T08:55:57.962526+00:00"
+    },
+    {
+      "id": "1eabfc9fe70e",
+      "title": "The latest AI news we announced in January",
+      "summary": "Google AI announcements from January",
+      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-04T16:55:00+00:00",
+      "scrapedAt": "2026-02-12T08:55:57.499709+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LatestAI_v5.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "1ca5a0160866",
+      "title": "From guardrails to governance: A CEO’s guide for securing agentic systems",
+      "summary": "The previous article in this series, “ Rules fail at the prompt, succeed at the boundary ,” focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This articl",
+      "url": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-04T14:00:00+00:00",
+      "scrapedAt": "2026-02-12T08:55:57.136888+00:00"
+    },
+    {
+      "id": "26db947a58b2",
+      "title": "Is a secure AI assistant possible?",
+      "summary": "AI agents are a risky business. Even when stuck inside the chatbox window, LLMs will make mistakes and behave badly. Once they have tools that they can use to interact with the outside world, such as ",
+      "url": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T20:08:35+00:00",
+      "scrapedAt": "2026-02-12T08:55:57.125390+00:00"
+    },
     {
       "id": "cfa967ab23c6",
       "title": "Auditing Multi-Agent LLM Reasoning Trees Outperforms Majority Vote and LLM-as-Judge",
@@ -1209,207 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-02-05T10:00:00+00:00",
       "scrapedAt": "2026-02-06T08:53:20.266613+00:00"
-    },
-    {
-      "id": "d0c8ef7db5e7",
-      "title": "Knowledge Model Prompting Increases LLM Performance on Planning Tasks",
-      "summary": "arXiv:2602.03900v1 Announce Type: new Abstract: Large Language Models (LLM) can struggle with reasoning ability and planning tasks. Many prompting techniques have been developed to assist with LLM rea",
-      "url": "https://arxiv.org/abs/2602.03900",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-05T00:00:00-05:00",
-      "scrapedAt": "2026-02-05T08:53:24.061130+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.695478+00:00"
-    },
-    {
-      "id": "26b54c6ea37c",
-      "title": "Roblox’s 4D creation feature is now available in open beta",
-      "summary": "Roblox's highly anticipated 4D creation feature has officially arrived in open beta.",
-      "url": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T17:00:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.368319+00:00"
-    },
-    {
-      "id": "bb38075431dc",
-      "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
-      "summary": "Tinder is testing AI recommendations and insight from your Camera Roll for better matches.",
-      "url": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T18:08:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.368245+00:00"
-    },
-    {
-      "id": "3623e7304d71",
-      "title": "What a16z is actually funding (and what it’s ignoring) when it comes to AI infra",
-      "summary": "Andreessen Horowitz just raised a whopping new $15 billion in funding. And a $1.7 billion chunk of that is going to its infrastructure team, the one responsible for some of its biggest, most prominent",
-      "url": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T20:19:12+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.368124+00:00"
-    },
-    {
-      "id": "e2881b2ed043",
-      "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
-      "summary": "Andreessen Horowitz just raised a whopping ⁠new $15 billion in funding⁠. And a $1.7 billion chunk of that is going to its ⁠infrastructure team⁠, the one responsible for some of its biggest, most promi",
-      "url": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T20:24:12+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.367904+00:00"
-    },
-    {
-      "id": "9102561f136b",
-      "title": "Amazon to begin testing AI tools for film and TV production next month",
-      "summary": "Amazon MGM Studios will reportedly begin a closed beta program in March to test its AI tools to help with film and TV production.",
-      "url": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T21:26:43+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.358252+00:00"
-    },
-    {
-      "id": "44781d878057",
-      "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
-      "summary": "The two-year-old startup confirms that it closed a Series A led by Lightspeed at $1 billion valuation.",
-      "url": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T21:39:26+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.358175+00:00"
-    },
-    {
-      "id": "a1a95a6402cb",
-      "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
-      "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun.",
-      "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T21:45:32+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.358091+00:00"
-    },
-    {
-      "id": "5e73391c78ad",
-      "title": "Google’s Gemini app has surpassed 750M monthly active users",
-      "summary": "Google revealed a significant milestone for its Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
-      "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T22:53:46+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.358023+00:00"
-    },
-    {
-      "id": "d8675af27ee2",
-      "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
-      "summary": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
-      "url": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T23:28:31+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.357951+00:00"
-    },
-    {
-      "id": "072715feed62",
-      "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
-      "summary": "He posted a novella-sized rant that devolved into to calling his rival \"dishonest\" and \"authoritarian.\"",
-      "url": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-05T00:45:11+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.357872+00:00"
-    },
-    {
-      "id": "6a8d895b91c1",
-      "title": "EMEA Youth & Wellbeing Grant",
-      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-01-28T01:00:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.282477+00:00"
-    },
-    {
-      "id": "8a585390ee56",
-      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-      "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
-      "url": "https://openai.com/index/vfl-wolfsburg",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-04T00:00:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.281913+00:00"
-    },
-    {
-      "id": "8207a8a99cd4",
-      "title": "Unlocking the Codex harness: how we built the App Server",
-      "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
-      "url": "https://openai.com/index/unlocking-the-codex-harness",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-04T13:00:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.281833+00:00"
-    },
-    {
-      "id": "42d80ec95c72",
-      "title": "Navigating health questions with ChatGPT",
-      "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-      "url": "https://openai.com/index/navigating-health-questions",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-05T00:00:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:23.281747+00:00"
-    },
-    {
-      "id": "1eabfc9fe70e",
-      "title": "The latest AI news we announced in January",
-      "summary": "Google AI announcements from January",
-      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-04T16:55:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:22.636324+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LatestAI_v5.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "a2225af0b24e",
-      "title": "Rules fail at the prompt, succeed at the boundary",
-      "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic’s Claude code as an automated intrusion engine, the coercion of human-in-the-loop ag",
-      "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T14:00:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:22.386243+00:00"
-    },
-    {
-      "id": "fd84872e94c8",
-      "title": "What AI “remembers” about you is privacy’s next frontier",
-      "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents. Earlier this month, Google announced Personal Intelligence , a new way for people t",
-      "url": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-01-28T14:57:37+00:00",
-      "scrapedAt": "2026-02-05T08:53:22.384254+00:00"
-    },
-    {
-      "id": "1ca5a0160866",
-      "title": "From guardrails to governance: A CEO’s guide for securing agentic systems",
-      "summary": "The previous article in this series, “ Rules fail at the prompt, succeed at the boundary ,” focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This articl",
-      "url": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T14:00:00+00:00",
-      "scrapedAt": "2026-02-05T08:53:22.377209+00:00"
     }
   ]
 }
