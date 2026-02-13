@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-02-12T08:56:53.209689+00:00",
+  "lastUpdated": "2026-02-13T08:54:12.582377+00:00",
   "articles": [
+    {
+      "id": "f8d160db4376",
+      "title": "Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization",
+      "summary": "arXiv:2602.11351v1 Announce Type: new Abstract: Proactive large language model (LLM) agents aim to actively plan, query, and interact over multiple turns, enabling efficient task completion beyond pas",
+      "url": "https://arxiv.org/abs/2602.11351",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-13T00:00:00-05:00",
+      "scrapedAt": "2026-02-13T08:53:16.171343+00:00"
+    },
+    {
+      "id": "aae39c2c84ed",
+      "title": "AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition",
+      "summary": "arXiv:2602.11348v1 Announce Type: new Abstract: Recent advances in large language models have enabled LLM-based agents to achieve strong performance on a variety of benchmarks. However, their performa",
+      "url": "https://arxiv.org/abs/2602.11348",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-13T00:00:00-05:00",
+      "scrapedAt": "2026-02-13T08:53:16.171227+00:00"
+    },
+    {
+      "id": "cb23005d9ff5",
+      "title": "Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge",
+      "summary": "arXiv:2602.11340v1 Announce Type: new Abstract: Large language models (LLMs) have become widely adopted as automated judges for evaluating AI-generated content. Despite their success, aligning LLM-bas",
+      "url": "https://arxiv.org/abs/2602.11340",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-13T00:00:00-05:00",
+      "scrapedAt": "2026-02-13T08:53:16.171097+00:00"
+    },
+    {
+      "id": "492a3f52a97b",
+      "title": "Dissecting Subjectivity and the \"Ground Truth\" Illusion in Data Annotation",
+      "summary": "arXiv:2602.11318v1 Announce Type: new Abstract: In machine learning, \"ground truth\" refers to the assumed correct labels used to train and evaluate models. However, the foundational \"ground truth\" par",
+      "url": "https://arxiv.org/abs/2602.11318",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-13T00:00:00-05:00",
+      "scrapedAt": "2026-02-13T08:53:16.170984+00:00"
+    },
+    {
+      "id": "7b68a7bd13a8",
+      "title": "The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates",
+      "summary": "arXiv:2602.11301v1 Announce Type: new Abstract: Enterprises are rapidly deploying large language models, retrieval augmented generation pipelines, and tool using agents into production, often on share",
+      "url": "https://arxiv.org/abs/2602.11301",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-13T00:00:00-05:00",
+      "scrapedAt": "2026-02-13T08:53:16.170855+00:00"
+    },
+    {
+      "id": "875619d9c4da",
+      "title": "Voxtral Realtime",
+      "summary": "arXiv:2602.11298v1 Announce Type: new Abstract: We introduce Voxtral Realtime, a natively streaming automatic speech recognition model that matches offline transcription quality at sub-second latency.",
+      "url": "https://arxiv.org/abs/2602.11298",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-13T00:00:00-05:00",
+      "scrapedAt": "2026-02-13T08:53:16.170722+00:00"
+    },
+    {
+      "id": "3c9f46c11b15",
+      "title": "On Decision-Valued Maps and Representational Dependence",
+      "summary": "arXiv:2602.11295v1 Announce Type: new Abstract: A computational engine applied to different representations of the same data can produce different discrete outcomes, with some representations preservi",
+      "url": "https://arxiv.org/abs/2602.11295",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-13T00:00:00-05:00",
+      "scrapedAt": "2026-02-13T08:53:16.170628+00:00"
+    },
+    {
+      "id": "08f41e3c3fde",
+      "title": "Latent Generative Solvers for Generalizable Long-Term Physics Simulation",
+      "summary": "arXiv:2602.11229v1 Announce Type: new Abstract: We study long-horizon surrogate simulation across heterogeneous PDE systems. We introduce Latent Generative Solvers (LGS), a two-stage framework that (i",
+      "url": "https://arxiv.org/abs/2602.11229",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-13T00:00:00-05:00",
+      "scrapedAt": "2026-02-13T08:53:16.170527+00:00"
+    },
+    {
+      "id": "1e1526580bc7",
+      "title": "Explaining AI Without Code: A User Study on Explainable AI",
+      "summary": "arXiv:2602.11159v1 Announce Type: new Abstract: The increasing use of Machine Learning (ML) in sensitive domains such as healthcare, finance, and public policy has raised concerns about the transparen",
+      "url": "https://arxiv.org/abs/2602.11159",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-13T00:00:00-05:00",
+      "scrapedAt": "2026-02-13T08:53:16.170395+00:00"
+    },
+    {
+      "id": "d91fed4b27c7",
+      "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+      "summary": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker.",
+      "url": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T18:00:00+00:00",
+      "scrapedAt": "2026-02-13T08:53:15.046660+00:00"
+    },
+    {
+      "id": "315007c2a26b",
+      "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+      "summary": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
+      "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T18:30:12+00:00",
+      "scrapedAt": "2026-02-13T08:53:15.046594+00:00"
+    },
+    {
+      "id": "57b5fe24cb47",
+      "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+      "summary": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
+      "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T20:18:37+00:00",
+      "scrapedAt": "2026-02-13T08:53:15.046528+00:00"
+    },
+    {
+      "id": "7272fcaea6a5",
+      "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
+      "summary": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and ta",
+      "url": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T20:31:47+00:00",
+      "scrapedAt": "2026-02-13T08:53:15.046459+00:00"
+    },
+    {
+      "id": "f8f226c36cdd",
+      "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
+      "summary": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
+      "url": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T22:10:55+00:00",
+      "scrapedAt": "2026-02-13T08:53:15.046377+00:00"
+    },
+    {
+      "id": "d79e93738c63",
+      "title": "IBM will hire your entry-level talent in the age of AI",
+      "summary": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
+      "url": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T23:23:17+00:00",
+      "scrapedAt": "2026-02-13T08:53:15.046307+00:00"
+    },
+    {
+      "id": "ddd8ed6c12bd",
+      "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
+      "summary": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+      "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T23:26:56+00:00",
+      "scrapedAt": "2026-02-13T08:53:15.046223+00:00"
+    },
+    {
+      "id": "882674348fab",
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-12T10:00:00+00:00",
+      "scrapedAt": "2026-02-13T08:53:14.877493+00:00"
+    },
+    {
+      "id": "e795181f01f6",
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "summary": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-12T16:13:00+00:00",
+      "scrapedAt": "2026-02-13T08:53:14.263486+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_keyword_hea.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7f27d8de89fd",
+      "title": "What’s next for Chinese open-source AI",
+      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . The past year has marked a tu",
+      "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T10:00:00+00:00",
+      "scrapedAt": "2026-02-13T08:53:13.883725+00:00"
+    },
+    {
+      "id": "d9060baace8f",
+      "title": "AI is already making online crimes easier. It could get much worse.",
+      "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him",
+      "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T11:00:00+00:00",
+      "scrapedAt": "2026-02-13T08:53:13.881647+00:00"
+    },
     {
       "id": "2f80b3a47d29",
       "title": "MERIT Feedback Elicits Better Bargaining in LLM Negotiators",
