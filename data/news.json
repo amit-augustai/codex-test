@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-02-14T08:41:23.225888+00:00",
+  "lastUpdated": "2026-02-15T08:41:57.548275+00:00",
   "articles": [
+    {
+      "id": "0f245090a8b3",
+      "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+      "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
+      "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-02-13T21:56:18+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.609141+00:00"
+    },
+    {
+      "id": "db99e176cb9f",
+      "title": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
+      "summary": "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents' electricity bills. The company said it would pay higher monthly electricity charges in order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T17:37:02-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.550031+00:00"
+    },
+    {
+      "id": "eb9025461806",
+      "title": "Two more xAI co-founders are among those leaving after the SpaceX merger",
+      "summary": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a hand",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T18:26:43-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.549559+00:00"
+    },
+    {
+      "id": "f8bc8c6381e2",
+      "title": "This $7,999 robot will fold (some of) your laundry",
+      "summary": "Isaac 0 is a stationary robot with one job: folding laundry. | Image: Weave Robotics If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and",
+      "url": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T07:59:06-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.549134+00:00"
+    },
+    {
+      "id": "98802f7d49f8",
+      "title": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video",
+      "summary": "ByteDance says its new AI video model can more accurately follow prompts. | Image: ByteDance Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video ge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T10:26:00-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.548616+00:00"
+    },
+    {
+      "id": "5da3918e056f",
+      "title": "The surprising case for AI judges",
+      "summary": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My g",
+      "url": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T11:22:33-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.548101+00:00"
+    },
+    {
+      "id": "314969850031",
+      "title": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech",
+      "summary": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's",
+      "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T12:45:00-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.533908+00:00"
+    },
+    {
+      "id": "7fecafa9b4de",
+      "title": "Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted",
+      "summary": "Meta aims to introduce facial recognition to its smart glasses while its biggest critics are distracted, according to a report from The New York Times . In an internal document reviewed by The Times ,",
+      "url": "https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-13T10:05:44-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.533305+00:00"
+    },
+    {
+      "id": "6dd27beef127",
+      "title": "Ring&#8217;s adorable surveillance hellscape",
+      "summary": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connec",
+      "url": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-13T11:10:45-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.532857+00:00"
+    },
+    {
+      "id": "cba54599f467",
+      "title": "What’s behind the mass exodus at xAI?",
+      "summary": "The past few days have been a wild ride for xAI, which is racking up staff and cofounder departure announcements left and right. On Tuesday and Wednesday, cofounder Yuhuai (Tony) Wu announced his depa",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-13T12:10:44-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.532169+00:00"
+    },
+    {
+      "id": "a1208ff1a38c",
+      "title": "My uncanny AI valentines",
+      "summary": "Phoebe Callas, 30, is not real, but she was an AI companion I went on a speed date with. Hopping over a pile of dirty snow, I arrived on a frigid February evening at a wine bar in midtown, a purple ne",
+      "url": "https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-14T10:00:00-05:00",
+      "scrapedAt": "2026-02-15T08:41:01.531468+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.302449+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.300450+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.293301+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.289624+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.281071+00:00"
+    },
+    {
+      "id": "cf42cdecbcdb",
+      "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
+      "summary": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
+      "url": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-14T16:23:22+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.047385+00:00"
+    },
+    {
+      "id": "ae5fbfe7d362",
+      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+      "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+      "url": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-14T18:26:52+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.047310+00:00"
+    },
+    {
+      "id": "a7380418621b",
+      "title": "Is safety ‘dead’ at xAI?",
+      "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+      "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-14T21:55:44+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.047231+00:00"
+    },
+    {
+      "id": "1ff8d564698c",
+      "title": "The great computer science exodus (and where students are going instead)",
+      "summary": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.",
+      "url": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-15T08:40:27+00:00",
+      "scrapedAt": "2026-02-15T08:41:01.047146+00:00"
+    },
     {
       "id": "16949c3e0dc7",
       "title": "Cohere’s $240M year sets stage for IPO",
@@ -1211,206 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-02-08T20:19:47+00:00",
       "scrapedAt": "2026-02-09T09:01:23.175127+00:00"
-    },
-    {
-      "id": "905e08b664c7",
-      "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
-      "summary": "“Too many GPUs makes you lazy,” says the French startup’s vice president of science operations, as the company carves out a different path than the major US AI companies.",
-      "url": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T15:32:45+00:00",
-      "scrapedAt": "2026-02-08T08:40:31.764900+00:00"
-    },
-    {
-      "id": "1cac5a5a4b17",
-      "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
-      "summary": "Axiom says its AI found solutions to several long-standing math problems, a sign of the technology’s steadily advancing reasoning capabilities.",
-      "url": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-04T19:00:00+00:00",
-      "scrapedAt": "2026-02-08T08:40:31.764835+00:00"
-    },
-    {
-      "id": "f78a2f034512",
-      "title": "Hollywood Is Losing Audiences to AI Fatigue",
-      "summary": "Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.",
-      "url": "https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-05T10:30:00+00:00",
-      "scrapedAt": "2026-02-08T08:40:31.764777+00:00"
-    },
-    {
-      "id": "ab33cc49822d",
-      "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
-      "summary": "ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy r",
-      "url": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-05T20:28:34+00:00",
-      "scrapedAt": "2026-02-08T08:40:31.764720+00:00"
-    },
-    {
-      "id": "85f2310a1446",
-      "title": "Loyalty Is Dead in Silicon Valley",
-      "summary": "Founders used to be wedded to their companies. Now, anyone can be lured away for the right price.",
-      "url": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-05T21:33:11+00:00",
-      "scrapedAt": "2026-02-08T08:40:31.764654+00:00"
-    },
-    {
-      "id": "28806a780142",
-      "title": "The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?",
-      "summary": "As AI systems grow more powerful, Anthropic’s resident philosopher says the startup is betting Claude itself can learn the wisdom needed to avoid disaster.",
-      "url": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-06T16:33:18+00:00",
-      "scrapedAt": "2026-02-08T08:40:31.764595+00:00"
-    },
-    {
-      "id": "9c4ec715758a",
-      "title": "New York Is the Latest State to Consider a Data Center Pause",
-      "summary": "Red and blue states alike have introduced legislation in recent weeks that would halt data center development, citing concerns from climate to high energy prices.",
-      "url": "https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-06T18:58:46+00:00",
-      "scrapedAt": "2026-02-08T08:40:31.764529+00:00"
-    },
-    {
-      "id": "2a87f5833390",
-      "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data",
-      "summary": "Plus: Apple’s Lockdown mode keeps the FBI out of a reporter’s phone, Elon Musk’s Starlink cuts off Russian forces, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-07T11:30:00+00:00",
-      "scrapedAt": "2026-02-08T08:40:31.764465+00:00"
-    },
-    {
-      "id": "dde9aeefd770",
-      "title": "The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games",
-      "summary": "From drones with “first-person” visualization to real-time 360-degree replays and Olympics GPT, get ready to immerse yourself in the Winter Games in Milan and Cortina.",
-      "url": "https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-07T12:00:00+00:00",
-      "scrapedAt": "2026-02-08T08:40:31.764388+00:00"
-    },
-    {
-      "id": "e80d7bab29e8",
-      "title": "OpenAI Frontier is a single platform to control your AI agents",
-      "summary": "Managing humans is hard. Managing AI agents is… also hard. That's why OpenAI is launching a new platform called OpenAI Frontier, which it says will help businesses \"build, deploy, and manage\" AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-05T09:00:00-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.617715+00:00"
-    },
-    {
-      "id": "82652b6011c7",
-      "title": "Reality is losing the deepfake war",
-      "summary": "Today, we’re going to talk about reality, and whether we can label photos and videos to protect our shared understanding of the world around us. No really, we’re gonna go there. It’s a deep one. To do",
-      "url": "https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-05T10:00:00-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.617355+00:00"
-    },
-    {
-      "id": "b230cbaee682",
-      "title": "Nvidia&#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
-      "summary": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January , but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to releas",
-      "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-05T11:33:27-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.608824+00:00"
-    },
-    {
-      "id": "c9eccc36b797",
-      "title": "Anthropic debuts new model with hopes to corner the market beyond coding",
-      "summary": "Anthropic's \"smartest model\" is getting a major boost, the company said in a blog post announcing Claude Opus 4.6. It called the new model a \"direct upgrade\" from its predecessor in a release, noting ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-05T13:00:00-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.608415+00:00"
-    },
-    {
-      "id": "2031cb97bef3",
-      "title": "Claude has been having a moment — can it keep it up?",
-      "summary": "Boris Cherny gets recognized in public relatively often. At the bar, at the airport, and in generally any public space, people want to take selfies with the creator and head of Claude Code. For the la",
-      "url": "https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-05T13:00:00-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.608090+00:00"
-    },
-    {
-      "id": "b35f1f13b63d",
-      "title": "How the men in the Epstein files defeated #MeToo",
-      "summary": "The boys’ club | Image: Cath Virginia / The Verge, Getty Images He might be dead, but it sure seems like Jeffrey Epstein won. Sure, Epstein was arrested on charges of sex trafficking minors. Sure, he ",
-      "url": "https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-06T08:00:00-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.607777+00:00"
-    },
-    {
-      "id": "6533eec93bf9",
-      "title": "How Epstein became a tech influencer",
-      "summary": "There are bold-faced tech names all over the Epstein files. Elon Musk, Bill Gates, Sergey Brin, Eric Schmidt, Larry Page, Reid Hoffman, Steven Sinofsky, Peter Thiel, Jeff Bezos, Mark Zuckerberg, on an",
-      "url": "https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-06T09:24:30-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.607325+00:00"
-    },
-    {
-      "id": "304c45a1055f",
-      "title": "What happens when Waymo runs into a tornado? Or an elephant?",
-      "summary": "An autonomous vehicle drives down a lonely stretch of highway. Suddenly, a massive tornado appears in the distance. What does the driverless vehicle do next? This is just one of the scenarios that Way",
-      "url": "https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-06T11:00:00-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.606763+00:00"
-    },
-    {
-      "id": "d04a079a76b7",
-      "title": "Apple might let you use ChatGPT from CarPlay",
-      "summary": "CarPlay users could soon be able to use their chatbot of choice instead of Siri. As Bloomberg reports, Apple is working to add support for CarPlay voice control apps from OpenAI, Anthropic, Google, an",
-      "url": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-06T16:32:44-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.606384+00:00"
-    },
-    {
-      "id": "aba921c3b378",
-      "title": "Super Bowl LX ads: all AI everything",
-      "summary": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much l",
-      "url": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-07T18:10:44-05:00",
-      "scrapedAt": "2026-02-08T08:40:31.605919+00:00"
-    },
-    {
-      "id": "398897d408eb",
-      "title": "New York lawmakers propose a three-year pause on new data centers",
-      "summary": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
-      "url": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-07T18:23:04+00:00",
-      "scrapedAt": "2026-02-08T08:40:30.894527+00:00"
     }
   ]
 }
