@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-02-15T08:41:57.548275+00:00",
+  "lastUpdated": "2026-02-16T08:58:21.073238+00:00",
   "articles": [
+    {
+      "id": "666f3311c868",
+      "title": "Abstractive Red-Teaming of Language Model Character",
+      "summary": "arXiv:2602.12318v1 Announce Type: new Abstract: We want language model assistants to conform to a character specification, which asserts how the model should act across diverse user interactions. Whil",
+      "url": "https://arxiv.org/abs/2602.12318",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.935259+00:00"
+    },
+    {
+      "id": "190ad134d4a6",
+      "title": "OptiML: An End-to-End Framework for Program Synthesis and CUDA Kernel Optimization",
+      "summary": "arXiv:2602.12305v1 Announce Type: new Abstract: Generating high-performance CUDA kernels remains challenging due to the need to navigate a combinatorial space of low-level transformations under noisy ",
+      "url": "https://arxiv.org/abs/2602.12305",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.935121+00:00"
+    },
+    {
+      "id": "f6d6c8cbde71",
+      "title": "Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents",
+      "summary": "arXiv:2602.12662v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents for multi-turn decision-making tasks. However, current agents typically rely",
+      "url": "https://arxiv.org/abs/2602.12662",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.721552+00:00"
+    },
+    {
+      "id": "3c28f81aaf62",
+      "title": "AI Agents for Inventory Control: Human-LLM-OR Complementarity",
+      "summary": "arXiv:2602.12631v1 Announce Type: new Abstract: Inventory control is a fundamental operations problem in which ordering decisions are traditionally guided by theoretically grounded operations research",
+      "url": "https://arxiv.org/abs/2602.12631",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.721438+00:00"
+    },
+    {
+      "id": "678b74966cd1",
+      "title": "GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics",
+      "summary": "arXiv:2602.12617v1 Announce Type: new Abstract: This paper presents GeoAgent, a model capable of reasoning closely with humans and deriving fine-grained address conclusions. Previous RL-based methods ",
+      "url": "https://arxiv.org/abs/2602.12617",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.721307+00:00"
+    },
+    {
+      "id": "6694e9d3566a",
+      "title": "Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models",
+      "summary": "arXiv:2602.12586v1 Announce Type: new Abstract: While plan-and-infill decoding in Masked Diffusion Models (MDMs) shows promise for mathematical and code reasoning, performance remains highly sensitive",
+      "url": "https://arxiv.org/abs/2602.12586",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.721203+00:00"
+    },
+    {
+      "id": "e15284dcd934",
+      "title": "To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models",
+      "summary": "arXiv:2602.12566v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) plays a key role in stimulating the explicit reasoning capability of Large Language Models (LLMs).",
+      "url": "https://arxiv.org/abs/2602.12566",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.721096+00:00"
+    },
+    {
+      "id": "6d893408265b",
+      "title": "Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation",
+      "summary": "arXiv:2602.12544v1 Announce Type: new Abstract: We present a scalable pipeline for automatically generating high-quality training data for web agents. In particular, a major challenge in identifying h",
+      "url": "https://arxiv.org/abs/2602.12544",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.720980+00:00"
+    },
+    {
+      "id": "f5887b62b285",
+      "title": "Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models",
+      "summary": "arXiv:2602.12419v1 Announce Type: new Abstract: The increasing complexity of smart manufacturing environments demands interfaces that can translate high-level human intents into machine-executable act",
+      "url": "https://arxiv.org/abs/2602.12419",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.720879+00:00"
+    },
+    {
+      "id": "09d2adc93cad",
+      "title": "Evolving Beyond Snapshots: Harmonizing Structure and Sequence via Entity State Tuning for Temporal Knowledge Graph Forecasting",
+      "summary": "arXiv:2602.12389v1 Announce Type: new Abstract: Temporal knowledge graph (TKG) forecasting requires predicting future facts by jointly modeling structural dependencies within each snapshot and tempora",
+      "url": "https://arxiv.org/abs/2602.12389",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.720778+00:00"
+    },
+    {
+      "id": "0428da9de419",
+      "title": "A Theoretical Framework for Adaptive Utility-Weighted Benchmarking",
+      "summary": "arXiv:2602.12356v1 Announce Type: new Abstract: Benchmarking has long served as a foundational practice in machine learning and, increasingly, in modern AI systems such as large language models, where",
+      "url": "https://arxiv.org/abs/2602.12356",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.720639+00:00"
+    },
+    {
+      "id": "ea061aa862bb",
+      "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
+      "summary": "arXiv:2602.12316v1 Announce Type: new Abstract: Frontier AI systems are increasingly capable and deployed in high-stakes multi-agent environments. However, existing AI safety benchmarks largely evalua",
+      "url": "https://arxiv.org/abs/2602.12316",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-16T00:00:00-05:00",
+      "scrapedAt": "2026-02-16T08:57:27.720505+00:00"
+    },
+    {
+      "id": "34808182f28a",
+      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+      "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+      "url": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-15T15:41:16+00:00",
+      "scrapedAt": "2026-02-16T08:57:27.025190+00:00"
+    },
+    {
+      "id": "ddf7d0d5afc3",
+      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+      "summary": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
+      "url": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-15T17:30:00+00:00",
+      "scrapedAt": "2026-02-16T08:57:27.025118+00:00"
+    },
+    {
+      "id": "a1d106db9329",
+      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+      "summary": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+      "url": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-15T18:00:00+00:00",
+      "scrapedAt": "2026-02-16T08:57:27.025051+00:00"
+    },
+    {
+      "id": "a76fcbc8453b",
+      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "summary": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
+      "url": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-15T21:11:28+00:00",
+      "scrapedAt": "2026-02-16T08:57:27.024986+00:00"
+    },
+    {
+      "id": "a5e0747ba295",
+      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
+      "summary": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
+      "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-15T22:07:51+00:00",
+      "scrapedAt": "2026-02-16T08:57:27.024917+00:00"
+    },
+    {
+      "id": "0aae42736e23",
+      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+      "summary": "OpenAI said OpenClaw will live on as an open source project.",
+      "url": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-15T22:28:02+00:00",
+      "scrapedAt": "2026-02-16T08:57:27.024837+00:00"
+    },
+    {
+      "id": "2bd2cc215ebd",
+      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+      "summary": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+      "url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-16T00:30:00+00:00",
+      "scrapedAt": "2026-02-16T08:57:27.024768+00:00"
+    },
+    {
+      "id": "f7275eb23931",
+      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+      "summary": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+      "url": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-16T01:00:00+00:00",
+      "scrapedAt": "2026-02-16T08:57:27.024681+00:00"
+    },
     {
       "id": "0f245090a8b3",
       "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
