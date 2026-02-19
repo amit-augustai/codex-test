@@ -1,6 +1,211 @@
 {
-  "lastUpdated": "2026-02-18T08:55:55.435111+00:00",
+  "lastUpdated": "2026-02-19T08:55:07.999985+00:00",
   "articles": [
+    {
+      "id": "e925abc10ab6",
+      "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems",
+      "summary": "arXiv:2602.16012v1 Announce Type: new Abstract: Neural solvers have achieved impressive progress in addressing simple routing problems, particularly excelling in computational efficiency. However, the",
+      "url": "https://arxiv.org/abs/2602.16012",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-19T00:00:00-05:00",
+      "scrapedAt": "2026-02-19T08:54:12.792064+00:00"
+    },
+    {
+      "id": "45d872718dce",
+      "title": "OpenAI pushes into higher education as India seeks to scale AI skills",
+      "summary": "OpenAI says its India education partnerships aim to reach more than 100,000 students, faculty, and staff over the next year.",
+      "url": "https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T14:32:42+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977886+00:00"
+    },
+    {
+      "id": "6de4bc2b5c5a",
+      "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
+      "summary": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
+      "url": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T14:44:28+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977821+00:00"
+    },
+    {
+      "id": "a54b98cef3d4",
+      "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
+      "summary": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
+      "url": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T15:08:40+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977744+00:00"
+    },
+    {
+      "id": "97443c3e2a88",
+      "title": "Google adds music-generation capabilities to the Gemini app",
+      "summary": "Users will be able to use text, images, and videos as a reference to generate music.",
+      "url": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T16:00:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977677+00:00"
+    },
+    {
+      "id": "a5ddf64a05a9",
+      "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+      "summary": "The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.",
+      "url": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T18:07:16+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977611+00:00"
+    },
+    {
+      "id": "2323d5e08437",
+      "title": "Amazon halts Blue Jay robotics project after less than 6 months",
+      "summary": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
+      "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T18:27:10+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977534+00:00"
+    },
+    {
+      "id": "25fa047a5311",
+      "title": "Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
+      "summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to ",
+      "url": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T20:22:29+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977462+00:00"
+    },
+    {
+      "id": "b6f182345732",
+      "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+      "summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to ",
+      "url": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T21:07:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977372+00:00"
+    },
+    {
+      "id": "bf058bbbcc75",
+      "title": "OpenAI deepens India push with Pine Labs fintech partnership",
+      "summary": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
+      "url": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-19T03:30:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977278+00:00"
+    },
+    {
+      "id": "f440fde9418f",
+      "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
+      "summary": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
+      "url": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-19T05:34:25+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.977198+00:00"
+    },
+    {
+      "id": "2c652b1871a9",
+      "title": "Introducing OpenAI for India",
+      "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+      "url": "https://openai.com/index/openai-for-india",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-18T21:00:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.894751+00:00"
+    },
+    {
+      "id": "35caebc0ee7b",
+      "title": "9 fun questions to try asking Google Photos",
+      "summary": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
+      "url": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-10T17:00:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.348920+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025-Travel-Trends_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "038660ff6222",
+      "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
+      "summary": "An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-18T10:30:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.348652+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Summit-Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "8684042cac98",
+      "title": "A new way to express yourself: Gemini can now create music",
+      "summary": "Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-18T16:00:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.348557+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0217_KeywordHeaderFinalc.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a868c2239356",
+      "title": "AI Impact Summit 2026",
+      "summary": "A look at the partnerships and investments Google announced at the AI Impact Summit 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-19T04:30:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.348452+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "15495d405832",
+      "title": "“No technology has me dreaming bigger than AI”",
+      "summary": "CEO Sundar Pichai’s remarks at the opening ceremony of the AI Impact Summit 2026",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-19T04:30:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.348346+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Google_2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5f5ee2c27862",
+      "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
+      "summary": "In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his wor",
+      "url": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-10T17:00:24+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.091043+00:00"
+    },
+    {
+      "id": "7f5f7455c100",
+      "title": "The robots who predict the future",
+      "summary": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us",
+      "url": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T11:00:00+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.082266+00:00"
+    },
+    {
+      "id": "c646cce30b08",
+      "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
+      "summary": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the ",
+      "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T16:00:22+00:00",
+      "scrapedAt": "2026-02-19T08:54:11.079302+00:00"
+    },
     {
       "id": "a102a18a5efc",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
@@ -1410,207 +1615,6 @@
       "category": "product",
       "publishedAt": "2026-02-11T20:08:35+00:00",
       "scrapedAt": "2026-02-12T08:55:57.125390+00:00"
-    },
-    {
-      "id": "cfa967ab23c6",
-      "title": "Auditing Multi-Agent LLM Reasoning Trees Outperforms Majority Vote and LLM-as-Judge",
-      "summary": "arXiv:2602.09341v1 Announce Type: new Abstract: Multi-agent systems (MAS) can substantially extend the reasoning capacity of large language models (LLMs), yet most frameworks still aggregate agent out",
-      "url": "https://arxiv.org/abs/2602.09341",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-11T00:00:00-05:00",
-      "scrapedAt": "2026-02-11T08:58:11.786566+00:00"
-    },
-    {
-      "id": "d6a7469106cf",
-      "title": "Measuring Dataset Diversity from a Geometric Perspective",
-      "summary": "arXiv:2602.09340v1 Announce Type: new Abstract: Diversity can be broadly defined as the presence of meaningful variation across elements, which can be viewed from multiple perspectives, including stat",
-      "url": "https://arxiv.org/abs/2602.09340",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-11T00:00:00-05:00",
-      "scrapedAt": "2026-02-11T08:58:11.786478+00:00"
-    },
-    {
-      "id": "da8ab1dc7d7c",
-      "title": "Human Control Is the Anchor, Not the Answer: Early Divergence of Oversight in Agentic AI Communities",
-      "summary": "arXiv:2602.09286v1 Announce Type: new Abstract: Oversight for agentic AI is often discussed as a single goal (\"human control\"), yet early adoption may produce role-specific expectations. We present a ",
-      "url": "https://arxiv.org/abs/2602.09286",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-11T00:00:00-05:00",
-      "scrapedAt": "2026-02-11T08:58:11.786390+00:00"
-    },
-    {
-      "id": "4bc43d210d4e",
-      "title": "FlyAOC: Evaluating Agentic Ontology Curation of Drosophila Scientific Knowledge Bases",
-      "summary": "arXiv:2602.09163v1 Announce Type: new Abstract: Scientific knowledge bases accelerate discovery by curating findings from primary literature into structured, queryable formats for both human researche",
-      "url": "https://arxiv.org/abs/2602.09163",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-11T00:00:00-05:00",
-      "scrapedAt": "2026-02-11T08:58:11.786299+00:00"
-    },
-    {
-      "id": "e367cd061331",
-      "title": "CoMMa: Contribution-Aware Medical Multi-Agents From A Game-Theoretic Perspective",
-      "summary": "arXiv:2602.09159v1 Announce Type: new Abstract: Recent multi-agent frameworks have broadened the ability to tackle oncology decision support tasks that require reasoning over dynamic, heterogeneous pa",
-      "url": "https://arxiv.org/abs/2602.09159",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-11T00:00:00-05:00",
-      "scrapedAt": "2026-02-11T08:58:11.786193+00:00"
-    },
-    {
-      "id": "637aad1f752c",
-      "title": "PABU: Progress-Aware Belief Update for Efficient LLM Agents",
-      "summary": "arXiv:2602.09138v1 Announce Type: new Abstract: Large Language Model (LLM) agents commonly condition actions on full action-observation histories, which introduce task-irrelevant information that easi",
-      "url": "https://arxiv.org/abs/2602.09138",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-11T00:00:00-05:00",
-      "scrapedAt": "2026-02-11T08:58:11.786106+00:00"
-    },
-    {
-      "id": "66862bb7349c",
-      "title": "Uncertainty-Aware Multimodal Emotion Recognition through Dirichlet Parameterization",
-      "summary": "arXiv:2602.09121v1 Announce Type: new Abstract: In this work, we present a lightweight and privacy-preserving Multimodal Emotion Recognition (MER) framework designed for deployment on edge devices. To",
-      "url": "https://arxiv.org/abs/2602.09121",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-11T00:00:00-05:00",
-      "scrapedAt": "2026-02-11T08:58:11.786014+00:00"
-    },
-    {
-      "id": "d80045745473",
-      "title": "A Small-Scale System for Autoregressive Program Synthesis Enabling Controlled Experimentation",
-      "summary": "arXiv:2602.09112v1 Announce Type: new Abstract: What research can be pursued with small models trained to complete true programs? Typically, researchers study program synthesis via large language mode",
-      "url": "https://arxiv.org/abs/2602.09112",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-11T00:00:00-05:00",
-      "scrapedAt": "2026-02-11T08:58:11.785896+00:00"
-    },
-    {
-      "id": "453ea292d5e7",
-      "title": "Hauler Hero collects $16M for its AI waste management software",
-      "summary": "Hauler Hero has seen its customer base, revenue, and head count double since the company raised its seed round in 2024.",
-      "url": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-10T15:00:00+00:00",
-      "scrapedAt": "2026-02-11T08:58:11.007260+00:00"
-    },
-    {
-      "id": "4205adc05806",
-      "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
-      "summary": "Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats.",
-      "url": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-10T16:00:00+00:00",
-      "scrapedAt": "2026-02-11T08:58:11.007186+00:00"
-    },
-    {
-      "id": "f84ed0df5400",
-      "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
-      "summary": "Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add backgrounds to text posts.",
-      "url": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-10T19:34:51+00:00",
-      "scrapedAt": "2026-02-11T08:58:11.007124+00:00"
-    },
-    {
-      "id": "4b04b44bd9e0",
-      "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
-      "summary": "Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO.",
-      "url": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-10T21:20:10+00:00",
-      "scrapedAt": "2026-02-11T08:58:11.007051+00:00"
-    },
-    {
-      "id": "51fff4e77b3d",
-      "title": "This Sequoia-backed lab thinks the brain is ‘the floor, not the ceiling’ for AI",
-      "summary": "AI lab Flapping Airplanes just landed $180 million in seed funding from the likes of Google Ventures, Sequoia, and Index to do something most labs have quietly given up on: making models learn like hu",
-      "url": "https://techcrunch.com/podcast/this-sequoia-backed-lab-thinks-the-brain-is-the-floor-not-the-ceiling-for-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-10T21:48:29+00:00",
-      "scrapedAt": "2026-02-11T08:58:11.006942+00:00"
-    },
-    {
-      "id": "8bd074790aa0",
-      "title": "An ice dance duo skated to AI music at the Olympics",
-      "summary": "Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.",
-      "url": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-10T22:31:13+00:00",
-      "scrapedAt": "2026-02-11T08:58:10.996416+00:00"
-    },
-    {
-      "id": "0fbb9c01d716",
-      "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
-      "summary": "A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies.",
-      "url": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-10T23:16:28+00:00",
-      "scrapedAt": "2026-02-11T08:58:10.996360+00:00"
-    },
-    {
-      "id": "ab7c8918cbda",
-      "title": "Okay, now exactly half of xAI’s founding team has left the company",
-      "summary": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.",
-      "url": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-11T01:50:00+00:00",
-      "scrapedAt": "2026-02-11T08:58:10.996299+00:00"
-    },
-    {
-      "id": "6aa2e31fd6f7",
-      "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
-      "summary": "The executive has denied the allegation that she engaged in discrimination.",
-      "url": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-11T02:15:27+00:00",
-      "scrapedAt": "2026-02-11T08:58:10.996235+00:00"
-    },
-    {
-      "id": "2847f235751f",
-      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
-      "summary": "According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fli",
-      "url": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-11T05:23:26+00:00",
-      "scrapedAt": "2026-02-11T08:58:10.996165+00:00"
-    },
-    {
-      "id": "35caebc0ee7b",
-      "title": "9 fun questions to try asking Google Photos",
-      "summary": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
-      "url": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-10T17:00:00+00:00",
-      "scrapedAt": "2026-02-11T08:58:10.445282+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025-Travel-Trends_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5f5ee2c27862",
-      "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
-      "summary": "In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his wor",
-      "url": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-10T17:00:24+00:00",
-      "scrapedAt": "2026-02-11T08:58:10.133240+00:00"
     }
   ]
 }
