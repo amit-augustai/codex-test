@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-02-20T08:51:42.552253+00:00",
+  "lastUpdated": "2026-02-21T08:39:39.824809+00:00",
   "articles": [
+    {
+      "id": "9826d6dc7e15",
+      "title": "The AI security nightmare is here and it looks suspiciously like lobster",
+      "summary": "A hacker tricked a popular AI coding tool into installing OpenClaw - the viral, open-source AI agent OpenClaw that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-19T13:58:56-05:00",
+      "scrapedAt": "2026-02-21T08:38:42.225803+00:00"
+    },
+    {
+      "id": "c8391e73da79",
+      "title": "The Pitt has a sharp take on AI",
+      "summary": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are",
+      "url": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-19T18:15:00-05:00",
+      "scrapedAt": "2026-02-21T08:38:42.225310+00:00"
+    },
+    {
+      "id": "1c95a186e687",
+      "title": "OpenAI&#8217;s first ChatGPT gadget could be a smart speaker with a camera",
+      "summary": "OpenAI's first hardware release will be a smart speaker with a camera that will probably cost between $200 and $300, according to The Information . The device will be able to recognize things like \"it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T11:52:03-05:00",
+      "scrapedAt": "2026-02-21T08:38:42.224769+00:00"
+    },
+    {
+      "id": "1644ed0fe0bd",
+      "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
+      "summary": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times . Numerous unnamed Amazon employees told",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T11:52:48-05:00",
+      "scrapedAt": "2026-02-21T08:38:42.224281+00:00"
+    },
+    {
+      "id": "765347234db7",
+      "title": "Trump is making coal plants even dirtier as AI demands more energy",
+      "summary": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images The Trump administration ju",
+      "url": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T15:18:34-05:00",
+      "scrapedAt": "2026-02-21T08:38:42.223753+00:00"
+    },
+    {
+      "id": "150a6d9b894a",
+      "title": "TechCrunch Disrupt 2026 Super Early Bird rates end in 1 week",
+      "summary": "The lowest ticket rates of the year for TechCrunch Disrupt 2026 end next Friday, February 27. Save up to $680 on your pass. Register now before prices increase.",
+      "url": "https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T15:00:00+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.244958+00:00"
+    },
+    {
+      "id": "26691bc7094e",
+      "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
+      "summary": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
+      "url": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T15:10:40+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.244867+00:00"
+    },
+    {
+      "id": "535a0d06dc71",
+      "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
+      "summary": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated conte",
+      "url": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T15:30:00+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.244798+00:00"
+    },
+    {
+      "id": "4f7561e29093",
+      "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
+      "summary": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
+      "url": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T16:25:54+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.244721+00:00"
+    },
+    {
+      "id": "572bfa0d4aac",
+      "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
+      "summary": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
+      "url": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T18:26:54+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.244651+00:00"
+    },
+    {
+      "id": "e6bf346d6445",
+      "title": "InScope nabs $14.5M to solve the pain of financial reporting",
+      "summary": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
+      "url": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T19:24:57+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.244579+00:00"
+    },
+    {
+      "id": "2f94cc5072ba",
+      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+      "summary": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system ",
+      "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T20:52:48+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.244506+00:00"
+    },
+    {
+      "id": "03a87b47ee21",
+      "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
+      "summary": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s",
+      "url": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T22:24:37+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.244421+00:00"
+    },
+    {
+      "id": "6775bdbf2e8c",
+      "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+      "summary": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s",
+      "url": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-20T23:00:00+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.244290+00:00"
+    },
+    {
+      "id": "93ece4d595ca",
+      "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+      "summary": "Sarvam's Indus chat app is currently available in beta.",
+      "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-21T01:00:00+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.221321+00:00"
+    },
+    {
+      "id": "882674348fab",
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-12T10:00:00+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.109127+00:00"
+    },
+    {
+      "id": "b70326e3be7e",
+      "title": "Our First Proof submissions",
+      "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+      "url": "https://openai.com/index/first-proof-submissions",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-20T14:30:00+00:00",
+      "scrapedAt": "2026-02-21T08:38:41.108554+00:00"
+    },
+    {
+      "id": "e795181f01f6",
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "summary": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-12T16:13:00+00:00",
+      "scrapedAt": "2026-02-21T08:38:40.568840+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_keyword_hea.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7f27d8de89fd",
+      "title": "What’s next for Chinese open-source AI",
+      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . The past year has marked a tu",
+      "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T10:00:00+00:00",
+      "scrapedAt": "2026-02-21T08:38:40.255598+00:00"
+    },
+    {
+      "id": "d9060baace8f",
+      "title": "AI is already making online crimes easier. It could get much worse.",
+      "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him",
+      "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T11:00:00+00:00",
+      "scrapedAt": "2026-02-21T08:38:40.253670+00:00"
+    },
     {
       "id": "9cd1423a4682",
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
@@ -1413,207 +1614,6 @@
       "category": "product",
       "publishedAt": "2026-02-06T16:38:11+00:00",
       "scrapedAt": "2026-02-14T08:40:26.801002+00:00"
-    },
-    {
-      "id": "f8d160db4376",
-      "title": "Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization",
-      "summary": "arXiv:2602.11351v1 Announce Type: new Abstract: Proactive large language model (LLM) agents aim to actively plan, query, and interact over multiple turns, enabling efficient task completion beyond pas",
-      "url": "https://arxiv.org/abs/2602.11351",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-13T00:00:00-05:00",
-      "scrapedAt": "2026-02-13T08:53:16.171343+00:00"
-    },
-    {
-      "id": "aae39c2c84ed",
-      "title": "AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition",
-      "summary": "arXiv:2602.11348v1 Announce Type: new Abstract: Recent advances in large language models have enabled LLM-based agents to achieve strong performance on a variety of benchmarks. However, their performa",
-      "url": "https://arxiv.org/abs/2602.11348",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-13T00:00:00-05:00",
-      "scrapedAt": "2026-02-13T08:53:16.171227+00:00"
-    },
-    {
-      "id": "cb23005d9ff5",
-      "title": "Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge",
-      "summary": "arXiv:2602.11340v1 Announce Type: new Abstract: Large language models (LLMs) have become widely adopted as automated judges for evaluating AI-generated content. Despite their success, aligning LLM-bas",
-      "url": "https://arxiv.org/abs/2602.11340",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-13T00:00:00-05:00",
-      "scrapedAt": "2026-02-13T08:53:16.171097+00:00"
-    },
-    {
-      "id": "492a3f52a97b",
-      "title": "Dissecting Subjectivity and the \"Ground Truth\" Illusion in Data Annotation",
-      "summary": "arXiv:2602.11318v1 Announce Type: new Abstract: In machine learning, \"ground truth\" refers to the assumed correct labels used to train and evaluate models. However, the foundational \"ground truth\" par",
-      "url": "https://arxiv.org/abs/2602.11318",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-13T00:00:00-05:00",
-      "scrapedAt": "2026-02-13T08:53:16.170984+00:00"
-    },
-    {
-      "id": "7b68a7bd13a8",
-      "title": "The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates",
-      "summary": "arXiv:2602.11301v1 Announce Type: new Abstract: Enterprises are rapidly deploying large language models, retrieval augmented generation pipelines, and tool using agents into production, often on share",
-      "url": "https://arxiv.org/abs/2602.11301",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-13T00:00:00-05:00",
-      "scrapedAt": "2026-02-13T08:53:16.170855+00:00"
-    },
-    {
-      "id": "875619d9c4da",
-      "title": "Voxtral Realtime",
-      "summary": "arXiv:2602.11298v1 Announce Type: new Abstract: We introduce Voxtral Realtime, a natively streaming automatic speech recognition model that matches offline transcription quality at sub-second latency.",
-      "url": "https://arxiv.org/abs/2602.11298",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-13T00:00:00-05:00",
-      "scrapedAt": "2026-02-13T08:53:16.170722+00:00"
-    },
-    {
-      "id": "3c9f46c11b15",
-      "title": "On Decision-Valued Maps and Representational Dependence",
-      "summary": "arXiv:2602.11295v1 Announce Type: new Abstract: A computational engine applied to different representations of the same data can produce different discrete outcomes, with some representations preservi",
-      "url": "https://arxiv.org/abs/2602.11295",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-13T00:00:00-05:00",
-      "scrapedAt": "2026-02-13T08:53:16.170628+00:00"
-    },
-    {
-      "id": "08f41e3c3fde",
-      "title": "Latent Generative Solvers for Generalizable Long-Term Physics Simulation",
-      "summary": "arXiv:2602.11229v1 Announce Type: new Abstract: We study long-horizon surrogate simulation across heterogeneous PDE systems. We introduce Latent Generative Solvers (LGS), a two-stage framework that (i",
-      "url": "https://arxiv.org/abs/2602.11229",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-13T00:00:00-05:00",
-      "scrapedAt": "2026-02-13T08:53:16.170527+00:00"
-    },
-    {
-      "id": "1e1526580bc7",
-      "title": "Explaining AI Without Code: A User Study on Explainable AI",
-      "summary": "arXiv:2602.11159v1 Announce Type: new Abstract: The increasing use of Machine Learning (ML) in sensitive domains such as healthcare, finance, and public policy has raised concerns about the transparen",
-      "url": "https://arxiv.org/abs/2602.11159",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-13T00:00:00-05:00",
-      "scrapedAt": "2026-02-13T08:53:16.170395+00:00"
-    },
-    {
-      "id": "d91fed4b27c7",
-      "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
-      "summary": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker.",
-      "url": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T18:00:00+00:00",
-      "scrapedAt": "2026-02-13T08:53:15.046660+00:00"
-    },
-    {
-      "id": "315007c2a26b",
-      "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
-      "summary": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
-      "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T18:30:12+00:00",
-      "scrapedAt": "2026-02-13T08:53:15.046594+00:00"
-    },
-    {
-      "id": "57b5fe24cb47",
-      "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
-      "summary": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
-      "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T20:18:37+00:00",
-      "scrapedAt": "2026-02-13T08:53:15.046528+00:00"
-    },
-    {
-      "id": "7272fcaea6a5",
-      "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
-      "summary": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and ta",
-      "url": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T20:31:47+00:00",
-      "scrapedAt": "2026-02-13T08:53:15.046459+00:00"
-    },
-    {
-      "id": "f8f226c36cdd",
-      "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
-      "summary": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
-      "url": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T22:10:55+00:00",
-      "scrapedAt": "2026-02-13T08:53:15.046377+00:00"
-    },
-    {
-      "id": "d79e93738c63",
-      "title": "IBM will hire your entry-level talent in the age of AI",
-      "summary": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
-      "url": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T23:23:17+00:00",
-      "scrapedAt": "2026-02-13T08:53:15.046307+00:00"
-    },
-    {
-      "id": "ddd8ed6c12bd",
-      "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
-      "summary": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
-      "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T23:26:56+00:00",
-      "scrapedAt": "2026-02-13T08:53:15.046223+00:00"
-    },
-    {
-      "id": "882674348fab",
-      "title": "Introducing GPT-5.3-Codex-Spark",
-      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-12T10:00:00+00:00",
-      "scrapedAt": "2026-02-13T08:53:14.877493+00:00"
-    },
-    {
-      "id": "e795181f01f6",
-      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-      "summary": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-12T16:13:00+00:00",
-      "scrapedAt": "2026-02-13T08:53:14.263486+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_keyword_hea.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7f27d8de89fd",
-      "title": "What’s next for Chinese open-source AI",
-      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . The past year has marked a tu",
-      "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T10:00:00+00:00",
-      "scrapedAt": "2026-02-13T08:53:13.883725+00:00"
-    },
-    {
-      "id": "d9060baace8f",
-      "title": "AI is already making online crimes easier. It could get much worse.",
-      "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him",
-      "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T11:00:00+00:00",
-      "scrapedAt": "2026-02-13T08:53:13.881647+00:00"
     }
   ]
 }
