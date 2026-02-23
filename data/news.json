@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-02-22T08:40:58.946146+00:00",
+  "lastUpdated": "2026-02-23T08:59:02.788901+00:00",
   "articles": [
+    {
+      "id": "d0ccd029db64",
+      "title": "Joint Parameter and State-Space Bayesian Optimization: Using Process Expertise to Accelerate Manufacturing Optimization",
+      "summary": "arXiv:2602.17679v1 Announce Type: new Abstract: Bayesian optimization (BO) is a powerful method for optimizing black-box manufacturing processes, but its performance is often limited when dealing with",
+      "url": "https://arxiv.org/abs/2602.17679",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.946828+00:00"
+    },
+    {
+      "id": "db2ccc0eb976",
+      "title": "Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving",
+      "summary": "arXiv:2602.17677v1 Announce Type: new Abstract: Multiple Choice Question Answering (MCQA) benchmarks are an established standard for measuring Vision Language Model (VLM) performance in driving tasks.",
+      "url": "https://arxiv.org/abs/2602.17677",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.946687+00:00"
+    },
+    {
+      "id": "f3f6783ad070",
+      "title": "Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies",
+      "summary": "arXiv:2602.18291v1 Announce Type: new Abstract: Online Multi-Agent Reinforcement Learning (MARL) is a prominent framework for efficient agent coordination. Crucially, enhancing policy expressiveness i",
+      "url": "https://arxiv.org/abs/2602.18291",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.737595+00:00"
+    },
+    {
+      "id": "2c84c915027a",
+      "title": "SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps",
+      "summary": "arXiv:2602.18201v1 Announce Type: new Abstract: Unsupervised representations are widely assumed to be neutral with respect to sensitive attributes when those attributes are withheld from training. We ",
+      "url": "https://arxiv.org/abs/2602.18201",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.737479+00:00"
+    },
+    {
+      "id": "40a27ef25329",
+      "title": "Neurosymbolic Language Reasoning as Satisfiability Modulo Theory",
+      "summary": "arXiv:2602.18095v1 Announce Type: new Abstract: Natural language understanding requires interleaving textual and logical reasoning, yet large language models often fail to perform such reasoning relia",
+      "url": "https://arxiv.org/abs/2602.18095",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.737369+00:00"
+    },
+    {
+      "id": "530ff91c64ea",
+      "title": "Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets",
+      "summary": "arXiv:2602.18025v1 Announce Type: new Abstract: Scalable robot policy pre-training has been hindered by the high cost of collecting high-quality demonstrations for each platform. In this study, we add",
+      "url": "https://arxiv.org/abs/2602.18025",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.737270+00:00"
+    },
+    {
+      "id": "812f75817cab",
+      "title": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
+      "summary": "arXiv:2602.17990v1 Announce Type: new Abstract: LLM-based systems increasingly generate structured workflows for complex tasks. In practice, automatic evaluation of these workflows is difficult, becau",
+      "url": "https://arxiv.org/abs/2602.17990",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.737153+00:00"
+    },
+    {
+      "id": "e4b125387e07",
+      "title": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems",
+      "summary": "arXiv:2602.17910v1 Announce Type: new Abstract: Traditional AI alignment primarily focuses on individual model outputs; however, autonomous agents in long-horizon workflows require sustained reliabili",
+      "url": "https://arxiv.org/abs/2602.17910",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.737034+00:00"
+    },
+    {
+      "id": "ed0739073ffd",
+      "title": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents",
+      "summary": "arXiv:2602.17902v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to automate scientific workflows, yet their integration with heterogeneous computational tools remain",
+      "url": "https://arxiv.org/abs/2602.17902",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.736934+00:00"
+    },
+    {
+      "id": "1e5f3b7bf899",
+      "title": "The Token Games: Evaluating Language Model Reasoning with Puzzle Duels",
+      "summary": "arXiv:2602.17831v1 Announce Type: new Abstract: Evaluating the reasoning capabilities of Large Language Models is increasingly challenging as models improve. Human curation of hard questions is highly",
+      "url": "https://arxiv.org/abs/2602.17831",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.736800+00:00"
+    },
+    {
+      "id": "37bd942fef1d",
+      "title": "Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge",
+      "summary": "arXiv:2602.17826v1 Announce Type: new Abstract: Language models exhibit fundamental limitations -- hallucination, brittleness, and lack of formal grounding -- that are particularly problematic in high",
+      "url": "https://arxiv.org/abs/2602.17826",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.736673+00:00"
+    },
+    {
+      "id": "46f8c7987232",
+      "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
+      "summary": "arXiv:2602.17676v1 Announce Type: new Abstract: The rapid deployment of Large Language Models and AI agents across critical societal and technical domains is hindered by persistent behavioral patholog",
+      "url": "https://arxiv.org/abs/2602.17676",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-23T00:00:00-05:00",
+      "scrapedAt": "2026-02-23T08:58:08.736565+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-02-23T08:58:08.554439+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-02-23T08:58:08.552381+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-02-23T08:58:08.545246+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-02-23T08:58:08.541462+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-02-23T08:58:08.532862+00:00"
+    },
+    {
+      "id": "7cdfd2ee6b3e",
+      "title": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
+      "summary": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p.m. PT. That means you have just 6 days left to secure up to $680 of ticket savings.",
+      "url": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-22T15:00:00+00:00",
+      "scrapedAt": "2026-02-23T08:58:08.165011+00:00"
+    },
+    {
+      "id": "cbabfce3f352",
+      "title": "All the important news from the ongoing India AI Impact Summit",
+      "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as ",
+      "url": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-22T17:00:00+00:00",
+      "scrapedAt": "2026-02-23T08:58:08.164928+00:00"
+    },
+    {
+      "id": "7850ae10d710",
+      "title": "Introducing EVMbench",
+      "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+      "url": "https://openai.com/index/introducing-evmbench",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-18T00:00:00+00:00",
+      "scrapedAt": "2026-02-23T08:58:08.016269+00:00"
+    },
     {
       "id": "ff3c42fcca9c",
       "title": "The Search Engine for OnlyFans Models Who Look Like Your Crush",
@@ -1212,406 +1412,6 @@
       "category": "product",
       "publishedAt": "2026-02-16T18:53:56+00:00",
       "scrapedAt": "2026-02-17T08:55:23.021625+00:00"
-    },
-    {
-      "id": "666f3311c868",
-      "title": "Abstractive Red-Teaming of Language Model Character",
-      "summary": "arXiv:2602.12318v1 Announce Type: new Abstract: We want language model assistants to conform to a character specification, which asserts how the model should act across diverse user interactions. Whil",
-      "url": "https://arxiv.org/abs/2602.12318",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.935259+00:00"
-    },
-    {
-      "id": "190ad134d4a6",
-      "title": "OptiML: An End-to-End Framework for Program Synthesis and CUDA Kernel Optimization",
-      "summary": "arXiv:2602.12305v1 Announce Type: new Abstract: Generating high-performance CUDA kernels remains challenging due to the need to navigate a combinatorial space of low-level transformations under noisy ",
-      "url": "https://arxiv.org/abs/2602.12305",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.935121+00:00"
-    },
-    {
-      "id": "f6d6c8cbde71",
-      "title": "Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents",
-      "summary": "arXiv:2602.12662v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents for multi-turn decision-making tasks. However, current agents typically rely",
-      "url": "https://arxiv.org/abs/2602.12662",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.721552+00:00"
-    },
-    {
-      "id": "3c28f81aaf62",
-      "title": "AI Agents for Inventory Control: Human-LLM-OR Complementarity",
-      "summary": "arXiv:2602.12631v1 Announce Type: new Abstract: Inventory control is a fundamental operations problem in which ordering decisions are traditionally guided by theoretically grounded operations research",
-      "url": "https://arxiv.org/abs/2602.12631",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.721438+00:00"
-    },
-    {
-      "id": "678b74966cd1",
-      "title": "GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics",
-      "summary": "arXiv:2602.12617v1 Announce Type: new Abstract: This paper presents GeoAgent, a model capable of reasoning closely with humans and deriving fine-grained address conclusions. Previous RL-based methods ",
-      "url": "https://arxiv.org/abs/2602.12617",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.721307+00:00"
-    },
-    {
-      "id": "6694e9d3566a",
-      "title": "Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models",
-      "summary": "arXiv:2602.12586v1 Announce Type: new Abstract: While plan-and-infill decoding in Masked Diffusion Models (MDMs) shows promise for mathematical and code reasoning, performance remains highly sensitive",
-      "url": "https://arxiv.org/abs/2602.12586",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.721203+00:00"
-    },
-    {
-      "id": "e15284dcd934",
-      "title": "To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models",
-      "summary": "arXiv:2602.12566v1 Announce Type: new Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) plays a key role in stimulating the explicit reasoning capability of Large Language Models (LLMs).",
-      "url": "https://arxiv.org/abs/2602.12566",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.721096+00:00"
-    },
-    {
-      "id": "6d893408265b",
-      "title": "Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation",
-      "summary": "arXiv:2602.12544v1 Announce Type: new Abstract: We present a scalable pipeline for automatically generating high-quality training data for web agents. In particular, a major challenge in identifying h",
-      "url": "https://arxiv.org/abs/2602.12544",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.720980+00:00"
-    },
-    {
-      "id": "f5887b62b285",
-      "title": "Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models",
-      "summary": "arXiv:2602.12419v1 Announce Type: new Abstract: The increasing complexity of smart manufacturing environments demands interfaces that can translate high-level human intents into machine-executable act",
-      "url": "https://arxiv.org/abs/2602.12419",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.720879+00:00"
-    },
-    {
-      "id": "09d2adc93cad",
-      "title": "Evolving Beyond Snapshots: Harmonizing Structure and Sequence via Entity State Tuning for Temporal Knowledge Graph Forecasting",
-      "summary": "arXiv:2602.12389v1 Announce Type: new Abstract: Temporal knowledge graph (TKG) forecasting requires predicting future facts by jointly modeling structural dependencies within each snapshot and tempora",
-      "url": "https://arxiv.org/abs/2602.12389",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.720778+00:00"
-    },
-    {
-      "id": "0428da9de419",
-      "title": "A Theoretical Framework for Adaptive Utility-Weighted Benchmarking",
-      "summary": "arXiv:2602.12356v1 Announce Type: new Abstract: Benchmarking has long served as a foundational practice in machine learning and, increasingly, in modern AI systems such as large language models, where",
-      "url": "https://arxiv.org/abs/2602.12356",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.720639+00:00"
-    },
-    {
-      "id": "ea061aa862bb",
-      "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
-      "summary": "arXiv:2602.12316v1 Announce Type: new Abstract: Frontier AI systems are increasingly capable and deployed in high-stakes multi-agent environments. However, existing AI safety benchmarks largely evalua",
-      "url": "https://arxiv.org/abs/2602.12316",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-16T00:00:00-05:00",
-      "scrapedAt": "2026-02-16T08:57:27.720505+00:00"
-    },
-    {
-      "id": "34808182f28a",
-      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-      "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-      "url": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-15T15:41:16+00:00",
-      "scrapedAt": "2026-02-16T08:57:27.025190+00:00"
-    },
-    {
-      "id": "ddf7d0d5afc3",
-      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
-      "summary": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
-      "url": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-15T17:30:00+00:00",
-      "scrapedAt": "2026-02-16T08:57:27.025118+00:00"
-    },
-    {
-      "id": "a1d106db9329",
-      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
-      "summary": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
-      "url": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-15T18:00:00+00:00",
-      "scrapedAt": "2026-02-16T08:57:27.025051+00:00"
-    },
-    {
-      "id": "a76fcbc8453b",
-      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
-      "summary": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
-      "url": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-15T21:11:28+00:00",
-      "scrapedAt": "2026-02-16T08:57:27.024986+00:00"
-    },
-    {
-      "id": "a5e0747ba295",
-      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
-      "summary": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
-      "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-15T22:07:51+00:00",
-      "scrapedAt": "2026-02-16T08:57:27.024917+00:00"
-    },
-    {
-      "id": "0aae42736e23",
-      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
-      "summary": "OpenAI said OpenClaw will live on as an open source project.",
-      "url": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-15T22:28:02+00:00",
-      "scrapedAt": "2026-02-16T08:57:27.024837+00:00"
-    },
-    {
-      "id": "2bd2cc215ebd",
-      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
-      "summary": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
-      "url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-16T00:30:00+00:00",
-      "scrapedAt": "2026-02-16T08:57:27.024768+00:00"
-    },
-    {
-      "id": "f7275eb23931",
-      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
-      "summary": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
-      "url": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-16T01:00:00+00:00",
-      "scrapedAt": "2026-02-16T08:57:27.024681+00:00"
-    },
-    {
-      "id": "0f245090a8b3",
-      "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
-      "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
-      "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-13T21:56:18+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.609141+00:00"
-    },
-    {
-      "id": "db99e176cb9f",
-      "title": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
-      "summary": "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents' electricity bills. The company said it would pay higher monthly electricity charges in order",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-11T17:37:02-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.550031+00:00"
-    },
-    {
-      "id": "eb9025461806",
-      "title": "Two more xAI co-founders are among those leaving after the SpaceX merger",
-      "summary": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a hand",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-11T18:26:43-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.549559+00:00"
-    },
-    {
-      "id": "f8bc8c6381e2",
-      "title": "This $7,999 robot will fold (some of) your laundry",
-      "summary": "Isaac 0 is a stationary robot with one job: folding laundry. | Image: Weave Robotics If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and",
-      "url": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T07:59:06-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.549134+00:00"
-    },
-    {
-      "id": "98802f7d49f8",
-      "title": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video",
-      "summary": "ByteDance says its new AI video model can more accurately follow prompts. | Image: ByteDance Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video ge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T10:26:00-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.548616+00:00"
-    },
-    {
-      "id": "5da3918e056f",
-      "title": "The surprising case for AI judges",
-      "summary": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My g",
-      "url": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T11:22:33-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.548101+00:00"
-    },
-    {
-      "id": "314969850031",
-      "title": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech",
-      "summary": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's",
-      "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T12:45:00-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.533908+00:00"
-    },
-    {
-      "id": "7fecafa9b4de",
-      "title": "Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted",
-      "summary": "Meta aims to introduce facial recognition to its smart glasses while its biggest critics are distracted, according to a report from The New York Times . In an internal document reviewed by The Times ,",
-      "url": "https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-13T10:05:44-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.533305+00:00"
-    },
-    {
-      "id": "6dd27beef127",
-      "title": "Ring&#8217;s adorable surveillance hellscape",
-      "summary": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connec",
-      "url": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-13T11:10:45-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.532857+00:00"
-    },
-    {
-      "id": "cba54599f467",
-      "title": "What’s behind the mass exodus at xAI?",
-      "summary": "The past few days have been a wild ride for xAI, which is racking up staff and cofounder departure announcements left and right. On Tuesday and Wednesday, cofounder Yuhuai (Tony) Wu announced his depa",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-13T12:10:44-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.532169+00:00"
-    },
-    {
-      "id": "a1208ff1a38c",
-      "title": "My uncanny AI valentines",
-      "summary": "Phoebe Callas, 30, is not real, but she was an AI companion I went on a speed date with. Hopping over a pile of dirty snow, I arrived on a frigid February evening at a wine bar in midtown, a purple ne",
-      "url": "https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-14T10:00:00-05:00",
-      "scrapedAt": "2026-02-15T08:41:01.531468+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.302449+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.300450+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.293301+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.289624+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.281071+00:00"
-    },
-    {
-      "id": "cf42cdecbcdb",
-      "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
-      "summary": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
-      "url": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-14T16:23:22+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.047385+00:00"
-    },
-    {
-      "id": "ae5fbfe7d362",
-      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-      "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-      "url": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-14T18:26:52+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.047310+00:00"
-    },
-    {
-      "id": "a7380418621b",
-      "title": "Is safety ‘dead’ at xAI?",
-      "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
-      "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-14T21:55:44+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.047231+00:00"
-    },
-    {
-      "id": "1ff8d564698c",
-      "title": "The great computer science exodus (and where students are going instead)",
-      "summary": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.",
-      "url": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-15T08:40:27+00:00",
-      "scrapedAt": "2026-02-15T08:41:01.047146+00:00"
     }
   ]
 }
