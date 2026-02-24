@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-02-23T08:59:02.788901+00:00",
+  "lastUpdated": "2026-02-24T08:58:18.017096+00:00",
   "articles": [
+    {
+      "id": "3607b7f94a93",
+      "title": "Task-Aware Exploration via a Predictive Bisimulation Metric",
+      "summary": "arXiv:2602.18724v1 Announce Type: new Abstract: Accelerating exploration in visual reinforcement learning under sparse rewards remains challenging due to the substantial task-irrelevant variations. De",
+      "url": "https://arxiv.org/abs/2602.18724",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-24T00:00:00-05:00",
+      "scrapedAt": "2026-02-24T08:57:21.620591+00:00"
+    },
+    {
+      "id": "c0cf5708ad92",
+      "title": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse",
+      "summary": "arXiv:2602.18710v1 Announce Type: new Abstract: The conclusions of empirical research depend not only on data but on a sequence of analytic decisions that published results seldom make explicit. Past ",
+      "url": "https://arxiv.org/abs/2602.18710",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-24T00:00:00-05:00",
+      "scrapedAt": "2026-02-24T08:57:21.620484+00:00"
+    },
+    {
+      "id": "693e685f1aed",
+      "title": "Spilled Energy in Large Language Models",
+      "summary": "arXiv:2602.18671v1 Announce Type: new Abstract: We reinterpret the final Large Language Model (LLM) softmax classifier as an Energy-Based Model (EBM), decomposing the sequence-to-sequence probability ",
+      "url": "https://arxiv.org/abs/2602.18671",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-24T00:00:00-05:00",
+      "scrapedAt": "2026-02-24T08:57:21.620360+00:00"
+    },
+    {
+      "id": "00c86fc9c51a",
+      "title": "Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System",
+      "summary": "arXiv:2602.18640v1 Announce Type: new Abstract: Modern large-scale ranking systems operate within a sophisticated landscape of competing objectives, operational constraints, and evolving product requi",
+      "url": "https://arxiv.org/abs/2602.18640",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-24T00:00:00-05:00",
+      "scrapedAt": "2026-02-24T08:57:21.620249+00:00"
+    },
+    {
+      "id": "f6e2ad69b638",
+      "title": "Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic",
+      "summary": "arXiv:2602.18607v1 Announce Type: new Abstract: In CAS adaptation, a challenge is to define the dynamic architecture of the system and changes in its behavior. Implementation-wise, this is projected i",
+      "url": "https://arxiv.org/abs/2602.18607",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-24T00:00:00-05:00",
+      "scrapedAt": "2026-02-24T08:57:21.620136+00:00"
+    },
+    {
+      "id": "1cb8ffc25c83",
+      "title": "Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications",
+      "summary": "arXiv:2602.18582v1 Announce Type: new Abstract: When training artificial intelligence (AI) to perform tasks, humans often care not only about whether a task is completed but also how it is performed. ",
+      "url": "https://arxiv.org/abs/2602.18582",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-24T00:00:00-05:00",
+      "scrapedAt": "2026-02-24T08:57:21.620003+00:00"
+    },
+    {
+      "id": "0c137f4f652f",
+      "title": "On the Dynamics of Observation and Semantics",
+      "summary": "arXiv:2602.18494v1 Announce Type: new Abstract: A dominant paradigm in visual intelligence treats semantics as a static property of latent representations, assuming that meaning can be discovered thro",
+      "url": "https://arxiv.org/abs/2602.18494",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-02-24T00:00:00-05:00",
+      "scrapedAt": "2026-02-24T08:57:21.619870+00:00"
+    },
+    {
+      "id": "76da7b940b1b",
+      "title": "5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates",
+      "summary": "Five days to save up to $680 on your TechCrunch Disrupt 2026 ticket. These lowest rates of the year disappear on February 27 at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T15:00:00+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.787677+00:00"
+    },
+    {
+      "id": "7f5769f44556",
+      "title": "Spotify rolls out AI-powered  Prompted Playlists to the UK and other markets",
+      "summary": "Spotify continues to test its AI-powered “Prompted Playlist” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+      "url": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T16:50:36+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.787601+00:00"
+    },
+    {
+      "id": "32b05bcf13cf",
+      "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+      "summary": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+      "url": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T16:55:40+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.787527+00:00"
+    },
+    {
+      "id": "c6f5f8475c6e",
+      "title": "Guide Labs debuts a new kind of interpretable LLM",
+      "summary": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+      "url": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T17:53:28+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.787457+00:00"
+    },
+    {
+      "id": "e6cfdfaf7713",
+      "title": "OpenAI calls in the consultants for its enterprise push",
+      "summary": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
+      "url": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T18:11:08+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.787388+00:00"
+    },
+    {
+      "id": "7f5ced932e48",
+      "title": "Google’s Cloud AI leads on the three frontiers of model capability",
+      "summary": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
+      "url": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T19:18:42+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.787319+00:00"
+    },
+    {
+      "id": "25d70b7c88b9",
+      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+      "summary": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+      "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T19:57:27+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.787246+00:00"
+    },
+    {
+      "id": "f0cea96f7258",
+      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+      "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+      "url": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T21:46:41+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.787161+00:00"
+    },
+    {
+      "id": "ad8d0d4fdf82",
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+      "summary": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+      "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-24T00:57:14+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.787086+00:00"
+    },
+    {
+      "id": "e2ff14fd72c1",
+      "title": "Canva acquires startups working on animation and marketing",
+      "summary": "With the new acquisitions, the company wants to bolster its position as a marketing solution by potentially adding video creation and more granular measurement.",
+      "url": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-24T07:39:27+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.786999+00:00"
+    },
+    {
+      "id": "264772bed11e",
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "url": "https://openai.com/index/frontier-alliance-partners",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-23T05:30:00+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.695302+00:00"
+    },
+    {
+      "id": "3817c9dbb9b7",
+      "title": "Why we no longer evaluate SWE-bench Verified",
+      "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-23T11:00:00+00:00",
+      "scrapedAt": "2026-02-24T08:57:20.695217+00:00"
+    },
+    {
+      "id": "f10503c40c41",
+      "title": "The human work behind humanoid robots is being hidden",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . In January, Nvidia’s Jensen Huang, the head of the world’s mo",
+      "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T17:05:00+00:00",
+      "scrapedAt": "2026-02-24T08:57:19.796837+00:00"
+    },
     {
       "id": "d0ccd029db64",
       "title": "Joint Parameter and State-Space Bayesian Optimization: Using Process Expertise to Accelerate Manufacturing Optimization",
@@ -1212,206 +1412,6 @@
       "category": "product",
       "publishedAt": "2026-02-09T17:02:56+00:00",
       "scrapedAt": "2026-02-18T08:54:52.189085+00:00"
-    },
-    {
-      "id": "7245feee3460",
-      "title": "The Speed-up Factor: A Quantitative Multi-Iteration Active Learning Performance Metric",
-      "summary": "arXiv:2602.13359v1 Announce Type: new Abstract: Machine learning models excel with abundant annotated data, but annotation is often costly and time-intensive. Active learning (AL) aims to improve the ",
-      "url": "https://arxiv.org/abs/2602.13359",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:24.094297+00:00"
-    },
-    {
-      "id": "25d584d2092a",
-      "title": "Exploring the Performance of ML/DL Architectures on the MNIST-1D Dataset",
-      "summary": "arXiv:2602.13348v1 Announce Type: new Abstract: Small datasets like MNIST have historically been instrumental in advancing machine learning research by providing a controlled environment for rapid exp",
-      "url": "https://arxiv.org/abs/2602.13348",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:24.094191+00:00"
-    },
-    {
-      "id": "a42e2b959187",
-      "title": "BLUEPRINT Rebuilding a Legacy: Multimodal Retrieval for Complex Engineering Drawings and Documents",
-      "summary": "arXiv:2602.13345v1 Announce Type: new Abstract: Decades of engineering drawings and technical records remain locked in legacy archives with inconsistent or missing metadata, making retrieval difficult",
-      "url": "https://arxiv.org/abs/2602.13345",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:24.094057+00:00"
-    },
-    {
-      "id": "54c9931cecee",
-      "title": "Directional Concentration Uncertainty: A representational approach to uncertainty quantification for generative models",
-      "summary": "arXiv:2602.13264v1 Announce Type: new Abstract: In the critical task of making generative models trustworthy and robust, methods for Uncertainty Quantification (UQ) have begun to show encouraging pote",
-      "url": "https://arxiv.org/abs/2602.13264",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:24.093933+00:00"
-    },
-    {
-      "id": "f960af75ca84",
-      "title": "Stay in Character, Stay Safe: Dual-Cycle Adversarial Self-Evolution for Safety Role-Playing Agents",
-      "summary": "arXiv:2602.13234v1 Announce Type: new Abstract: LLM-based role-playing has rapidly improved in fidelity, yet stronger adherence to persona constraints commonly increases vulnerability to jailbreak att",
-      "url": "https://arxiv.org/abs/2602.13234",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.715125+00:00"
-    },
-    {
-      "id": "fbced45b606e",
-      "title": "PlotChain: Deterministic Checkpointed Evaluation of Multimodal LLMs on Engineering Plot Reading",
-      "summary": "arXiv:2602.13232v1 Announce Type: new Abstract: We present PlotChain, a deterministic, generator-based benchmark for evaluating multimodal large language models (MLLMs) on engineering plot reading-rec",
-      "url": "https://arxiv.org/abs/2602.13232",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.715012+00:00"
-    },
-    {
-      "id": "7b39e4ec182c",
-      "title": "Intelligence as Trajectory-Dominant Pareto Optimization",
-      "summary": "arXiv:2602.13230v1 Announce Type: new Abstract: Despite recent advances in artificial intelligence, many systems exhibit stagnation in long-horizon adaptability despite continued performance optimizat",
-      "url": "https://arxiv.org/abs/2602.13230",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.714880+00:00"
-    },
-    {
-      "id": "f5ef2895d0c2",
-      "title": "Variation is the Key: A Variation-Based Framework for LLM-Generated Text Detection",
-      "summary": "arXiv:2602.13226v1 Announce Type: new Abstract: Detecting text generated by large language models (LLMs) is crucial but challenging. Existing detectors depend on impractical assumptions, such as white",
-      "url": "https://arxiv.org/abs/2602.13226",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.714759+00:00"
-    },
-    {
-      "id": "85c4ff4f32c2",
-      "title": "A Geometric Taxonomy of Hallucinations in LLMs",
-      "summary": "arXiv:2602.13224v1 Announce Type: new Abstract: The term \"hallucination\" in large language models conflates distinct phenomena with different geometric signatures in embedding space. We propose a taxo",
-      "url": "https://arxiv.org/abs/2602.13224",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.714661+00:00"
-    },
-    {
-      "id": "8ede5715b039",
-      "title": "Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning",
-      "summary": "arXiv:2602.13218v1 Announce Type: new Abstract: Scaling verifiable training signals remains a key bottleneck for Reinforcement Learning from Verifiable Rewards (RLVR). Logical reasoning is a natural s",
-      "url": "https://arxiv.org/abs/2602.13218",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.714536+00:00"
-    },
-    {
-      "id": "d1d632aeec1a",
-      "title": "VeRA: Verified Reasoning Data Augmentation at Scale",
-      "summary": "arXiv:2602.13217v1 Announce Type: new Abstract: The main issue with most evaluation schemes today is their \"static\" nature: the same problems are reused repeatedly, allowing for memorization, format e",
-      "url": "https://arxiv.org/abs/2602.13217",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.714411+00:00"
-    },
-    {
-      "id": "e7b83afaacad",
-      "title": "When to Think Fast and Slow? AMOR: Entropy-Based Metacognitive Gate for Dynamic SSM-Attention Switching",
-      "summary": "arXiv:2602.13215v1 Announce Type: new Abstract: Transformers allocate uniform computation to every position, regardless of difficulty. State Space Models (SSMs) offer efficient alternatives but strugg",
-      "url": "https://arxiv.org/abs/2602.13215",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.714240+00:00"
-    },
-    {
-      "id": "b7acd598cae4",
-      "title": "BotzoneBench: Scalable LLM Evaluation via Graded AI Anchors",
-      "summary": "arXiv:2602.13214v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in interactive environments requiring strategic decision-making, yet systematic evaluation of the",
-      "url": "https://arxiv.org/abs/2602.13214",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.714126+00:00"
-    },
-    {
-      "id": "afd9eee772bc",
-      "title": "Agentic AI for Commercial Insurance Underwriting with Adversarial Self-Critique",
-      "summary": "arXiv:2602.13213v1 Announce Type: new Abstract: Commercial insurance underwriting is a labor-intensive process that requires manual review of extensive documentation to assess risk and determine polic",
-      "url": "https://arxiv.org/abs/2602.13213",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-17T00:00:00-05:00",
-      "scrapedAt": "2026-02-17T08:55:23.713989+00:00"
-    },
-    {
-      "id": "e9152958c003",
-      "title": "All the important news from the ongoing India AI Impact Summit",
-      "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as ",
-      "url": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-16T11:20:27+00:00",
-      "scrapedAt": "2026-02-17T08:55:23.021986+00:00"
-    },
-    {
-      "id": "9ce78c899c01",
-      "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
-      "summary": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off ",
-      "url": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-16T11:51:25+00:00",
-      "scrapedAt": "2026-02-17T08:55:23.021917+00:00"
-    },
-    {
-      "id": "52600766b309",
-      "title": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
-      "summary": "\"From an AI research perspective, this is nothing novel,\" one expert told TechCrunch.",
-      "url": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-16T13:15:00+00:00",
-      "scrapedAt": "2026-02-17T08:55:23.021844+00:00"
-    },
-    {
-      "id": "443656579a99",
-      "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
-      "summary": "\"We're exploring a different set of tradeoffs.\"",
-      "url": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-16T14:00:00+00:00",
-      "scrapedAt": "2026-02-17T08:55:23.021773+00:00"
-    },
-    {
-      "id": "e16702401246",
-      "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
-      "summary": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
-      "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-16T17:00:00+00:00",
-      "scrapedAt": "2026-02-17T08:55:23.021705+00:00"
-    },
-    {
-      "id": "ef6c9de1cae0",
-      "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
-      "summary": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
-      "url": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-16T18:53:56+00:00",
-      "scrapedAt": "2026-02-17T08:55:23.021625+00:00"
     }
   ]
 }
