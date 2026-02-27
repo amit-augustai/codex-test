@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-02-26T08:57:51.994301+00:00",
+  "lastUpdated": "2026-02-27T08:52:04.279713+00:00",
   "articles": [
+    {
+      "id": "c70da20cc441",
+      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
+      "summary": "On June 9, over 1,000 founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow.",
+      "url": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T14:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.188416+00:00"
+    },
+    {
+      "id": "058a10ce5b00",
+      "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
+      "summary": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T15:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.188351+00:00"
+    },
+    {
+      "id": "45574a43dc3f",
+      "title": "Google launches Nano Banana 2 model with faster image generation",
+      "summary": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode.",
+      "url": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T16:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.188290+00:00"
+    },
+    {
+      "id": "1f09997f8de8",
+      "title": "Bumble adds AI-powered photo feedback and profile guidance tools",
+      "summary": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
+      "url": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T16:38:59+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.188230+00:00"
+    },
+    {
+      "id": "c5177c57b52e",
+      "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+      "summary": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
+      "url": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T17:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.188172+00:00"
+    },
+    {
+      "id": "8323d17c4f3a",
+      "title": "Mistral AI inks a deal with global consulting giant Accenture",
+      "summary": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
+      "url": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T19:17:27+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.188112+00:00"
+    },
+    {
+      "id": "549019685245",
+      "title": "Sophia Space raises $10M seed to demo novel space computers",
+      "summary": "The company's modular computer tiles offer a new vision for space data centers.",
+      "url": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T19:55:20+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.188053+00:00"
+    },
+    {
+      "id": "de2552c893e5",
+      "title": "So, we’re getting Prada Meta AI glasses, right?",
+      "summary": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+      "url": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T20:11:55+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.187993+00:00"
+    },
+    {
+      "id": "5a6ebe66a9be",
+      "title": "Anthropic CEO stands firm as Pentagon deadline looms",
+      "summary": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
+      "url": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T23:19:06+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.187929+00:00"
+    },
+    {
+      "id": "9f80ac0faa18",
+      "title": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
+      "summary": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
+      "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T23:43:32+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.187855+00:00"
+    },
+    {
+      "id": "c526522b39ae",
+      "title": "Advancing independent research on AI alignment",
+      "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-19T10:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.098903+00:00"
+    },
+    {
+      "id": "ce14f35f8b1c",
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "url": "https://openai.com/index/figma-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-26T06:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.098499+00:00"
+    },
+    {
+      "id": "88660b2973ba",
+      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting t",
+      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-26T10:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:09.098423+00:00"
+    },
+    {
+      "id": "2be84f452cc6",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "summary": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-26T16:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:08.176107+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "df84fd15c806",
+      "title": "Build with Nano Banana 2, our best image generation and editing model",
+      "summary": "Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and fidelity for all image applications.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-26T16:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:08.176020+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWith_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "2eb02e17efde",
+      "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+      "summary": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+      "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-26T18:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:08.175879+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "9cca59e6c672",
+      "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+      "summary": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-26T18:55:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:08.175854+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "26db947a58b2",
+      "title": "Is a secure AI assistant possible?",
+      "summary": "AI agents are a risky business. Even when stuck inside the chatbox window, LLMs will make mistakes and behave badly. Once they have tools that they can use to interact with the outside world, such as ",
+      "url": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-11T20:08:35+00:00",
+      "scrapedAt": "2026-02-27T08:51:07.916974+00:00"
+    },
+    {
+      "id": "ecf2f8ea8409",
+      "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+      "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minneso",
+      "url": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-19T16:00:00+00:00",
+      "scrapedAt": "2026-02-27T08:51:07.906899+00:00"
+    },
+    {
+      "id": "464b143ac6c2",
+      "title": "Finding value with AI and Industry 5.0 transformation",
+      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shi",
+      "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T15:00:59+00:00",
+      "scrapedAt": "2026-02-27T08:51:07.904267+00:00"
+    },
     {
       "id": "10d44b41bce1",
       "title": "The public opposition to AI infrastructure is heating up",
@@ -1212,206 +1416,6 @@
       "category": "product",
       "publishedAt": "2026-02-12T11:00:00+00:00",
       "scrapedAt": "2026-02-21T08:38:40.253670+00:00"
-    },
-    {
-      "id": "9cd1423a4682",
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "summary": "arXiv:2602.16763v1 Announce Type: new Abstract: Artificial Intelligence (AI) benchmarks play a central role in measuring progress in model development and guiding deployment decisions. However, many b",
-      "url": "https://arxiv.org/abs/2602.16763",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-20T00:00:00-05:00",
-      "scrapedAt": "2026-02-20T08:50:47.469897+00:00"
-    },
-    {
-      "id": "07fac854a6a0",
-      "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
-      "summary": "arXiv:2602.16727v1 Announce Type: new Abstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat",
-      "url": "https://arxiv.org/abs/2602.16727",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-20T00:00:00-05:00",
-      "scrapedAt": "2026-02-20T08:50:47.469809+00:00"
-    },
-    {
-      "id": "322d3177424a",
-      "title": "Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence",
-      "summary": "arXiv:2602.16716v1 Announce Type: new Abstract: Adaptive systems often operate across multiple contexts while reusing a fixed internal state space due to constraints on memory, representation, or phys",
-      "url": "https://arxiv.org/abs/2602.16716",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-20T00:00:00-05:00",
-      "scrapedAt": "2026-02-20T08:50:47.469718+00:00"
-    },
-    {
-      "id": "64a9c9bd0a22",
-      "title": "Retrieval Augmented (Knowledge Graph), and Large Language Model-Driven Design Structure Matrix (DSM) Generation of Cyber-Physical Systems",
-      "summary": "arXiv:2602.16715v1 Announce Type: new Abstract: We explore the potential of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Graph-based RAG (GraphRAG) for generating Design Str",
-      "url": "https://arxiv.org/abs/2602.16715",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-20T00:00:00-05:00",
-      "scrapedAt": "2026-02-20T08:50:47.469620+00:00"
-    },
-    {
-      "id": "82813fa3eeac",
-      "title": "AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment",
-      "summary": "arXiv:2602.16714v1 Announce Type: new Abstract: Age assessment is crucial in forensic and judicial decision-making, particularly in cases involving undocumented individuals and unaccompanied minors, w",
-      "url": "https://arxiv.org/abs/2602.16714",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-20T00:00:00-05:00",
-      "scrapedAt": "2026-02-20T08:50:47.469522+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-02-20T08:50:47.226922+00:00"
-    },
-    {
-      "id": "b93fa417b80b",
-      "title": "OpenAI, Reliance partner to add AI search to JioHotstar",
-      "summary": "The rollout includes two-way integration that surfaces streaming links directly inside ChatGPT.",
-      "url": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T14:45:29+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850648+00:00"
-    },
-    {
-      "id": "11b7b9ecdbbf",
-      "title": "Reload wants to give your AI agents a shared memory",
-      "summary": "Reload announces a $2.275 million raise in a round led by Anthemis and the launch of its first AI employee, Epic.",
-      "url": "https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T15:00:00+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850594+00:00"
-    },
-    {
-      "id": "c6f24519cc1f",
-      "title": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
-      "summary": "OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
-      "url": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T15:35:58+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850538+00:00"
-    },
-    {
-      "id": "14f8f891c43d",
-      "title": "All the important news from the ongoing India AI Impact Summit",
-      "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as ",
-      "url": "https://techcrunch.com/2026/02/19/all-the-important-news-from-the-ongoing-india-ai-summit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T18:20:00+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850479+00:00"
-    },
-    {
-      "id": "bf8427ae81e4",
-      "title": "Reddit is testing a new AI search feature for shopping",
-      "summary": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
-      "url": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T18:22:51+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850415+00:00"
-    },
-    {
-      "id": "5f426b2cd3d3",
-      "title": "YouTube’s latest experiment brings its conversational AI tool to TVs",
-      "summary": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
-      "url": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T20:30:19+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850354+00:00"
-    },
-    {
-      "id": "7db4e899b6bf",
-      "title": "Why these startup CEOs don’t think AI will replace human roles",
-      "summary": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
-      "url": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T20:47:22+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850278+00:00"
-    },
-    {
-      "id": "455bac5f0d64",
-      "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
-      "summary": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
-      "url": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T00:30:00+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850212+00:00"
-    },
-    {
-      "id": "6c0721ccf933",
-      "title": "Google’s new Gemini Pro model has record benchmark scores — again",
-      "summary": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
-      "url": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T00:55:22+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850150+00:00"
-    },
-    {
-      "id": "29229f19df54",
-      "title": "General Catalyst commits $5B to India over five years",
-      "summary": "The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark.",
-      "url": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T06:41:44+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.850078+00:00"
-    },
-    {
-      "id": "118cb8ef5426",
-      "title": "Harness engineering: leveraging Codex in an agent-first world",
-      "summary": "By Ryan Lopopolo, Member of the Technical Staff",
-      "url": "https://openai.com/index/harness-engineering",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-11T09:00:00+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.767483+00:00"
-    },
-    {
-      "id": "c526522b39ae",
-      "title": "Advancing independent research on AI alignment",
-      "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-19T10:00:00+00:00",
-      "scrapedAt": "2026-02-20T08:50:46.767009+00:00"
-    },
-    {
-      "id": "26db947a58b2",
-      "title": "Is a secure AI assistant possible?",
-      "summary": "AI agents are a risky business. Even when stuck inside the chatbox window, LLMs will make mistakes and behave badly. Once they have tools that they can use to interact with the outside world, such as ",
-      "url": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-11T20:08:35+00:00",
-      "scrapedAt": "2026-02-20T08:50:45.937843+00:00"
-    },
-    {
-      "id": "ecf2f8ea8409",
-      "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
-      "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minneso",
-      "url": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T16:00:00+00:00",
-      "scrapedAt": "2026-02-20T08:50:45.927777+00:00"
     }
   ]
 }
