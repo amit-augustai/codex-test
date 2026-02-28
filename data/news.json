@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-02-27T08:52:04.279713+00:00",
+  "lastUpdated": "2026-02-28T08:38:09.213099+00:00",
   "articles": [
+    {
+      "id": "6030a326ee09",
+      "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+      "summary": "WASHINGTON, DC - JANUARY 29: U.S. Secretary of War Pete Hegseth (C) speaks during a meeting of the Cabinet as U.S. President Donald Trump (L) and U.S. Commerce Secretary Howard Lutnick (R) listen in t",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T12:16:53-05:00",
+      "scrapedAt": "2026-02-28T08:37:10.174082+00:00"
+    },
+    {
+      "id": "7d2915c39ff7",
+      "title": "Trump orders federal agencies to drop Anthropic’s AI",
+      "summary": "On Friday afternoon, Donald Trump posted on Truth Social , accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY C",
+      "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T16:30:47-05:00",
+      "scrapedAt": "2026-02-28T08:37:10.173091+00:00"
+    },
+    {
+      "id": "649039c0b08f",
+      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+      "summary": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images Nearly two hours after President Do",
+      "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T21:19:16-05:00",
+      "scrapedAt": "2026-02-28T08:37:10.172549+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-02-28T08:37:09.422836+00:00"
+    },
+    {
+      "id": "8ba1cea8cf77",
+      "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
+      "summary": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T14:13:01+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.788597+00:00"
+    },
+    {
+      "id": "3ef65f0628db",
+      "title": "Last 24 hours to get TechCrunch Disrupt 2026 tickets at the lowest rates of the year",
+      "summary": "The lowest rates of the year for TechCrunch Disrupt 2026 end after today. Prices go up at 11:59 p.m. PT. Don't miss connecting with 10,000 founders, investors, and operators, and key takeaways from 25",
+      "url": "https://techcrunch.com/2026/02/27/last-24-hours-to-get-techcrunch-disrupt-2026-tickets-at-the-lowest-rates-of-the-year/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T15:00:00+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.788529+00:00"
+    },
+    {
+      "id": "f2d4ed077778",
+      "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+      "summary": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+      "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T16:23:58+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.788458+00:00"
+    },
+    {
+      "id": "ebae3b38a163",
+      "title": "Perplexity’s new Computer is another bet that users need many AI models",
+      "summary": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\"",
+      "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T17:00:55+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.788387+00:00"
+    },
+    {
+      "id": "c267f09c2971",
+      "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+      "summary": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort.",
+      "url": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T17:22:02+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.788315+00:00"
+    },
+    {
+      "id": "ebe290ad28cd",
+      "title": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
+      "summary": "The Pentagon is playing chicken with Anthropic over who gets to control how the military uses AI while communities across the country are blocking data center construction. As the AI debate has been f",
+      "url": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T17:35:50+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.788237+00:00"
+    },
+    {
+      "id": "54440ef503c1",
+      "title": "ChatGPT reaches 900M weekly active users",
+      "summary": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+      "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T18:25:51+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.788025+00:00"
+    },
+    {
+      "id": "0303dd0da0f0",
+      "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+      "summary": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar",
+      "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T19:11:04+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.787955+00:00"
+    },
+    {
+      "id": "c0aab801127e",
+      "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+      "summary": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+      "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T19:42:00+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.787878+00:00"
+    },
+    {
+      "id": "7ed1ec7a635e",
+      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+      "summary": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+      "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T21:53:14+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.787776+00:00"
+    },
+    {
+      "id": "70a6acae2a82",
+      "title": "An update on our mental health-related work",
+      "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+      "url": "https://openai.com/index/update-on-mental-health-related-work",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-27T00:00:00+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.555580+00:00"
+    },
+    {
+      "id": "5c157a0f1b15",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+      "url": "https://openai.com/index/amazon-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-27T05:30:00+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.555504+00:00"
+    },
+    {
+      "id": "438717494fbc",
+      "title": "Scaling AI for everyone",
+      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-27T05:30:00+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.555429+00:00"
+    },
+    {
+      "id": "562988ce82c2",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-27T05:30:00+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.555350+00:00"
+    },
+    {
+      "id": "a96360bc7299",
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+      "url": "https://openai.com/index/continuing-microsoft-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-27T05:30:00+00:00",
+      "scrapedAt": "2026-02-28T08:37:08.555263+00:00"
+    },
+    {
+      "id": "1c746ce83ae1",
+      "title": "AI is rewiring how the world’s best Go players think",
+      "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. Th",
+      "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T10:00:00+00:00",
+      "scrapedAt": "2026-02-28T08:37:07.441264+00:00"
+    },
     {
       "id": "c70da20cc441",
       "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
