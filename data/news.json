@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-02-28T08:38:09.213099+00:00",
+  "lastUpdated": "2026-03-01T08:39:23.219658+00:00",
   "articles": [
+    {
+      "id": "00559bbfacda",
+      "title": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
+      "summary": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
+      "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T00:01:10+00:00",
+      "scrapedAt": "2026-03-01T08:38:28.510691+00:00"
+    },
+    {
+      "id": "a08512141912",
+      "title": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
+      "summary": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
+      "url": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T12:00:00+00:00",
+      "scrapedAt": "2026-03-01T08:38:28.510620+00:00"
+    },
+    {
+      "id": "14ffbd011582",
+      "title": "Wall Street Has AI Psychosis",
+      "summary": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
+      "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T16:00:00+00:00",
+      "scrapedAt": "2026-03-01T08:38:28.510549+00:00"
+    },
+    {
+      "id": "37ee0a9ac0a4",
+      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+      "summary": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
+      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T19:07:28+00:00",
+      "scrapedAt": "2026-03-01T08:38:28.510475+00:00"
+    },
+    {
+      "id": "b8833b7a263a",
+      "title": "Trump Moves to Ban Anthropic From the US Government",
+      "summary": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+      "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T21:36:31+00:00",
+      "scrapedAt": "2026-03-01T08:38:28.510377+00:00"
+    },
+    {
+      "id": "6be3fae71ebc",
+      "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+      "summary": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-02-28T03:30:41+00:00",
+      "scrapedAt": "2026-03-01T08:38:28.510293+00:00"
+    },
+    {
+      "id": "a2ba9d3826f9",
+      "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
+      "summary": "The image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge Google is bringing a more powerful version of its Nano Banana AI image model to free ",
+      "url": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T11:00:00-05:00",
+      "scrapedAt": "2026-03-01T08:38:28.337768+00:00"
+    },
+    {
+      "id": "6fca6385db26",
+      "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
+      "summary": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,0",
+      "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T17:11:13-05:00",
+      "scrapedAt": "2026-03-01T08:38:28.337372+00:00"
+    },
+    {
+      "id": "432f2d000fa4",
+      "title": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
+      "summary": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday . The feature takes the load off ",
+      "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T17:56:09-05:00",
+      "scrapedAt": "2026-03-01T08:38:28.337016+00:00"
+    },
+    {
+      "id": "df7bb542547b",
+      "title": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
+      "summary": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dr",
+      "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-26T18:22:44-05:00",
+      "scrapedAt": "2026-03-01T08:38:28.336640+00:00"
+    },
+    {
+      "id": "ffd05bf7ce04",
+      "title": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
+      "summary": "OpenAI has closed another round of funding , totalling $110 billion being newly committed to the maker of ChatGPT, which it says has more than 900 million weekly active users and over 50 million consu",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T09:55:16-05:00",
+      "scrapedAt": "2026-03-01T08:38:28.336251+00:00"
+    },
+    {
+      "id": "032f74d9bbb6",
+      "title": "The Galaxy S26 is a photography nightmare",
+      "summary": "In many ways, Samsung's new phones are fairly normal upgrades . The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra , which looks like an extremely cool ",
+      "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T10:15:52-05:00",
+      "scrapedAt": "2026-03-01T08:38:28.335633+00:00"
+    },
+    {
+      "id": "92c2e5df450b",
+      "title": "We don&#8217;t have to have unsupervised killer robots",
+      "summary": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-02-27T11:18:26-05:00",
+      "scrapedAt": "2026-03-01T08:38:28.334928+00:00"
+    },
+    {
+      "id": "3eb17112afe9",
+      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+      "summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-28T16:17:36+00:00",
+      "scrapedAt": "2026-03-01T08:38:27.030032+00:00"
+    },
+    {
+      "id": "5005fe0e6df5",
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "summary": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-28T20:41:55+00:00",
+      "scrapedAt": "2026-03-01T08:38:27.029962+00:00"
+    },
+    {
+      "id": "54822419b90f",
+      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+      "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-02-28T21:05:06+00:00",
+      "scrapedAt": "2026-03-01T08:38:27.029889+00:00"
+    },
+    {
+      "id": "261602d01207",
+      "title": "The trap Anthropic built for itself",
+      "summary": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+      "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-01T00:08:58+00:00",
+      "scrapedAt": "2026-03-01T08:38:27.029804+00:00"
+    },
+    {
+      "id": "70dadf2e6ec3",
+      "title": "Our agreement with the Department of War",
+      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-28T12:30:00+00:00",
+      "scrapedAt": "2026-03-01T08:38:26.887758+00:00"
+    },
+    {
+      "id": "7f27d8de89fd",
+      "title": "What’s next for Chinese open-source AI",
+      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . The past year has marked a tu",
+      "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T10:00:00+00:00",
+      "scrapedAt": "2026-03-01T08:38:26.025645+00:00"
+    },
+    {
+      "id": "d9060baace8f",
+      "title": "AI is already making online crimes easier. It could get much worse.",
+      "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him",
+      "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-12T11:00:00+00:00",
+      "scrapedAt": "2026-03-01T08:38:26.023625+00:00"
+    },
     {
       "id": "6030a326ee09",
       "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
@@ -1415,207 +1615,6 @@
       "category": "product",
       "publishedAt": "2026-02-06T16:38:11+00:00",
       "scrapedAt": "2026-02-22T08:40:00.520784+00:00"
-    },
-    {
-      "id": "9826d6dc7e15",
-      "title": "The AI security nightmare is here and it looks suspiciously like lobster",
-      "summary": "A hacker tricked a popular AI coding tool into installing OpenClaw - the viral, open-source AI agent OpenClaw that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T13:58:56-05:00",
-      "scrapedAt": "2026-02-21T08:38:42.225803+00:00"
-    },
-    {
-      "id": "c8391e73da79",
-      "title": "The Pitt has a sharp take on AI",
-      "summary": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are",
-      "url": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-19T18:15:00-05:00",
-      "scrapedAt": "2026-02-21T08:38:42.225310+00:00"
-    },
-    {
-      "id": "1c95a186e687",
-      "title": "OpenAI&#8217;s first ChatGPT gadget could be a smart speaker with a camera",
-      "summary": "OpenAI's first hardware release will be a smart speaker with a camera that will probably cost between $200 and $300, according to The Information . The device will be able to recognize things like \"it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T11:52:03-05:00",
-      "scrapedAt": "2026-02-21T08:38:42.224769+00:00"
-    },
-    {
-      "id": "1644ed0fe0bd",
-      "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
-      "summary": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times . Numerous unnamed Amazon employees told",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T11:52:48-05:00",
-      "scrapedAt": "2026-02-21T08:38:42.224281+00:00"
-    },
-    {
-      "id": "765347234db7",
-      "title": "Trump is making coal plants even dirtier as AI demands more energy",
-      "summary": "Kingston Fossil Plant, a 1.4-gigawatt coal-fired power plant located in Roane County, just outside Kingston, Tennessee on the shore of Watts Bar Lake. | Photo: Getty Images The Trump administration ju",
-      "url": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T15:18:34-05:00",
-      "scrapedAt": "2026-02-21T08:38:42.223753+00:00"
-    },
-    {
-      "id": "150a6d9b894a",
-      "title": "TechCrunch Disrupt 2026 Super Early Bird rates end in 1 week",
-      "summary": "The lowest ticket rates of the year for TechCrunch Disrupt 2026 end next Friday, February 27. Save up to $680 on your pass. Register now before prices increase.",
-      "url": "https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T15:00:00+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.244958+00:00"
-    },
-    {
-      "id": "26691bc7094e",
-      "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
-      "summary": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
-      "url": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T15:10:40+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.244867+00:00"
-    },
-    {
-      "id": "535a0d06dc71",
-      "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
-      "summary": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated conte",
-      "url": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T15:30:00+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.244798+00:00"
-    },
-    {
-      "id": "4f7561e29093",
-      "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
-      "summary": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
-      "url": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T16:25:54+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.244721+00:00"
-    },
-    {
-      "id": "572bfa0d4aac",
-      "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
-      "summary": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
-      "url": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T18:26:54+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.244651+00:00"
-    },
-    {
-      "id": "e6bf346d6445",
-      "title": "InScope nabs $14.5M to solve the pain of financial reporting",
-      "summary": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
-      "url": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T19:24:57+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.244579+00:00"
-    },
-    {
-      "id": "2f94cc5072ba",
-      "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-      "summary": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system ",
-      "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T20:52:48+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.244506+00:00"
-    },
-    {
-      "id": "03a87b47ee21",
-      "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
-      "summary": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s",
-      "url": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T22:24:37+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.244421+00:00"
-    },
-    {
-      "id": "6775bdbf2e8c",
-      "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
-      "summary": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s",
-      "url": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-20T23:00:00+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.244290+00:00"
-    },
-    {
-      "id": "93ece4d595ca",
-      "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
-      "summary": "Sarvam's Indus chat app is currently available in beta.",
-      "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-21T01:00:00+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.221321+00:00"
-    },
-    {
-      "id": "882674348fab",
-      "title": "Introducing GPT-5.3-Codex-Spark",
-      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-12T10:00:00+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.109127+00:00"
-    },
-    {
-      "id": "b70326e3be7e",
-      "title": "Our First Proof submissions",
-      "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-      "url": "https://openai.com/index/first-proof-submissions",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-20T14:30:00+00:00",
-      "scrapedAt": "2026-02-21T08:38:41.108554+00:00"
-    },
-    {
-      "id": "e795181f01f6",
-      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-      "summary": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-12T16:13:00+00:00",
-      "scrapedAt": "2026-02-21T08:38:40.568840+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_keyword_hea.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7f27d8de89fd",
-      "title": "What’s next for Chinese open-source AI",
-      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . The past year has marked a tu",
-      "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T10:00:00+00:00",
-      "scrapedAt": "2026-02-21T08:38:40.255598+00:00"
-    },
-    {
-      "id": "d9060baace8f",
-      "title": "AI is already making online crimes easier. It could get much worse.",
-      "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him",
-      "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T11:00:00+00:00",
-      "scrapedAt": "2026-02-21T08:38:40.253670+00:00"
     }
   ]
 }
