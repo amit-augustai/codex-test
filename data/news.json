@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-03-02T08:55:14.392900+00:00",
+  "lastUpdated": "2026-03-03T08:52:48.812524+00:00",
   "articles": [
+    {
+      "id": "ebdf49df6979",
+      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+      "summary": "arXiv:2603.00349v1 Announce Type: new Abstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exce",
+      "url": "https://arxiv.org/abs/2603.00349",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-03T00:00:00-05:00",
+      "scrapedAt": "2026-03-03T08:51:48.712328+00:00"
+    },
+    {
+      "id": "11d0ce06295a",
+      "title": "How Well Do Multimodal Models Reason on ECG Signals?",
+      "summary": "arXiv:2603.00312v1 Announce Type: new Abstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpretable reasoning traces, v",
+      "url": "https://arxiv.org/abs/2603.00312",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-03T00:00:00-05:00",
+      "scrapedAt": "2026-03-03T08:51:48.712229+00:00"
+    },
+    {
+      "id": "4ad35b22418e",
+      "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
+      "summary": "arXiv:2603.00309v1 Announce Type: new Abstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaborati",
+      "url": "https://arxiv.org/abs/2603.00309",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-03T00:00:00-05:00",
+      "scrapedAt": "2026-03-03T08:51:48.712134+00:00"
+    },
+    {
+      "id": "999030ee8620",
+      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+      "summary": "arXiv:2603.00285v1 Announce Type: new Abstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making centra",
+      "url": "https://arxiv.org/abs/2603.00285",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-03T00:00:00-05:00",
+      "scrapedAt": "2026-03-03T08:51:48.712031+00:00"
+    },
+    {
+      "id": "ce19cf2a16c3",
+      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+      "summary": "arXiv:2603.00267v1 Announce Type: new Abstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking",
+      "url": "https://arxiv.org/abs/2603.00267",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-03T00:00:00-05:00",
+      "scrapedAt": "2026-03-03T08:51:48.711899+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.949933+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.948151+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.941754+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.938567+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.931105+00:00"
+    },
+    {
+      "id": "2e4e6735f35e",
+      "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+      "summary": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
+      "url": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-01T17:00:00+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.615396+00:00"
+    },
+    {
+      "id": "aa408740acfa",
+      "title": "Anthropic’s Claude reports widespread outage",
+      "summary": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+      "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-02T13:31:49+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.615277+00:00"
+    },
+    {
+      "id": "a39b5836524b",
+      "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+      "summary": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+      "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-02T15:14:36+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.615174+00:00"
+    },
+    {
+      "id": "0902e8a7f87b",
+      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+      "summary": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+      "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-02T17:18:34+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.615109+00:00"
+    },
+    {
+      "id": "548bd7cf8809",
+      "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+      "summary": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
+      "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-02T18:42:11+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.615019+00:00"
+    },
+    {
+      "id": "fa5dfbbd085c",
+      "title": "No one has a good plan for how AI companies should work with the government",
+      "summary": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+      "url": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-02T22:59:10+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.614956+00:00"
+    },
+    {
+      "id": "a8414280a1f6",
+      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+      "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-03T00:03:37+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.614883+00:00"
+    },
+    {
+      "id": "3892416d54a6",
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "summary": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+      "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-03T01:53:59+00:00",
+      "scrapedAt": "2026-03-03T08:51:47.614755+00:00"
+    },
+    {
+      "id": "9e6d2f439e3a",
+      "title": "I checked out one of the biggest anti-AI protests yet",
+      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech h",
+      "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-02T12:55:20+00:00",
+      "scrapedAt": "2026-03-03T08:51:46.560901+00:00"
+    },
+    {
+      "id": "22b739c58fe5",
+      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pur",
+      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-02T17:29:42+00:00",
+      "scrapedAt": "2026-03-03T08:51:46.559725+00:00"
+    },
     {
       "id": "0a8e1f292fb3",
       "title": "Human Supervision as an Information Bottleneck: A Unified Theory of Error Floors in Human-Guided Learning",
@@ -1413,206 +1613,6 @@
       "category": "product",
       "publishedAt": "2026-02-23T17:05:00+00:00",
       "scrapedAt": "2026-02-24T08:57:19.796837+00:00"
-    },
-    {
-      "id": "d0ccd029db64",
-      "title": "Joint Parameter and State-Space Bayesian Optimization: Using Process Expertise to Accelerate Manufacturing Optimization",
-      "summary": "arXiv:2602.17679v1 Announce Type: new Abstract: Bayesian optimization (BO) is a powerful method for optimizing black-box manufacturing processes, but its performance is often limited when dealing with",
-      "url": "https://arxiv.org/abs/2602.17679",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.946828+00:00"
-    },
-    {
-      "id": "db2ccc0eb976",
-      "title": "Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving",
-      "summary": "arXiv:2602.17677v1 Announce Type: new Abstract: Multiple Choice Question Answering (MCQA) benchmarks are an established standard for measuring Vision Language Model (VLM) performance in driving tasks.",
-      "url": "https://arxiv.org/abs/2602.17677",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.946687+00:00"
-    },
-    {
-      "id": "f3f6783ad070",
-      "title": "Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies",
-      "summary": "arXiv:2602.18291v1 Announce Type: new Abstract: Online Multi-Agent Reinforcement Learning (MARL) is a prominent framework for efficient agent coordination. Crucially, enhancing policy expressiveness i",
-      "url": "https://arxiv.org/abs/2602.18291",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.737595+00:00"
-    },
-    {
-      "id": "2c84c915027a",
-      "title": "SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps",
-      "summary": "arXiv:2602.18201v1 Announce Type: new Abstract: Unsupervised representations are widely assumed to be neutral with respect to sensitive attributes when those attributes are withheld from training. We ",
-      "url": "https://arxiv.org/abs/2602.18201",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.737479+00:00"
-    },
-    {
-      "id": "40a27ef25329",
-      "title": "Neurosymbolic Language Reasoning as Satisfiability Modulo Theory",
-      "summary": "arXiv:2602.18095v1 Announce Type: new Abstract: Natural language understanding requires interleaving textual and logical reasoning, yet large language models often fail to perform such reasoning relia",
-      "url": "https://arxiv.org/abs/2602.18095",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.737369+00:00"
-    },
-    {
-      "id": "530ff91c64ea",
-      "title": "Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets",
-      "summary": "arXiv:2602.18025v1 Announce Type: new Abstract: Scalable robot policy pre-training has been hindered by the high cost of collecting high-quality demonstrations for each platform. In this study, we add",
-      "url": "https://arxiv.org/abs/2602.18025",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.737270+00:00"
-    },
-    {
-      "id": "812f75817cab",
-      "title": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
-      "summary": "arXiv:2602.17990v1 Announce Type: new Abstract: LLM-based systems increasingly generate structured workflows for complex tasks. In practice, automatic evaluation of these workflows is difficult, becau",
-      "url": "https://arxiv.org/abs/2602.17990",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.737153+00:00"
-    },
-    {
-      "id": "e4b125387e07",
-      "title": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems",
-      "summary": "arXiv:2602.17910v1 Announce Type: new Abstract: Traditional AI alignment primarily focuses on individual model outputs; however, autonomous agents in long-horizon workflows require sustained reliabili",
-      "url": "https://arxiv.org/abs/2602.17910",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.737034+00:00"
-    },
-    {
-      "id": "ed0739073ffd",
-      "title": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents",
-      "summary": "arXiv:2602.17902v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to automate scientific workflows, yet their integration with heterogeneous computational tools remain",
-      "url": "https://arxiv.org/abs/2602.17902",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.736934+00:00"
-    },
-    {
-      "id": "1e5f3b7bf899",
-      "title": "The Token Games: Evaluating Language Model Reasoning with Puzzle Duels",
-      "summary": "arXiv:2602.17831v1 Announce Type: new Abstract: Evaluating the reasoning capabilities of Large Language Models is increasingly challenging as models improve. Human curation of hard questions is highly",
-      "url": "https://arxiv.org/abs/2602.17831",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.736800+00:00"
-    },
-    {
-      "id": "37bd942fef1d",
-      "title": "Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge",
-      "summary": "arXiv:2602.17826v1 Announce Type: new Abstract: Language models exhibit fundamental limitations -- hallucination, brittleness, and lack of formal grounding -- that are particularly problematic in high",
-      "url": "https://arxiv.org/abs/2602.17826",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.736673+00:00"
-    },
-    {
-      "id": "46f8c7987232",
-      "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
-      "summary": "arXiv:2602.17676v1 Announce Type: new Abstract: The rapid deployment of Large Language Models and AI agents across critical societal and technical domains is hindered by persistent behavioral patholog",
-      "url": "https://arxiv.org/abs/2602.17676",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-02-23T00:00:00-05:00",
-      "scrapedAt": "2026-02-23T08:58:08.736565+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-02-23T08:58:08.554439+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-02-23T08:58:08.552381+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-02-23T08:58:08.545246+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-02-23T08:58:08.541462+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-02-23T08:58:08.532862+00:00"
-    },
-    {
-      "id": "7cdfd2ee6b3e",
-      "title": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
-      "summary": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p.m. PT. That means you have just 6 days left to secure up to $680 of ticket savings.",
-      "url": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-22T15:00:00+00:00",
-      "scrapedAt": "2026-02-23T08:58:08.165011+00:00"
-    },
-    {
-      "id": "cbabfce3f352",
-      "title": "All the important news from the ongoing India AI Impact Summit",
-      "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as ",
-      "url": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-22T17:00:00+00:00",
-      "scrapedAt": "2026-02-23T08:58:08.164928+00:00"
-    },
-    {
-      "id": "7850ae10d710",
-      "title": "Introducing EVMbench",
-      "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-      "url": "https://openai.com/index/introducing-evmbench",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-18T00:00:00+00:00",
-      "scrapedAt": "2026-02-23T08:58:08.016269+00:00"
     }
   ]
 }
