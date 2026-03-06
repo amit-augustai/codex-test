@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-03-05T08:54:05.137851+00:00",
+  "lastUpdated": "2026-03-06T08:49:18.798647+00:00",
   "articles": [
+    {
+      "id": "45ee9c392867",
+      "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+      "summary": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T18:00:15+00:00",
+      "scrapedAt": "2026-03-06T08:48:23.012935+00:00"
+    },
+    {
+      "id": "4c1fd731bd73",
+      "title": "Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+      "summary": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+      "url": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T18:11:36+00:00",
+      "scrapedAt": "2026-03-06T08:48:23.012868+00:00"
+    },
+    {
+      "id": "da6d261b798b",
+      "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
+      "summary": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran",
+      "url": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T20:24:25+00:00",
+      "scrapedAt": "2026-03-06T08:48:23.012790+00:00"
+    },
+    {
+      "id": "3ea0e6c589bc",
+      "title": "US reportedly considering sweeping new chip export controls",
+      "summary": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
+      "url": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T21:24:50+00:00",
+      "scrapedAt": "2026-03-06T08:48:23.012718+00:00"
+    },
+    {
+      "id": "317b1606be3e",
+      "title": "AWS launches a new AI agent platform specifically for healthcare",
+      "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+      "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T21:54:37+00:00",
+      "scrapedAt": "2026-03-06T08:48:23.012648+00:00"
+    },
+    {
+      "id": "f3441927dd07",
+      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+      "summary": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+      "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T23:14:04+00:00",
+      "scrapedAt": "2026-03-06T08:48:23.012575+00:00"
+    },
+    {
+      "id": "c150ba180df2",
+      "title": "Anthropic to challenge DOD’s supply-chain label in court",
+      "summary": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
+      "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-06T01:28:54+00:00",
+      "scrapedAt": "2026-03-06T08:48:23.012487+00:00"
+    },
+    {
+      "id": "24645d86cb6e",
+      "title": "Introducing the Adoption news channel",
+      "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-05T00:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.929203+00:00"
+    },
+    {
+      "id": "d70be7f157f5",
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+      "url": "https://openai.com/index/chatgpt-for-excel",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-05T00:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.929138+00:00"
+    },
+    {
+      "id": "e7c3d13ae6e2",
+      "title": "The five AI value models driving business reinvention",
+      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-05T00:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.929068+00:00"
+    },
+    {
+      "id": "51c5e121f963",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "url": "https://openai.com/index/ai-education-opportunity",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-05T09:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.928975+00:00"
+    },
+    {
+      "id": "a12b30c470dc",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-05T10:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.928897+00:00"
+    },
+    {
+      "id": "11c2367d7276",
+      "title": "Introducing GPT-5.4",
+      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-05T10:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.928814+00:00"
+    },
+    {
+      "id": "7535c2f2ce51",
+      "title": "GPT-5.4 Thinking System Card",
+      "summary": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-05T10:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.928671+00:00"
+    },
+    {
+      "id": "01045fd33d34",
+      "title": "A more intelligent Android on Samsung Galaxy S26",
+      "summary": "At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-02-25T18:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.086765+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2096x1182_withoutte.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "442508867b11",
+      "title": "The latest AI news we announced in February",
+      "summary": "Here are Google’s latest AI updates from February 2026",
+      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-05T16:30:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.086249+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_mPCqgRv.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "d4b70b90f586",
+      "title": "Ask a Techspert: How does AI understand my visual searches?",
+      "summary": "Learn more about AI Mode in Search’s query fan-out method for visual search.",
+      "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-05T18:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:22.086141+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fan_out_query_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7f5f7455c100",
+      "title": "The robots who predict the future",
+      "summary": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us",
+      "url": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T11:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:21.810246+00:00"
+    },
+    {
+      "id": "c646cce30b08",
+      "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
+      "summary": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the ",
+      "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-18T16:00:22+00:00",
+      "scrapedAt": "2026-03-06T08:48:21.807284+00:00"
+    },
+    {
+      "id": "319a07e601cb",
+      "title": "Online harassment is entering its AI era",
+      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwh",
+      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T10:00:00+00:00",
+      "scrapedAt": "2026-03-06T08:48:21.793698+00:00"
+    },
     {
       "id": "cf2365ce8a5d",
       "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
@@ -1407,213 +1610,6 @@
       "category": "product",
       "publishedAt": "2026-02-26T15:00:59+00:00",
       "scrapedAt": "2026-02-27T08:51:07.904267+00:00"
-    },
-    {
-      "id": "10d44b41bce1",
-      "title": "The public opposition to AI infrastructure is heating up",
-      "summary": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction.",
-      "url": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-25T19:03:34+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.936263+00:00"
-    },
-    {
-      "id": "1de55ca1d488",
-      "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
-      "summary": "The wearable incentivizes healthy behavior with points that can be redeemed for health products.",
-      "url": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-25T19:10:04+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.936190+00:00"
-    },
-    {
-      "id": "65836b90ba27",
-      "title": "Alphabet-owned robotics software company Intrinsic joins Google",
-      "summary": "Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.",
-      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-25T20:00:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.936123+00:00"
-    },
-    {
-      "id": "d56dc9a62841",
-      "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-      "summary": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
-      "url": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-25T20:42:14+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.936055+00:00"
-    },
-    {
-      "id": "285fab613bf2",
-      "title": "Nvidia has another record quarter amid record capex spends",
-      "summary": "\"The demand for tokens in the world has gone completely exponential,\" Nvidia CEO Jensen Huang said about the company's earnings.",
-      "url": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-25T23:04:42+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.935987+00:00"
-    },
-    {
-      "id": "23b6a3acafbb",
-      "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
-      "summary": "Seattle-based Vercept developed complex agentic tools, including a computer-use agent that could complete tasks inside applications like a person with a laptop would.",
-      "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-25T23:49:19+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.935908+00:00"
-    },
-    {
-      "id": "25839858c0f4",
-      "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
-      "summary": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
-      "url": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-26T00:00:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.935814+00:00"
-    },
-    {
-      "id": "f610f485f8d3",
-      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-      "summary": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
-      "url": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-26T01:59:12+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.935731+00:00"
-    },
-    {
-      "id": "2c652b1871a9",
-      "title": "Introducing OpenAI for India",
-      "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
-      "url": "https://openai.com/index/openai-for-india",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-18T21:00:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.854959+00:00"
-    },
-    {
-      "id": "c9c0a5df837b",
-      "title": "Disrupting malicious uses of AI | February 2026",
-      "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
-      "url": "https://openai.com/index/disrupting-malicious-ai-uses",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-25T00:00:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.854460+00:00"
-    },
-    {
-      "id": "35caebc0ee7b",
-      "title": "9 fun questions to try asking Google Photos",
-      "summary": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
-      "url": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-10T17:00:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.367157+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025-Travel-Trends_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "038660ff6222",
-      "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
-      "summary": "An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-18T10:30:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.366881+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Summit-Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "8684042cac98",
-      "title": "A new way to express yourself: Gemini can now create music",
-      "summary": "Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-18T16:00:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.366771+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0217_KeywordHeaderFinalc.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "a868c2239356",
-      "title": "AI Impact Summit 2026",
-      "summary": "A look at the partnerships and investments Google announced at the AI Impact Summit 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-19T04:30:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.366681+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "15495d405832",
-      "title": "“No technology has me dreaming bigger than AI”",
-      "summary": "CEO Sundar Pichai’s remarks at the opening ceremony of the AI Impact Summit 2026",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-19T04:30:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.366590+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Google_2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "01045fd33d34",
-      "title": "A more intelligent Android on Samsung Galaxy S26",
-      "summary": "At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-25T18:00:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.366493+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2096x1182_withoutte.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c075b5e1b6a0",
-      "title": "See the whole picture and find the look with Circle to Search",
-      "summary": "We’ve updated Circle to Search so you can now explore multiple items in a single image.",
-      "url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-25T18:00:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.366383+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FTL__Try_On_Blog_header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5f5ee2c27862",
-      "title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
-      "summary": "In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his wor",
-      "url": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-10T17:00:24+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.012207+00:00"
-    },
-    {
-      "id": "7f5f7455c100",
-      "title": "The robots who predict the future",
-      "summary": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped us",
-      "url": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-18T11:00:00+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.003250+00:00"
-    },
-    {
-      "id": "c646cce30b08",
-      "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-      "summary": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the ",
-      "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-18T16:00:22+00:00",
-      "scrapedAt": "2026-02-26T08:56:53.000295+00:00"
     }
   ]
 }
