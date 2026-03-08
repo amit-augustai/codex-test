@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-03-07T08:39:42.175616+00:00",
+  "lastUpdated": "2026-03-08T08:39:47.829695+00:00",
   "articles": [
+    {
+      "id": "ba48c58afbce",
+      "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+      "summary": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+      "url": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T22:00:00+00:00",
+      "scrapedAt": "2026-03-08T08:38:52.637199+00:00"
+    },
+    {
+      "id": "eb8a3c02860f",
+      "title": "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
+      "summary": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T22:17:54+00:00",
+      "scrapedAt": "2026-03-08T08:38:52.637123+00:00"
+    },
+    {
+      "id": "576c3794d074",
+      "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
+      "summary": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
+      "url": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-03-06T10:00:00+00:00",
+      "scrapedAt": "2026-03-08T08:38:52.637027+00:00"
+    },
+    {
+      "id": "41797b83a6bc",
+      "title": "Why Is Alexa+ So Bad?",
+      "summary": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
+      "url": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-03-06T11:00:00+00:00",
+      "scrapedAt": "2026-03-08T08:38:52.636945+00:00"
+    },
+    {
+      "id": "c1a9dd1ad420",
+      "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
+      "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
+      "url": "https://www.wired.com/story/deveillance-spectre-i/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-03-06T23:45:14+00:00",
+      "scrapedAt": "2026-03-08T08:38:52.636849+00:00"
+    },
+    {
+      "id": "6080da4fc721",
+      "title": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
+      "summary": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the Department of Defense in an attempt to salvage the company's relationship with the US military and prevent it from being",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T06:46:46-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.571233+00:00"
+    },
+    {
+      "id": "069ef3c71b34",
+      "title": "AI tools can unmask anonymous accounts",
+      "summary": "Do you have a Reddit alt, secret X, finsta, or Glassdoor account you trash your boss with? AI might have just made it a lot easier to unmask you. That's the conclusion of a recently published study , ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T08:30:00-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.570827+00:00"
+    },
+    {
+      "id": "f7631f042710",
+      "title": "Apple Music adds optional labels for AI songs and visuals",
+      "summary": "No AI usage will be assumed on works that providers haven't voluntarily tagged. | Illustration: Alex Castro / The Verge Apple is asking artists and record labels on its music streaming platform to vol",
+      "url": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T09:00:00-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.570460+00:00"
+    },
+    {
+      "id": "eb1cdf057634",
+      "title": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
+      "summary": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and Göteborgs-Posten . T",
+      "url": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T11:37:52-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.570045+00:00"
+    },
+    {
+      "id": "365cadf028a4",
+      "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+      "summary": "OpenAI is launching GPT-5.4 , the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presenta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T13:00:00-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.569493+00:00"
+    },
+    {
+      "id": "678a5e2fb0ef",
+      "title": "Netflix is buying Ben Affleck’s AI startup",
+      "summary": "Though Netflix lost the war for Warner Bros. , it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado . Today, Netflix announced that it has acquired InterPositive, Be",
+      "url": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T13:27:16-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.568869+00:00"
+    },
+    {
+      "id": "f12077cc6f46",
+      "title": "The Pentagon formally labels Anthropic a supply-chain risk",
+      "summary": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images After w",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-05T18:02:22-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.568411+00:00"
+    },
+    {
+      "id": "b134b253bff3",
+      "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
+      "summary": "Co-director Daniel Roher. | Image: Focus Features We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives , but it is still easy to be confused about w",
+      "url": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-06T14:05:00-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.567944+00:00"
+    },
+    {
+      "id": "aac0d810e6bc",
+      "title": "Grammarly is using our identities without permission",
+      "summary": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the f",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-06T15:58:24-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.567439+00:00"
+    },
+    {
+      "id": "fe4537d0633a",
+      "title": "The OpenClaw superfan meetup serves optimism and lobster",
+      "summary": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-03-07T09:00:00-05:00",
+      "scrapedAt": "2026-03-08T08:38:52.566792+00:00"
+    },
+    {
+      "id": "9007b581fc7f",
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+      "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-07T17:28:41+00:00",
+      "scrapedAt": "2026-03-08T08:38:51.861861+00:00"
+    },
+    {
+      "id": "35a8d3243cc8",
+      "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t",
+      "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-07T20:44:25+00:00",
+      "scrapedAt": "2026-03-08T08:38:51.861791+00:00"
+    },
+    {
+      "id": "f4bed433cfed",
+      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+      "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+      "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-07T22:56:31+00:00",
+      "scrapedAt": "2026-03-08T08:38:51.861713+00:00"
+    },
+    {
+      "id": "993358c9ffc0",
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+      "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-08T00:20:10+00:00",
+      "scrapedAt": "2026-03-08T08:38:51.861634+00:00"
+    },
+    {
+      "id": "c6a734ac2cd5",
+      "title": "A roadmap for AI, if anyone will listen",
+      "summary": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+      "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-08T06:05:26+00:00",
+      "scrapedAt": "2026-03-08T08:38:51.861551+00:00"
+    },
     {
       "id": "1bd5d5f60cc3",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -1211,206 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-03-01T17:30:00+00:00",
       "scrapedAt": "2026-03-02T08:54:19.820584+00:00"
-    },
-    {
-      "id": "00559bbfacda",
-      "title": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
-      "summary": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
-      "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-27T00:01:10+00:00",
-      "scrapedAt": "2026-03-01T08:38:28.510691+00:00"
-    },
-    {
-      "id": "a08512141912",
-      "title": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
-      "summary": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
-      "url": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-27T12:00:00+00:00",
-      "scrapedAt": "2026-03-01T08:38:28.510620+00:00"
-    },
-    {
-      "id": "14ffbd011582",
-      "title": "Wall Street Has AI Psychosis",
-      "summary": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
-      "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-27T16:00:00+00:00",
-      "scrapedAt": "2026-03-01T08:38:28.510549+00:00"
-    },
-    {
-      "id": "37ee0a9ac0a4",
-      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-      "summary": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-27T19:07:28+00:00",
-      "scrapedAt": "2026-03-01T08:38:28.510475+00:00"
-    },
-    {
-      "id": "b8833b7a263a",
-      "title": "Trump Moves to Ban Anthropic From the US Government",
-      "summary": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-      "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-27T21:36:31+00:00",
-      "scrapedAt": "2026-03-01T08:38:28.510377+00:00"
-    },
-    {
-      "id": "6be3fae71ebc",
-      "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
-      "summary": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-02-28T03:30:41+00:00",
-      "scrapedAt": "2026-03-01T08:38:28.510293+00:00"
-    },
-    {
-      "id": "a2ba9d3826f9",
-      "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
-      "summary": "The image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge Google is bringing a more powerful version of its Nano Banana AI image model to free ",
-      "url": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-26T11:00:00-05:00",
-      "scrapedAt": "2026-03-01T08:38:28.337768+00:00"
-    },
-    {
-      "id": "6fca6385db26",
-      "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
-      "summary": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,0",
-      "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-26T17:11:13-05:00",
-      "scrapedAt": "2026-03-01T08:38:28.337372+00:00"
-    },
-    {
-      "id": "432f2d000fa4",
-      "title": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
-      "summary": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday . The feature takes the load off ",
-      "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-26T17:56:09-05:00",
-      "scrapedAt": "2026-03-01T08:38:28.337016+00:00"
-    },
-    {
-      "id": "df7bb542547b",
-      "title": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
-      "summary": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dr",
-      "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-26T18:22:44-05:00",
-      "scrapedAt": "2026-03-01T08:38:28.336640+00:00"
-    },
-    {
-      "id": "ffd05bf7ce04",
-      "title": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
-      "summary": "OpenAI has closed another round of funding , totalling $110 billion being newly committed to the maker of ChatGPT, which it says has more than 900 million weekly active users and over 50 million consu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-27T09:55:16-05:00",
-      "scrapedAt": "2026-03-01T08:38:28.336251+00:00"
-    },
-    {
-      "id": "032f74d9bbb6",
-      "title": "The Galaxy S26 is a photography nightmare",
-      "summary": "In many ways, Samsung's new phones are fairly normal upgrades . The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra , which looks like an extremely cool ",
-      "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-27T10:15:52-05:00",
-      "scrapedAt": "2026-03-01T08:38:28.335633+00:00"
-    },
-    {
-      "id": "92c2e5df450b",
-      "title": "We don&#8217;t have to have unsupervised killer robots",
-      "summary": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-02-27T11:18:26-05:00",
-      "scrapedAt": "2026-03-01T08:38:28.334928+00:00"
-    },
-    {
-      "id": "3eb17112afe9",
-      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-      "summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-28T16:17:36+00:00",
-      "scrapedAt": "2026-03-01T08:38:27.030032+00:00"
-    },
-    {
-      "id": "5005fe0e6df5",
-      "title": "The billion-dollar infrastructure deals powering the AI boom",
-      "summary": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
-      "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-28T20:41:55+00:00",
-      "scrapedAt": "2026-03-01T08:38:27.029962+00:00"
-    },
-    {
-      "id": "54822419b90f",
-      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
-      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-      "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-02-28T21:05:06+00:00",
-      "scrapedAt": "2026-03-01T08:38:27.029889+00:00"
-    },
-    {
-      "id": "261602d01207",
-      "title": "The trap Anthropic built for itself",
-      "summary": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
-      "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-01T00:08:58+00:00",
-      "scrapedAt": "2026-03-01T08:38:27.029804+00:00"
-    },
-    {
-      "id": "70dadf2e6ec3",
-      "title": "Our agreement with the Department of War",
-      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-02-28T12:30:00+00:00",
-      "scrapedAt": "2026-03-01T08:38:26.887758+00:00"
-    },
-    {
-      "id": "7f27d8de89fd",
-      "title": "What’s next for Chinese open-source AI",
-      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . The past year has marked a tu",
-      "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T10:00:00+00:00",
-      "scrapedAt": "2026-03-01T08:38:26.025645+00:00"
-    },
-    {
-      "id": "d9060baace8f",
-      "title": "AI is already making online crimes easier. It could get much worse.",
-      "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him",
-      "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-12T11:00:00+00:00",
-      "scrapedAt": "2026-03-01T08:38:26.023625+00:00"
     }
   ]
 }
