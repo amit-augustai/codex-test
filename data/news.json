@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-03-08T08:39:47.829695+00:00",
+  "lastUpdated": "2026-03-09T08:54:46.574109+00:00",
   "articles": [
+    {
+      "id": "df0508d6893e",
+      "title": "When AI Levels the Playing Field: Skill Homogenization, Asset Concentration, and Two Regimes of Inequality",
+      "summary": "arXiv:2603.05565v1 Announce Type: new Abstract: Generative AI compresses within-task skill differences while shifting economic value toward concentrated complementary assets, creating an apparent para",
+      "url": "https://arxiv.org/abs/2603.05565",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:49.034698+00:00"
+    },
+    {
+      "id": "66bce17fffd3",
+      "title": "Towards Efficient and Stable Ocean State Forecasting: A Continuous-Time Koopman Approach",
+      "summary": "arXiv:2603.05560v1 Announce Type: new Abstract: We investigate the Continuous-Time Koopman Autoencoder (CT-KAE) as a lightweight surrogate model for long-horizon ocean state forecasting in a two-layer",
+      "url": "https://arxiv.org/abs/2603.05560",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:49.034586+00:00"
+    },
+    {
+      "id": "925b42e8220b",
+      "title": "Autocorrelation effects in a stochastic-process model for decision making via time series",
+      "summary": "arXiv:2603.05559v1 Announce Type: new Abstract: Decision makers exploiting photonic chaotic dynamics obtained by semiconductor lasers provide an ultrafast approach to solving multi-armed bandit proble",
+      "url": "https://arxiv.org/abs/2603.05559",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:49.034477+00:00"
+    },
+    {
+      "id": "6662fe2037ed",
+      "title": "IntSeqBERT: Learning Arithmetic Structure in OEIS via Modulo-Spectrum Embeddings",
+      "summary": "arXiv:2603.05556v1 Announce Type: new Abstract: Integer sequences in the OEIS span values from single-digit constants to astronomical factorials and exponentials, making prediction challenging for sta",
+      "url": "https://arxiv.org/abs/2603.05556",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:49.034349+00:00"
+    },
+    {
+      "id": "f008728b94c1",
+      "title": "VDCook:DIY video data cook your MLLMs",
+      "summary": "arXiv:2603.05539v1 Announce Type: new Abstract: We introduce VDCook: a self-evolving video data operating system, a configurable video data construction platform for researchers and vertical domain te",
+      "url": "https://arxiv.org/abs/2603.05539",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:49.034189+00:00"
+    },
+    {
+      "id": "896e4c614ecd",
+      "title": "JAWS: Enhancing Long-term Rollout of Neural Operators via Spatially-Adaptive Jacobian Regularization",
+      "summary": "arXiv:2603.05538v1 Announce Type: new Abstract: Data-driven surrogate models improve the efficiency of simulating continuous dynamical systems, yet their autoregressive rollouts are often limited by i",
+      "url": "https://arxiv.org/abs/2603.05538",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:49.034069+00:00"
+    },
+    {
+      "id": "624d72f332d2",
+      "title": "Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable Policies for Safe, Robust, and Efficient Agents",
+      "summary": "arXiv:2603.05517v1 Announce Type: new Abstract: Autonomous LLM agents fail because long-horizon policy remains implicit in model weights and transcripts, while safety is retrofitted post hoc. We propo",
+      "url": "https://arxiv.org/abs/2603.05517",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:49.033933+00:00"
+    },
+    {
+      "id": "761264909e3b",
+      "title": "Offline Materials Optimization with CliqueFlowmer",
+      "summary": "arXiv:2603.06082v1 Announce Type: new Abstract: Recent advances in deep learning inspired neural network-based approaches to computational materials discovery (CMD). A plethora of problems in this fie",
+      "url": "https://arxiv.org/abs/2603.06082",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.753164+00:00"
+    },
+    {
+      "id": "fbfc836ef93c",
+      "title": "Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks",
+      "summary": "arXiv:2603.06067v1 Announce Type: new Abstract: Formal argumentation is being used increasingly in artificial intelligence as an effective and understandable way to model potentially conflicting piece",
+      "url": "https://arxiv.org/abs/2603.06067",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.753061+00:00"
+    },
+    {
+      "id": "6dec3a90e6d5",
+      "title": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation",
+      "summary": "arXiv:2603.06064v1 Announce Type: new Abstract: Task planning, the problem of sequencing actions to reach a goal from an initial state, is a core capability requirement for autonomous robotic systems.",
+      "url": "https://arxiv.org/abs/2603.06064",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.752930+00:00"
+    },
+    {
+      "id": "9f77c87f259a",
+      "title": "An Interactive Multi-Agent System for Evaluation of New Product Concepts",
+      "summary": "arXiv:2603.05980v1 Announce Type: new Abstract: Product concept evaluation is a critical stage that determines strategic resource allocation and project success in enterprises. However, traditional ex",
+      "url": "https://arxiv.org/abs/2603.05980",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.752795+00:00"
+    },
+    {
+      "id": "cd08c92fa240",
+      "title": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality",
+      "summary": "arXiv:2603.05912v1 Announce Type: new Abstract: Search-augmented LLM agents can produce deep research reports (DRRs), but verifying claim-level factuality remains challenging. Existing fact-checkers a",
+      "url": "https://arxiv.org/abs/2603.05912",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.752670+00:00"
+    },
+    {
+      "id": "67d217635bd3",
+      "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
+      "summary": "arXiv:2603.05910v1 Announce Type: new Abstract: LLM-powered agents fulfill user requests by interacting with environments, querying data, and invoking tools in a multi-turn process. Yet, most existing",
+      "url": "https://arxiv.org/abs/2603.05910",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.752550+00:00"
+    },
+    {
+      "id": "5f7c428a1be7",
+      "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
+      "summary": "arXiv:2603.05860v1 Announce Type: new Abstract: Clinical image interpretation is inherently multi-step and tool-centric: clinicians iteratively combine visual evidence with patient context, quantify f",
+      "url": "https://arxiv.org/abs/2603.05860",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.752424+00:00"
+    },
+    {
+      "id": "113f4a0de06c",
+      "title": "Reasoning Models Struggle to Control their Chains of Thought",
+      "summary": "arXiv:2603.05706v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However, ",
+      "url": "https://arxiv.org/abs/2603.05706",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.752242+00:00"
+    },
+    {
+      "id": "a518a16f73ee",
+      "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
+      "summary": "arXiv:2603.05614v1 Announce Type: new Abstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orch",
+      "url": "https://arxiv.org/abs/2603.05614",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.752109+00:00"
+    },
+    {
+      "id": "814da8786dc7",
+      "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
+      "summary": "arXiv:2603.05522v1 Announce Type: new Abstract: Recent advances in vision language models (VLMs) have shown strong potential for spatial reasoning and 3D scene layout generation from open-ended langua",
+      "url": "https://arxiv.org/abs/2603.05522",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-09T00:00:00-04:00",
+      "scrapedAt": "2026-03-09T08:53:48.751961+00:00"
+    },
+    {
+      "id": "24aef19b03ac",
+      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+      "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+      "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-08T16:30:00+00:00",
+      "scrapedAt": "2026-03-09T08:53:47.961162+00:00"
+    },
+    {
+      "id": "b1af8d78d32c",
+      "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+      "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-08T20:14:42+00:00",
+      "scrapedAt": "2026-03-09T08:53:47.961088+00:00"
+    },
+    {
+      "id": "e751c3130843",
+      "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
+      "summary": "The facial recognition question is where things get more tangled.",
+      "url": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-09T04:35:06+00:00",
+      "scrapedAt": "2026-03-09T08:53:47.961001+00:00"
+    },
     {
       "id": "ba48c58afbce",
       "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
