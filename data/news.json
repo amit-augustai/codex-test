@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-03-09T08:54:46.574109+00:00",
+  "lastUpdated": "2026-03-10T08:54:10.632325+00:00",
   "articles": [
+    {
+      "id": "994d37c59aae",
+      "title": "Switchable Activation Networks",
+      "summary": "arXiv:2603.06601v1 Announce Type: new Abstract: Deep neural networks, and more recently large-scale generative models such as large language models (LLMs) and large vision-action models (LVAs), achiev",
+      "url": "https://arxiv.org/abs/2603.06601",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-10T00:00:00-04:00",
+      "scrapedAt": "2026-03-10T08:53:16.049694+00:00"
+    },
+    {
+      "id": "3b75f84c387a",
+      "title": "FuzzingRL: Reinforcement Fuzz-Testing for Revealing VLM Failures",
+      "summary": "arXiv:2603.06600v1 Announce Type: new Abstract: Vision Language Models (VLMs) are prone to errors, and identifying where these errors occur is critical for ensuring the reliability and safety of AI sy",
+      "url": "https://arxiv.org/abs/2603.06600",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-10T00:00:00-04:00",
+      "scrapedAt": "2026-03-10T08:53:16.049570+00:00"
+    },
+    {
+      "id": "dfb10dc24140",
+      "title": "How Attention Sinks Emerge in Large Language Models: An Interpretability Perspective",
+      "summary": "arXiv:2603.06591v1 Announce Type: new Abstract: Large Language Models (LLMs) often allocate disproportionate attention to specific tokens, a phenomenon commonly referred to as the attention sink. Whil",
+      "url": "https://arxiv.org/abs/2603.06591",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-10T00:00:00-04:00",
+      "scrapedAt": "2026-03-10T08:53:16.049457+00:00"
+    },
+    {
+      "id": "da2135892ecb",
+      "title": "vLLM Hook v0: A Plug-in for Programming Model Internals on vLLM",
+      "summary": "arXiv:2603.06588v1 Announce Type: new Abstract: Modern artificial intelligence (AI) models are deployed on inference engines to optimize runtime efficiency and resource allocation, particularly for tr",
+      "url": "https://arxiv.org/abs/2603.06588",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-10T00:00:00-04:00",
+      "scrapedAt": "2026-03-10T08:53:16.049327+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-03-10T08:53:15.330314+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-03-10T08:53:15.328281+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-03-10T08:53:15.321724+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-03-10T08:53:15.318094+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-03-10T08:53:15.309532+00:00"
+    },
+    {
+      "id": "dc4df7fe4711",
+      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B  valuation",
+      "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+      "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-09T15:09:35+00:00",
+      "scrapedAt": "2026-03-10T08:53:14.934091+00:00"
+    },
+    {
+      "id": "cc1497b4633f",
+      "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
+      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-09T15:58:11+00:00",
+      "scrapedAt": "2026-03-10T08:53:14.934025+00:00"
+    },
+    {
+      "id": "5d97b4682961",
+      "title": "Anthropic sues Defense Department over supply-chain risk designation",
+      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-09T17:25:40+00:00",
+      "scrapedAt": "2026-03-10T08:53:14.933959+00:00"
+    },
+    {
+      "id": "e4d4c1d770d4",
+      "title": "OpenAI acquires Promptfoo to secure its AI agents",
+      "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-09T17:49:04+00:00",
+      "scrapedAt": "2026-03-10T08:53:14.933888+00:00"
+    },
+    {
+      "id": "1c609528c7eb",
+      "title": "Anthropic launches code review tool to check flood of AI-generated code",
+      "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-09T19:41:34+00:00",
+      "scrapedAt": "2026-03-10T08:53:14.933814+00:00"
+    },
+    {
+      "id": "52269344aa04",
+      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, accord",
+      "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-09T21:15:17+00:00",
+      "scrapedAt": "2026-03-10T08:53:14.933719+00:00"
+    },
+    {
+      "id": "22dd9640f36f",
+      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+      "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T05:00:00+00:00",
+      "scrapedAt": "2026-03-10T08:53:14.933632+00:00"
+    },
+    {
+      "id": "f096a3289ec1",
+      "title": "OpenAI to acquire Promptfoo",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-09T10:00:00+00:00",
+      "scrapedAt": "2026-03-10T08:53:14.877099+00:00"
+    },
+    {
+      "id": "9e6d2f439e3a",
+      "title": "I checked out one of the biggest anti-AI protests yet",
+      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech h",
+      "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-02T12:55:20+00:00",
+      "scrapedAt": "2026-03-10T08:53:13.682499+00:00"
+    },
+    {
+      "id": "22b739c58fe5",
+      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pur",
+      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-02T17:29:42+00:00",
+      "scrapedAt": "2026-03-10T08:53:13.681411+00:00"
+    },
+    {
+      "id": "4ea2ab0d85fd",
+      "title": "How AI is turning the Iran conflict into theater",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . “Anyone wanna host a get together in SF and pull this up on a",
+      "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-09T15:11:01+00:00",
+      "scrapedAt": "2026-03-10T08:53:13.674949+00:00"
+    },
     {
       "id": "df0508d6893e",
       "title": "When AI Levels the Playing Field: Skill Homogenization, Asset Concentration, and Two Regimes of Inequality",
@@ -1211,406 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-02-23T17:05:00+00:00",
       "scrapedAt": "2026-03-04T08:49:21.806045+00:00"
-    },
-    {
-      "id": "ebdf49df6979",
-      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
-      "summary": "arXiv:2603.00349v1 Announce Type: new Abstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exce",
-      "url": "https://arxiv.org/abs/2603.00349",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-03T00:00:00-05:00",
-      "scrapedAt": "2026-03-03T08:51:48.712328+00:00"
-    },
-    {
-      "id": "11d0ce06295a",
-      "title": "How Well Do Multimodal Models Reason on ECG Signals?",
-      "summary": "arXiv:2603.00312v1 Announce Type: new Abstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpretable reasoning traces, v",
-      "url": "https://arxiv.org/abs/2603.00312",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-03T00:00:00-05:00",
-      "scrapedAt": "2026-03-03T08:51:48.712229+00:00"
-    },
-    {
-      "id": "4ad35b22418e",
-      "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
-      "summary": "arXiv:2603.00309v1 Announce Type: new Abstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaborati",
-      "url": "https://arxiv.org/abs/2603.00309",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-03T00:00:00-05:00",
-      "scrapedAt": "2026-03-03T08:51:48.712134+00:00"
-    },
-    {
-      "id": "999030ee8620",
-      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
-      "summary": "arXiv:2603.00285v1 Announce Type: new Abstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making centra",
-      "url": "https://arxiv.org/abs/2603.00285",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-03T00:00:00-05:00",
-      "scrapedAt": "2026-03-03T08:51:48.712031+00:00"
-    },
-    {
-      "id": "ce19cf2a16c3",
-      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
-      "summary": "arXiv:2603.00267v1 Announce Type: new Abstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking",
-      "url": "https://arxiv.org/abs/2603.00267",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-03T00:00:00-05:00",
-      "scrapedAt": "2026-03-03T08:51:48.711899+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.949933+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.948151+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.941754+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.938567+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.931105+00:00"
-    },
-    {
-      "id": "2e4e6735f35e",
-      "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
-      "summary": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
-      "url": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-01T17:00:00+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.615396+00:00"
-    },
-    {
-      "id": "aa408740acfa",
-      "title": "Anthropic’s Claude reports widespread outage",
-      "summary": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
-      "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-02T13:31:49+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.615277+00:00"
-    },
-    {
-      "id": "a39b5836524b",
-      "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
-      "summary": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
-      "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-02T15:14:36+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.615174+00:00"
-    },
-    {
-      "id": "0902e8a7f87b",
-      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
-      "summary": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
-      "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-02T17:18:34+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.615109+00:00"
-    },
-    {
-      "id": "548bd7cf8809",
-      "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
-      "summary": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
-      "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-02T18:42:11+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.615019+00:00"
-    },
-    {
-      "id": "fa5dfbbd085c",
-      "title": "No one has a good plan for how AI companies should work with the government",
-      "summary": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
-      "url": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-02T22:59:10+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.614956+00:00"
-    },
-    {
-      "id": "a8414280a1f6",
-      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
-      "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
-      "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-03T00:03:37+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.614883+00:00"
-    },
-    {
-      "id": "3892416d54a6",
-      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
-      "summary": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
-      "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-03T01:53:59+00:00",
-      "scrapedAt": "2026-03-03T08:51:47.614755+00:00"
-    },
-    {
-      "id": "9e6d2f439e3a",
-      "title": "I checked out one of the biggest anti-AI protests yet",
-      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech h",
-      "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-02T12:55:20+00:00",
-      "scrapedAt": "2026-03-03T08:51:46.560901+00:00"
-    },
-    {
-      "id": "22b739c58fe5",
-      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pur",
-      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-02T17:29:42+00:00",
-      "scrapedAt": "2026-03-03T08:51:46.559725+00:00"
-    },
-    {
-      "id": "0a8e1f292fb3",
-      "title": "Human Supervision as an Information Bottleneck: A Unified Theory of Error Floors in Human-Guided Learning",
-      "summary": "arXiv:2602.23446v1 Announce Type: new Abstract: Large language models are trained primarily on human-generated data and feedback, yet they exhibit persistent errors arising from annotation noise, subj",
-      "url": "https://arxiv.org/abs/2602.23446",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.567329+00:00"
-    },
-    {
-      "id": "1e668d21c79c",
-      "title": "EvoX: Meta-Evolution for Automated Discovery",
-      "summary": "arXiv:2602.23413v1 Announce Type: new Abstract: Recent work such as AlphaEvolve has shown that combining LLM-driven optimization with evolutionary search can effectively improve programs, prompts, and",
-      "url": "https://arxiv.org/abs/2602.23413",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.567196+00:00"
-    },
-    {
-      "id": "20ce8a4ce083",
-      "title": "Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG",
-      "summary": "arXiv:2602.23410v1 Announce Type: new Abstract: Brain foundation models have achieved remarkable advances across a wide range of neuroscience tasks. However, most existing models are limited to a sing",
-      "url": "https://arxiv.org/abs/2602.23410",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.567066+00:00"
-    },
-    {
-      "id": "6b1aece1c045",
-      "title": "Long Range Frequency Tuning for QML",
-      "summary": "arXiv:2602.23409v1 Announce Type: new Abstract: Quantum machine learning models using angle encoding naturally represent truncated Fourier series, providing universal function approximation capabiliti",
-      "url": "https://arxiv.org/abs/2602.23409",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.566904+00:00"
-    },
-    {
-      "id": "aac95d9bf509",
-      "title": "U-CAN: Utility-Aware Contrastive Attenuation for Efficient Unlearning in Generative Recommendation",
-      "summary": "arXiv:2602.23400v1 Announce Type: new Abstract: Generative Recommendation (GenRec) typically leverages Large Language Models (LLMs) to redefine personalization as an instruction-driven sequence genera",
-      "url": "https://arxiv.org/abs/2602.23400",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.566751+00:00"
-    },
-    {
-      "id": "b22b84ac303a",
-      "title": "Detoxifying LLMs via Representation Erasure-Based Preference Optimization",
-      "summary": "arXiv:2602.23391v1 Announce Type: new Abstract: Large language models (LLMs) trained on webscale data can produce toxic outputs, raising concerns for safe deployment. Prior defenses, based on applicat",
-      "url": "https://arxiv.org/abs/2602.23391",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.566590+00:00"
-    },
-    {
-      "id": "8b3ab9158ec9",
-      "title": "ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference",
-      "summary": "arXiv:2602.23681v1 Announce Type: new Abstract: The paradigm of large language model (LLM) reasoning is shifting from parameter scaling to test-time compute scaling, yet many existing approaches still",
-      "url": "https://arxiv.org/abs/2602.23681",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.343641+00:00"
-    },
-    {
-      "id": "009fc39c250c",
-      "title": "PseudoAct: Leveraging Pseudocode Synthesis for Flexible Planning and Action Control in Large Language Model Agents",
-      "summary": "arXiv:2602.23668v1 Announce Type: new Abstract: Large language model (LLM) agents typically rely on reactive decision-making paradigms such as ReAct, selecting actions conditioned on growing execution",
-      "url": "https://arxiv.org/abs/2602.23668",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.343519+00:00"
-    },
-    {
-      "id": "9e161f946616",
-      "title": "AI Must Embrace Specialization via Superhuman Adaptable Intelligence",
-      "summary": "arXiv:2602.23643v1 Announce Type: new Abstract: Everyone from AI executives and researchers to doomsayers, politicians, and activists is talking about Artificial General Intelligence (AGI). Yet, they ",
-      "url": "https://arxiv.org/abs/2602.23643",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.343405+00:00"
-    },
-    {
-      "id": "79609b90ed0b",
-      "title": "MMKG-RDS: Reasoning Data Synthesis via Deep Mining of Multimodal Knowledge Graphs",
-      "summary": "arXiv:2602.23632v1 Announce Type: new Abstract: Synthesizing high-quality training data is crucial for enhancing domain models' reasoning abilities. Existing methods face limitations in long-tail know",
-      "url": "https://arxiv.org/abs/2602.23632",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.343295+00:00"
-    },
-    {
-      "id": "cb316bbf45ca",
-      "title": "SleepLM: Natural-Language Intelligence for Human Sleep",
-      "summary": "arXiv:2602.23605v1 Announce Type: new Abstract: We present SleepLM, a family of sleep-language foundation models that enable human sleep alignment, interpretation, and interaction with natural languag",
-      "url": "https://arxiv.org/abs/2602.23605",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.343190+00:00"
-    },
-    {
-      "id": "16c4dab2fe65",
-      "title": "Construct, Merge, Solve & Adapt with Reinforcement Learning for the min-max Multiple Traveling Salesman Problem",
-      "summary": "arXiv:2602.23579v1 Announce Type: new Abstract: The Multiple Traveling Salesman Problem (mTSP) extends the Traveling Salesman Problem to m tours that start and end at a common depot and jointly visit ",
-      "url": "https://arxiv.org/abs/2602.23579",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.343064+00:00"
-    },
-    {
-      "id": "47c924fa58d0",
-      "title": "Planning under Distribution Shifts with Causal POMDPs",
-      "summary": "arXiv:2602.23545v1 Announce Type: new Abstract: In the real world, planning is often challenged by distribution shifts. As such, a model of the environment obtained under one set of conditions may no ",
-      "url": "https://arxiv.org/abs/2602.23545",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.342914+00:00"
-    },
-    {
-      "id": "3d75cfe16bbd",
-      "title": "Causal Identification from Counterfactual Data: Completeness and Bounding Results",
-      "summary": "arXiv:2602.23541v1 Announce Type: new Abstract: Previous work establishing completeness results for $\\textit{counterfactual identification}$ has been circumscribed to the setting where the input data ",
-      "url": "https://arxiv.org/abs/2602.23541",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.342803+00:00"
-    },
-    {
-      "id": "b5de6a6cb057",
-      "title": "An Agentic LLM Framework for Adverse Media Screening in AML Compliance",
-      "summary": "arXiv:2602.23373v1 Announce Type: new Abstract: Adverse media screening is a critical component of anti-money laundering (AML) and know-your-customer (KYC) compliance processes in financial institutio",
-      "url": "https://arxiv.org/abs/2602.23373",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.342658+00:00"
-    },
-    {
-      "id": "db7855ab6202",
-      "title": "HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance",
-      "summary": "arXiv:2602.23367v1 Announce Type: new Abstract: Model Context Protocol (MCP) servers contain a collection of thousands of open-source standardized tools, linking LLMs to external systems; however, exi",
-      "url": "https://arxiv.org/abs/2602.23367",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-02T00:00:00-05:00",
-      "scrapedAt": "2026-03-02T08:54:20.342537+00:00"
-    },
-    {
-      "id": "5750ca130431",
-      "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
-      "summary": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
-      "url": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-01T14:00:00+00:00",
-      "scrapedAt": "2026-03-02T08:54:19.820833+00:00"
-    },
-    {
-      "id": "610a0b22f3c2",
-      "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
-      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-      "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-01T14:48:58+00:00",
-      "scrapedAt": "2026-03-02T08:54:19.820760+00:00"
-    },
-    {
-      "id": "872de0e43017",
-      "title": "OpenAI reveals more details about its agreement with the Pentagon",
-      "summary": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
-      "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-01T16:30:10+00:00",
-      "scrapedAt": "2026-03-02T08:54:19.820683+00:00"
-    },
-    {
-      "id": "e23e2e4925d5",
-      "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
-      "summary": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
-      "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-01T17:30:00+00:00",
-      "scrapedAt": "2026-03-02T08:54:19.820584+00:00"
     }
   ]
 }
