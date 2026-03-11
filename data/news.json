@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-03-10T08:54:10.632325+00:00",
+  "lastUpdated": "2026-03-11T08:53:28.958281+00:00",
   "articles": [
+    {
+      "id": "ae77670929a3",
+      "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
+      "summary": "arXiv:2603.08877v1 Announce Type: new Abstract: Agentic Retrieval-Augmented Generation (RAG) systems combine iterative search, planning prompts, and retrieval backends, but deployed settings impose ex",
+      "url": "https://arxiv.org/abs/2603.08877",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-11T00:00:00-04:00",
+      "scrapedAt": "2026-03-11T08:52:32.626228+00:00"
+    },
+    {
+      "id": "1bcd800e2184",
+      "title": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
+      "summary": "arXiv:2603.08852v1 Announce Type: new Abstract: As multi-agent AI systems grow in complexity, the protocols connecting them constrain their capabilities. Current protocols such as A2A and MCP do not e",
+      "url": "https://arxiv.org/abs/2603.08852",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-11T00:00:00-04:00",
+      "scrapedAt": "2026-03-11T08:52:32.626098+00:00"
+    },
+    {
+      "id": "bcd8f46fd0a6",
+      "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
+      "summary": "arXiv:2603.08835v1 Announce Type: new Abstract: The rapid adoption of LLM-based agentic systems has produced a rich ecosystem of frameworks (smolagents, LangGraph, AutoGen, CAMEL, LlamaIndex, i.a.). Y",
+      "url": "https://arxiv.org/abs/2603.08835",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-11T00:00:00-04:00",
+      "scrapedAt": "2026-03-11T08:52:32.625830+00:00"
+    },
+    {
+      "id": "72a987e240df",
+      "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
+      "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
+      "url": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T14:00:00+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.007060+00:00"
+    },
+    {
+      "id": "712352a2a3c1",
+      "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+      "summary": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
+      "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T14:32:05+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.006973+00:00"
+    },
+    {
+      "id": "5547f884fc3e",
+      "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
+      "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T14:34:24+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.006905+00:00"
+    },
+    {
+      "id": "f21e45a0ceeb",
+      "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
+      "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+      "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T14:58:29+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.006835+00:00"
+    },
+    {
+      "id": "13448e7d3750",
+      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+      "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
+      "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T15:08:39+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.006769+00:00"
+    },
+    {
+      "id": "1c64b0d39644",
+      "title": "AgentMail raises $6M to build an email service for AI agents",
+      "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+      "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T16:00:00+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.006701+00:00"
+    },
+    {
+      "id": "2e441a7c1de0",
+      "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+      "summary": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
+      "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T17:51:25+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.006629+00:00"
+    },
+    {
+      "id": "b4f5ea0b4a06",
+      "title": "AI-powered apps struggle with long-term retention, new report shows",
+      "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+      "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T18:42:33+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.006557+00:00"
+    },
+    {
+      "id": "7071f86ef952",
+      "title": "Amazon launches its healthcare AI assistant on its website and app",
+      "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T20:10:06+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.006485+00:00"
+    },
+    {
+      "id": "9f29dddaa515",
+      "title": "Google brings Gemini in Chrome to India",
+      "summary": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T02:30:00+00:00",
+      "scrapedAt": "2026-03-11T08:52:32.006402+00:00"
+    },
+    {
+      "id": "5ab1c24d8e4c",
+      "title": "New ways to learn math and science in ChatGPT",
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-10T10:00:00+00:00",
+      "scrapedAt": "2026-03-11T08:52:31.935006+00:00"
+    },
+    {
+      "id": "d8da46afd02c",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-10T11:00:00+00:00",
+      "scrapedAt": "2026-03-11T08:52:31.934918+00:00"
+    },
+    {
+      "id": "596e99210009",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-03T16:34:00+00:00",
+      "scrapedAt": "2026-03-11T08:52:31.239151+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_flash_Lite_blog_keyw.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ed07b32904b5",
+      "title": "Create new worlds in Project Genie with these 4 tips",
+      "summary": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-03T17:00:00+00:00",
+      "scrapedAt": "2026-03-11T08:52:31.239055+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "abaebc113f9f",
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "summary": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-10T13:00:00+00:00",
+      "scrapedAt": "2026-03-11T08:52:31.238556+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "f10503c40c41",
+      "title": "The human work behind humanoid robots is being hidden",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . In January, Nvidia’s Jensen Huang, the head of the world’s mo",
+      "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-02-23T17:05:00+00:00",
+      "scrapedAt": "2026-03-11T08:52:30.909567+00:00"
+    },
+    {
+      "id": "f05bdda0da61",
+      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+      "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chica",
+      "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-10T13:47:26+00:00",
+      "scrapedAt": "2026-03-11T08:52:30.884113+00:00"
+    },
     {
       "id": "994d37c59aae",
       "title": "Switchable Activation Networks",
@@ -1209,208 +1412,6 @@
       "category": "product",
       "publishedAt": "2026-03-04T14:00:00+00:00",
       "scrapedAt": "2026-03-05T08:53:07.077440+00:00"
-    },
-    {
-      "id": "75486addfc6c",
-      "title": "PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference",
-      "summary": "arXiv:2603.02479v1 Announce Type: new Abstract: DEEPTHINK methods improve reasoning by generating, refining, and aggregating populations of candidate solutions, which enables strong performance on com",
-      "url": "https://arxiv.org/abs/2603.02479",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-04T00:00:00-05:00",
-      "scrapedAt": "2026-03-04T08:49:23.600527+00:00"
-    },
-    {
-      "id": "df9524d0c1e1",
-      "title": "Diagnosing Retrieval vs. Utilization Bottlenecks in LLM Agent Memory",
-      "summary": "arXiv:2603.02473v1 Announce Type: new Abstract: Memory-augmented LLM agents store and retrieve information from prior interactions, yet the relative importance of how memories are written versus how t",
-      "url": "https://arxiv.org/abs/2603.02473",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-04T00:00:00-05:00",
-      "scrapedAt": "2026-03-04T08:49:23.600405+00:00"
-    },
-    {
-      "id": "1d9d838d7c51",
-      "title": "VL-KGE: Vision-Language Models Meet Knowledge Graph Embeddings",
-      "summary": "arXiv:2603.02435v1 Announce Type: new Abstract: Real-world multimodal knowledge graphs (MKGs) are inherently heterogeneous, modeling entities that are associated with diverse modalities. Traditional k",
-      "url": "https://arxiv.org/abs/2603.02435",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-04T00:00:00-05:00",
-      "scrapedAt": "2026-03-04T08:49:23.600280+00:00"
-    },
-    {
-      "id": "b6b928a453c3",
-      "title": "COOL-MC: Verifying and Explaining RL Policies for Platelet Inventory Management",
-      "summary": "arXiv:2603.02396v1 Announce Type: new Abstract: Platelets expire within five days. Blood banks face uncertain daily demand and must balance ordering decisions between costly wastage from overstocking ",
-      "url": "https://arxiv.org/abs/2603.02396",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-04T00:00:00-05:00",
-      "scrapedAt": "2026-03-04T08:49:23.600151+00:00"
-    },
-    {
-      "id": "741de3e81ff7",
-      "title": "Can machines be uncertain?",
-      "summary": "arXiv:2603.02365v1 Announce Type: new Abstract: The paper investigates whether and how AI systems can realize states of uncertainty. By adopting a functionalist and behavioral perspective, it examines",
-      "url": "https://arxiv.org/abs/2603.02365",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-04T00:00:00-05:00",
-      "scrapedAt": "2026-03-04T08:49:23.600016+00:00"
-    },
-    {
-      "id": "6c1fc2b5c2e7",
-      "title": "Estimating Visual Attribute Effects in Advertising from Observational Data: A Deepfake-Informed Double Machine Learning Approach",
-      "summary": "arXiv:2603.02359v1 Announce Type: new Abstract: Digital advertising increasingly relies on visual content, yet marketers lack rigorous methods for understanding how specific visual attributes causally",
-      "url": "https://arxiv.org/abs/2603.02359",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-04T00:00:00-05:00",
-      "scrapedAt": "2026-03-04T08:49:23.599926+00:00"
-    },
-    {
-      "id": "08da51b393fd",
-      "title": "SuperLocalMemory: Privacy-Preserving Multi-Agent Memory with Bayesian Trust Defense Against Memory Poisoning",
-      "summary": "arXiv:2603.02240v1 Announce Type: new Abstract: We present SuperLocalMemory, a local-first memory system for multi-agent AI that defends against OWASP ASI06 memory poisoning through architectural isol",
-      "url": "https://arxiv.org/abs/2603.02240",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-04T00:00:00-05:00",
-      "scrapedAt": "2026-03-04T08:49:23.599784+00:00"
-    },
-    {
-      "id": "575998672f24",
-      "title": "Engineering Reasoning and Instruction (ERI) Benchmark: A Large Taxonomy-driven Dataset for Foundation Models and Agents",
-      "summary": "arXiv:2603.02239v1 Announce Type: new Abstract: The Engineering Reasoning and Instruction (ERI) benchmark is a taxonomy-driven instruction dataset designed to train and evaluate engineering-capable la",
-      "url": "https://arxiv.org/abs/2603.02239",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-04T00:00:00-05:00",
-      "scrapedAt": "2026-03-04T08:49:23.599658+00:00"
-    },
-    {
-      "id": "07a9d89136e0",
-      "title": "Federated Inference: Toward Privacy-Preserving Collaborative and Incentivized Model Serving",
-      "summary": "arXiv:2603.02214v1 Announce Type: new Abstract: Federated Inference (FI) studies how independently trained and privately owned models can collaborate at inference time without sharing data or model pa",
-      "url": "https://arxiv.org/abs/2603.02214",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-04T00:00:00-05:00",
-      "scrapedAt": "2026-03-04T08:49:23.599510+00:00"
-    },
-    {
-      "id": "aa1ae7dba609",
-      "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
-      "summary": "Creators who break the rules will get a three-month suspension, and if they continue to violate the policy, they'll be permanently banned.",
-      "url": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-03T18:27:47+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.737135+00:00"
-    },
-    {
-      "id": "221a61cf5506",
-      "title": "Claude Code rolls out a voice mode capability",
-      "summary": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
-      "url": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-03T20:02:10+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.737067+00:00"
-    },
-    {
-      "id": "2f90f64e500b",
-      "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
-      "summary": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
-      "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-03T20:20:56+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.736999+00:00"
-    },
-    {
-      "id": "ea81e7b19c5a",
-      "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
-      "summary": "A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.",
-      "url": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-03T21:44:09+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.736930+00:00"
-    },
-    {
-      "id": "ef44596240f4",
-      "title": "Alibaba’s Qwen tech lead steps down after major AI push",
-      "summary": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
-      "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-03T23:16:36+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.736858+00:00"
-    },
-    {
-      "id": "3829ce3a21a3",
-      "title": "Why AI startups are selling the same equity at two different prices",
-      "summary": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
-      "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-04T00:31:25+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.736779+00:00"
-    },
-    {
-      "id": "ce65eb1e36fd",
-      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-      "summary": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-      "url": "https://openai.com/index/gpt-5-3-instant",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-03T10:00:00+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.607349+00:00"
-    },
-    {
-      "id": "863e8c390950",
-      "title": "GPT-5.3 Instant System Card",
-      "summary": "GPT-5.3 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-03T10:00:00+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.607319+00:00"
-    },
-    {
-      "id": "596e99210009",
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-03T16:34:00+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.125043+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_flash_Lite_blog_keyw.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ed07b32904b5",
-      "title": "Create new worlds in Project Genie with these 4 tips",
-      "summary": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-03T17:00:00+00:00",
-      "scrapedAt": "2026-03-04T08:49:22.124919+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "f10503c40c41",
-      "title": "The human work behind humanoid robots is being hidden",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . In January, Nvidia’s Jensen Huang, the head of the world’s mo",
-      "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-02-23T17:05:00+00:00",
-      "scrapedAt": "2026-03-04T08:49:21.806045+00:00"
     }
   ]
 }
