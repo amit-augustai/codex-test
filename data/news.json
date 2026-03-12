@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-03-11T08:53:28.958281+00:00",
+  "lastUpdated": "2026-03-12T08:54:04.877081+00:00",
   "articles": [
+    {
+      "id": "0c53d7a6d4f7",
+      "title": "HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation",
+      "summary": "arXiv:2603.10359v1 Announce Type: new Abstract: Distilling reasoning capabilities from Large Reasoning Models (LRMs) into smaller models is typically constrained by the limitation of rejection samplin",
+      "url": "https://arxiv.org/abs/2603.10359",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-12T00:00:00-04:00",
+      "scrapedAt": "2026-03-12T08:53:09.562054+00:00"
+    },
+    {
+      "id": "2d9349b5bec5",
+      "title": "Hybrid Self-evolving Structured Memory for GUI Agents",
+      "summary": "arXiv:2603.10291v1 Announce Type: new Abstract: The remarkable progress of vision-language models (VLMs) has enabled GUI agents to interact with computers in a human-like manner. Yet real-world comput",
+      "url": "https://arxiv.org/abs/2603.10291",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-12T00:00:00-04:00",
+      "scrapedAt": "2026-03-12T08:53:09.561939+00:00"
+    },
+    {
+      "id": "09b5c4731c52",
+      "title": "Agentic Control Center for Data Product Optimization",
+      "summary": "arXiv:2603.10133v1 Announce Type: new Abstract: Data products enable end users to gain greater insights about their data by providing supporting assets, such as example question-SQL pairs which can be",
+      "url": "https://arxiv.org/abs/2603.10133",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-12T00:00:00-04:00",
+      "scrapedAt": "2026-03-12T08:53:09.561820+00:00"
+    },
+    {
+      "id": "cefa16f1427e",
+      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
+      "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
+      "url": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T14:48:30+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.834092+00:00"
+    },
+    {
+      "id": "6009b46f468e",
+      "title": "Meta’s Moltbook deal points to a future built around AI agents",
+      "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
+      "url": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T15:11:31+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.834026+00:00"
+    },
+    {
+      "id": "7c19c541a8f0",
+      "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+      "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T16:12:02+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.833956+00:00"
+    },
+    {
+      "id": "e09a26b2be43",
+      "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+      "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+      "url": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T16:43:59+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.833887+00:00"
+    },
+    {
+      "id": "88b319bf4011",
+      "title": "Replit snags $9B valuation 6 months after hitting $3B",
+      "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T18:52:52+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.833813+00:00"
+    },
+    {
+      "id": "4e1827396ab9",
+      "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
+      "summary": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
+      "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T21:40:49+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.833749+00:00"
+    },
+    {
+      "id": "d57ba567a6a1",
+      "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
+      "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+      "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T22:00:05+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.833684+00:00"
+    },
+    {
+      "id": "70145a5888ab",
+      "title": "Zendesk acquires agentic customer service startup Forethought",
+      "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
+      "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T22:41:27+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.833618+00:00"
+    },
+    {
+      "id": "0648a5bd1999",
+      "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+      "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+      "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T22:51:39+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.833550+00:00"
+    },
+    {
+      "id": "6c2cd5633369",
+      "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+      "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+      "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T23:35:03+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.833470+00:00"
+    },
+    {
+      "id": "03ca9f5d14ce",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-11T11:00:00+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.766609+00:00"
+    },
+    {
+      "id": "cb77334e6690",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "url": "https://openai.com/index/wayfair",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-11T11:00:00+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.766501+00:00"
+    },
+    {
+      "id": "8a41e8fe17bd",
+      "title": "Designing AI agents to resist prompt injection",
+      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-11T11:30:00+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.766379+00:00"
+    },
+    {
+      "id": "7edc0652ac98",
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+      "url": "https://openai.com/index/rakuten",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-11T13:00:00+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.766252+00:00"
+    },
+    {
+      "id": "bab5ed4779af",
+      "title": "How AI is helping improve heart health in rural Australia",
+      "summary": "A new Google AI initiative aims to improve heart health outcomes for people living in remote Australian communities.",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-12T15:00:00+00:00",
+      "scrapedAt": "2026-03-12T08:53:08.018119+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIHealth_v2_2096x1182_02.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "48c2e9711a01",
+      "title": "Bridging the operational AI gap",
+      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are ",
+      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-04T14:00:00+00:00",
+      "scrapedAt": "2026-03-12T08:53:07.612800+00:00"
+    },
+    {
+      "id": "1626c715599e",
+      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
+      "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. Feng, a 27-year-old software engineer based in Beijing, started t",
+      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-11T12:46:21+00:00",
+      "scrapedAt": "2026-03-12T08:53:07.605173+00:00"
+    },
     {
       "id": "ae77670929a3",
       "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
@@ -1402,16 +1603,6 @@
       "publishedAt": "2026-03-04T17:00:00+00:00",
       "scrapedAt": "2026-03-05T08:53:07.495894+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "48c2e9711a01",
-      "title": "Bridging the operational AI gap",
-      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are ",
-      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-04T14:00:00+00:00",
-      "scrapedAt": "2026-03-05T08:53:07.077440+00:00"
     }
   ]
 }
