@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-03-16T09:06:20.105922+00:00",
+  "lastUpdated": "2026-03-17T09:00:21.134844+00:00",
   "articles": [
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:26.156362+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:26.149313+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:26.145690+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:26.136980+00:00"
+    },
+    {
+      "id": "65f372e50756",
+      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
+      "summary": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+      "url": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T17:43:27+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.918432+00:00"
+    },
+    {
+      "id": "b9db92b51be0",
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T17:47:32+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.918367+00:00"
+    },
+    {
+      "id": "ce0ba54bd548",
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+      "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th",
+      "url": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T17:51:46+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.918299+00:00"
+    },
+    {
+      "id": "8a15ad6e8ef1",
+      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+      "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+      "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T19:12:19+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.918227+00:00"
+    },
+    {
+      "id": "5da3c20ffea5",
+      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+      "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+      "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T19:18:44+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.918152+00:00"
+    },
+    {
+      "id": "f10f27086d9e",
+      "title": "Memories AI is building the visual memory layer for wearables and robotics",
+      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+      "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T20:30:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.918086+00:00"
+    },
+    {
+      "id": "029b59b77a46",
+      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+      "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T20:58:36+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.918020+00:00"
+    },
+    {
+      "id": "0880f6edeafb",
+      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T21:41:37+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.917950+00:00"
+    },
+    {
+      "id": "3663d807c050",
+      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T22:45:51+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.917880+00:00"
+    },
+    {
+      "id": "89cbb80ab976",
+      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+      "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+      "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-17T04:01:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.917794+00:00"
+    },
+    {
+      "id": "f096a3289ec1",
+      "title": "OpenAI to acquire Promptfoo",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-09T10:00:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.858962+00:00"
+    },
+    {
+      "id": "0ff3757b65a7",
+      "title": "Why Codex Security Doesn’t Include a SAST Report",
+      "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-16T00:00:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:25.858098+00:00"
+    },
+    {
+      "id": "4ea2ab0d85fd",
+      "title": "How AI is turning the Iran conflict into theater",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . “Anyone wanna host a get together in SF and pull this up on a",
+      "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-09T15:11:01+00:00",
+      "scrapedAt": "2026-03-17T08:59:24.650827+00:00"
+    },
+    {
+      "id": "ea380f3968f4",
+      "title": "Securing digital assets against future threats",
+      "summary": "Securing digital assets against future threats",
+      "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T11:00:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:24.640361+00:00"
+    },
+    {
+      "id": "56f37665518f",
+      "title": "Nurturing agentic AI beyond the toddler stage",
+      "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark",
+      "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T13:00:00+00:00",
+      "scrapedAt": "2026-03-17T08:59:24.640330+00:00"
+    },
+    {
+      "id": "7f98adee8197",
+      "title": "Where OpenAI’s technology could show up in Iran",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . It’s been just over two weeks since OpenAI reached a controve",
+      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-16T17:06:21+00:00",
+      "scrapedAt": "2026-03-17T08:59:24.638893+00:00"
+    },
     {
       "id": "b27245beed73",
       "title": "A Geometrically-Grounded Drive for MDL-Based Optimization in Deep Learning",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-03-10T13:47:26+00:00",
       "scrapedAt": "2026-03-11T08:52:30.884113+00:00"
-    },
-    {
-      "id": "994d37c59aae",
-      "title": "Switchable Activation Networks",
-      "summary": "arXiv:2603.06601v1 Announce Type: new Abstract: Deep neural networks, and more recently large-scale generative models such as large language models (LLMs) and large vision-action models (LVAs), achiev",
-      "url": "https://arxiv.org/abs/2603.06601",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-10T00:00:00-04:00",
-      "scrapedAt": "2026-03-10T08:53:16.049694+00:00"
-    },
-    {
-      "id": "3b75f84c387a",
-      "title": "FuzzingRL: Reinforcement Fuzz-Testing for Revealing VLM Failures",
-      "summary": "arXiv:2603.06600v1 Announce Type: new Abstract: Vision Language Models (VLMs) are prone to errors, and identifying where these errors occur is critical for ensuring the reliability and safety of AI sy",
-      "url": "https://arxiv.org/abs/2603.06600",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-10T00:00:00-04:00",
-      "scrapedAt": "2026-03-10T08:53:16.049570+00:00"
-    },
-    {
-      "id": "dfb10dc24140",
-      "title": "How Attention Sinks Emerge in Large Language Models: An Interpretability Perspective",
-      "summary": "arXiv:2603.06591v1 Announce Type: new Abstract: Large Language Models (LLMs) often allocate disproportionate attention to specific tokens, a phenomenon commonly referred to as the attention sink. Whil",
-      "url": "https://arxiv.org/abs/2603.06591",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-10T00:00:00-04:00",
-      "scrapedAt": "2026-03-10T08:53:16.049457+00:00"
-    },
-    {
-      "id": "da2135892ecb",
-      "title": "vLLM Hook v0: A Plug-in for Programming Model Internals on vLLM",
-      "summary": "arXiv:2603.06588v1 Announce Type: new Abstract: Modern artificial intelligence (AI) models are deployed on inference engines to optimize runtime efficiency and resource allocation, particularly for tr",
-      "url": "https://arxiv.org/abs/2603.06588",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-10T00:00:00-04:00",
-      "scrapedAt": "2026-03-10T08:53:16.049327+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-03-10T08:53:15.330314+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-03-10T08:53:15.328281+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-03-10T08:53:15.321724+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-03-10T08:53:15.318094+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-03-10T08:53:15.309532+00:00"
-    },
-    {
-      "id": "dc4df7fe4711",
-      "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B  valuation",
-      "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
-      "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-09T15:09:35+00:00",
-      "scrapedAt": "2026-03-10T08:53:14.934091+00:00"
-    },
-    {
-      "id": "cc1497b4633f",
-      "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
-      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
-      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-09T15:58:11+00:00",
-      "scrapedAt": "2026-03-10T08:53:14.934025+00:00"
-    },
-    {
-      "id": "5d97b4682961",
-      "title": "Anthropic sues Defense Department over supply-chain risk designation",
-      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-09T17:25:40+00:00",
-      "scrapedAt": "2026-03-10T08:53:14.933959+00:00"
-    },
-    {
-      "id": "e4d4c1d770d4",
-      "title": "OpenAI acquires Promptfoo to secure its AI agents",
-      "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-09T17:49:04+00:00",
-      "scrapedAt": "2026-03-10T08:53:14.933888+00:00"
-    },
-    {
-      "id": "1c609528c7eb",
-      "title": "Anthropic launches code review tool to check flood of AI-generated code",
-      "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code",
-      "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-09T19:41:34+00:00",
-      "scrapedAt": "2026-03-10T08:53:14.933814+00:00"
-    },
-    {
-      "id": "52269344aa04",
-      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
-      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, accord",
-      "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-09T21:15:17+00:00",
-      "scrapedAt": "2026-03-10T08:53:14.933719+00:00"
-    },
-    {
-      "id": "22dd9640f36f",
-      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-      "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-10T05:00:00+00:00",
-      "scrapedAt": "2026-03-10T08:53:14.933632+00:00"
-    },
-    {
-      "id": "f096a3289ec1",
-      "title": "OpenAI to acquire Promptfoo",
-      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-09T10:00:00+00:00",
-      "scrapedAt": "2026-03-10T08:53:14.877099+00:00"
-    },
-    {
-      "id": "9e6d2f439e3a",
-      "title": "I checked out one of the biggest anti-AI protests yet",
-      "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech h",
-      "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-02T12:55:20+00:00",
-      "scrapedAt": "2026-03-10T08:53:13.682499+00:00"
-    },
-    {
-      "id": "22b739c58fe5",
-      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pur",
-      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-02T17:29:42+00:00",
-      "scrapedAt": "2026-03-10T08:53:13.681411+00:00"
-    },
-    {
-      "id": "4ea2ab0d85fd",
-      "title": "How AI is turning the Iran conflict into theater",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . “Anyone wanna host a get together in SF and pull this up on a",
-      "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-09T15:11:01+00:00",
-      "scrapedAt": "2026-03-10T08:53:13.674949+00:00"
     }
   ]
 }
