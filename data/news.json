@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-03-18T08:59:39.951179+00:00",
+  "lastUpdated": "2026-03-19T08:53:33.435082+00:00",
   "articles": [
+    {
+      "id": "63c44634274e",
+      "title": "Did You Check the Right Pocket? Cost-Sensitive Store Routing for Memory-Augmented Agents",
+      "summary": "arXiv:2603.15658v1 Announce Type: new Abstract: Memory-augmented agents maintain multiple specialized stores, yet most systems retrieve from all stores for every query, increasing cost and introducing",
+      "url": "https://arxiv.org/abs/2603.15658",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-19T00:00:00-04:00",
+      "scrapedAt": "2026-03-19T08:52:37.553815+00:00"
+    },
+    {
+      "id": "2882ce907183",
+      "title": "GSI Agent: Domain Knowledge Enhancement for Large Language Models in Green Stormwater Infrastructure",
+      "summary": "arXiv:2603.15643v1 Announce Type: new Abstract: Green Stormwater Infrastructure (GSI) systems, such as permeable pavement, rain gardens, and bioretention facilities, require continuous inspection and ",
+      "url": "https://arxiv.org/abs/2603.15643",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-19T00:00:00-04:00",
+      "scrapedAt": "2026-03-19T08:52:37.553687+00:00"
+    },
+    {
+      "id": "b9a1f78bebc3",
+      "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
+      "summary": "arXiv:2603.15642v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly deployed in long running workflows, where they must preserve user and task state across many turns. M",
+      "url": "https://arxiv.org/abs/2603.15642",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-19T00:00:00-04:00",
+      "scrapedAt": "2026-03-19T08:52:37.553563+00:00"
+    },
+    {
+      "id": "9b5eae81e0ed",
+      "title": "Form Follows Function: Recursive Stem Model",
+      "summary": "arXiv:2603.15641v1 Announce Type: new Abstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM) show that small, weight-shared networks can solve c",
+      "url": "https://arxiv.org/abs/2603.15641",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-19T00:00:00-04:00",
+      "scrapedAt": "2026-03-19T08:52:37.553456+00:00"
+    },
+    {
+      "id": "b92a63181f80",
+      "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
+      "summary": "arXiv:2603.15639v2 Announce Type: new Abstract: AI agents are increasingly granted economic agency (executing trades, managing budgets, negotiating contracts, and spawning sub-agents), yet current fra",
+      "url": "https://arxiv.org/abs/2603.15639",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-19T00:00:00-04:00",
+      "scrapedAt": "2026-03-19T08:52:37.553320+00:00"
+    },
+    {
+      "id": "9ffa87d5f8ac",
+      "title": "AIDABench: AI Data Analytics Benchmark",
+      "summary": "arXiv:2603.15636v1 Announce Type: new Abstract: As AI-driven document understanding and processing tools become increasingly prevalent in real-world applications, the need for rigorous evaluation stan",
+      "url": "https://arxiv.org/abs/2603.15636",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-19T00:00:00-04:00",
+      "scrapedAt": "2026-03-19T08:52:37.553201+00:00"
+    },
+    {
+      "id": "747233e3fa62",
+      "title": "NextMem: Towards Latent Factual Memory for LLM-based Agents",
+      "summary": "arXiv:2603.15634v1 Announce Type: new Abstract: Memory is critical for LLM-based agents to preserve past observations for future decision-making, where factual memory serves as its foundational part. ",
+      "url": "https://arxiv.org/abs/2603.15634",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-19T00:00:00-04:00",
+      "scrapedAt": "2026-03-19T08:52:37.553071+00:00"
+    },
+    {
+      "id": "45b251917f34",
+      "title": "Neural-Symbolic Logic Query Answering in Non-Euclidean Space",
+      "summary": "arXiv:2603.15633v1 Announce Type: new Abstract: Answering complex first-order logic (FOL) queries on knowledge graphs is essential for reasoning. Symbolic methods offer interpretability but struggle w",
+      "url": "https://arxiv.org/abs/2603.15633",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-19T00:00:00-04:00",
+      "scrapedAt": "2026-03-19T08:52:37.552960+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-03-19T08:52:37.210229+00:00"
+    },
+    {
+      "id": "a9284cd4c888",
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+      "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-18T16:00:00+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.933478+00:00"
+    },
+    {
+      "id": "82e35ccaa1f9",
+      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+      "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has",
+      "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-18T16:30:00+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.933393+00:00"
+    },
+    {
+      "id": "4e25d5261dfc",
+      "title": "The Gemini-powered features in Google Workspace that are worth using",
+      "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+      "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-18T16:43:18+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.931636+00:00"
+    },
+    {
+      "id": "3579ca5e3015",
+      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+      "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+      "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-18T17:15:00+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.931571+00:00"
+    },
+    {
+      "id": "be9e116d903b",
+      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+      "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+      "url": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-18T17:54:31+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.931501+00:00"
+    },
+    {
+      "id": "6d9ea0f2f905",
+      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+      "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+      "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-18T20:01:19+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.931433+00:00"
+    },
+    {
+      "id": "8af459e4138d",
+      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+      "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-18T20:30:52+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.931366+00:00"
+    },
+    {
+      "id": "e243f7194275",
+      "title": "Sam Altman’s thank-you to coders draws the memes",
+      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+      "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-18T23:12:58+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.931295+00:00"
+    },
+    {
+      "id": "402e28f800df",
+      "title": "Meta is having trouble with rogue AI agents",
+      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-18T23:42:46+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.931223+00:00"
+    },
+    {
+      "id": "048a7c32c872",
+      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+      "summary": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and ",
+      "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-19T08:00:00+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.931143+00:00"
+    },
+    {
+      "id": "99ed4f1c0ad7",
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-17T10:00:00+00:00",
+      "scrapedAt": "2026-03-19T08:52:36.841558+00:00"
+    },
     {
       "id": "10050212eb4e",
       "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
