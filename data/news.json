@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-03-22T08:43:00.857037+00:00",
+  "lastUpdated": "2026-03-23T09:06:02.959021+00:00",
   "articles": [
+    {
+      "id": "6ce2fee77bd8",
+      "title": "TTQ: Activation-Aware Test-Time Quantization to Accelerate LLM Inference On The Fly",
+      "summary": "arXiv:2603.19296v1 Announce Type: new Abstract: To tackle the huge computational demand of large foundation models, activation-aware compression techniques without retraining have been introduced. How",
+      "url": "https://arxiv.org/abs/2603.19296",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.856157+00:00"
+    },
+    {
+      "id": "8c4c9503614f",
+      "title": "BrainSCL: Subtype-Guided Contrastive Learning for Brain Disorder Diagnosis",
+      "summary": "arXiv:2603.19295v1 Announce Type: new Abstract: Mental disorder populations exhibit pronounced heterogeneity -- that is, the significant differences between samples -- poses a significant challenge to",
+      "url": "https://arxiv.org/abs/2603.19295",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.856071+00:00"
+    },
+    {
+      "id": "c62ea7ebf9a6",
+      "title": "Maximizing mutual information between user-contexts and responses improve LLM personalization with no additional data",
+      "summary": "arXiv:2603.19294v1 Announce Type: new Abstract: While post-training has successfully improved large language models (LLMs) across a variety of domains, these gains heavily rely on human-labeled data o",
+      "url": "https://arxiv.org/abs/2603.19294",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.855957+00:00"
+    },
+    {
+      "id": "ce4e9d33047e",
+      "title": "A Visualization for Comparative Analysis of Regression Models",
+      "summary": "arXiv:2603.19291v1 Announce Type: new Abstract: As regression is a widely studied problem, many methods have been proposed to solve it, each of them often requiring setting different hyper-parameters.",
+      "url": "https://arxiv.org/abs/2603.19291",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.855837+00:00"
+    },
+    {
+      "id": "6f66b16bd59c",
+      "title": "Speculating Experts Accelerates Inference for Mixture-of-Experts",
+      "summary": "arXiv:2603.19289v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) models have gained popularity as a means of scaling the capacity of large language models (LLMs) while maintaining sparse activ",
+      "url": "https://arxiv.org/abs/2603.19289",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.855697+00:00"
+    },
+    {
+      "id": "ddbdfe82bfd7",
+      "title": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
+      "summary": "arXiv:2603.19715v1 Announce Type: new Abstract: Formal verification via interactive theorem proving is increasingly used to ensure the correctness of critical systems, yet constructing large proof scr",
+      "url": "https://arxiv.org/abs/2603.19715",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.663268+00:00"
+    },
+    {
+      "id": "9d9dfcb667c3",
+      "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+      "summary": "arXiv:2603.19685v1 Announce Type: new Abstract: Large language model (LLM)-based agents have emerged as powerful autonomous controllers for digital environments, including mobile interfaces, operating",
+      "url": "https://arxiv.org/abs/2603.19685",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.663154+00:00"
+    },
+    {
+      "id": "d2a3fce94996",
+      "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
+      "summary": "arXiv:2603.19639v1 Announce Type: new Abstract: Although agentic workflows have demonstrated strong potential for solving complex tasks, existing automated generation methods remain inefficient and un",
+      "url": "https://arxiv.org/abs/2603.19639",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.663030+00:00"
+    },
+    {
+      "id": "c291548610cb",
+      "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+      "summary": "arXiv:2603.19584v1 Announce Type: new Abstract: Battery life remains a critical challenge for mobile devices, yet existing power management mechanisms rely on static rules or coarse-grained heuristics",
+      "url": "https://arxiv.org/abs/2603.19584",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.662928+00:00"
+    },
+    {
+      "id": "e44c168ecc72",
+      "title": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
+      "summary": "arXiv:2603.19579v1 Announce Type: new Abstract: Multi-objective reinforcement learning (MORL) provides an effective solution for decision-making problems involving conflicting objectives. However, ach",
+      "url": "https://arxiv.org/abs/2603.19579",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.662817+00:00"
+    },
+    {
+      "id": "aef3ee815a30",
+      "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
+      "summary": "arXiv:2603.19515v1 Announce Type: new Abstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluatio",
+      "url": "https://arxiv.org/abs/2603.19515",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.662709+00:00"
+    },
+    {
+      "id": "74f90af8533d",
+      "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+      "summary": "arXiv:2603.19514v1 Announce Type: new Abstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that",
+      "url": "https://arxiv.org/abs/2603.19514",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.662600+00:00"
+    },
+    {
+      "id": "4640fcf1ac77",
+      "title": "Teaching an Agent to Sketch One Part at a Time",
+      "summary": "arXiv:2603.19500v1 Announce Type: new Abstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi-",
+      "url": "https://arxiv.org/abs/2603.19500",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.662480+00:00"
+    },
+    {
+      "id": "76b795e10db9",
+      "title": "Hyperagents",
+      "summary": "arXiv:2603.19461v1 Announce Type: new Abstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing ",
+      "url": "https://arxiv.org/abs/2603.19461",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.662369+00:00"
+    },
+    {
+      "id": "5d4f206f4c8d",
+      "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
+      "summary": "arXiv:2603.19429v1 Announce Type: new Abstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners ",
+      "url": "https://arxiv.org/abs/2603.19429",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-23T00:00:00-04:00",
+      "scrapedAt": "2026-03-23T09:05:06.662225+00:00"
+    },
+    {
+      "id": "0302c850432f",
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
+      "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-22T12:00:00+00:00",
+      "scrapedAt": "2026-03-23T09:05:06.046256+00:00"
+    },
+    {
+      "id": "485043cf008d",
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-22T14:43:51+00:00",
+      "scrapedAt": "2026-03-23T09:05:06.046187+00:00"
+    },
+    {
+      "id": "ab9ad6ba1eda",
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-22T16:20:00+00:00",
+      "scrapedAt": "2026-03-23T09:05:06.046113+00:00"
+    },
+    {
+      "id": "2d60258d0f44",
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-22T18:41:09+00:00",
+      "scrapedAt": "2026-03-23T09:05:06.046038+00:00"
+    },
+    {
+      "id": "f4027ab9c202",
+      "title": "Do you want to build a robot snowman?",
+      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-22T19:45:07+00:00",
+      "scrapedAt": "2026-03-23T09:05:06.045960+00:00"
+    },
     {
       "id": "0deaec37c27d",
       "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
@@ -1410,206 +1610,6 @@
       "category": "product",
       "publishedAt": "2026-03-16T00:30:00+00:00",
       "scrapedAt": "2026-03-16T09:05:22.094502+00:00"
-    },
-    {
-      "id": "bc8f0a79e588",
-      "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
-      "summary": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
-      "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-03-11T18:00:00+00:00",
-      "scrapedAt": "2026-03-15T08:45:59.084526+00:00"
-    },
-    {
-      "id": "a8803b995143",
-      "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
-      "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
-      "url": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-03-11T20:45:03+00:00",
-      "scrapedAt": "2026-03-15T08:45:59.084471+00:00"
-    },
-    {
-      "id": "3f58af14c70a",
-      "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
-      "summary": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
-      "url": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T12:30:00+00:00",
-      "scrapedAt": "2026-03-15T08:45:59.084411+00:00"
-    },
-    {
-      "id": "90ff0f7ce64e",
-      "title": "Google Is Not Ruling Out Ads in Gemini",
-      "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
-      "url": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T18:15:00+00:00",
-      "scrapedAt": "2026-03-15T08:45:59.084351+00:00"
-    },
-    {
-      "id": "013668783c9e",
-      "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
-      "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T19:48:21+00:00",
-      "scrapedAt": "2026-03-15T08:45:59.084292+00:00"
-    },
-    {
-      "id": "2cd444724dcd",
-      "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-      "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
-      "url": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-03-13T10:00:00+00:00",
-      "scrapedAt": "2026-03-15T08:45:59.084230+00:00"
-    },
-    {
-      "id": "34a45f0ac2f7",
-      "title": "Gamers’ Worst Nightmares About AI Are Coming True",
-      "summary": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
-      "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-03-13T11:00:00+00:00",
-      "scrapedAt": "2026-03-15T08:45:59.084165+00:00"
-    },
-    {
-      "id": "6ebb2658d1f0",
-      "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
-      "summary": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-      "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-03-13T12:00:00+00:00",
-      "scrapedAt": "2026-03-15T08:45:59.084103+00:00"
-    },
-    {
-      "id": "ff8ffbeef666",
-      "title": "Google's AI Search Results Love to Refer You Back to Google",
-      "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-      "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-03-13T12:31:55+00:00",
-      "scrapedAt": "2026-03-15T08:45:59.084029+00:00"
-    },
-    {
-      "id": "622b36b98f17",
-      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-      "summary": "Journalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan / Sportsfile via Getty Images For months, Grammarly has been using th",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-03-11T18:51:53-04:00",
-      "scrapedAt": "2026-03-15T08:45:58.968994+00:00"
-    },
-    {
-      "id": "c7be1552f983",
-      "title": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
-      "summary": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T08:00:34-04:00",
-      "scrapedAt": "2026-03-15T08:45:58.968548+00:00"
-    },
-    {
-      "id": "8b389ab42a0a",
-      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
-      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products . Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-",
-      "url": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T08:30:00-04:00",
-      "scrapedAt": "2026-03-15T08:45:58.968189+00:00"
-    },
-    {
-      "id": "c89e42b50037",
-      "title": "Microsoft’s Copilot Health can connect to your medical records and wearables",
-      "summary": "Microsoft announced on Thursday that it's launching Copilot Health , a \"separate, secure space\" in Copilot for asking questions about lab results and medical records, searching for providers, analyzin",
-      "url": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T09:01:07-04:00",
-      "scrapedAt": "2026-03-15T08:45:58.967725+00:00"
-    },
-    {
-      "id": "9ede8d72eafd",
-      "title": "Bespoke AI models are the next big thing in filmmaking",
-      "summary": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth , claims of Hollywood being cooked feel very premature when you see what peop",
-      "url": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T09:56:00-04:00",
-      "scrapedAt": "2026-03-15T08:45:58.967310+00:00"
-    },
-    {
-      "id": "1a1be8a19e45",
-      "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
-      "summary": "Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon. The back-and-forth is complicated, but",
-      "url": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T10:00:00-04:00",
-      "scrapedAt": "2026-03-15T08:45:58.966777+00:00"
-    },
-    {
-      "id": "e1584d11a80e",
-      "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
-      "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on t",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T12:00:00-04:00",
-      "scrapedAt": "2026-03-15T08:45:58.959070+00:00"
-    },
-    {
-      "id": "bed7341dc7e1",
-      "title": "Gemini’s task automation is here and it’s wild",
-      "summary": "Computers ordering cappuccinos. A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare ",
-      "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-03-12T12:59:43-04:00",
-      "scrapedAt": "2026-03-15T08:45:58.958685+00:00"
-    },
-    {
-      "id": "9687495f3a58",
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-      "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-14T13:00:00+00:00",
-      "scrapedAt": "2026-03-15T08:45:57.991928+00:00"
-    },
-    {
-      "id": "e66d04d6ddca",
-      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-      "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-14T16:28:42+00:00",
-      "scrapedAt": "2026-03-15T08:45:57.991867+00:00"
-    },
-    {
-      "id": "698dff862036",
-      "title": "US Army announces contract with Anduril worth up to $20B",
-      "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
-      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-14T20:47:47+00:00",
-      "scrapedAt": "2026-03-15T08:45:57.991792+00:00"
     }
   ]
 }
