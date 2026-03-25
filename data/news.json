@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-03-24T09:00:38.034942+00:00",
+  "lastUpdated": "2026-03-25T08:59:36.395469+00:00",
   "articles": [
+    {
+      "id": "737588012779",
+      "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
+      "summary": "arXiv:2603.22359v1 Announce Type: new Abstract: Current AI agent frameworks commit early to a single interaction protocol, a fixed tool integration strategy, and static user models, limiting their dep",
+      "url": "https://arxiv.org/abs/2603.22359",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-25T00:00:00-04:00",
+      "scrapedAt": "2026-03-25T08:58:41.412884+00:00"
+    },
+    {
+      "id": "e799755d9018",
+      "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
+      "summary": "arXiv:2603.22350v1 Announce Type: new Abstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-acti",
+      "url": "https://arxiv.org/abs/2603.22350",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-25T00:00:00-04:00",
+      "scrapedAt": "2026-03-25T08:58:41.412770+00:00"
+    },
+    {
+      "id": "2a9f153cb3a2",
+      "title": "Intelligence Inertia: Physical Principles and Applications",
+      "summary": "arXiv:2603.22347v1 Announce Type: new Abstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local cu",
+      "url": "https://arxiv.org/abs/2603.22347",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-25T00:00:00-04:00",
+      "scrapedAt": "2026-03-25T08:58:41.412654+00:00"
+    },
+    {
+      "id": "a703b1088933",
+      "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
+      "summary": "arXiv:2603.22345v1 Announce Type: new Abstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction f",
+      "url": "https://arxiv.org/abs/2603.22345",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-25T00:00:00-04:00",
+      "scrapedAt": "2026-03-25T08:58:41.412521+00:00"
+    },
+    {
+      "id": "4c72282fa52b",
+      "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+      "summary": "arXiv:2603.22312v1 Announce Type: new Abstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We intr",
+      "url": "https://arxiv.org/abs/2603.22312",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-25T00:00:00-04:00",
+      "scrapedAt": "2026-03-25T08:58:41.412393+00:00"
+    },
+    {
+      "id": "2b3371b2b5ca",
+      "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
+      "summary": "arXiv:2603.22306v1 Announce Type: new Abstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated con",
+      "url": "https://arxiv.org/abs/2603.22306",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-25T00:00:00-04:00",
+      "scrapedAt": "2026-03-25T08:58:41.412272+00:00"
+    },
+    {
+      "id": "a6c384b8289c",
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+      "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-24T18:41:34+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.812390+00:00"
+    },
+    {
+      "id": "b3e2aab39f9a",
+      "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
+      "summary": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs.",
+      "url": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-24T19:12:11+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.812314+00:00"
+    },
+    {
+      "id": "f3c0b6d1f18b",
+      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+      "summary": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
+      "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-24T19:27:56+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.812218+00:00"
+    },
+    {
+      "id": "e3e29b9dd4eb",
+      "title": "Arm is releasing the first in-house chip in its 35-year history",
+      "summary": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+      "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-24T19:48:54+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.812154+00:00"
+    },
+    {
+      "id": "08835092f853",
+      "title": "Databricks bought two startups to underpin its new AI security product",
+      "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+      "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-24T20:40:56+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.812086+00:00"
+    },
+    {
+      "id": "fa092ffb21ec",
+      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+      "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
+      "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-24T20:56:25+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.812017+00:00"
+    },
+    {
+      "id": "e10571cbf55b",
+      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards",
+      "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-24T21:00:30+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.811950+00:00"
+    },
+    {
+      "id": "4a3f9e7e09db",
+      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+      "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+      "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-24T22:22:57+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.811872+00:00"
+    },
+    {
+      "id": "9b9139cc9f94",
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-24T23:57:55+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.811801+00:00"
+    },
+    {
+      "id": "9a9029b5ae89",
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-25T00:47:20+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.811719+00:00"
+    },
+    {
+      "id": "0b5ae9549728",
+      "title": "Powering product discovery in ChatGPT",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-24T09:00:00+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.687677+00:00"
+    },
+    {
+      "id": "20bbe0533c96",
+      "title": "Update on the OpenAI Foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-24T09:00:00+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.687604+00:00"
+    },
+    {
+      "id": "8da73ea93b53",
+      "title": "Helping developers build safer AI experiences for teens",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-24T11:00:00+00:00",
+      "scrapedAt": "2026-03-25T08:58:40.687519+00:00"
+    },
+    {
+      "id": "d45fb380f485",
+      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI",
+      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-17T22:30:46+00:00",
+      "scrapedAt": "2026-03-25T08:58:39.708165+00:00"
+    },
     {
       "id": "2ab468603656",
       "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
@@ -1390,26 +1590,6 @@
       "publishedAt": "2026-03-17T16:00:00+00:00",
       "scrapedAt": "2026-03-18T08:58:39.976142+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_gl7r1il.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "f05bdda0da61",
-      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
-      "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chica",
-      "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-10T13:47:26+00:00",
-      "scrapedAt": "2026-03-18T08:58:39.453316+00:00"
-    },
-    {
-      "id": "d45fb380f485",
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI",
-      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-17T22:30:46+00:00",
-      "scrapedAt": "2026-03-18T08:58:39.443037+00:00"
     }
   ]
 }
