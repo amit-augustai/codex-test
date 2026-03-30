@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-03-29T08:52:35.534698+00:00",
+  "lastUpdated": "2026-03-30T09:21:47.002482+00:00",
   "articles": [
+    {
+      "id": "c1cf0b44c3f0",
+      "title": "Why Safety Probes Catch Liars But Miss Fanatics",
+      "summary": "arXiv:2603.25861v1 Announce Type: new Abstract: Activation-based probes have emerged as a promising approach for detecting deceptively aligned AI systems by identifying internal conflict between true ",
+      "url": "https://arxiv.org/abs/2603.25861",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.678611+00:00"
+    },
+    {
+      "id": "c0bde57410e2",
+      "title": "In-Context Molecular Property Prediction with LLMs: A Blinding Study on Memorization and Knowledge Conflicts",
+      "summary": "arXiv:2603.25857v1 Announce Type: new Abstract: The capabilities of large language models (LLMs) have expanded beyond natural language processing to scientific prediction tasks, including molecular pr",
+      "url": "https://arxiv.org/abs/2603.25857",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.678508+00:00"
+    },
+    {
+      "id": "f7f2bc7ca7e9",
+      "title": "Incorporating contextual information into KGWAS for interpretable GWAS discovery",
+      "summary": "arXiv:2603.25855v1 Announce Type: new Abstract: Genome-Wide Association Studies (GWAS) identify associations between genetic variants and disease; however, moving beyond associations to causal mechani",
+      "url": "https://arxiv.org/abs/2603.25855",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.678404+00:00"
+    },
+    {
+      "id": "bee2a93e40c4",
+      "title": "A Compression Perspective on Simplicity Bias",
+      "summary": "arXiv:2603.25839v1 Announce Type: new Abstract: Deep neural networks exhibit a simplicity bias, a well-documented tendency to favor simple functions over complex ones. In this work, we cast new light ",
+      "url": "https://arxiv.org/abs/2603.25839",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.678304+00:00"
+    },
+    {
+      "id": "9ad53d8eaed0",
+      "title": "MAGNET: Autonomous Expert Model Generation via Decentralized Autoresearch and BitNet Training",
+      "summary": "arXiv:2603.25813v1 Announce Type: new Abstract: We present MAGNET (Model Autonomously Growing Network), a decentralized system for autonomous generation, training, and serving of domain-expert languag",
+      "url": "https://arxiv.org/abs/2603.25813",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.678192+00:00"
+    },
+    {
+      "id": "80409e0a44cc",
+      "title": "Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater Level Prediction at Arbitrary Locations",
+      "summary": "arXiv:2603.25779v1 Announce Type: new Abstract: Groundwater represents a key element of the water cycle, yet it exhibits intricate and context-dependent relationships that make its modeling a challeng",
+      "url": "https://arxiv.org/abs/2603.25779",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.678097+00:00"
+    },
+    {
+      "id": "7fe39e7acb27",
+      "title": "Empowering Epidemic Response: The Role of Reinforcement Learning in Infectious Disease Control",
+      "summary": "arXiv:2603.25771v1 Announce Type: new Abstract: Reinforcement learning (RL), owing to its adaptability to various dynamic systems in many real-world scenarios and the capability of maximizing long-ter",
+      "url": "https://arxiv.org/abs/2603.25771",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.677955+00:00"
+    },
+    {
+      "id": "c5f24ba526f1",
+      "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+      "summary": "arXiv:2603.25750v1 Announce Type: cross Abstract: As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLMs), there is a growing demand for full-duplex systems capable of real-",
+      "url": "https://arxiv.org/abs/2603.25750",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.457331+00:00"
+    },
+    {
+      "id": "f546188d94e1",
+      "title": "A Lightweight, Transferable, and Self-Adaptive Framework for Intelligent DC Arc-Fault Detection in Photovoltaic Systems",
+      "summary": "arXiv:2603.25749v1 Announce Type: cross Abstract: Arc-fault circuit interrupters (AFCIs) are essential for mitigating fire hazards in residential photovoltaic (PV) systems, yet achieving reliable DC a",
+      "url": "https://arxiv.org/abs/2603.25749",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.457245+00:00"
+    },
+    {
+      "id": "0e19d2118c94",
+      "title": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
+      "summary": "arXiv:2502.09867v2 Announce Type: cross Abstract: Generative AI has enabled novice designers to quickly create professional-looking visual representations for product concepts. However, novices have l",
+      "url": "https://arxiv.org/abs/2502.09867",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.457125+00:00"
+    },
+    {
+      "id": "505eab6552d1",
+      "title": "Stabilizing Rubric Integration Training via Decoupled Advantage Normalization",
+      "summary": "arXiv:2603.26535v1 Announce Type: new Abstract: We propose Process-Aware Policy Optimization (PAPO), a method that integrates process-level evaluation into Group Relative Policy Optimization (GRPO) th",
+      "url": "https://arxiv.org/abs/2603.26535",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.457021+00:00"
+    },
+    {
+      "id": "03207a7b3c43",
+      "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+      "summary": "arXiv:2603.26512v1 Announce Type: new Abstract: Existing methods for text-to-CAD generation either operate in a single pass with no geometric verification or rely on lossy visual feedback that cannot ",
+      "url": "https://arxiv.org/abs/2603.26512",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.456908+00:00"
+    },
+    {
+      "id": "49e84a9b2ce9",
+      "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
+      "summary": "arXiv:2603.26499v1 Announce Type: new Abstract: Existing research has identified three structural performance bottlenecks in AI research agents: (1) synchronous single-GPU execution constrains sample ",
+      "url": "https://arxiv.org/abs/2603.26499",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.456765+00:00"
+    },
+    {
+      "id": "ec741406dba9",
+      "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+      "summary": "arXiv:2603.26266v1 Announce Type: new Abstract: Large vision-language models have endowed GUI agents with strong general capabilities for interface understanding and interaction. However, due to insuf",
+      "url": "https://arxiv.org/abs/2603.26266",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.456662+00:00"
+    },
+    {
+      "id": "a79bf22ebaaa",
+      "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
+      "summary": "arXiv:2603.26076v1 Announce Type: new Abstract: Documentation of airport operations is inherently complex due to extensive technical terminology, rigorous regulations, proprietary regional information",
+      "url": "https://arxiv.org/abs/2603.26076",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.456535+00:00"
+    },
+    {
+      "id": "109577129af3",
+      "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
+      "summary": "arXiv:2603.26005v1 Announce Type: new Abstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from d",
+      "url": "https://arxiv.org/abs/2603.26005",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.456411+00:00"
+    },
+    {
+      "id": "864af1a72c0c",
+      "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+      "summary": "arXiv:2603.25747v1 Announce Type: new Abstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomo",
+      "url": "https://arxiv.org/abs/2603.25747",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-03-30T00:00:00-04:00",
+      "scrapedAt": "2026-03-30T09:20:52.456284+00:00"
+    },
+    {
+      "id": "e0fe23a4975f",
+      "title": "Sora’s shutdown could be a reality check moment for AI video",
+      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+      "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-29T16:30:00+00:00",
+      "scrapedAt": "2026-03-30T09:20:51.895703+00:00"
+    },
+    {
+      "id": "b670ae2eda60",
+      "title": "Why OpenAI really shut down Sora",
+      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-03-30T03:09:38+00:00",
+      "scrapedAt": "2026-03-30T09:20:51.895625+00:00"
+    },
+    {
+      "id": "2648137715dd",
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-29T22:15:00+00:00",
+      "scrapedAt": "2026-03-30T09:20:51.826355+00:00"
+    },
     {
       "id": "c3918ce2b146",
       "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-03-23T16:31:20+00:00",
       "scrapedAt": "2026-03-24T08:59:39.358776+00:00"
-    },
-    {
-      "id": "6ce2fee77bd8",
-      "title": "TTQ: Activation-Aware Test-Time Quantization to Accelerate LLM Inference On The Fly",
-      "summary": "arXiv:2603.19296v1 Announce Type: new Abstract: To tackle the huge computational demand of large foundation models, activation-aware compression techniques without retraining have been introduced. How",
-      "url": "https://arxiv.org/abs/2603.19296",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.856157+00:00"
-    },
-    {
-      "id": "8c4c9503614f",
-      "title": "BrainSCL: Subtype-Guided Contrastive Learning for Brain Disorder Diagnosis",
-      "summary": "arXiv:2603.19295v1 Announce Type: new Abstract: Mental disorder populations exhibit pronounced heterogeneity -- that is, the significant differences between samples -- poses a significant challenge to",
-      "url": "https://arxiv.org/abs/2603.19295",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.856071+00:00"
-    },
-    {
-      "id": "c62ea7ebf9a6",
-      "title": "Maximizing mutual information between user-contexts and responses improve LLM personalization with no additional data",
-      "summary": "arXiv:2603.19294v1 Announce Type: new Abstract: While post-training has successfully improved large language models (LLMs) across a variety of domains, these gains heavily rely on human-labeled data o",
-      "url": "https://arxiv.org/abs/2603.19294",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.855957+00:00"
-    },
-    {
-      "id": "ce4e9d33047e",
-      "title": "A Visualization for Comparative Analysis of Regression Models",
-      "summary": "arXiv:2603.19291v1 Announce Type: new Abstract: As regression is a widely studied problem, many methods have been proposed to solve it, each of them often requiring setting different hyper-parameters.",
-      "url": "https://arxiv.org/abs/2603.19291",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.855837+00:00"
-    },
-    {
-      "id": "6f66b16bd59c",
-      "title": "Speculating Experts Accelerates Inference for Mixture-of-Experts",
-      "summary": "arXiv:2603.19289v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) models have gained popularity as a means of scaling the capacity of large language models (LLMs) while maintaining sparse activ",
-      "url": "https://arxiv.org/abs/2603.19289",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.855697+00:00"
-    },
-    {
-      "id": "ddbdfe82bfd7",
-      "title": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
-      "summary": "arXiv:2603.19715v1 Announce Type: new Abstract: Formal verification via interactive theorem proving is increasingly used to ensure the correctness of critical systems, yet constructing large proof scr",
-      "url": "https://arxiv.org/abs/2603.19715",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.663268+00:00"
-    },
-    {
-      "id": "9d9dfcb667c3",
-      "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
-      "summary": "arXiv:2603.19685v1 Announce Type: new Abstract: Large language model (LLM)-based agents have emerged as powerful autonomous controllers for digital environments, including mobile interfaces, operating",
-      "url": "https://arxiv.org/abs/2603.19685",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.663154+00:00"
-    },
-    {
-      "id": "d2a3fce94996",
-      "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
-      "summary": "arXiv:2603.19639v1 Announce Type: new Abstract: Although agentic workflows have demonstrated strong potential for solving complex tasks, existing automated generation methods remain inefficient and un",
-      "url": "https://arxiv.org/abs/2603.19639",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.663030+00:00"
-    },
-    {
-      "id": "c291548610cb",
-      "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
-      "summary": "arXiv:2603.19584v1 Announce Type: new Abstract: Battery life remains a critical challenge for mobile devices, yet existing power management mechanisms rely on static rules or coarse-grained heuristics",
-      "url": "https://arxiv.org/abs/2603.19584",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.662928+00:00"
-    },
-    {
-      "id": "e44c168ecc72",
-      "title": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
-      "summary": "arXiv:2603.19579v1 Announce Type: new Abstract: Multi-objective reinforcement learning (MORL) provides an effective solution for decision-making problems involving conflicting objectives. However, ach",
-      "url": "https://arxiv.org/abs/2603.19579",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.662817+00:00"
-    },
-    {
-      "id": "aef3ee815a30",
-      "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
-      "summary": "arXiv:2603.19515v1 Announce Type: new Abstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluatio",
-      "url": "https://arxiv.org/abs/2603.19515",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.662709+00:00"
-    },
-    {
-      "id": "74f90af8533d",
-      "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
-      "summary": "arXiv:2603.19514v1 Announce Type: new Abstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that",
-      "url": "https://arxiv.org/abs/2603.19514",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.662600+00:00"
-    },
-    {
-      "id": "4640fcf1ac77",
-      "title": "Teaching an Agent to Sketch One Part at a Time",
-      "summary": "arXiv:2603.19500v1 Announce Type: new Abstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi-",
-      "url": "https://arxiv.org/abs/2603.19500",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.662480+00:00"
-    },
-    {
-      "id": "76b795e10db9",
-      "title": "Hyperagents",
-      "summary": "arXiv:2603.19461v1 Announce Type: new Abstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing ",
-      "url": "https://arxiv.org/abs/2603.19461",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.662369+00:00"
-    },
-    {
-      "id": "5d4f206f4c8d",
-      "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
-      "summary": "arXiv:2603.19429v1 Announce Type: new Abstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners ",
-      "url": "https://arxiv.org/abs/2603.19429",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-03-23T00:00:00-04:00",
-      "scrapedAt": "2026-03-23T09:05:06.662225+00:00"
-    },
-    {
-      "id": "0302c850432f",
-      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-      "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-22T12:00:00+00:00",
-      "scrapedAt": "2026-03-23T09:05:06.046256+00:00"
-    },
-    {
-      "id": "485043cf008d",
-      "title": "Delve accused of misleading customers with ‘fake compliance’",
-      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-22T14:43:51+00:00",
-      "scrapedAt": "2026-03-23T09:05:06.046187+00:00"
-    },
-    {
-      "id": "ab9ad6ba1eda",
-      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
-      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-22T16:20:00+00:00",
-      "scrapedAt": "2026-03-23T09:05:06.046113+00:00"
-    },
-    {
-      "id": "2d60258d0f44",
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
-      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-22T18:41:09+00:00",
-      "scrapedAt": "2026-03-23T09:05:06.046038+00:00"
-    },
-    {
-      "id": "f4027ab9c202",
-      "title": "Do you want to build a robot snowman?",
-      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-22T19:45:07+00:00",
-      "scrapedAt": "2026-03-23T09:05:06.045960+00:00"
     }
   ]
 }
