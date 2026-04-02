@@ -1,6 +1,211 @@
 {
-  "lastUpdated": "2026-04-01T09:15:51.019174+00:00",
+  "lastUpdated": "2026-04-02T09:08:00.805189+00:00",
   "articles": [
+    {
+      "id": "f70aca91a606",
+      "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
+      "summary": "arXiv:2604.00281v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often exh",
+      "url": "https://arxiv.org/abs/2604.00281",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-02T00:00:00-04:00",
+      "scrapedAt": "2026-04-02T09:07:03.108487+00:00"
+    },
+    {
+      "id": "312e4c3258bc",
+      "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+      "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral he",
+      "url": "https://arxiv.org/abs/2604.00249",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-02T00:00:00-04:00",
+      "scrapedAt": "2026-04-02T09:07:03.108368+00:00"
+    },
+    {
+      "id": "f8b45d73543c",
+      "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
+      "summary": "arXiv:2604.00137v1 Announce Type: new Abstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that fail",
+      "url": "https://arxiv.org/abs/2604.00137",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-02T00:00:00-04:00",
+      "scrapedAt": "2026-04-02T09:07:03.108262+00:00"
+    },
+    {
+      "id": "f32666474475",
+      "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
+      "summary": "arXiv:2604.00085v1 Announce Type: new Abstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produc",
+      "url": "https://arxiv.org/abs/2604.00085",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-02T00:00:00-04:00",
+      "scrapedAt": "2026-04-02T09:07:03.108151+00:00"
+    },
+    {
+      "id": "00f3d9031506",
+      "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
+      "summary": "arXiv:2604.00005v1 Announce Type: new Abstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the ",
+      "url": "https://arxiv.org/abs/2604.00005",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-02T00:00:00-04:00",
+      "scrapedAt": "2026-04-02T09:07:03.108035+00:00"
+    },
+    {
+      "id": "9dce3146b9de",
+      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-01T14:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:02.615944+00:00"
+    },
+    {
+      "id": "94140c716f15",
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-01T16:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:02.615874+00:00"
+    },
+    {
+      "id": "104602a7a024",
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-01T18:35:36+00:00",
+      "scrapedAt": "2026-04-02T09:07:02.615800+00:00"
+    },
+    {
+      "id": "c38b9a2096a3",
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-01T22:12:13+00:00",
+      "scrapedAt": "2026-04-02T09:07:02.615716+00:00"
+    },
+    {
+      "id": "a1bdc83d63f1",
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-25T00:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:02.524778+00:00"
+    },
+    {
+      "id": "7434cb8ffb0c",
+      "title": "Inside our approach to the Model Spec",
+      "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-25T10:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:02.524709+00:00"
+    },
+    {
+      "id": "a6d1f36e75df",
+      "title": "Bringing the power of Personal Intelligence to more people",
+      "summary": "We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.",
+      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-17T16:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:01.914904+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_gl7r1il.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "dfc2a0ef9983",
+      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+      "summary": "We are bringing Lyria 3 to the tools where professionals work and create every day.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-25T16:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:01.914820+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria-3-Pro_thumbnail.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "626cedb761d8",
+      "title": "Build with Lyria 3, our newest music generation model",
+      "summary": "Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-03-25T16:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:01.914731+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWithLyria3_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c10527d0fffd",
+      "title": "The latest AI news we announced in March 2026",
+      "summary": "Here are Google’s latest AI updates from March 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-01T13:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:01.914266+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_2026_AI_Recap_social_hvvl.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b242e73e0ce2",
+      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "summary": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-01T13:30:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:01.914102+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp"
+    },
+    {
+      "id": "3e6a6fc70219",
+      "title": "The AI Hype Index: AI goes to war",
+      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “ opportunistic and sloppy ” deal. Users quit Cha",
+      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-25T09:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:01.515360+00:00"
+    },
+    {
+      "id": "dbb0252a5af7",
+      "title": "Agentic commerce runs on truth and context",
+      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, t",
+      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-25T11:48:13+00:00",
+      "scrapedAt": "2026-04-02T09:07:01.515018+00:00"
+    },
+    {
+      "id": "84656a8392ac",
+      "title": "This startup wants to change how mathematicians do math",
+      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians , designed to discover mathematical patterns that could unlock solutions to long-standing probl",
+      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-03-25T13:59:17+00:00",
+      "scrapedAt": "2026-04-02T09:07:01.512811+00:00"
+    },
+    {
+      "id": "afbb37093371",
+      "title": "The gig workers who are training humanoid robots at home",
+      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead",
+      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-01T11:00:00+00:00",
+      "scrapedAt": "2026-04-02T09:07:01.504710+00:00"
+    },
     {
       "id": "5d99b39ec1f4",
       "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
@@ -1206,211 +1411,6 @@
       "publishedAt": "2026-03-26T17:00:00+00:00",
       "scrapedAt": "2026-03-27T09:00:55.191553+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "81ecd67a8988",
-      "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
-      "summary": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
-      "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-25T16:10:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.576544+00:00"
-    },
-    {
-      "id": "f26f774467da",
-      "title": "Google launches Lyria 3 Pro music generation model",
-      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-25T16:37:43+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.576472+00:00"
-    },
-    {
-      "id": "934a94842946",
-      "title": "Bernie Sanders and AOC propose a ban on data center construction",
-      "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-25T17:15:50+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.576398+00:00"
-    },
-    {
-      "id": "119a424ffd1f",
-      "title": "Melania Trump wants a robot to homeschool your child",
-      "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
-      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-25T18:55:41+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.576325+00:00"
-    },
-    {
-      "id": "c8de106d9fa2",
-      "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
-      "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe",
-      "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-25T20:38:45+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.576246+00:00"
-    },
-    {
-      "id": "99987d7006f2",
-      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-      "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
-      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-25T21:44:13+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.576063+00:00"
-    },
-    {
-      "id": "4c23be2ec51c",
-      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-      "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
-      "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-26T00:30:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.575938+00:00"
-    },
-    {
-      "id": "2b918f8ccf11",
-      "title": "The least surprising chapter of the Manus story is what’s happening right now",
-      "summary": "Did anyone think there would not be a reckoning over this tie-up?",
-      "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-03-26T02:46:48+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.575825+00:00"
-    },
-    {
-      "id": "99ed4f1c0ad7",
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-17T10:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.325020+00:00"
-    },
-    {
-      "id": "c3086d499cdc",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-17T10:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.324953+00:00"
-    },
-    {
-      "id": "a1bdc83d63f1",
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-25T00:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.324386+00:00"
-    },
-    {
-      "id": "7434cb8ffb0c",
-      "title": "Inside our approach to the Model Spec",
-      "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-      "url": "https://openai.com/index/our-approach-to-the-model-spec",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-25T10:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:58.324255+00:00"
-    },
-    {
-      "id": "abaebc113f9f",
-      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-      "summary": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-10T13:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:57.426188+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "122ea54e0c5a",
-      "title": "Our latest investment in open source security for the AI era",
-      "summary": "Google is making new investments, building new tools and developing code security to improve open source security.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-17T16:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:57.426054+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/25367___BRS___Aspen_Security_Fo.max-600x600.format-webp_J9uPoFt.webp"
-    },
-    {
-      "id": "a6d1f36e75df",
-      "title": "Bringing the power of Personal Intelligence to more people",
-      "summary": "We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.",
-      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-17T16:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:57.425961+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_gl7r1il.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "dfc2a0ef9983",
-      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
-      "summary": "We are bringing Lyria 3 to the tools where professionals work and create every day.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-25T16:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:57.425862+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria-3-Pro_thumbnail.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "626cedb761d8",
-      "title": "Build with Lyria 3, our newest music generation model",
-      "summary": "Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-25T16:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:57.425750+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWithLyria3_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "3e6a6fc70219",
-      "title": "The AI Hype Index: AI goes to war",
-      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “ opportunistic and sloppy ” deal. Users quit Cha",
-      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-25T09:00:00+00:00",
-      "scrapedAt": "2026-03-26T09:04:57.021770+00:00"
-    },
-    {
-      "id": "dbb0252a5af7",
-      "title": "Agentic commerce runs on truth and context",
-      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, t",
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-25T11:48:13+00:00",
-      "scrapedAt": "2026-03-26T09:04:57.021430+00:00"
-    },
-    {
-      "id": "84656a8392ac",
-      "title": "This startup wants to change how mathematicians do math",
-      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians , designed to discover mathematical patterns that could unlock solutions to long-standing probl",
-      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-03-25T13:59:17+00:00",
-      "scrapedAt": "2026-03-26T09:04:57.019201+00:00"
     }
   ]
 }
