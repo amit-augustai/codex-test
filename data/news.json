@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-04-05T08:54:09.202123+00:00",
+  "lastUpdated": "2026-04-06T09:17:03.940246+00:00",
   "articles": [
+    {
+      "id": "867c5215f38e",
+      "title": "Homophily-aware Supervised Contrastive Counterfactual Augmented Fair Graph Neural Network",
+      "summary": "arXiv:2604.02342v1 Announce Type: new Abstract: In recent years, Graph Neural Networks (GNNs) have achieved remarkable success in tasks such as node classification, link prediction, and graph represen",
+      "url": "https://arxiv.org/abs/2604.02342",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.699755+00:00"
+    },
+    {
+      "id": "b18ecd1b82a4",
+      "title": "LLM Reasoning with Process Rewards for Outcome-Guided Steps",
+      "summary": "arXiv:2604.02341v1 Announce Type: new Abstract: Mathematical reasoning in large language models has improved substantially with reinforcement learning using verifiable rewards, where final answers can",
+      "url": "https://arxiv.org/abs/2604.02341",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.699649+00:00"
+    },
+    {
+      "id": "1f2ad6cfab08",
+      "title": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models",
+      "summary": "arXiv:2604.02340v1 Announce Type: new Abstract: Recent advances in masked diffusion language models (MDLMs) narrow the quality gap to autoregressive LMs, but their sampling remains expensive because g",
+      "url": "https://arxiv.org/abs/2604.02340",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.699522+00:00"
+    },
+    {
+      "id": "ae6c12d7feca",
+      "title": "SIEVE: Sample-Efficient Parametric Learning from Natural Language",
+      "summary": "arXiv:2604.02339v1 Announce Type: new Abstract: Natural language context-such as instructions, knowledge, or feedback-contains rich signal for adapting language models. While in-context learning provi",
+      "url": "https://arxiv.org/abs/2604.02339",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.699411+00:00"
+    },
+    {
+      "id": "7b355f11a400",
+      "title": "LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning",
+      "summary": "arXiv:2604.02338v1 Announce Type: new Abstract: MoE-PEFT methods combine Mixture of Experts with parameter-efficient fine-tuning for multi-task adaptation, but require separate adapters per expert cau",
+      "url": "https://arxiv.org/abs/2604.02338",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.699302+00:00"
+    },
+    {
+      "id": "99dd9e1f5c5e",
+      "title": "Generating Counterfactual Patient Timelines from Real-World Data",
+      "summary": "arXiv:2604.02337v1 Announce Type: new Abstract: Counterfactual simulation - exploring hypothetical consequences under alternative clinical scenarios - holds promise for transformative applications suc",
+      "url": "https://arxiv.org/abs/2604.02337",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.699180+00:00"
+    },
+    {
+      "id": "d009732efbe0",
+      "title": "Convolutional Surrogate for 3D Discrete Fracture-Matrix Tensor Upscaling",
+      "summary": "arXiv:2604.02335v1 Announce Type: new Abstract: Modeling groundwater flow in three-dimensional fractured crystalline media requires accounting for strong spatial heterogeneity induced by fractures. Fi",
+      "url": "https://arxiv.org/abs/2604.02335",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.699031+00:00"
+    },
+    {
+      "id": "f97115318c32",
+      "title": "Mitigating LLM biases toward spurious social contexts using direct preference optimization",
+      "summary": "arXiv:2604.02585v1 Announce Type: new Abstract: LLMs are increasingly used for high-stakes decision-making, yet their sensitivity to spurious contextual information can introduce harmful biases. This ",
+      "url": "https://arxiv.org/abs/2604.02585",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.438365+00:00"
+    },
+    {
+      "id": "f43aef3628b5",
+      "title": "Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling",
+      "summary": "arXiv:2604.02545v1 Announce Type: new Abstract: The preservation of intangible cultural heritage is a critical challenge as collective memory fades over time. While Large Language Models (LLMs) offer ",
+      "url": "https://arxiv.org/abs/2604.02545",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.438226+00:00"
+    },
+    {
+      "id": "643449d046b9",
+      "title": "Interpretable Deep Reinforcement Learning for Element-level Bridge Life-cycle Optimization",
+      "summary": "arXiv:2604.02528v1 Announce Type: new Abstract: The new Specifications for the National Bridge Inventory (SNBI), in effect from 2022, emphasize the use of element-level condition states (CS) for risk-",
+      "url": "https://arxiv.org/abs/2604.02528",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.438104+00:00"
+    },
+    {
+      "id": "7663a79fbfbb",
+      "title": "A Comprehensive Framework for Long-Term Resiliency Investment Planning under Extreme Weather Uncertainty for Electric Utilities",
+      "summary": "arXiv:2604.02504v1 Announce Type: new Abstract: Electric utilities must make massive capital investments in the coming years to respond to explosive growth in demand, aging assets and rising threats f",
+      "url": "https://arxiv.org/abs/2604.02504",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.437956+00:00"
+    },
+    {
+      "id": "01b281778303",
+      "title": "I must delete the evidence: AI Agents Explicitly Cover up Fraud and Violent Crime",
+      "summary": "arXiv:2604.02500v1 Announce Type: new Abstract: As ongoing research explores the ability of AI agents to be insider threats and act against company interests, we showcase the abilities of such agents ",
+      "url": "https://arxiv.org/abs/2604.02500",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.437857+00:00"
+    },
+    {
+      "id": "0cfe157828dd",
+      "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
+      "summary": "arXiv:2604.02478v1 Announce Type: new Abstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and s",
+      "url": "https://arxiv.org/abs/2604.02478",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.437749+00:00"
+    },
+    {
+      "id": "62d12f8ce825",
+      "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
+      "summary": "arXiv:2604.02476v1 Announce Type: new Abstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960",
+      "url": "https://arxiv.org/abs/2604.02476",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.437610+00:00"
+    },
+    {
+      "id": "63b1e868d2f8",
+      "title": "Compositional Neuro-Symbolic Reasoning",
+      "summary": "arXiv:2604.02434v1 Announce Type: new Abstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. P",
+      "url": "https://arxiv.org/abs/2604.02434",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.437482+00:00"
+    },
+    {
+      "id": "fd678c378c57",
+      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+      "summary": "arXiv:2604.02368v1 Announce Type: new Abstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in",
+      "url": "https://arxiv.org/abs/2604.02368",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.437366+00:00"
+    },
+    {
+      "id": "b8d36dc1cc10",
+      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+      "summary": "arXiv:2604.02334v1 Announce Type: new Abstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ",
+      "url": "https://arxiv.org/abs/2604.02334",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-06T00:00:00-04:00",
+      "scrapedAt": "2026-04-06T09:16:08.437227+00:00"
+    },
+    {
+      "id": "3cae30a0b52c",
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-05T14:00:00+00:00",
+      "scrapedAt": "2026-04-06T09:16:07.598862+00:00"
+    },
+    {
+      "id": "c436a0a63b94",
+      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-05T15:40:58+00:00",
+      "scrapedAt": "2026-04-06T09:16:07.598791+00:00"
+    },
+    {
+      "id": "197955630132",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-05T18:51:37+00:00",
+      "scrapedAt": "2026-04-06T09:16:07.598708+00:00"
+    },
     {
       "id": "c2f77e9dd799",
       "title": "Writing Lisp is AI resistant and I'm sad",
