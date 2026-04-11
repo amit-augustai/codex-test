@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-04-10T09:18:03.006103+00:00",
+  "lastUpdated": "2026-04-11T08:54:21.391365+00:00",
   "articles": [
+    {
+      "id": "dbc8ccef2634",
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "summary": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor",
+      "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T05:22:06-04:00",
+      "scrapedAt": "2026-04-11T08:53:27.854127+00:00"
+    },
+    {
+      "id": "d37289dcfd31",
+      "title": "Gen Z’s love-hate relationship with AI",
+      "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week , based on responses from nearly 1,600 people ages 14 to 29 across the US, sugges",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T07:23:28-04:00",
+      "scrapedAt": "2026-04-11T08:53:27.853734+00:00"
+    },
+    {
+      "id": "34bc94ee1e94",
+      "title": "Fear and loathing at OpenAI",
+      "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organizat",
+      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T08:23:18-04:00",
+      "scrapedAt": "2026-04-11T08:53:27.853327+00:00"
+    },
+    {
+      "id": "436aafacf15c",
+      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
+      "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T13:30:00-04:00",
+      "scrapedAt": "2026-04-11T08:53:27.852607+00:00"
+    },
+    {
+      "id": "743baf6e8493",
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+      "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. Th",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T16:16:57-04:00",
+      "scrapedAt": "2026-04-11T08:53:27.852063+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.577992+00:00"
+    },
+    {
+      "id": "41818e7c705b",
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T14:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.263333+00:00"
+    },
+    {
+      "id": "359299c0225c",
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T16:38:43+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.263236+00:00"
+    },
+    {
+      "id": "ff1eb47daf7e",
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T16:41:34+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.263159+00:00"
+    },
+    {
+      "id": "82b94a279d39",
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T20:27:52+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.263070+00:00"
+    },
+    {
+      "id": "05b83b227a68",
+      "title": "Creating images with ChatGPT",
+      "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+      "url": "https://openai.com/academy/image-generation",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117990+00:00"
+    },
+    {
+      "id": "819cd6fbd518",
+      "title": "ChatGPT for research",
+      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "url": "https://openai.com/academy/research",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117925+00:00"
+    },
+    {
+      "id": "8e1ed481fc61",
+      "title": "Writing with ChatGPT",
+      "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+      "url": "https://openai.com/academy/writing",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117862+00:00"
+    },
+    {
+      "id": "8f0a1cccdd17",
+      "title": "Responsible and safe use of AI",
+      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117794+00:00"
+    },
+    {
+      "id": "18104e4bb305",
+      "title": "Financial services",
+      "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "url": "https://openai.com/academy/financial-services",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117726+00:00"
+    },
+    {
+      "id": "0ec8e2b40942",
+      "title": "Analyzing data with ChatGPT",
+      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "url": "https://openai.com/academy/data-analysis",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117654+00:00"
+    },
+    {
+      "id": "268ae8ef087d",
+      "title": "Research with ChatGPT",
+      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "url": "https://openai.com/academy/search-and-deep-research",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117581+00:00"
+    },
+    {
+      "id": "563d28f6d694",
+      "title": "Applications of AI at OpenAI",
+      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117510+00:00"
+    },
+    {
+      "id": "81ca7d111db1",
+      "title": "ChatGPT for customer success teams",
+      "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+      "url": "https://openai.com/academy/customer-success",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117436+00:00"
+    },
+    {
+      "id": "4a866cffd16b",
+      "title": "Using custom GPTs",
+      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "url": "https://openai.com/academy/custom-gpts",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-11T08:53:27.117346+00:00"
+    },
     {
       "id": "c2e433d6dc00",
       "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-04-04T16:32:22+00:00",
       "scrapedAt": "2026-04-05T08:53:13.263309+00:00"
-    },
-    {
-      "id": "d1f4684302ae",
-      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-      "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-      "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T21:28:14+00:00",
-      "scrapedAt": "2026-04-04T08:50:59.782151+00:00"
-    },
-    {
-      "id": "a750def32749",
-      "title": "Google Home’s latest update makes Gemini better at understanding your commands",
-      "summary": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release not",
-      "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T09:30:12-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.697527+00:00"
-    },
-    {
-      "id": "d0f28096640d",
-      "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
-      "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, ",
-      "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T10:00:00-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.696929+00:00"
-    },
-    {
-      "id": "3f4b7ad71b16",
-      "title": "It’s not easy to get depression-detecting AI through the FDA",
-      "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA cleara",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T11:33:23-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.696581+00:00"
-    },
-    {
-      "id": "3ad57c4040d1",
-      "title": "OpenAI just bought TBPN",
-      "summary": "OpenAI has purchased TBPN , an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T13:40:07-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.696232+00:00"
-    },
-    {
-      "id": "eab9db906a7c",
-      "title": "Elon Musk is about to be a very busy boy!",
-      "summary": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all",
-      "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T14:15:00-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.695811+00:00"
-    },
-    {
-      "id": "198fd4fc1dd0",
-      "title": "PSA: Anyone with a link can view your Granola notes by default",
-      "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T17:56:16-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.695415+00:00"
-    },
-    {
-      "id": "35ba2cb02f87",
-      "title": "Chatbots are now prescribing psychiatric drugs",
-      "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State offici",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T07:43:21-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.695005+00:00"
-    },
-    {
-      "id": "8ffc9734d668",
-      "title": "Apple’s best product ever",
-      "summary": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary . Thanks to everyone who pitched in - we ended up with more than 1.6 mil",
-      "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T08:52:41-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.694604+00:00"
-    },
-    {
-      "id": "38ba1e9d35fa",
-      "title": "OpenAI’s AGI boss is taking a leave of absence",
-      "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge . Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of appl",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T16:22:59-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.693819+00:00"
-    },
-    {
-      "id": "1355bfc8610e",
-      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-      "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscripti",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T19:52:49-04:00",
-      "scrapedAt": "2026-04-04T08:50:59.693334+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-04-04T08:50:59.295886+00:00"
-    },
-    {
-      "id": "1655cfa82750",
-      "title": "The Facebook insider building content moderation for the AI era",
-      "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-      "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T14:00:15+00:00",
-      "scrapedAt": "2026-04-04T08:50:58.997356+00:00"
-    },
-    {
-      "id": "5eed4ea5685c",
-      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
-      "summary": "A new poll shows that the debate over data centers is far from settled.",
-      "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T19:20:36+00:00",
-      "scrapedAt": "2026-04-04T08:50:58.997287+00:00"
-    },
-    {
-      "id": "aaa2e8ff2ea8",
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T19:48:22+00:00",
-      "scrapedAt": "2026-04-04T08:50:58.997223+00:00"
-    },
-    {
-      "id": "6dd22ac30e6b",
-      "title": "Anthropic ramps up its political activities with a new PAC",
-      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T20:22:18+00:00",
-      "scrapedAt": "2026-04-04T08:50:58.997155+00:00"
-    },
-    {
-      "id": "ae45489aceb7",
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T20:28:40+00:00",
-      "scrapedAt": "2026-04-04T08:50:58.997084+00:00"
-    },
-    {
-      "id": "85dc10294da5",
-      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T20:35:34+00:00",
-      "scrapedAt": "2026-04-04T08:50:58.997012+00:00"
-    },
-    {
-      "id": "502b81695f3c",
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-04T01:31:00+00:00",
-      "scrapedAt": "2026-04-04T08:50:58.996928+00:00"
-    },
-    {
-      "id": "7543ce1b7448",
-      "title": "STADLER reshapes knowledge work at a 230-year-old company",
-      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-      "url": "https://openai.com/index/stadler",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-27T22:00:00+00:00",
-      "scrapedAt": "2026-04-04T08:50:58.868278+00:00"
     }
   ]
 }
