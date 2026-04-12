@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-04-11T08:54:21.391365+00:00",
+  "lastUpdated": "2026-04-12T08:58:26.200140+00:00",
   "articles": [
+    {
+      "id": "6daad22e229f",
+      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+      "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T00:19:53+00:00",
+      "scrapedAt": "2026-04-12T08:57:28.390124+00:00"
+    },
+    {
+      "id": "b15794fe2d03",
+      "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
+      "summary": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
+      "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T09:30:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:28.390070+00:00"
+    },
+    {
+      "id": "0b0484f2693f",
+      "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
+      "summary": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
+      "url": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T10:30:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:28.390014+00:00"
+    },
+    {
+      "id": "95479e0ef644",
+      "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
+      "summary": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
+      "url": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T16:00:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:28.389957+00:00"
+    },
+    {
+      "id": "1a2f1f3c30fe",
+      "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
+      "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
+      "url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T16:32:19+00:00",
+      "scrapedAt": "2026-04-12T08:57:28.389896+00:00"
+    },
+    {
+      "id": "77313e04a724",
+      "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+      "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+      "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-10T18:08:37+00:00",
+      "scrapedAt": "2026-04-12T08:57:28.389840+00:00"
+    },
+    {
+      "id": "31835a3a5d34",
+      "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+      "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+      "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-11T09:30:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:28.389776+00:00"
+    },
+    {
+      "id": "c09aba14c2e8",
+      "title": "Your Push Notifications Aren’t Safe From the FBI",
+      "summary": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-11T10:30:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:28.389701+00:00"
+    },
+    {
+      "id": "879f8808d6d1",
+      "title": "Florida launches investigation into OpenAI",
+      "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters . In a statement on Thursday , Uthmeier",
+      "url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-09T18:17:06-04:00",
+      "scrapedAt": "2026-04-12T08:57:28.195467+00:00"
+    },
+    {
+      "id": "e9f273d7e912",
+      "title": "ChatGPT has a new $100 per month Pro subscription",
+      "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-09T18:57:15-04:00",
+      "scrapedAt": "2026-04-12T08:57:28.195148+00:00"
+    },
+    {
+      "id": "a1b2fa60fee1",
+      "title": "How Iran out-shitposted the White House",
+      "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video a",
+      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-11T09:00:00-04:00",
+      "scrapedAt": "2026-04-12T08:57:28.192823+00:00"
+    },
+    {
+      "id": "65fd203df5bd",
+      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "summary": "D’oh, a deer, an AI deer. | Photo by Amelia Holowaty Krales / The Verge Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know p",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-11T10:00:00-04:00",
+      "scrapedAt": "2026-04-12T08:57:28.192338+00:00"
+    },
+    {
+      "id": "2f7c7321b3c5",
+      "title": "Your article about AI doesn’t need AI art",
+      "summary": "The illustration for The New Yorker 's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-11T11:00:00-04:00",
+      "scrapedAt": "2026-04-12T08:57:28.191889+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:27.550683+00:00"
+    },
+    {
+      "id": "0d1c21e4793a",
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-11T17:18:22+00:00",
+      "scrapedAt": "2026-04-12T08:57:27.078766+00:00"
+    },
+    {
+      "id": "d66239cd8e87",
+      "title": "ChatGPT for operations teams",
+      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "url": "https://openai.com/academy/operations",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:26.941459+00:00"
+    },
+    {
+      "id": "f97fce3bd803",
+      "title": "Using skills",
+      "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+      "url": "https://openai.com/academy/skills",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:26.941353+00:00"
+    },
+    {
+      "id": "8a4fd43e6591",
+      "title": "Our response to the Axios developer tool compromise",
+      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:26.941193+00:00"
+    },
+    {
+      "id": "901994fefe29",
+      "title": "ChatGPT for marketing teams",
+      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "url": "https://openai.com/academy/marketing",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:26.941131+00:00"
+    },
+    {
+      "id": "24f471f193a9",
+      "title": "Using projects in ChatGPT",
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "url": "https://openai.com/academy/projects",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-12T08:57:26.941054+00:00"
+    },
     {
       "id": "dbc8ccef2634",
       "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-04-05T18:51:37+00:00",
       "scrapedAt": "2026-04-06T09:16:07.598708+00:00"
-    },
-    {
-      "id": "c2f77e9dd799",
-      "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Score: 64 points",
-      "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-04-05T02:01:31+00:00",
-      "scrapedAt": "2026-04-05T08:53:15.337084+00:00"
-    },
-    {
-      "id": "22c4880f6f6d",
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "summary": "Received the following email from Anthropic:<p>Hi,<p>Starting April 4 at 12pm PT &#x2F; 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including Ope",
-      "url": "https://news.ycombinator.com/item?id=47633396",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-04-03T22:55:24+00:00",
-      "scrapedAt": "2026-04-05T08:53:15.173294+00:00"
-    },
-    {
-      "id": "25d2081f3395",
-      "title": "Training mRNA Language Models Across 25 Species for $165",
-      "summary": "We built an end-to-end protein AI pipeline covering structure prediction, sequence design, and codon optimization. After comparing multiple transformer architectures for codon-level language modeling,",
-      "url": "https://news.ycombinator.com/item?id=47606244",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-04-01T20:38:24+00:00",
-      "scrapedAt": "2026-04-05T08:53:15.105323+00:00"
-    },
-    {
-      "id": "04954b21dcef",
-      "title": "Electrical transformer manufacturing is throttling the electrified future",
-      "summary": "<a href=\"https:&#x2F;&#x2F;archive.today&#x2F;yn2It\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.today&#x2F;yn2It</a>",
-      "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-04-01T18:47:48+00:00",
-      "scrapedAt": "2026-04-05T08:53:14.842204+00:00"
-    },
-    {
-      "id": "e3c26a3a2be8",
-      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "summary": "Running DeepSeek V3 (685B) requires 8×H100 GPUs which is about $14k&#x2F;month. Most developers only need 15-25 tok&#x2F;s. sllm lets you join a cohort of developers sharing a dedicated node. You rese",
-      "url": "https://sllm.cloud",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-04-04T15:18:58+00:00",
-      "scrapedAt": "2026-04-05T08:53:14.646713+00:00"
-    },
-    {
-      "id": "c68d2d869590",
-      "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
-      "summary": "Score: 40 points",
-      "url": "https://zml.ai/posts/zml-smi/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-03-31T13:29:53+00:00",
-      "scrapedAt": "2026-04-05T08:53:14.360970+00:00"
-    },
-    {
-      "id": "ae04df1bcc6d",
-      "title": "LLM Wiki – example of an \"idea file\"",
-      "summary": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;karpathy&#x2F;status&#x2F;2040470801506541998\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;karpathy&#x2F;status&#x2F;2040470801506541998</a><p><a href=\"https:&#x2",
-      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-04-04T16:57:45+00:00",
-      "scrapedAt": "2026-04-05T08:53:14.295250+00:00"
-    },
-    {
-      "id": "6d53c30c5700",
-      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
-      "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
-      "url": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-01T18:30:00+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.972345+00:00"
-    },
-    {
-      "id": "5602e33b8a3a",
-      "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
-      "summary": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
-      "url": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T16:00:00+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.972281+00:00"
-    },
-    {
-      "id": "844e5e091458",
-      "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
-      "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
-      "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T17:00:00+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.972216+00:00"
-    },
-    {
-      "id": "3a789f8bc136",
-      "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
-      "summary": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
-      "url": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T18:27:29+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.972149+00:00"
-    },
-    {
-      "id": "0921e4dacd04",
-      "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
-      "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
-      "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T19:29:48+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.972076+00:00"
-    },
-    {
-      "id": "2cf379c1edf3",
-      "title": "‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
-      "summary": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-02T21:04:22+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.972006+00:00"
-    },
-    {
-      "id": "eaf59cfe93b4",
-      "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
-      "summary": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
-      "url": "https://www.wired.com/story/best-portable-jump-starters/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T10:39:00+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.971931+00:00"
-    },
-    {
-      "id": "95db22c2e936",
-      "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
-      "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
-      "url": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-03T19:38:35+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.971863+00:00"
-    },
-    {
-      "id": "4cf42407a626",
-      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-      "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-04T10:30:00+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.971700+00:00"
-    },
-    {
-      "id": "492ada7284e1",
-      "title": "Really, you made this without AI? Prove it",
-      "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the wor",
-      "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-04T09:00:00-04:00",
-      "scrapedAt": "2026-04-05T08:53:13.862882+00:00"
-    },
-    {
-      "id": "1219c4bc9223",
-      "title": "A folk musician became a target for AI fakes and a copyright troll",
-      "summary": "Murphy Campbell is at the center of a brewing storm around AI and a broken copyright system. | Image: Murphy Campbell In January, folk artist Murphy Campbell discovered several songs on her Spotify pr",
-      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-04T13:52:10-04:00",
-      "scrapedAt": "2026-04-05T08:53:13.862348+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.478067+00:00"
-    },
-    {
-      "id": "b85184eac577",
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-04T16:32:22+00:00",
-      "scrapedAt": "2026-04-05T08:53:13.263309+00:00"
     }
   ]
 }
