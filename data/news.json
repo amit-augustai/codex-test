@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-04-16T09:26:30.030536+00:00",
+  "lastUpdated": "2026-04-17T09:25:30.483340+00:00",
   "articles": [
+    {
+      "id": "af270f51ff1d",
+      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+      "summary": "The new tools are designed to help creators throughout the entire development process.",
+      "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T16:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384972+00:00"
+    },
+    {
+      "id": "79f5749e4e76",
+      "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+      "summary": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+      "url": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T16:14:03+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384908+00:00"
+    },
+    {
+      "id": "de60226e8d61",
+      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+      "summary": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now th",
+      "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T16:15:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384840+00:00"
+    },
+    {
+      "id": "00695ff79510",
+      "title": "Google now lets you explore the web side-by-side with AI Mode",
+      "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
+      "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T17:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384761+00:00"
+    },
+    {
+      "id": "d08720c26501",
+      "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+      "summary": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis ",
+      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T18:28:42+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384684+00:00"
+    },
+    {
+      "id": "18597a1a3e06",
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+      "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T19:18:41+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384564+00:00"
+    },
+    {
+      "id": "3050cb1e6e14",
+      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+      "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T20:26:44+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384493+00:00"
+    },
+    {
+      "id": "99528b3e1858",
+      "title": "Upscale AI in talks to raise at $2B valuation, says report",
+      "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T20:41:13+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384415+00:00"
+    },
+    {
+      "id": "02b113e7cb50",
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+      "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T21:58:08+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384344+00:00"
+    },
+    {
+      "id": "04229a2656b6",
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T22:55:30+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.384261+00:00"
+    },
+    {
+      "id": "a14aecd407b7",
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-16T00:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.184302+00:00"
+    },
+    {
+      "id": "b6d50c92151f",
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-16T01:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.184221+00:00"
+    },
+    {
+      "id": "a0464d4374d6",
+      "title": "Codex for (almost) everything",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-16T10:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:32.184135+00:00"
+    },
+    {
+      "id": "aaf3d2dd3969",
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "summary": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-02T16:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:31.373815+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b9151f445ef2",
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-02T16:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:31.373727+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5a44b78941bc",
+      "title": "New ways to create personalized images in the Gemini app",
+      "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-16T16:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:31.373352+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "35335b85f2c4",
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "summary": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-16T17:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:31.373244+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Mode_in_Chrome_-_Blog_header.png"
+    },
+    {
+      "id": "2e78f0945a8b",
+      "title": "Why having “humans in the loop” in an AI war is an illusion",
+      "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon . This debate has become urgent, with AI playing a bigger role than",
+      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T12:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:30.994064+00:00"
+    },
+    {
+      "id": "0498919b410f",
+      "title": "Treating enterprise AI as an operating layer",
+      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning ",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T13:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:30.992214+00:00"
+    },
+    {
+      "id": "e099d86f31c1",
+      "title": "Making AI operational in constrained public sector environments",
+      "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, ",
+      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-16T13:00:00+00:00",
+      "scrapedAt": "2026-04-17T09:24:30.990703+00:00"
+    },
     {
       "id": "53e1e97afaeb",
       "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
@@ -1206,212 +1410,6 @@
       "category": "research",
       "publishedAt": "2026-04-10T00:00:00+00:00",
       "scrapedAt": "2026-04-11T08:53:27.117346+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.509215+00:00"
-    },
-    {
-      "id": "eff249352d6a",
-      "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to on",
-      "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-09T14:00:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.248102+00:00"
-    },
-    {
-      "id": "398acbe76d9d",
-      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
-      "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
-      "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-09T14:27:57+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.248036+00:00"
-    },
-    {
-      "id": "c4edc5c6d761",
-      "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
-      "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natu",
-      "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-09T17:20:50+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.247977+00:00"
-    },
-    {
-      "id": "5fcaf69abc30",
-      "title": "Google and Intel deepen AI infrastructure partnership",
-      "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
-      "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-09T18:27:47+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.247886+00:00"
-    },
-    {
-      "id": "04de243c816a",
-      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-      "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are r",
-      "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-09T18:50:05+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.247805+00:00"
-    },
-    {
-      "id": "1980b507f93b",
-      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-      "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
-      "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-09T19:10:07+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.247715+00:00"
-    },
-    {
-      "id": "8967692d8879",
-      "title": "After data breach, $10B-valued startup Mercor is having a month",
-      "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
-      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-09T19:33:54+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.247613+00:00"
-    },
-    {
-      "id": "d3ff1111cec4",
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc",
-      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-09T20:11:55+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.247534+00:00"
-    },
-    {
-      "id": "2380ccb72e9c",
-      "title": "ChatGPT finally offers $100/month Pro plan",
-      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
-      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-09T21:29:11+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.247419+00:00"
-    },
-    {
-      "id": "c32a08ac79ed",
-      "title": "Codex now offers more flexible pricing for teams",
-      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-02T10:00:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.192543+00:00"
-    },
-    {
-      "id": "b487a1bf1364",
-      "title": "OpenAI acquires TBPN",
-      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-      "url": "https://openai.com/index/openai-acquires-tbpn",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-02T10:30:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.192481+00:00"
-    },
-    {
-      "id": "3d01d31c1777",
-      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-      "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on ",
-      "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-09T00:00:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.192054+00:00"
-    },
-    {
-      "id": "7fc7366f9fe2",
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-      "url": "https://openai.com/index/cyberagent",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-09T00:00:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:07.191966+00:00"
-    },
-    {
-      "id": "c7ab07193d21",
-      "title": "Search Live is expanding globally",
-      "summary": "We’re expanding Search Live globally, to all languages and locations where AI Mode is available.",
-      "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-26T15:00:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:06.404238+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Live_blog_header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6c86c3095d2f",
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "summary": "Gemini 3.1 Flash Live is now available across Google products.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-26T15:21:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:06.404125+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-live_blog_head.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b56f0c5d5b99",
-      "title": "Transform your headphones into a live personal translator on iOS.",
-      "summary": "Transform your headphones into a live personal translator on iOS.",
-      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-26T16:00:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:06.404055+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "815730bb3f8e",
-      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-      "summary": "Watch James Manyika talk AI and creativity with LL COOL J.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-26T17:00:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:06.404038+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "aaf3d2dd3969",
-      "title": "Create, edit and share videos at no cost in Google Vids",
-      "summary": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-02T16:00:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:06.403840+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b9151f445ef2",
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-02T16:00:00+00:00",
-      "scrapedAt": "2026-04-10T09:17:06.403733+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp"
     }
   ]
 }
