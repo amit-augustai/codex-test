@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-04-21T09:45:58.340779+00:00",
+  "lastUpdated": "2026-04-22T09:27:45.171103+00:00",
   "articles": [
+    {
+      "id": "6c61749c78a4",
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T19:11:29+00:00",
+      "scrapedAt": "2026-04-22T09:26:45.443844+00:00"
+    },
+    {
+      "id": "a521d11c49f0",
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:23:24+00:00",
+      "scrapedAt": "2026-04-22T09:26:45.443785+00:00"
+    },
+    {
+      "id": "b55747f6d2e5",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same co",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T22:58:22+00:00",
+      "scrapedAt": "2026-04-22T09:26:45.443725+00:00"
+    },
+    {
+      "id": "cd78e201d885",
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T23:26:45+00:00",
+      "scrapedAt": "2026-04-22T09:26:45.443657+00:00"
+    },
+    {
+      "id": "b23181db2bbe",
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T23:45:21+00:00",
+      "scrapedAt": "2026-04-22T09:26:45.443584+00:00"
+    },
+    {
+      "id": "f97fce3bd803",
+      "title": "Using skills",
+      "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+      "url": "https://openai.com/academy/skills",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-10T00:00:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:45.310107+00:00"
+    },
+    {
+      "id": "8ae7ef478aa4",
+      "title": "Trusted access for the next era of cyber defense",
+      "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-14T00:00:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:45.309983+00:00"
+    },
+    {
+      "id": "a85b09f82963",
+      "title": "Scaling Codex to enterprises worldwide",
+      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-21T00:00:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:45.309594+00:00"
+    },
+    {
+      "id": "a7d989742205",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "summary": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-14T17:00:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.384296+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordH.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6741483c4402",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "summary": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-21T14:30:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.383886+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7d46535fbd2f",
+      "title": "Resistance",
+      "summary": "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs,",
+      "url": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.014037+00:00"
+    },
+    {
+      "id": "a3a48a776dea",
+      "title": "Artificial scientists",
+      "summary": "AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all ",
+      "url": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.012677+00:00"
+    },
+    {
+      "id": "a555213ea4c5",
+      "title": "China’s open-source bet",
+      "summary": "Silicon Valley AI companies follow a familiar playbook: Keep the secret sauce behind an API, and charge for every drop. China’s leading AI labs are playing a different game: They ship models as downlo",
+      "url": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.012247+00:00"
+    },
+    {
+      "id": "f4d481f12f46",
+      "title": "Humanoid data",
+      "summary": "I was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. Another website suggested I try",
+      "url": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.011610+00:00"
+    },
+    {
+      "id": "6bceb4ab041b",
+      "title": "Agent orchestration",
+      "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a ",
+      "url": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.011042+00:00"
+    },
+    {
+      "id": "947b5f527ba2",
+      "title": "Weaponized deepfakes",
+      "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious w",
+      "url": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.010530+00:00"
+    },
+    {
+      "id": "cb2d2589d737",
+      "title": "World models",
+      "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an ",
+      "url": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.009678+00:00"
+    },
+    {
+      "id": "10808d62efca",
+      "title": "Supercharged scams",
+      "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught th",
+      "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.009188+00:00"
+    },
+    {
+      "id": "fdccb7861b6d",
+      "title": "LLMs+",
+      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entir",
+      "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.008465+00:00"
+    },
+    {
+      "id": "11a739a35e4a",
+      "title": "10 Things That Matter in AI Right Now",
+      "summary": "10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-22T09:26:44.007855+00:00"
+    },
     {
       "id": "9cba5b3649ee",
       "title": "A Discordance-Aware Multimodal Framework with Multi-Agent Clinical Reasoning",
@@ -1210,207 +1412,6 @@
       "category": "product",
       "publishedAt": "2026-04-08T14:00:00+00:00",
       "scrapedAt": "2026-04-16T09:25:30.128902+00:00"
-    },
-    {
-      "id": "313caebd92ea",
-      "title": "When to Forget: A Memory Governance Primitive",
-      "summary": "arXiv:2604.12007v1 Announce Type: new Abstract: Agent memory systems accumulate experience but currently lack a principled operational metric for memory quality governance -- deciding which memories t",
-      "url": "https://arxiv.org/abs/2604.12007",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-15T00:00:00-04:00",
-      "scrapedAt": "2026-04-15T09:26:43.461128+00:00"
-    },
-    {
-      "id": "428c90ed6055",
-      "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
-      "summary": "arXiv:2604.11978v1 Announce Type: new Abstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that require extended, in",
-      "url": "https://arxiv.org/abs/2604.11978",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-15T00:00:00-04:00",
-      "scrapedAt": "2026-04-15T09:26:43.460990+00:00"
-    },
-    {
-      "id": "9ad36bf8ea59",
-      "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
-      "summary": "arXiv:2604.11969v1 Announce Type: new Abstract: We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing m",
-      "url": "https://arxiv.org/abs/2604.11969",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-15T00:00:00-04:00",
-      "scrapedAt": "2026-04-15T09:26:43.460876+00:00"
-    },
-    {
-      "id": "aa60d13cb7aa",
-      "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
-      "summary": "arXiv:2604.11924v1 Announce Type: new Abstract: While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researchers rather than to auto",
-      "url": "https://arxiv.org/abs/2604.11924",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-15T00:00:00-04:00",
-      "scrapedAt": "2026-04-15T09:26:43.460771+00:00"
-    },
-    {
-      "id": "d54fe17a028b",
-      "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
-      "summary": "arXiv:2604.11914v1 Announce Type: new Abstract: Self-monitoring capabilities -- metacognition, self-prediction, and subjective duration -- are often proposed as useful additions to reinforcement learn",
-      "url": "https://arxiv.org/abs/2604.11914",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-15T00:00:00-04:00",
-      "scrapedAt": "2026-04-15T09:26:43.460641+00:00"
-    },
-    {
-      "id": "e231273b02eb",
-      "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
-      "summary": "arXiv:2604.11828v1 Announce Type: new Abstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific dis",
-      "url": "https://arxiv.org/abs/2604.11828",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-15T00:00:00-04:00",
-      "scrapedAt": "2026-04-15T09:26:43.460437+00:00"
-    },
-    {
-      "id": "0549ac346865",
-      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
-      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
-      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-14T14:22:44+00:00",
-      "scrapedAt": "2026-04-15T09:26:42.840316+00:00"
-    },
-    {
-      "id": "82dedecec62d",
-      "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-14T14:48:34+00:00",
-      "scrapedAt": "2026-04-15T09:26:42.840248+00:00"
-    },
-    {
-      "id": "1f90a2ae46f2",
-      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it. There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
-      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-14T15:30:49+00:00",
-      "scrapedAt": "2026-04-15T09:26:42.840183+00:00"
-    },
-    {
-      "id": "3f6d57e3ecee",
-      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-      "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
-      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-14T17:00:00+00:00",
-      "scrapedAt": "2026-04-15T09:26:42.840106+00:00"
-    },
-    {
-      "id": "0acbd69258fa",
-      "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
-      "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encoura",
-      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-14T17:13:03+00:00",
-      "scrapedAt": "2026-04-15T09:26:42.840031+00:00"
-    },
-    {
-      "id": "4126c0f474b7",
-      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-      "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
-      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-14T18:09:12+00:00",
-      "scrapedAt": "2026-04-15T09:26:42.839955+00:00"
-    },
-    {
-      "id": "d9d61aaf0a79",
-      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua",
-      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T02:31:04+00:00",
-      "scrapedAt": "2026-04-15T09:26:42.839867+00:00"
-    },
-    {
-      "id": "076e1c598139",
-      "title": "Getting started with ChatGPT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "url": "https://openai.com/academy/getting-started",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-10T00:00:00+00:00",
-      "scrapedAt": "2026-04-15T09:26:42.742350+00:00"
-    },
-    {
-      "id": "8ae7ef478aa4",
-      "title": "Trusted access for the next era of cyber defense",
-      "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-14T00:00:00+00:00",
-      "scrapedAt": "2026-04-15T09:26:42.742032+00:00"
-    },
-    {
-      "id": "a7d989742205",
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-14T17:00:00+00:00",
-      "scrapedAt": "2026-04-15T09:26:41.800121+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordH.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "1465d338000a",
-      "title": "Enabling agent-first process redesign",
-      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute en",
-      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-07T14:00:00+00:00",
-      "scrapedAt": "2026-04-15T09:26:41.530191+00:00"
-    },
-    {
-      "id": "9d31d8ec9b75",
-      "title": "Coming soon: 10 Things That Matter in AI Right Now",
-      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a",
-      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-14T11:00:00+00:00",
-      "scrapedAt": "2026-04-15T09:26:41.523225+00:00"
-    },
-    {
-      "id": "459633ee1619",
-      "title": "Redefining the future of software engineering",
-      "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Secon",
-      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-14T18:00:00+00:00",
-      "scrapedAt": "2026-04-15T09:26:41.522395+00:00"
-    },
-    {
-      "id": "c3bd0794096f",
-      "title": "Building trust in the AI era with privacy-led UX",
-      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped oppor",
-      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T06:00:00+00:00",
-      "scrapedAt": "2026-04-15T09:26:41.521266+00:00"
     }
   ]
 }
