@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-04-22T09:27:45.171103+00:00",
+  "lastUpdated": "2026-04-23T09:50:32.488688+00:00",
   "articles": [
+    {
+      "id": "10f96a9703c4",
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, ",
+      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T14:22:10+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.348419+00:00"
+    },
+    {
+      "id": "a972c730fe19",
+      "title": "AI Overviews are coming to your Gmail at work",
+      "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+      "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T16:46:10+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.348352+00:00"
+    },
+    {
+      "id": "662d43daa6cf",
+      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+      "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T16:58:27+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.348289+00:00"
+    },
+    {
+      "id": "60bed5129fad",
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T17:30:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.348227+00:00"
+    },
+    {
+      "id": "8c84cde7c5be",
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T18:39:27+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.348161+00:00"
+    },
+    {
+      "id": "d6cf1e9ed24f",
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T19:51:51+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.348084+00:00"
+    },
+    {
+      "id": "9eb2b0e55870",
+      "title": "Hands on with X’s new AI-powered custom feeds",
+      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+      "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T22:25:53+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.348010+00:00"
+    },
+    {
+      "id": "f7fd414c02ef",
+      "title": "Google updates Workspace to make AI your new office intern",
+      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T22:44:26+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.347904+00:00"
+    },
+    {
+      "id": "e4062796e839",
+      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T23:56:52+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.347831+00:00"
+    },
+    {
+      "id": "7f8c010fc429",
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+      "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-23T04:38:45+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.347747+00:00"
+    },
+    {
+      "id": "0d663c2bd36b",
+      "title": "Introducing ChatGPT Images 2.0",
+      "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-21T12:00:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.271106+00:00"
+    },
+    {
+      "id": "756db9243c71",
+      "title": "Introducing OpenAI Privacy Filter",
+      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-22T00:00:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.271034+00:00"
+    },
+    {
+      "id": "3a63ffe19879",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-22T10:00:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.270931+00:00"
+    },
+    {
+      "id": "ff43ae6fb48b",
+      "title": "Introducing workspace agents in ChatGPT",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-22T10:00:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.270863+00:00"
+    },
+    {
+      "id": "23b8c7e12156",
+      "title": "Workspace agents",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "url": "https://openai.com/academy/workspace-agents",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-22T10:00:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.270790+00:00"
+    },
+    {
+      "id": "f1f0cc76182b",
+      "title": "Making ChatGPT better for clinicians",
+      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-22T15:00:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:36.270705+00:00"
+    },
+    {
+      "id": "08d7a646f7e0",
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "summary": "Gemini 3.1 Flash TTS is now available across Google products.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-15T15:00:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:35.337914+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_blog_keywo.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6a159b970d4b",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "summary": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-22T12:00:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:35.337113+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "85f0e7dc4dd5",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "summary": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-23T09:00:00+00:00",
+      "scrapedAt": "2026-04-23T09:49:35.337057+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "e48afa0ae309",
+      "title": "AI needs a strong data fabric to deliver business value",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-22T10:05:06+00:00",
+      "scrapedAt": "2026-04-23T09:49:34.985478+00:00"
+    },
     {
       "id": "6c61749c78a4",
       "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
@@ -1208,210 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-04-16T13:00:00+00:00",
       "scrapedAt": "2026-04-17T09:24:30.990703+00:00"
-    },
-    {
-      "id": "53e1e97afaeb",
-      "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
-      "summary": "arXiv:2604.13151v1 Announce Type: new Abstract: Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these",
-      "url": "https://arxiv.org/abs/2604.13151",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-16T00:00:00-04:00",
-      "scrapedAt": "2026-04-16T09:25:31.743196+00:00"
-    },
-    {
-      "id": "328256d716fe",
-      "title": "After sale of its shoe business, Allbirds pivots to AI",
-      "summary": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
-      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T14:24:31+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.239414+00:00"
-    },
-    {
-      "id": "7cb080d8a0d7",
-      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-      "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
-      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T17:24:18+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.239340+00:00"
-    },
-    {
-      "id": "18f5f5ff318b",
-      "title": "The musician-turned-biotech-founder waiting to fundraise",
-      "summary": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a ch",
-      "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T17:58:28+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.239254+00:00"
-    },
-    {
-      "id": "eef2e4d9c998",
-      "title": "Google rolls out a native Gemini app for Mac",
-      "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
-      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T18:22:13+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.228202+00:00"
-    },
-    {
-      "id": "bcc8348eb152",
-      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
-      "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T18:33:20+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.228133+00:00"
-    },
-    {
-      "id": "989e1532dcc0",
-      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T18:38:10+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.228064+00:00"
-    },
-    {
-      "id": "327e18da25bb",
-      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
-      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
-      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T18:51:54+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.227996+00:00"
-    },
-    {
-      "id": "696d03a555e1",
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T18:55:12+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.227922+00:00"
-    },
-    {
-      "id": "1c1d8c15e6a3",
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-15T19:28:36+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.227850+00:00"
-    },
-    {
-      "id": "39049158bd47",
-      "title": "DeepL, known for text translation, now wants to translate your voice",
-      "summary": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
-      "url": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-16T08:00:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.227771+00:00"
-    },
-    {
-      "id": "1cf1a2c9586d",
-      "title": "ChatGPT for sales teams",
-      "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
-      "url": "https://openai.com/academy/sales",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-10T00:00:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.156691+00:00"
-    },
-    {
-      "id": "7724c21f106b",
-      "title": "Personalizing ChatGPT",
-      "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
-      "url": "https://openai.com/academy/personalization",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-10T00:00:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.156525+00:00"
-    },
-    {
-      "id": "6682cff7e690",
-      "title": "The next evolution of the Agents SDK",
-      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-15T10:00:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:31.156209+00:00"
-    },
-    {
-      "id": "32a41f63ff92",
-      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-      "summary": "Veo 3.1 Lite is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-03-31T16:00:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:30.503052+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c10527d0fffd",
-      "title": "The latest AI news we announced in March 2026",
-      "summary": "Here are Google’s latest AI updates from March 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-01T13:00:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:30.502963+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/March_2026_AI_Recap_social_hvvl.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b242e73e0ce2",
-      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-      "summary": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-01T13:30:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:30.502872+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp"
-    },
-    {
-      "id": "08d7a646f7e0",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "summary": "Gemini 3.1 Flash TTS is now available across Google products.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-15T15:00:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:30.502435+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_blog_keywo.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "afbb37093371",
-      "title": "The gig workers who are training humanoid robots at home",
-      "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead",
-      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-01T11:00:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:30.134938+00:00"
-    },
-    {
-      "id": "10e4e36408be",
-      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-      "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catas",
-      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-08T14:00:00+00:00",
-      "scrapedAt": "2026-04-16T09:25:30.128902+00:00"
     }
   ]
 }
