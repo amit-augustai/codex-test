@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-04-24T09:50:25.419678+00:00",
+  "lastUpdated": "2026-04-25T09:02:03.665283+00:00",
   "articles": [
+    {
+      "id": "3d577d6b1209",
+      "title": "The Last Harness You'll Ever Build",
+      "summary": "arXiv:2604.21003v1 Announce Type: new Abstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and fo",
+      "url": "https://arxiv.org/abs/2604.21003",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-25T00:00:00-04:00",
+      "scrapedAt": "2026-04-25T09:01:06.210744+00:00"
+    },
+    {
+      "id": "154a4b321d01",
+      "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
+      "summary": "arXiv:2604.20995v1 Announce Type: new Abstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concerning",
+      "url": "https://arxiv.org/abs/2604.20995",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-25T00:00:00-04:00",
+      "scrapedAt": "2026-04-25T09:01:06.210636+00:00"
+    },
+    {
+      "id": "2b20e425fa16",
+      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+      "summary": "arXiv:2604.20987v1 Announce Type: new Abstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the cha",
+      "url": "https://arxiv.org/abs/2604.20987",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-25T00:00:00-04:00",
+      "scrapedAt": "2026-04-25T09:01:06.210523+00:00"
+    },
+    {
+      "id": "91917a1c85de",
+      "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+      "summary": "arXiv:2604.20972v1 Announce Type: new Abstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multip",
+      "url": "https://arxiv.org/abs/2604.20972",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-25T00:00:00-04:00",
+      "scrapedAt": "2026-04-25T09:01:06.210418+00:00"
+    },
+    {
+      "id": "eeb59e427bad",
+      "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+      "summary": "arXiv:2604.20862v1 Announce Type: new Abstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges ex",
+      "url": "https://arxiv.org/abs/2604.20862",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-25T00:00:00-04:00",
+      "scrapedAt": "2026-04-25T09:01:06.210284+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.839870+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.835377+00:00"
+    },
+    {
+      "id": "9085fc03c296",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T12:00:00+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.534472+00:00"
+    },
+    {
+      "id": "b188ee617d05",
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+      "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on",
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T13:30:59+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.534414+00:00"
+    },
+    {
+      "id": "015813f8cb4e",
+      "title": "Nothing introduces an AI-powered dictation tool",
+      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T13:41:42+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.534351+00:00"
+    },
+    {
+      "id": "285abb5d0699",
+      "title": "Tim Cook is stepping down. What happens to Apple now?",
+      "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping",
+      "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T14:00:00+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.534287+00:00"
+    },
+    {
+      "id": "527b1cada7c9",
+      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stack",
+      "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T14:00:00+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.534185+00:00"
+    },
+    {
+      "id": "6d67a039dbfb",
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T16:42:19+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.534087+00:00"
+    },
+    {
+      "id": "858c1c84c8cc",
+      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+      "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable busin",
+      "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T17:45:57+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.533980+00:00"
+    },
+    {
+      "id": "1b3680d029f5",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T18:00:03+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.499596+00:00"
+    },
+    {
+      "id": "cfe7bb1f35cf",
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T19:49:35+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.499531+00:00"
+    },
+    {
+      "id": "9eee8ea8304c",
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T20:52:07+00:00",
+      "scrapedAt": "2026-04-25T09:01:05.499459+00:00"
+    },
+    {
+      "id": "6ce36f8ae945",
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "summary": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
+      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-17T14:00:00+00:00",
+      "scrapedAt": "2026-04-25T09:01:04.674483+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "0edf8674fcb1",
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-24T19:00:00+00:00",
+      "scrapedAt": "2026-04-25T09:01:04.674178+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "f01b2e7af403",
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design t",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T21:40:58+00:00",
+      "scrapedAt": "2026-04-25T09:01:04.361351+00:00"
+    },
     {
       "id": "6cfdf10c9086",
       "title": "AI galaxy hunters are adding to the global GPU crunch",
@@ -1209,207 +1411,6 @@
       "category": "research",
       "publishedAt": "2026-04-10T00:00:00+00:00",
       "scrapedAt": "2026-04-19T09:00:16.484776+00:00"
-    },
-    {
-      "id": "a0c80801fcb9",
-      "title": "The ‘AI is inevitable’ trap",
-      "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price . The Newbird AI story is really just one of ",
-      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T09:24:34-04:00",
-      "scrapedAt": "2026-04-18T08:58:18.781625+00:00"
-    },
-    {
-      "id": "4ef79fe76929",
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T11:46:37-04:00",
-      "scrapedAt": "2026-04-18T08:58:18.780904+00:00"
-    },
-    {
-      "id": "378b2eab7e1e",
-      "title": "This charming gadget writes bad AI poetry",
-      "summary": "I kind of wish it just took pictures. I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched wove",
-      "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T13:30:00-04:00",
-      "scrapedAt": "2026-04-18T08:58:18.780397+00:00"
-    },
-    {
-      "id": "491f2962c0f8",
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national sec",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T16:14:21-04:00",
-      "scrapedAt": "2026-04-18T08:58:18.779966+00:00"
-    },
-    {
-      "id": "caee19127fda",
-      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
-      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, wh",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T16:42:47-04:00",
-      "scrapedAt": "2026-04-18T08:58:18.779521+00:00"
-    },
-    {
-      "id": "2a7a2a6a52b2",
-      "title": "OpenAI’s former Sora boss is leaving",
-      "summary": "Last month, OpenAI gave up on its Sora video generation tool , and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T17:13:25-04:00",
-      "scrapedAt": "2026-04-18T08:58:18.778952+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-04-18T08:58:18.458394+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-04-18T08:58:18.453151+00:00"
-    },
-    {
-      "id": "360444e845a5",
-      "title": "Are we tokenmaxxing our way to nowhere?",
-      "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to ",
-      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T13:00:00+00:00",
-      "scrapedAt": "2026-04-18T08:58:18.100237+00:00"
-    },
-    {
-      "id": "9ec149dfbc1d",
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T15:00:00+00:00",
-      "scrapedAt": "2026-04-18T08:58:18.100100+00:00"
-    },
-    {
-      "id": "51926208cdc8",
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to ",
-      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T15:57:40+00:00",
-      "scrapedAt": "2026-04-18T08:58:18.099996+00:00"
-    },
-    {
-      "id": "573fe90601e9",
-      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T18:42:45+00:00",
-      "scrapedAt": "2026-04-18T08:58:18.047716+00:00"
-    },
-    {
-      "id": "18d30f5d748d",
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
-      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T19:17:26+00:00",
-      "scrapedAt": "2026-04-18T08:58:18.047645+00:00"
-    },
-    {
-      "id": "2b4064f2417f",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T20:38:17+00:00",
-      "scrapedAt": "2026-04-18T08:58:18.047576+00:00"
-    },
-    {
-      "id": "bcf8911a707f",
-      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T22:34:02+00:00",
-      "scrapedAt": "2026-04-18T08:58:18.047494+00:00"
-    },
-    {
-      "id": "ad4c1c68fc55",
-      "title": "Healthcare",
-      "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-      "url": "https://openai.com/academy/healthcare",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-10T00:00:00+00:00",
-      "scrapedAt": "2026-04-18T08:58:17.948718+00:00"
-    },
-    {
-      "id": "819cd6fbd518",
-      "title": "ChatGPT for research",
-      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "url": "https://openai.com/academy/research",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-10T00:00:00+00:00",
-      "scrapedAt": "2026-04-18T08:58:17.948653+00:00"
-    },
-    {
-      "id": "05b83b227a68",
-      "title": "Creating images with ChatGPT",
-      "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-      "url": "https://openai.com/academy/image-generation",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-10T00:00:00+00:00",
-      "scrapedAt": "2026-04-18T08:58:17.948586+00:00"
-    },
-    {
-      "id": "6ce36f8ae945",
-      "title": "7 ways to travel smarter this summer, with help from Google",
-      "summary": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
-      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-17T14:00:00+00:00",
-      "scrapedAt": "2026-04-18T08:58:16.701040+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b9386d206584",
-      "title": "How robots learn: A brief, contemporary history",
-      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. ",
-      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T10:00:00+00:00",
-      "scrapedAt": "2026-04-18T08:58:16.310495+00:00"
     }
   ]
 }
