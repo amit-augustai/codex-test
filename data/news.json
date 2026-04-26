@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-04-25T09:02:03.665283+00:00",
+  "lastUpdated": "2026-04-26T09:08:53.340696+00:00",
   "articles": [
+    {
+      "id": "d7814ca4e2f1",
+      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+      "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T17:17:36+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.889144+00:00"
+    },
+    {
+      "id": "211cd0879eff",
+      "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+      "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+      "url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-25T09:30:00+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.889077+00:00"
+    },
+    {
+      "id": "33dd9320bab6",
+      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+      "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-25T10:30:00+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.889002+00:00"
+    },
+    {
+      "id": "8ff7a956079c",
+      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+      "summary": "Today on Decoder , I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show. I’ve been calling it software br",
+      "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-23T10:00:00-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.805314+00:00"
+    },
+    {
+      "id": "f8291224eee8",
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI j",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-23T14:00:00-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.801252+00:00"
+    },
+    {
+      "id": "b9e12d990a83",
+      "title": "Anthropic&#8217;s Mythos breach was humiliating",
+      "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release public",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-23T14:24:56-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.800907+00:00"
+    },
+    {
+      "id": "0d5e6dd41324",
+      "title": "Meta is laying off 10 percent of its staff",
+      "summary": "Mark Zuckerberg presenting at Meta Connect on September 17th, 2025. | Bloomberg via Getty Images Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company'",
+      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-23T15:41:07-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.800529+00:00"
+    },
+    {
+      "id": "eadad007fe43",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-23T18:27:11-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.800135+00:00"
+    },
+    {
+      "id": "f35287a4a508",
+      "title": "Prestigious photo contest answers ‘what is a photo?’",
+      "summary": "The three finalists for the World Press Photo of the year. | Image: World Press Photo We love to muse over how \" real \" photography is defined here at The Verge now that generative AI is so prolific, ",
+      "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T05:40:07-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.799776+00:00"
+    },
+    {
+      "id": "1e009397c380",
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T05:45:30-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.799232+00:00"
+    },
+    {
+      "id": "d04fb05af55f",
+      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
+      "summary": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T08:00:00-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.798777+00:00"
+    },
+    {
+      "id": "77eb37233472",
+      "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+      "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week wa",
+      "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T10:43:07-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.798456+00:00"
+    },
+    {
+      "id": "2aecff3a36e2",
+      "title": "How Project Maven taught the military to love AI",
+      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-24T13:00:00-04:00",
+      "scrapedAt": "2026-04-26T09:07:58.797751+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.510049+00:00"
+    },
+    {
+      "id": "ddb92a5e6dcb",
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-25T15:00:00+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.207059+00:00"
+    },
+    {
+      "id": "44b8124a3e83",
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-25T15:03:00+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.207005+00:00"
+    },
+    {
+      "id": "2f0121649aa2",
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-25T16:00:00+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.206943+00:00"
+    },
+    {
+      "id": "b2e84456bff3",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-25T17:17:56+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.206866+00:00"
+    },
+    {
+      "id": "dcebb3f5f887",
+      "title": "Maine’s governor vetoes data center moratorium",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-25T20:57:08+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.206799+00:00"
+    },
+    {
+      "id": "260990045df4",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-25T21:43:37+00:00",
+      "scrapedAt": "2026-04-26T09:07:58.206719+00:00"
+    },
     {
       "id": "3d577d6b1209",
       "title": "The Last Harness You'll Ever Build",
@@ -1211,206 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-04-20T09:00:00+00:00",
       "scrapedAt": "2026-04-20T10:03:57.979536+00:00"
-    },
-    {
-      "id": "ac9c850adc75",
-      "title": "This Beanie Is Designed to Read Your Thoughts",
-      "summary": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
-      "url": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-16T11:00:00+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396721+00:00"
-    },
-    {
-      "id": "9bd3df489c32",
-      "title": "Anthropic Plots Major London Expansion",
-      "summary": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
-      "url": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-16T13:49:35+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396655+00:00"
-    },
-    {
-      "id": "dcf7d9e62235",
-      "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
-      "summary": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
-      "url": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-16T17:00:00+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396576+00:00"
-    },
-    {
-      "id": "9dce68f380d0",
-      "title": "The UK Launches Its $675 Million Sovereign AI Fund",
-      "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
-      "url": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-16T17:30:00+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396486+00:00"
-    },
-    {
-      "id": "c42a3b336e9c",
-      "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
-      "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
-      "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-16T18:00:00+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396418+00:00"
-    },
-    {
-      "id": "29e64fdf11a6",
-      "title": "AI Drafting My Stories? Over My Dead Body",
-      "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
-      "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T15:46:06+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396347+00:00"
-    },
-    {
-      "id": "e88f3b97de7b",
-      "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
-      "summary": "Honestly, what’s hotter than a real person?",
-      "url": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T17:14:51+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396277+00:00"
-    },
-    {
-      "id": "5278fe6dda9a",
-      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-      "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-      "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-17T19:56:42+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396211+00:00"
-    },
-    {
-      "id": "1ab1264ad6fc",
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-      "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-18T10:30:00+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396139+00:00"
-    },
-    {
-      "id": "bf896d9b2869",
-      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-      "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-18T10:30:00+00:00",
-      "scrapedAt": "2026-04-19T09:00:17.396055+00:00"
-    },
-    {
-      "id": "49d9117dff3a",
-      "title": "Gemini can now pull from Google Photos to generate personalized images",
-      "summary": "An example image from Google. Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Ba",
-      "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-16T12:00:00-04:00",
-      "scrapedAt": "2026-04-19T09:00:17.269041+00:00"
-    },
-    {
-      "id": "c80371d9dd9f",
-      "title": "Google’s AI Mode update lets you open links without leaving the page",
-      "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open ",
-      "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-16T13:00:00-04:00",
-      "scrapedAt": "2026-04-19T09:00:17.268679+00:00"
-    },
-    {
-      "id": "92ec85da286b",
-      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
-      "summary": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, g",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-16T13:00:00-04:00",
-      "scrapedAt": "2026-04-19T09:00:17.268044+00:00"
-    },
-    {
-      "id": "8bc307ae958c",
-      "title": "The RAM shortage could last years",
-      "summary": "According to Nikkei Asia , even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages co",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-18T17:08:45-04:00",
-      "scrapedAt": "2026-04-19T09:00:17.264447+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-04-19T09:00:16.894445+00:00"
-    },
-    {
-      "id": "81c41bfd13ef",
-      "title": "The App Store is booming again, and AI may be why",
-      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
-      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-18T13:00:00+00:00",
-      "scrapedAt": "2026-04-19T09:00:16.557390+00:00"
-    },
-    {
-      "id": "bd8a430d3e86",
-      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-18T14:56:48+00:00",
-      "scrapedAt": "2026-04-19T09:00:16.557319+00:00"
-    },
-    {
-      "id": "64b801fb6aaa",
-      "title": "AI chip startup Cerebras files for IPO",
-      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-18T19:19:11+00:00",
-      "scrapedAt": "2026-04-19T09:00:16.557247+00:00"
-    },
-    {
-      "id": "31e6d9ab3cdd",
-      "title": "Tesla brings its robotaxi service to Dallas and Houston",
-      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
-      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-18T21:37:15+00:00",
-      "scrapedAt": "2026-04-19T09:00:16.557163+00:00"
-    },
-    {
-      "id": "8a4fd43e6591",
-      "title": "Our response to the Axios developer tool compromise",
-      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-      "url": "https://openai.com/index/axios-developer-tool-compromise",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-10T00:00:00+00:00",
-      "scrapedAt": "2026-04-19T09:00:16.484776+00:00"
     }
   ]
 }
