@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-04-26T09:08:53.340696+00:00",
+  "lastUpdated": "2026-04-27T10:23:41.897760+00:00",
   "articles": [
+    {
+      "id": "5f59b7ee2e26",
+      "title": "Mochi: Aligning Pre-training and Inference for Efficient Graph Foundation Models via Meta-Learning",
+      "summary": "arXiv:2604.22031v1 Announce Type: new Abstract: We propose Mochi, a Graph Foundation Model that addresses task unification and training efficiency by adopting a meta-learning based training framework.",
+      "url": "https://arxiv.org/abs/2604.22031",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:44.210717+00:00"
+    },
+    {
+      "id": "690cff703d38",
+      "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
+      "summary": "arXiv:2604.21999v1 Announce Type: new Abstract: We study learned memory tokens as computational scratchpad for a single-block Universal Transformer (UT) with Adaptive Computation Time (ACT) on Sudoku-",
+      "url": "https://arxiv.org/abs/2604.21999",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:44.210615+00:00"
+    },
+    {
+      "id": "49f0d4f6d9bf",
+      "title": "When Quotes Crumble: Detecting Transient Mechanical Liquidity Erosion in Limit Order Books",
+      "summary": "arXiv:2604.21993v1 Announce Type: new Abstract: We study the detection of transient liquidity erosion (\"crumbling quotes\") in electronic limit order books, where observable quote deterioration may ref",
+      "url": "https://arxiv.org/abs/2604.21993",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:44.210488+00:00"
+    },
+    {
+      "id": "f5d7bca4004c",
+      "title": "Multi-Task Optimization over Networks of Tasks",
+      "summary": "arXiv:2604.21991v1 Announce Type: new Abstract: Multi-task optimization is a powerful approach for solving a large number of tasks in parallel. However, existing algorithms face distinct limitations: ",
+      "url": "https://arxiv.org/abs/2604.21991",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:44.210385+00:00"
+    },
+    {
+      "id": "f47afcd4ce9e",
+      "title": "Conditional anomaly detection using soft harmonic functions: An application to clinical alerting",
+      "summary": "arXiv:2604.21956v1 Announce Type: new Abstract: Timely detection of concerning events is an important problem in clinical practice. In this paper, we consider the problem of conditional anomaly detect",
+      "url": "https://arxiv.org/abs/2604.21956",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:44.210278+00:00"
+    },
+    {
+      "id": "164e15a9040f",
+      "title": "Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics",
+      "summary": "arXiv:2604.21953v1 Announce Type: new Abstract: Anti-doping programs rely on biological testing to detect performance-enhancing drugs, but such testing costs over $800 per sample and is limited by sho",
+      "url": "https://arxiv.org/abs/2604.21953",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:44.210181+00:00"
+    },
+    {
+      "id": "5dabdf035dc9",
+      "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
+      "summary": "arXiv:2604.21952v1 Announce Type: new Abstract: This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co-de",
+      "url": "https://arxiv.org/abs/2604.21952",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:44.210062+00:00"
+    },
+    {
+      "id": "c8b6841e73f2",
+      "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
+      "summary": "arXiv:2604.22411v1 Announce Type: new Abstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Recent work by Thinking Mach",
+      "url": "https://arxiv.org/abs/2604.22411",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.946916+00:00"
+    },
+    {
+      "id": "49354c27a15e",
+      "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+      "summary": "arXiv:2604.22273v1 Announce Type: new Abstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear. We frame self-correcti",
+      "url": "https://arxiv.org/abs/2604.22273",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.946813+00:00"
+    },
+    {
+      "id": "6e293fdcea9a",
+      "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+      "summary": "arXiv:2604.22119v1 Announce Type: new Abstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own ob",
+      "url": "https://arxiv.org/abs/2604.22119",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.946664+00:00"
+    },
+    {
+      "id": "0154e5447022",
+      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "summary": "arXiv:2604.22085v1 Announce Type: new Abstract: The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural ",
+      "url": "https://arxiv.org/abs/2604.22085",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.946558+00:00"
+    },
+    {
+      "id": "85684693df32",
+      "title": "Sound Agentic Science Requires Adversarial Experiments",
+      "summary": "arXiv:2604.22080v1 Announce Type: new Abstract: LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and expertise. This capability is o",
+      "url": "https://arxiv.org/abs/2604.22080",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.946433+00:00"
+    },
+    {
+      "id": "ba0b4be26282",
+      "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+      "summary": "arXiv:2604.22026v1 Announce Type: new Abstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality a",
+      "url": "https://arxiv.org/abs/2604.22026",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.946328+00:00"
+    },
+    {
+      "id": "65fd971fbb37",
+      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+      "summary": "arXiv:2604.21965v1 Announce Type: new Abstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Ca",
+      "url": "https://arxiv.org/abs/2604.21965",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.946197+00:00"
+    },
+    {
+      "id": "57db0fbefa6b",
+      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+      "summary": "arXiv:2604.21937v1 Announce Type: new Abstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specializ",
+      "url": "https://arxiv.org/abs/2604.21937",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.946091+00:00"
+    },
+    {
+      "id": "78f67eb1eb4a",
+      "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+      "summary": "arXiv:2604.21936v1 Announce Type: new Abstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying",
+      "url": "https://arxiv.org/abs/2604.21936",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.945974+00:00"
+    },
+    {
+      "id": "28778d94ff7b",
+      "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+      "summary": "arXiv:2604.21935v1 Announce Type: new Abstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reaso",
+      "url": "https://arxiv.org/abs/2604.21935",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-27T00:00:00-04:00",
+      "scrapedAt": "2026-04-27T10:22:43.945845+00:00"
+    },
+    {
+      "id": "17968030620c",
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-26T15:30:00+00:00",
+      "scrapedAt": "2026-04-27T10:22:43.225232+00:00"
+    },
+    {
+      "id": "1b64ebc14276",
+      "title": "Meta inks deal for solar power at night, beamed from space",
+      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-27T10:00:00+00:00",
+      "scrapedAt": "2026-04-27T10:22:43.225146+00:00"
+    },
+    {
+      "id": "1ba739b09513",
+      "title": "Our principles",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "url": "https://openai.com/index/our-principles",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-26T16:00:00+00:00",
+      "scrapedAt": "2026-04-27T10:22:43.031056+00:00"
+    },
     {
       "id": "d7814ca4e2f1",
       "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
@@ -1211,206 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-04-13T15:48:28+00:00",
       "scrapedAt": "2026-04-21T09:45:01.618130+00:00"
-    },
-    {
-      "id": "0b26ccc17307",
-      "title": "M3R: Localized Rainfall Nowcasting with Meteorology-Informed MultiModal Attention",
-      "summary": "arXiv:2604.15377v1 Announce Type: new Abstract: Accurate and timely rainfall nowcasting is crucial for disaster mitigation and water resource management. Despite recent advances in deep learning, prec",
-      "url": "https://arxiv.org/abs/2604.15377",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.867605+00:00"
-    },
-    {
-      "id": "c8cf4eddf9ed",
-      "title": "Mapping High-Performance Regions in Battery Scheduling across Data Uncertainty, Battery Design, and Planning Horizons",
-      "summary": "arXiv:2604.15360v1 Announce Type: new Abstract: This study presents a triadic analysis of energy storage operation under multi-stage model predictive control, investigating the interplay between data ",
-      "url": "https://arxiv.org/abs/2604.15360",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.867497+00:00"
-    },
-    {
-      "id": "73ed4dd386b7",
-      "title": "Sequential KV Cache Compression via Probabilistic Language Tries: Beyond the Per-Vector Shannon Limit",
-      "summary": "arXiv:2604.15356v1 Announce Type: new Abstract: Recent work on KV cache quantization, culminating in TurboQuant, has approached the Shannon entropy limit for per-vector compression of transformer key-",
-      "url": "https://arxiv.org/abs/2604.15356",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.867385+00:00"
-    },
-    {
-      "id": "41429b0bac89",
-      "title": "Aletheia: Gradient-Guided Layer Selection for Efficient LoRA Fine-Tuning Across Architectures",
-      "summary": "arXiv:2604.15351v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become the dominant parameter-efficient fine-tuning method for large language models, yet standard practice applies LoRA ",
-      "url": "https://arxiv.org/abs/2604.15351",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.867236+00:00"
-    },
-    {
-      "id": "5d410ccfd61f",
-      "title": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
-      "summary": "arXiv:2604.15350v1 Announce Type: new Abstract: We discover that large language models exhibit \\emph{spectral phase transitions} in their hidden activation spaces when engaging in reasoning versus fac",
-      "url": "https://arxiv.org/abs/2604.15350",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.867107+00:00"
-    },
-    {
-      "id": "384fa0b237ca",
-      "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
-      "summary": "arXiv:2604.15727v1 Announce Type: new Abstract: Large language models exhibit systematic limitations in structured logical reasoning: they conflate hypothesis generation with verification, cannot dist",
-      "url": "https://arxiv.org/abs/2604.15727",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.657122+00:00"
-    },
-    {
-      "id": "255a312cdad0",
-      "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
-      "summary": "arXiv:2604.15726v1 Announce Type: new Abstract: This position paper argues that large language model (LLM) reasoning should be studied as latent-state trajectory formation rather than as faithful surf",
-      "url": "https://arxiv.org/abs/2604.15726",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.657020+00:00"
-    },
-    {
-      "id": "d78427d4f261",
-      "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
-      "summary": "arXiv:2604.15719v1 Announce Type: new Abstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as \\emph{future prediction}, where an ",
-      "url": "https://arxiv.org/abs/2604.15719",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.656908+00:00"
-    },
-    {
-      "id": "46e8bfe7f804",
-      "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
-      "summary": "arXiv:2604.15709v1 Announce Type: new Abstract: Agent \\texttt{skills} are structured collections of instructions, tools, and supporting resources that help large language model (LLM) agents perform pa",
-      "url": "https://arxiv.org/abs/2604.15709",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.656785+00:00"
-    },
-    {
-      "id": "2059068434cb",
-      "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
-      "summary": "arXiv:2604.15559v1 Announce Type: new Abstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those t",
-      "url": "https://arxiv.org/abs/2604.15559",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.656647+00:00"
-    },
-    {
-      "id": "21bf9a347ea8",
-      "title": "Preregistered Belief Revision Contracts",
-      "summary": "arXiv:2604.15558v1 Announce Type: new Abstract: Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant to improve performance,",
-      "url": "https://arxiv.org/abs/2604.15558",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.656520+00:00"
-    },
-    {
-      "id": "25d1d7ddcc4f",
-      "title": "LACE: Lattice Attention for Cross-thread Exploration",
-      "summary": "arXiv:2604.15529v1 Announce Type: new Abstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not inter",
-      "url": "https://arxiv.org/abs/2604.15529",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.656388+00:00"
-    },
-    {
-      "id": "674f203eee79",
-      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
-      "summary": "arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we ",
-      "url": "https://arxiv.org/abs/2604.15514",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.656284+00:00"
-    },
-    {
-      "id": "35c80fa65ae2",
-      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
-      "summary": "arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans",
-      "url": "https://arxiv.org/abs/2604.15495",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.656173+00:00"
-    },
-    {
-      "id": "19fa435faeb2",
-      "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
-      "summary": "arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent d",
-      "url": "https://arxiv.org/abs/2604.15456",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-20T00:00:00-04:00",
-      "scrapedAt": "2026-04-20T10:03:59.656032+00:00"
-    },
-    {
-      "id": "3217ffdbbdca",
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-19T16:01:00+00:00",
-      "scrapedAt": "2026-04-20T10:03:59.092404+00:00"
-    },
-    {
-      "id": "07e3823e1999",
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
-      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-19T16:30:00+00:00",
-      "scrapedAt": "2026-04-20T10:03:59.092332+00:00"
-    },
-    {
-      "id": "e0ab883c55c6",
-      "title": "The 12-month window",
-      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-19T19:30:00+00:00",
-      "scrapedAt": "2026-04-20T10:03:59.092260+00:00"
-    },
-    {
-      "id": "e0862fe09092",
-      "title": "OpenAI’s existential questions",
-      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-19T21:24:06+00:00",
-      "scrapedAt": "2026-04-20T10:03:59.092178+00:00"
-    },
-    {
-      "id": "c85e7467381d",
-      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-      "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters. Earlier this mont",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-20T09:00:00+00:00",
-      "scrapedAt": "2026-04-20T10:03:57.979536+00:00"
     }
   ]
 }
