@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-04-28T10:22:13.369217+00:00",
+  "lastUpdated": "2026-04-29T10:12:24.675834+00:00",
   "articles": [
+    {
+      "id": "93928d816392",
+      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+      "summary": "arXiv:2604.22777v1 Announce Type: new Abstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This pap",
+      "url": "https://arxiv.org/abs/2604.22777",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-04-29T00:00:00-04:00",
+      "scrapedAt": "2026-04-29T10:11:31.224013+00:00"
+    },
+    {
+      "id": "a661bb0d21fb",
+      "title": "Otter’s new feature lets users search across their enterprise tools",
+      "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow conn",
+      "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-28T12:00:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.289374+00:00"
+    },
+    {
+      "id": "7d0974adc690",
+      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-28T13:00:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.289278+00:00"
+    },
+    {
+      "id": "24d0258b83b2",
+      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-28T13:19:34+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.289209+00:00"
+    },
+    {
+      "id": "35ffafd44de0",
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-28T13:54:06+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.289130+00:00"
+    },
+    {
+      "id": "8a69f67e1d62",
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "summary": "The app allows developers to vibe code web apps and websites on the go.",
+      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-28T16:09:30+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.289064+00:00"
+    },
+    {
+      "id": "8dcbd07fb3ff",
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-28T18:15:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.288999+00:00"
+    },
+    {
+      "id": "a1231f5b46cc",
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-28T18:49:54+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.288930+00:00"
+    },
+    {
+      "id": "9ac17987a01d",
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-28T19:48:02+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.288861+00:00"
+    },
+    {
+      "id": "1f2810cb9682",
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-29T00:40:16+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.288789+00:00"
+    },
+    {
+      "id": "3878bff6e6ce",
+      "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+      "summary": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
+      "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-04-29T09:45:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.288703+00:00"
+    },
+    {
+      "id": "1dc472c1198d",
+      "title": "Our commitment to community safety",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-28T00:00:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.142006+00:00"
+    },
+    {
+      "id": "d0682fe009b6",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "url": "https://openai.com/index/openai-on-aws",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-28T00:00:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:30.141912+00:00"
+    },
+    {
+      "id": "6741483c4402",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "summary": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-21T14:30:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:29.357440+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6d3470cf9379",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-28T16:00:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:29.356981+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "947b5f527ba2",
+      "title": "Weaponized deepfakes",
+      "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious w",
+      "url": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:29.055135+00:00"
+    },
+    {
+      "id": "cb2d2589d737",
+      "title": "World models",
+      "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an ",
+      "url": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:29.054169+00:00"
+    },
+    {
+      "id": "10808d62efca",
+      "title": "Supercharged scams",
+      "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught th",
+      "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:29.053644+00:00"
+    },
+    {
+      "id": "fdccb7861b6d",
+      "title": "LLMs+",
+      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entir",
+      "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:29.052888+00:00"
+    },
+    {
+      "id": "11a739a35e4a",
+      "title": "10 Things That Matter in AI Right Now",
+      "summary": "10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "scrapedAt": "2026-04-29T10:11:29.052384+00:00"
+    },
     {
       "id": "03591375fdef",
       "title": "BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks",
@@ -1209,208 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-04-22T10:05:06+00:00",
       "scrapedAt": "2026-04-23T09:49:34.985478+00:00"
-    },
-    {
-      "id": "6c61749c78a4",
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T19:11:29+00:00",
-      "scrapedAt": "2026-04-22T09:26:45.443844+00:00"
-    },
-    {
-      "id": "a521d11c49f0",
-      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
-      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
-      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:23:24+00:00",
-      "scrapedAt": "2026-04-22T09:26:45.443785+00:00"
-    },
-    {
-      "id": "b55747f6d2e5",
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same co",
-      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T22:58:22+00:00",
-      "scrapedAt": "2026-04-22T09:26:45.443725+00:00"
-    },
-    {
-      "id": "cd78e201d885",
-      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T23:26:45+00:00",
-      "scrapedAt": "2026-04-22T09:26:45.443657+00:00"
-    },
-    {
-      "id": "b23181db2bbe",
-      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T23:45:21+00:00",
-      "scrapedAt": "2026-04-22T09:26:45.443584+00:00"
-    },
-    {
-      "id": "f97fce3bd803",
-      "title": "Using skills",
-      "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-      "url": "https://openai.com/academy/skills",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-10T00:00:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:45.310107+00:00"
-    },
-    {
-      "id": "8ae7ef478aa4",
-      "title": "Trusted access for the next era of cyber defense",
-      "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-14T00:00:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:45.309983+00:00"
-    },
-    {
-      "id": "a85b09f82963",
-      "title": "Scaling Codex to enterprises worldwide",
-      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-21T00:00:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:45.309594+00:00"
-    },
-    {
-      "id": "a7d989742205",
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-14T17:00:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.384296+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordH.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6741483c4402",
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "summary": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
-      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-21T14:30:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.383886+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7d46535fbd2f",
-      "title": "Resistance",
-      "summary": "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs,",
-      "url": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.014037+00:00"
-    },
-    {
-      "id": "a3a48a776dea",
-      "title": "Artificial scientists",
-      "summary": "AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all ",
-      "url": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.012677+00:00"
-    },
-    {
-      "id": "a555213ea4c5",
-      "title": "China’s open-source bet",
-      "summary": "Silicon Valley AI companies follow a familiar playbook: Keep the secret sauce behind an API, and charge for every drop. China’s leading AI labs are playing a different game: They ship models as downlo",
-      "url": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.012247+00:00"
-    },
-    {
-      "id": "f4d481f12f46",
-      "title": "Humanoid data",
-      "summary": "I was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. Another website suggested I try",
-      "url": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.011610+00:00"
-    },
-    {
-      "id": "6bceb4ab041b",
-      "title": "Agent orchestration",
-      "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a ",
-      "url": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.011042+00:00"
-    },
-    {
-      "id": "947b5f527ba2",
-      "title": "Weaponized deepfakes",
-      "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious w",
-      "url": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.010530+00:00"
-    },
-    {
-      "id": "cb2d2589d737",
-      "title": "World models",
-      "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an ",
-      "url": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.009678+00:00"
-    },
-    {
-      "id": "10808d62efca",
-      "title": "Supercharged scams",
-      "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught th",
-      "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.009188+00:00"
-    },
-    {
-      "id": "fdccb7861b6d",
-      "title": "LLMs+",
-      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entir",
-      "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.008465+00:00"
-    },
-    {
-      "id": "11a739a35e4a",
-      "title": "10 Things That Matter in AI Right Now",
-      "summary": "10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-22T09:26:44.007855+00:00"
     }
   ]
 }
