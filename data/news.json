@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-05-02T09:14:02.130540+00:00",
+  "lastUpdated": "2026-05-03T09:26:18.153137+00:00",
   "articles": [
+    {
+      "id": "c03e30dfcaf1",
+      "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
+      "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
+      "url": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T10:30:00+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.811508+00:00"
+    },
+    {
+      "id": "2cd64c37e0e0",
+      "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+      "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+      "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T17:30:39+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.811435+00:00"
+    },
+    {
+      "id": "415a2f4c13dc",
+      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
+      "summary": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
+      "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T17:41:14+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.811368+00:00"
+    },
+    {
+      "id": "244042955a58",
+      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T18:54:54+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.811291+00:00"
+    },
+    {
+      "id": "c092dadf7d91",
+      "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
+      "summary": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
+      "url": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T23:00:51+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.811191+00:00"
+    },
+    {
+      "id": "5e5680676176",
+      "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
+      "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
+      "url": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-05-01T00:51:18+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.811124+00:00"
+    },
+    {
+      "id": "0ef881fd118c",
+      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+      "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+      "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-05-01T20:25:28+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.811048+00:00"
+    },
+    {
+      "id": "1d42f5881de5",
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-05-02T10:30:00+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.810966+00:00"
+    },
+    {
+      "id": "5f21026c89a3",
+      "title": "Gemini is rolling out to cars with Google built-in",
+      "summary": "Here’s an early look at the new Gemini assistant on a vehicle infotainment system. | Image: Google Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This w",
+      "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T12:00:00-04:00",
+      "scrapedAt": "2026-05-03T09:25:20.705092+00:00"
+    },
+    {
+      "id": "c287fda56cb8",
+      "title": "Meta is running get-rich-quick ads for its AI tools",
+      "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, the",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T12:48:13-04:00",
+      "scrapedAt": "2026-05-03T09:25:20.704694+00:00"
+    },
+    {
+      "id": "74cdffe7e5df",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT . In 2024, Musk filed a lawsuit accusing OpenAI of abandon",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T12:57:14-04:00",
+      "scrapedAt": "2026-05-03T09:25:20.704255+00:00"
+    },
+    {
+      "id": "e45a8daedbc3",
+      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+      "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T14:16:57-04:00",
+      "scrapedAt": "2026-05-03T09:25:20.695082+00:00"
+    },
+    {
+      "id": "072b4665a19a",
+      "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+      "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \" James Brickhouse \"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-04-30T18:59:51-04:00",
+      "scrapedAt": "2026-05-03T09:25:20.694729+00:00"
+    },
+    {
+      "id": "a28baaadcf88",
+      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+      "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handl",
+      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-01T07:18:54-04:00",
+      "scrapedAt": "2026-05-03T09:25:20.694299+00:00"
+    },
+    {
+      "id": "11088b9f216b",
+      "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+      "summary": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI , though, ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-01T09:25:25-04:00",
+      "scrapedAt": "2026-05-03T09:25:20.693880+00:00"
+    },
+    {
+      "id": "25346cb6d7fa",
+      "title": "Elon Musk had a bad week in court",
+      "summary": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in ",
+      "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-01T09:33:15-04:00",
+      "scrapedAt": "2026-05-03T09:25:20.693356+00:00"
+    },
+    {
+      "id": "103feabc1f38",
+      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+      "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according t",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-01T10:09:56-04:00",
+      "scrapedAt": "2026-05-03T09:25:20.692710+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.299329+00:00"
+    },
+    {
+      "id": "f620eec25f20",
+      "title": "The best AI dictation apps, tested and ranked",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-02T16:00:00+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.035578+00:00"
+    },
+    {
+      "id": "4ce3b826e9fa",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "summary": "Bad news for Tilly Norwood.",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-02T21:54:58+00:00",
+      "scrapedAt": "2026-05-03T09:25:20.035497+00:00"
+    },
     {
       "id": "489362c10603",
       "title": "All the evidence revealed so far in Musk v. Altman",
@@ -1210,206 +1410,6 @@
       "category": "research",
       "publishedAt": "2026-04-26T16:00:00+00:00",
       "scrapedAt": "2026-04-27T10:22:43.031056+00:00"
-    },
-    {
-      "id": "d7814ca4e2f1",
-      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
-      "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-24T17:17:36+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.889144+00:00"
-    },
-    {
-      "id": "211cd0879eff",
-      "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
-      "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
-      "url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-25T09:30:00+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.889077+00:00"
-    },
-    {
-      "id": "33dd9320bab6",
-      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-      "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-04-25T10:30:00+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.889002+00:00"
-    },
-    {
-      "id": "8ff7a956079c",
-      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
-      "summary": "Today on Decoder , I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show. I’ve been calling it software br",
-      "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-23T10:00:00-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.805314+00:00"
-    },
-    {
-      "id": "f8291224eee8",
-      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
-      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI j",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-23T14:00:00-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.801252+00:00"
-    },
-    {
-      "id": "b9e12d990a83",
-      "title": "Anthropic&#8217;s Mythos breach was humiliating",
-      "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release public",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-23T14:24:56-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.800907+00:00"
-    },
-    {
-      "id": "0d5e6dd41324",
-      "title": "Meta is laying off 10 percent of its staff",
-      "summary": "Mark Zuckerberg presenting at Meta Connect on September 17th, 2025. | Bloomberg via Getty Images Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company'",
-      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-23T15:41:07-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.800529+00:00"
-    },
-    {
-      "id": "eadad007fe43",
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-23T18:27:11-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.800135+00:00"
-    },
-    {
-      "id": "f35287a4a508",
-      "title": "Prestigious photo contest answers ‘what is a photo?’",
-      "summary": "The three finalists for the World Press Photo of the year. | Image: World Press Photo We love to muse over how \" real \" photography is defined here at The Verge now that generative AI is so prolific, ",
-      "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-24T05:40:07-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.799776+00:00"
-    },
-    {
-      "id": "1e009397c380",
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-24T05:45:30-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.799232+00:00"
-    },
-    {
-      "id": "d04fb05af55f",
-      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
-      "summary": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-24T08:00:00-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.798777+00:00"
-    },
-    {
-      "id": "77eb37233472",
-      "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
-      "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week wa",
-      "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-24T10:43:07-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.798456+00:00"
-    },
-    {
-      "id": "2aecff3a36e2",
-      "title": "How Project Maven taught the military to love AI",
-      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-04-24T13:00:00-04:00",
-      "scrapedAt": "2026-04-26T09:07:58.797751+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.510049+00:00"
-    },
-    {
-      "id": "ddb92a5e6dcb",
-      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
-      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-25T15:00:00+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.207059+00:00"
-    },
-    {
-      "id": "44b8124a3e83",
-      "title": "Why Tokyo is the most important tech destination of 2026",
-      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t",
-      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-25T15:03:00+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.207005+00:00"
-    },
-    {
-      "id": "2f0121649aa2",
-      "title": "Why Cohere is merging with Aleph Alpha",
-      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt",
-      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-25T16:00:00+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.206943+00:00"
-    },
-    {
-      "id": "b2e84456bff3",
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-25T17:17:56+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.206866+00:00"
-    },
-    {
-      "id": "dcebb3f5f887",
-      "title": "Maine’s governor vetoes data center moratorium",
-      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-25T20:57:08+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.206799+00:00"
-    },
-    {
-      "id": "260990045df4",
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-25T21:43:37+00:00",
-      "scrapedAt": "2026-04-26T09:07:58.206719+00:00"
     }
   ]
 }
