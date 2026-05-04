@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-05-03T09:26:18.153137+00:00",
+  "lastUpdated": "2026-05-04T10:20:10.695362+00:00",
   "articles": [
+    {
+      "id": "de1e2338c202",
+      "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
+      "summary": "arXiv:2605.00068v1 Announce Type: new Abstract: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively hi",
+      "url": "https://arxiv.org/abs/2605.00068",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.582626+00:00"
+    },
+    {
+      "id": "8c5db1b774bf",
+      "title": "Information-Theoretic Generalization Bounds for Stochastic Gradient Descent with Predictable Virtual Noise",
+      "summary": "arXiv:2605.00064v1 Announce Type: new Abstract: Information-theoretic generalization bounds analyze stochastic optimization by relating expected generalization error to the mutual information between ",
+      "url": "https://arxiv.org/abs/2605.00064",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.582529+00:00"
+    },
+    {
+      "id": "067828bcf10d",
+      "title": "Smart Ensemble Learning Framework for Predicting Groundwater Heavy Metal Pollution",
+      "summary": "arXiv:2605.00056v1 Announce Type: new Abstract: Groundwater in the Densu Basin is increasingly threatened by heavy metal contamination, but conventional methods fail to capture the statistical complex",
+      "url": "https://arxiv.org/abs/2605.00056",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.582376+00:00"
+    },
+    {
+      "id": "587922fc3e2f",
+      "title": "Learning physically grounded traffic accident reconstruction from public accident reports",
+      "summary": "arXiv:2605.00050v1 Announce Type: new Abstract: Traffic accidents are routinely documented in textual reports, yet physically grounded accident reconstruction remains difficult because detailed scene ",
+      "url": "https://arxiv.org/abs/2605.00050",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.582255+00:00"
+    },
+    {
+      "id": "1513a66f4d63",
+      "title": "AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G",
+      "summary": "arXiv:2605.00020v1 Announce Type: new Abstract: The success of large foundation models is catalyzing a new paradigm for AI-native 6G network design: wireless foundation models for physical layer desig",
+      "url": "https://arxiv.org/abs/2605.00020",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.582152+00:00"
+    },
+    {
+      "id": "6cbd713820cd",
+      "title": "What Physics do Data-Driven MoCap-to-Radar Models Learn?",
+      "summary": "arXiv:2605.00018v1 Announce Type: new Abstract: Data-driven MoCap-to-radar models generate plausible micro-Doppler spectrograms, but do they actually learn the underlying physics? We introduce a physi",
+      "url": "https://arxiv.org/abs/2605.00018",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.582030+00:00"
+    },
+    {
+      "id": "a18987fa6f13",
+      "title": "FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources",
+      "summary": "arXiv:2605.00011v1 Announce Type: new Abstract: Federated Learning (FL) enables collaborative intelligence across decentralized data source devices in a privacy-preserving way. While substantial resea",
+      "url": "https://arxiv.org/abs/2605.00011",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.581929+00:00"
+    },
+    {
+      "id": "948fbb836d10",
+      "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+      "summary": "arXiv:2605.00005v1 Announce Type: new Abstract: The increasing deployment of deep neural networks (DNNs) in cyber-physical systems (CPS) enhances perception fidelity, but imposes substantial computati",
+      "url": "https://arxiv.org/abs/2605.00005",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.581788+00:00"
+    },
+    {
+      "id": "6237f85e8593",
+      "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+      "summary": "arXiv:2605.00334v1 Announce Type: new Abstract: Production agentic systems make many model calls per user request, and most of those calls are short, structured, and routine. This raises a practical r",
+      "url": "https://arxiv.org/abs/2605.00334",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.336803+00:00"
+    },
+    {
+      "id": "baa58eac188e",
+      "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
+      "summary": "arXiv:2605.00300v1 Announce Type: new Abstract: Public inference benchmarks compare AI systems at the model and provider level, but the unit at which deployment decisions are actually made is the endp",
+      "url": "https://arxiv.org/abs/2605.00300",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.336674+00:00"
+    },
+    {
+      "id": "a757c663dad9",
+      "title": "Agentic AI for Trip Planning Optimization Application",
+      "summary": "arXiv:2605.00276v1 Announce Type: new Abstract: Trip planning for intelligent vehicles increasingly requires selecting optimal routes rather than merely producing feasible itineraries, as interacting ",
+      "url": "https://arxiv.org/abs/2605.00276",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.336541+00:00"
+    },
+    {
+      "id": "205593bc1de1",
+      "title": "Causal Foundations of Collective Agency",
+      "summary": "arXiv:2605.00248v1 Announce Type: new Abstract: A key challenge for the safety of advanced AI systems is the possibility that multiple simpler agents might inadvertently form a collective agent with c",
+      "url": "https://arxiv.org/abs/2605.00248",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.336415+00:00"
+    },
+    {
+      "id": "fc084125eb47",
+      "title": "ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts",
+      "summary": "arXiv:2605.00245v1 Announce Type: new Abstract: Large language models (LLMs) are now being explored for defense applications that require reliable and legally compliant decision support. They also hol",
+      "url": "https://arxiv.org/abs/2605.00245",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.336306+00:00"
+    },
+    {
+      "id": "84ad0a6a67d1",
+      "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+      "summary": "arXiv:2605.00224v1 Announce Type: new Abstract: Aligning large language models (LLMs) with human preferences is commonly done via reinforcement learning from human feedback (RLHF) with Proximal Policy",
+      "url": "https://arxiv.org/abs/2605.00224",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.336197+00:00"
+    },
+    {
+      "id": "c8e590461ea0",
+      "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+      "summary": "arXiv:2605.00136v1 Announce Type: new Abstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we",
+      "url": "https://arxiv.org/abs/2605.00136",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.336085+00:00"
+    },
+    {
+      "id": "8b6174a8dbe6",
+      "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+      "summary": "arXiv:2605.00123v1 Announce Type: new Abstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understa",
+      "url": "https://arxiv.org/abs/2605.00123",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.335983+00:00"
+    },
+    {
+      "id": "9583fb4c357c",
+      "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+      "summary": "arXiv:2605.00073v1 Announce Type: new Abstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security audi",
+      "url": "https://arxiv.org/abs/2605.00073",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.335857+00:00"
+    },
+    {
+      "id": "530c8d94a689",
+      "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+      "summary": "arXiv:2605.00060v1 Announce Type: new Abstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical in",
+      "url": "https://arxiv.org/abs/2605.00060",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-04T00:00:00-04:00",
+      "scrapedAt": "2026-05-04T10:19:14.335725+00:00"
+    },
+    {
+      "id": "452d5889b4ba",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-03T18:00:09+00:00",
+      "scrapedAt": "2026-05-04T10:19:13.612787+00:00"
+    },
+    {
+      "id": "01b7165cd4b6",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-03T20:16:51+00:00",
+      "scrapedAt": "2026-05-04T10:19:13.612687+00:00"
+    },
     {
       "id": "c03e30dfcaf1",
       "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
