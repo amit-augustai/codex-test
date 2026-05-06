@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-05-05T10:08:33.497085+00:00",
+  "lastUpdated": "2026-05-06T10:24:07.474006+00:00",
   "articles": [
+    {
+      "id": "8c525cdd8fbf",
+      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+      "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-05T15:49:55+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.744750+00:00"
+    },
+    {
+      "id": "f2ffd9ae2c29",
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-05T17:00:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.744679+00:00"
+    },
+    {
+      "id": "7e9641e74763",
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-05T17:46:10+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.744606+00:00"
+    },
+    {
+      "id": "d15cde9337a4",
+      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+      "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara",
+      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-05T20:06:40+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.744530+00:00"
+    },
+    {
+      "id": "d9d36c1ef849",
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-05T20:56:41+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.744430+00:00"
+    },
+    {
+      "id": "adb40e368632",
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
+      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-05T22:57:41+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.744281+00:00"
+    },
+    {
+      "id": "412ad8a3329d",
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-05T23:50:10+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.730611+00:00"
+    },
+    {
+      "id": "18521d413e03",
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+      "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T06:34:32+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.730531+00:00"
+    },
+    {
+      "id": "5ce2f9b9bc89",
+      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign ",
+      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T06:47:12+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.730433+00:00"
+    },
+    {
+      "id": "1dc472c1198d",
+      "title": "Our commitment to community safety",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-28T00:00:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.659852+00:00"
+    },
+    {
+      "id": "3938b1e238f6",
+      "title": "New ways to buy ChatGPT ads",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-05T00:00:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.659313+00:00"
+    },
+    {
+      "id": "2fd4f4a9abde",
+      "title": "GPT-5.5 Instant System Card",
+      "summary": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-05T10:00:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.659220+00:00"
+    },
+    {
+      "id": "05d3c5cd4cae",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-05T10:00:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:09.659185+00:00"
+    },
+    {
+      "id": "6741483c4402",
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "summary": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-21T14:30:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:08.895171+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "29488e13238b",
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-27T13:00:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:08.894851+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6d3470cf9379",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-28T16:00:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:08.894760+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5f907f4d68cc",
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-05T16:00:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:08.894394+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a47d3e3f135f",
+      "title": "Rebuilding the data stack for AI",
+      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-27T13:00:00+00:00",
+      "scrapedAt": "2026-05-06T10:23:08.516062+00:00"
+    },
+    {
+      "id": "c4880d927b46",
+      "title": "The missing step between hype and profit",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . In February, I picked up a flyer at an anti-AI march in Londo",
+      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-27T16:13:41+00:00",
+      "scrapedAt": "2026-05-06T10:23:08.509550+00:00"
+    },
+    {
+      "id": "370be1499991",
+      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici",
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-04-27T22:52:57+00:00",
+      "scrapedAt": "2026-05-06T10:23:08.508519+00:00"
+    },
     {
       "id": "c25dc919b43b",
       "title": "Fast Log-Domain Sinkhorn Optimal Transport with Warp-Level GPU Reductions",
@@ -1209,409 +1413,6 @@
       "category": "product",
       "publishedAt": "2026-04-22T10:05:06+00:00",
       "scrapedAt": "2026-04-30T10:11:07.142550+00:00"
-    },
-    {
-      "id": "93928d816392",
-      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
-      "summary": "arXiv:2604.22777v1 Announce Type: new Abstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This pap",
-      "url": "https://arxiv.org/abs/2604.22777",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-29T00:00:00-04:00",
-      "scrapedAt": "2026-04-29T10:11:31.224013+00:00"
-    },
-    {
-      "id": "a661bb0d21fb",
-      "title": "Otter’s new feature lets users search across their enterprise tools",
-      "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow conn",
-      "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-28T12:00:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.289374+00:00"
-    },
-    {
-      "id": "7d0974adc690",
-      "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
-      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-28T13:00:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.289278+00:00"
-    },
-    {
-      "id": "24d0258b83b2",
-      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
-      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-28T13:19:34+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.289209+00:00"
-    },
-    {
-      "id": "35ffafd44de0",
-      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
-      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-28T13:54:06+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.289130+00:00"
-    },
-    {
-      "id": "8a69f67e1d62",
-      "title": "Lovable launches its vibe-coding app on iOS and Android",
-      "summary": "The app allows developers to vibe code web apps and websites on the go.",
-      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-28T16:09:30+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.289064+00:00"
-    },
-    {
-      "id": "8dcbd07fb3ff",
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-28T18:15:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.288999+00:00"
-    },
-    {
-      "id": "a1231f5b46cc",
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-28T18:49:54+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.288930+00:00"
-    },
-    {
-      "id": "9ac17987a01d",
-      "title": "Amazon is already offering new OpenAI products on AWS",
-      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-28T19:48:02+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.288861+00:00"
-    },
-    {
-      "id": "1f2810cb9682",
-      "title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
-      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-29T00:40:16+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.288789+00:00"
-    },
-    {
-      "id": "3878bff6e6ce",
-      "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
-      "summary": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
-      "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-29T09:45:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.288703+00:00"
-    },
-    {
-      "id": "1dc472c1198d",
-      "title": "Our commitment to community safety",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-28T00:00:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.142006+00:00"
-    },
-    {
-      "id": "d0682fe009b6",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "url": "https://openai.com/index/openai-on-aws",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-28T00:00:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:30.141912+00:00"
-    },
-    {
-      "id": "6741483c4402",
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "summary": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
-      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-21T14:30:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:29.357440+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6d3470cf9379",
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
-      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-28T16:00:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:29.356981+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "947b5f527ba2",
-      "title": "Weaponized deepfakes",
-      "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious w",
-      "url": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:29.055135+00:00"
-    },
-    {
-      "id": "cb2d2589d737",
-      "title": "World models",
-      "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an ",
-      "url": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:29.054169+00:00"
-    },
-    {
-      "id": "10808d62efca",
-      "title": "Supercharged scams",
-      "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught th",
-      "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:29.053644+00:00"
-    },
-    {
-      "id": "fdccb7861b6d",
-      "title": "LLMs+",
-      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entir",
-      "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:29.052888+00:00"
-    },
-    {
-      "id": "11a739a35e4a",
-      "title": "10 Things That Matter in AI Right Now",
-      "summary": "10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-21T20:45:00+00:00",
-      "scrapedAt": "2026-04-29T10:11:29.052384+00:00"
-    },
-    {
-      "id": "03591375fdef",
-      "title": "BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks",
-      "summary": "arXiv:2604.22781v1 Announce Type: new Abstract: Proactive alert prediction in computer networks is critical for mitigating evolving cyber threats and enabling timely defensive actions. Temporal Graph ",
-      "url": "https://arxiv.org/abs/2604.22781",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-04-28T00:00:00-04:00",
-      "scrapedAt": "2026-04-28T10:21:16.143314+00:00"
-    },
-    {
-      "id": "696c55943813",
-      "title": "KARL: Mitigating Hallucinations in LLMs via Knowledge-Boundary-Aware Reinforcement Learning",
-      "summary": "arXiv:2604.22779v1 Announce Type: new Abstract: Enabling large language models (LLMs) to appropriately abstain from answering questions beyond their knowledge is crucial for mitigating hallucinations.",
-      "url": "https://arxiv.org/abs/2604.22779",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-04-28T00:00:00-04:00",
-      "scrapedAt": "2026-04-28T10:21:16.143189+00:00"
-    },
-    {
-      "id": "6f11983beca1",
-      "title": "The Spectral Lifecycle of Transformer Training: Transient Compression Waves, Persistent Spectral Gradients, and the Q/K--V Asymmetry",
-      "summary": "arXiv:2604.22778v1 Announce Type: new Abstract: We present the first systematic study of weight matrix singular value spectra \\emph{during} transformer pretraining, tracking full SVD decompositions of",
-      "url": "https://arxiv.org/abs/2604.22778",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-04-28T00:00:00-04:00",
-      "scrapedAt": "2026-04-28T10:21:16.143068+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:15.288025+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:15.280845+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:15.277129+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:15.268266+00:00"
-    },
-    {
-      "id": "d26cae5cca28",
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o",
-      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T13:08:59+00:00",
-      "scrapedAt": "2026-04-28T10:21:14.813110+00:00"
-    },
-    {
-      "id": "705b1c5bdea9",
-      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T13:16:55+00:00",
-      "scrapedAt": "2026-04-28T10:21:14.813031+00:00"
-    },
-    {
-      "id": "82d5d55d2c74",
-      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T16:13:02+00:00",
-      "scrapedAt": "2026-04-28T10:21:14.812949+00:00"
-    },
-    {
-      "id": "7b2e4a2048b5",
-      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T17:24:21+00:00",
-      "scrapedAt": "2026-04-28T10:21:14.812846+00:00"
-    },
-    {
-      "id": "cd10cd32bf8a",
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T17:40:38+00:00",
-      "scrapedAt": "2026-04-28T10:21:14.812759+00:00"
-    },
-    {
-      "id": "329b8042445f",
-      "title": "Choco automates food distribution with AI agents",
-      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "url": "https://openai.com/index/choco",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:14.650802+00:00"
-    },
-    {
-      "id": "6cf5cb128bee",
-      "title": "An open-source spec for orchestration: Symphony",
-      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-27T00:00:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:14.650723+00:00"
-    },
-    {
-      "id": "cb70df53d4d0",
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-27T06:00:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:14.650636+00:00"
-    },
-    {
-      "id": "6240d32042ac",
-      "title": "OpenAI available at FedRAMP Moderate",
-      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-27T14:00:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:14.650544+00:00"
-    },
-    {
-      "id": "29488e13238b",
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-27T13:00:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:13.690824+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "a47d3e3f135f",
-      "title": "Rebuilding the data stack for AI",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T13:00:00+00:00",
-      "scrapedAt": "2026-04-28T10:21:13.286511+00:00"
-    },
-    {
-      "id": "c4880d927b46",
-      "title": "The missing step between hype and profit",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . In February, I picked up a flyer at an anti-AI march in Londo",
-      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T16:13:41+00:00",
-      "scrapedAt": "2026-04-28T10:21:13.279706+00:00"
-    },
-    {
-      "id": "370be1499991",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici",
-      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T22:52:57+00:00",
-      "scrapedAt": "2026-04-28T10:21:13.278572+00:00"
     }
   ]
 }
