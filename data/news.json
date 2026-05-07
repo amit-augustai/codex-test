@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-05-06T10:24:07.474006+00:00",
+  "lastUpdated": "2026-05-07T10:30:32.083522+00:00",
   "articles": [
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.720134+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.711525+00:00"
+    },
+    {
+      "id": "a51fcf83fd96",
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+      "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T15:27:36+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379945+00:00"
+    },
+    {
+      "id": "bf34dca86f24",
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing",
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T15:46:38+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379865+00:00"
+    },
+    {
+      "id": "dd166b06fec4",
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
+      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T15:49:39+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379792+00:00"
+    },
+    {
+      "id": "e01057683be0",
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T17:20:34+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379697+00:00"
+    },
+    {
+      "id": "5f3d08023dce",
+      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T17:23:08+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379625+00:00"
+    },
+    {
+      "id": "a1179bcb3712",
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T18:23:54+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379557+00:00"
+    },
+    {
+      "id": "8b60001015ab",
+      "title": "Is xAI a neocloud now?",
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T21:32:55+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379481+00:00"
+    },
+    {
+      "id": "f863a8c5b9b9",
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T21:43:24+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379411+00:00"
+    },
+    {
+      "id": "f05f5c0ef4e1",
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-06T21:57:56+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379340+00:00"
+    },
+    {
+      "id": "bd6c9177f3c7",
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
+      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shor",
+      "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-07T05:25:10+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.379247+00:00"
+    },
+    {
+      "id": "2c0d932a3bc4",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-05T10:00:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.312593+00:00"
+    },
+    {
+      "id": "54dff98022e0",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "url": "https://openai.com/index/singular-bank",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-06T00:00:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.312519+00:00"
+    },
+    {
+      "id": "b18ba1c70db3",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "url": "https://openai.com/index/uber",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-06T00:00:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.312436+00:00"
+    },
+    {
+      "id": "49359060f440",
+      "title": "How frontier enterprises are building an AI advantage",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-06T00:00:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.312359+00:00"
+    },
+    {
+      "id": "2d7f3b660987",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity ",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-06T00:00:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:33.312267+00:00"
+    },
+    {
+      "id": "6a159b970d4b",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "summary": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-22T12:00:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:32.449053+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "85f0e7dc4dd5",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "summary": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-23T09:00:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:32.449031+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5329de4b0dfc",
+      "title": "5 gardening tips you can try right in Search",
+      "summary": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-06T16:00:00+00:00",
+      "scrapedAt": "2026-05-07T10:29:32.448379+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp"
+    },
     {
       "id": "8c525cdd8fbf",
       "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
@@ -1211,208 +1414,6 @@
       "category": "product",
       "publishedAt": "2026-05-01T09:00:00+00:00",
       "scrapedAt": "2026-05-01T09:51:57.531353+00:00"
-    },
-    {
-      "id": "f9836e594358",
-      "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
-      "summary": "arXiv:2604.26120v1 Announce Type: new Abstract: Behavioral logs provide rich signals for user modeling, but are noisy and interleaved across diverse intents. Recent work uses LLMs to generate interpre",
-      "url": "https://arxiv.org/abs/2604.26120",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-30T00:00:00-04:00",
-      "scrapedAt": "2026-04-30T10:11:08.963799+00:00"
-    },
-    {
-      "id": "1024a0a0f949",
-      "title": "Evaluating Strategic Reasoning in Forecasting Agents",
-      "summary": "arXiv:2604.26106v1 Announce Type: new Abstract: Forecasting benchmarks produce accuracy leaderboards but little insight into why some forecasters are more accurate than others. We introduce Bench to t",
-      "url": "https://arxiv.org/abs/2604.26106",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-30T00:00:00-04:00",
-      "scrapedAt": "2026-04-30T10:11:08.963692+00:00"
-    },
-    {
-      "id": "a9e1875e0255",
-      "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
-      "summary": "arXiv:2604.26095v1 Announce Type: new Abstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localize sources and infer late",
-      "url": "https://arxiv.org/abs/2604.26095",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-30T00:00:00-04:00",
-      "scrapedAt": "2026-04-30T10:11:08.963566+00:00"
-    },
-    {
-      "id": "712d4e5baec4",
-      "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
-      "summary": "arXiv:2604.26091v1 Announce Type: new Abstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX ",
-      "url": "https://arxiv.org/abs/2604.26091",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-04-30T00:00:00-04:00",
-      "scrapedAt": "2026-04-30T10:11:08.963443+00:00"
-    },
-    {
-      "id": "20eea33e5405",
-      "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
-      "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion ",
-      "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-29T18:59:44+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367953+00:00"
-    },
-    {
-      "id": "c56e0d0e76fe",
-      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-      "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-      "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-29T20:59:00+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367861+00:00"
-    },
-    {
-      "id": "14fce012f392",
-      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
-      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-29T22:20:48+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367795+00:00"
-    },
-    {
-      "id": "0ab605f52bd6",
-      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-29T23:02:23+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367723+00:00"
-    },
-    {
-      "id": "a53ee15b652a",
-      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-29T23:55:23+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367626+00:00"
-    },
-    {
-      "id": "88881a095ddd",
-      "title": "Meta is still burning money on AR/VR",
-      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-29T23:58:26+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367557+00:00"
-    },
-    {
-      "id": "2fd0f913074f",
-      "title": "On the stand, Elon Musk can’t escape his own tweets",
-      "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
-      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-29T23:58:36+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367489+00:00"
-    },
-    {
-      "id": "72ba5d8b11be",
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-30T00:07:15+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367419+00:00"
-    },
-    {
-      "id": "ef01e2e76bd8",
-      "title": "Amazon’s cloud business is surging — and so is its capital spending",
-      "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-      "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-30T00:14:23+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367345+00:00"
-    },
-    {
-      "id": "19231aeade95",
-      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-04-30T03:58:22+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.367260+00:00"
-    },
-    {
-      "id": "ad57812b466e",
-      "title": "Cybersecurity in the Intelligence Age",
-      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-29T04:00:00+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.238654+00:00"
-    },
-    {
-      "id": "8740c4948a13",
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-29T15:00:00+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.238577+00:00"
-    },
-    {
-      "id": "5425e3ec5ff9",
-      "title": "Where the goblins came from",
-      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-      "url": "https://openai.com/index/where-the-goblins-came-from",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-29T20:00:00+00:00",
-      "scrapedAt": "2026-04-30T10:11:08.238489+00:00"
-    },
-    {
-      "id": "6a159b970d4b",
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "summary": "We're launching two specialized TPUs for the agentic era.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-22T12:00:00+00:00",
-      "scrapedAt": "2026-04-30T10:11:07.436181+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "85f0e7dc4dd5",
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "summary": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-23T09:00:00+00:00",
-      "scrapedAt": "2026-04-30T10:11:07.436160+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e48afa0ae309",
-      "title": "AI needs a strong data fabric to deliver business value",
-      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h",
-      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-22T10:05:06+00:00",
-      "scrapedAt": "2026-04-30T10:11:07.142550+00:00"
     }
   ]
 }
