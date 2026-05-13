@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-05-12T10:38:40.448939+00:00",
+  "lastUpdated": "2026-05-13T10:36:09.131611+00:00",
   "articles": [
+    {
+      "id": "43c1eab5660e",
+      "title": "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking",
+      "summary": "arXiv:2605.11151v1 Announce Type: new Abstract: Offline-to-online reinforcement learning (RL) improves sample efficiency by leveraging pre-collected datasets prior to online interaction. A key challen",
+      "url": "https://arxiv.org/abs/2605.11151",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-13T00:00:00-04:00",
+      "scrapedAt": "2026-05-13T10:35:13.336754+00:00"
+    },
+    {
+      "id": "176c5c0bac6b",
+      "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
+      "summary": "arXiv:2605.11136v1 Announce Type: new Abstract: We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context a",
+      "url": "https://arxiv.org/abs/2605.11136",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-13T00:00:00-04:00",
+      "scrapedAt": "2026-05-13T10:35:13.336637+00:00"
+    },
+    {
+      "id": "6f1957a4ac4b",
+      "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
+      "summary": "arXiv:2605.11118v1 Announce Type: new Abstract: Personalized storefronts in large e-commerce marketplaces are often assembled from many independent components: static themes per page section (\"placeme",
+      "url": "https://arxiv.org/abs/2605.11118",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-13T00:00:00-04:00",
+      "scrapedAt": "2026-05-13T10:35:13.336493+00:00"
+    },
+    {
+      "id": "96fbba7e01c0",
+      "title": "Threads tests a Meta AI integration that works similarly to Grok",
+      "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+      "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-12T16:34:36+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547909+00:00"
+    },
+    {
+      "id": "c650de7ab417",
+      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order t",
+      "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-12T17:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547858+00:00"
+    },
+    {
+      "id": "a7d4706ba05a",
+      "title": "Google brings agentic AI and vibe-coded widgets to Android",
+      "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-12T17:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547802+00:00"
+    },
+    {
+      "id": "c17e0830ca0b",
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other re",
+      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-12T17:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547749+00:00"
+    },
+    {
+      "id": "45e7e76da78d",
+      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+      "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-12T17:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547674+00:00"
+    },
+    {
+      "id": "21c7329d0e60",
+      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+      "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-12T17:01:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547573+00:00"
+    },
+    {
+      "id": "4d7daab98acd",
+      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+      "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-12T17:30:57+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547296+00:00"
+    },
+    {
+      "id": "0e25700c8ad5",
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-12T17:36:34+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547235+00:00"
+    },
+    {
+      "id": "000a74bed36f",
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experie",
+      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-12T18:05:15+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547167+00:00"
+    },
+    {
+      "id": "64b6496592c2",
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. AC",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-13T00:26:48+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.547070+00:00"
+    },
+    {
+      "id": "818b51bc8be5",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "url": "https://openai.com/index/autoscout24",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-12T00:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.420995+00:00"
+    },
+    {
+      "id": "15ea451729b2",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-12T00:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.420938+00:00"
+    },
+    {
+      "id": "efdc3d87f1cd",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "url": "https://openai.com/index/nvidia",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-12T00:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.420872+00:00"
+    },
+    {
+      "id": "14f0330ce5a9",
+      "title": "How finance teams use Codex",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-12T15:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:12.420790+00:00"
+    },
+    {
+      "id": "29488e13238b",
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-27T13:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:11.476531+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6d3470cf9379",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-28T16:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:11.476465+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5f907f4d68cc",
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-05T16:00:00+00:00",
+      "scrapedAt": "2026-05-13T10:35:11.476248+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
+    },
     {
       "id": "2b8f9704a059",
       "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
@@ -1209,210 +1412,6 @@
       "publishedAt": "2026-05-06T16:00:00+00:00",
       "scrapedAt": "2026-05-07T10:29:32.448379+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "8c525cdd8fbf",
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
-      "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-05T15:49:55+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.744750+00:00"
-    },
-    {
-      "id": "f2ffd9ae2c29",
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-05T17:00:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.744679+00:00"
-    },
-    {
-      "id": "7e9641e74763",
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
-      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-05T17:46:10+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.744606+00:00"
-    },
-    {
-      "id": "d15cde9337a4",
-      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
-      "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara",
-      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-05T20:06:40+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.744530+00:00"
-    },
-    {
-      "id": "d9d36c1ef849",
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-05T20:56:41+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.744430+00:00"
-    },
-    {
-      "id": "adb40e368632",
-      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-      "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
-      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-05T22:57:41+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.744281+00:00"
-    },
-    {
-      "id": "412ad8a3329d",
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-05T23:50:10+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.730611+00:00"
-    },
-    {
-      "id": "18521d413e03",
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-      "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-06T06:34:32+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.730531+00:00"
-    },
-    {
-      "id": "5ce2f9b9bc89",
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign ",
-      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-06T06:47:12+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.730433+00:00"
-    },
-    {
-      "id": "1dc472c1198d",
-      "title": "Our commitment to community safety",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-28T00:00:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.659852+00:00"
-    },
-    {
-      "id": "3938b1e238f6",
-      "title": "New ways to buy ChatGPT ads",
-      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-05T00:00:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.659313+00:00"
-    },
-    {
-      "id": "2fd4f4a9abde",
-      "title": "GPT-5.5 Instant System Card",
-      "summary": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-05T10:00:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.659220+00:00"
-    },
-    {
-      "id": "05d3c5cd4cae",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-05T10:00:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:09.659185+00:00"
-    },
-    {
-      "id": "6741483c4402",
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "summary": "Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.",
-      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-21T14:30:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:08.895171+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "29488e13238b",
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-27T13:00:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:08.894851+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6d3470cf9379",
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
-      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-28T16:00:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:08.894760+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5f907f4d68cc",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-05T16:00:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:08.894394+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "a47d3e3f135f",
-      "title": "Rebuilding the data stack for AI",
-      "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T13:00:00+00:00",
-      "scrapedAt": "2026-05-06T10:23:08.516062+00:00"
-    },
-    {
-      "id": "c4880d927b46",
-      "title": "The missing step between hype and profit",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . In February, I picked up a flyer at an anti-AI march in Londo",
-      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T16:13:41+00:00",
-      "scrapedAt": "2026-05-06T10:23:08.509550+00:00"
-    },
-    {
-      "id": "370be1499991",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici",
-      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-27T22:52:57+00:00",
-      "scrapedAt": "2026-05-06T10:23:08.508519+00:00"
     }
   ]
 }
