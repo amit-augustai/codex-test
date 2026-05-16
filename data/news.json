@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-05-15T10:32:52.371111+00:00",
+  "lastUpdated": "2026-05-16T09:47:09.269726+00:00",
   "articles": [
+    {
+      "id": "2114f62a66f0",
+      "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+      "summary": "arXiv:2605.13849v1 Announce Type: new Abstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations",
+      "url": "https://arxiv.org/abs/2605.13849",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-16T00:00:00-04:00",
+      "scrapedAt": "2026-05-16T09:46:14.183988+00:00"
+    },
+    {
+      "id": "0a1bf7f364df",
+      "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+      "summary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routi",
+      "url": "https://arxiv.org/abs/2605.13848",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-16T00:00:00-04:00",
+      "scrapedAt": "2026-05-16T09:46:14.183842+00:00"
+    },
+    {
+      "id": "c2e433d6dc00",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-05T07:45:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.760952+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.758803+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.755523+00:00"
+    },
+    {
+      "id": "5d5f0482cd39",
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T12:19:48+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.373490+00:00"
+    },
+    {
+      "id": "91ef357f0757",
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T14:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.373413+00:00"
+    },
+    {
+      "id": "ba162ec2cb94",
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T16:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.373303+00:00"
+    },
+    {
+      "id": "fbdbbdaad4a0",
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T18:14:44+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.373157+00:00"
+    },
+    {
+      "id": "f87ad16de1e1",
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges to",
+      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T19:24:16+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.373031+00:00"
+    },
+    {
+      "id": "4ed1b1b76f19",
+      "title": "A new personal finance experience in ChatGPT",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-15T00:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.226579+00:00"
+    },
+    {
+      "id": "990a39ff7c1a",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "url": "https://openai.com/index/databricks",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-15T00:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.226508+00:00"
+    },
+    {
+      "id": "afc8cde3e2c8",
+      "title": "How data science teams use Codex",
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-15T00:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.226437+00:00"
+    },
+    {
+      "id": "d93b94d20e7f",
+      "title": "How business operations teams use Codex",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-15T00:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.226363+00:00"
+    },
+    {
+      "id": "ca8d7bccf4af",
+      "title": "How sales teams use Codex",
+      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-15T00:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:13.226271+00:00"
+    },
+    {
+      "id": "d281c9734e27",
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "summary": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-23T12:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:12.480556+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "0edf8674fcb1",
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-04-24T19:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:12.480533+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "70615ef3544f",
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "summary": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-08T15:00:00+00:00",
+      "scrapedAt": "2026-05-16T09:46:12.479917+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "8e2b23460141",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-08T23:59:19+00:00",
+      "scrapedAt": "2026-05-16T09:46:12.280116+00:00"
+    },
+    {
+      "id": "9c8aa558adfd",
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involv",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T23:39:35+00:00",
+      "scrapedAt": "2026-05-16T09:46:12.261212+00:00"
+    },
     {
       "id": "db7ff708ed2f",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -1207,209 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-05-10T02:00:00+00:00",
       "scrapedAt": "2026-05-10T09:42:18.207463+00:00"
-    },
-    {
-      "id": "554c28a69201",
-      "title": "ZAYA1-8B Technical Report",
-      "summary": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ",
-      "url": "https://arxiv.org/abs/2605.05365",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-09T00:00:00-04:00",
-      "scrapedAt": "2026-05-09T09:24:29.562714+00:00"
-    },
-    {
-      "id": "92134f72cc7f",
-      "title": "Understanding Annotator Safety Policy with Interpretability",
-      "summary": "arXiv:2605.05329v1 Announce Type: new Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is p",
-      "url": "https://arxiv.org/abs/2605.05329",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-09T00:00:00-04:00",
-      "scrapedAt": "2026-05-09T09:24:29.562582+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-05-09T09:24:29.146635+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-05-09T09:24:29.141248+00:00"
-    },
-    {
-      "id": "795904b0717f",
-      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-      "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
-      "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T14:00:00+00:00",
-      "scrapedAt": "2026-05-09T09:24:28.849199+00:00"
-    },
-    {
-      "id": "e14b174a0081",
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deploym",
-      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T15:46:17+00:00",
-      "scrapedAt": "2026-05-09T09:24:28.849076+00:00"
-    },
-    {
-      "id": "a0ebd83ccb77",
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T18:33:21+00:00",
-      "scrapedAt": "2026-05-09T09:24:28.847352+00:00"
-    },
-    {
-      "id": "044227d1cd5b",
-      "title": "Intel’s comeback story is even wilder than it seems",
-      "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-      "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T20:02:52+00:00",
-      "scrapedAt": "2026-05-09T09:24:28.847272+00:00"
-    },
-    {
-      "id": "3db6af49a0c9",
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T22:59:05+00:00",
-      "scrapedAt": "2026-05-09T09:24:28.847123+00:00"
-    },
-    {
-      "id": "e0eb086fca90",
-      "title": "How ChatGPT learns about the world while protecting privacy",
-      "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
-      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-06T08:00:00+00:00",
-      "scrapedAt": "2026-05-09T09:24:28.758557+00:00"
-    },
-    {
-      "id": "09a84312cc4b",
-      "title": "Running Codex safely at OpenAI",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "url": "https://openai.com/index/running-codex-safely",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-08T12:30:00+00:00",
-      "scrapedAt": "2026-05-09T09:24:28.758009+00:00"
-    },
-    {
-      "id": "d281c9734e27",
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "summary": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-23T12:00:00+00:00",
-      "scrapedAt": "2026-05-09T09:24:27.907916+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "0edf8674fcb1",
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-24T19:00:00+00:00",
-      "scrapedAt": "2026-05-09T09:24:27.907893+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "70615ef3544f",
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "summary": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-08T15:00:00+00:00",
-      "scrapedAt": "2026-05-09T09:24:27.907293+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "9ec0466f0177",
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a mo",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-04-30T15:59:41+00:00",
-      "scrapedAt": "2026-05-09T09:24:27.678976+00:00"
-    },
-    {
-      "id": "e1f98a4ec6fc",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blo",
-      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-01T09:00:00+00:00",
-      "scrapedAt": "2026-05-09T09:24:27.677508+00:00"
-    },
-    {
-      "id": "279ca32df23a",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insight",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-01T15:31:09+00:00",
-      "scrapedAt": "2026-05-09T09:24:27.675936+00:00"
-    },
-    {
-      "id": "6100f49737ff",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-01T15:54:01+00:00",
-      "scrapedAt": "2026-05-09T09:24:27.674953+00:00"
-    },
-    {
-      "id": "572f1821c4c2",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-01T22:08:19+00:00",
-      "scrapedAt": "2026-05-09T09:24:27.674123+00:00"
-    },
-    {
-      "id": "8e2b23460141",
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman",
-      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T23:59:19+00:00",
-      "scrapedAt": "2026-05-09T09:24:27.669015+00:00"
     }
   ]
 }
