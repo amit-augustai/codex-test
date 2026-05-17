@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-05-16T09:47:09.269726+00:00",
+  "lastUpdated": "2026-05-17T09:53:18.304077+00:00",
   "articles": [
+    {
+      "id": "28a8007bd3f7",
+      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+      "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+      "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-05-14T20:27:34+00:00",
+      "scrapedAt": "2026-05-17T09:52:19.975124+00:00"
+    },
+    {
+      "id": "0ccfb503a051",
+      "title": "The Real Losers of the Musk v. Altman Trial",
+      "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+      "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T00:49:53+00:00",
+      "scrapedAt": "2026-05-17T09:52:19.975080+00:00"
+    },
+    {
+      "id": "fba852cf167d",
+      "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+      "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
+      "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T09:00:00+00:00",
+      "scrapedAt": "2026-05-17T09:52:19.975033+00:00"
+    },
+    {
+      "id": "16e3b9d670b7",
+      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+      "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T17:09:17+00:00",
+      "scrapedAt": "2026-05-17T09:52:19.974982+00:00"
+    },
+    {
+      "id": "e29a50a2bf32",
+      "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+      "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
+      "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-05-16T09:30:00+00:00",
+      "scrapedAt": "2026-05-17T09:52:19.974921+00:00"
+    },
+    {
+      "id": "0a3c404dc0b5",
+      "title": "AI research papers are getting better, and it’s a big problem for scientists",
+      "summary": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unus",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T07:00:00-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.793106+00:00"
+    },
+    {
+      "id": "2bf348b4ab6b",
+      "title": "The promises and pitfalls of personalized health",
+      "summary": "This is Optimizer , a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your lif",
+      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T10:00:00-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.792770+00:00"
+    },
+    {
+      "id": "cb95e9e2d628",
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "summary": "ChatGPT will even know how much credit card debt you have. | Image: OpenAI Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T12:00:00-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.792421+00:00"
+    },
+    {
+      "id": "1aedd077cf70",
+      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+      "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the co",
+      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T12:42:59-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.792196+00:00"
+    },
+    {
+      "id": "9ee34535e612",
+      "title": "Does Trump Mobile know how many stripes are on the American flag?",
+      "summary": "The T1 Phone has the wrong number of stripes, but it does at least have 50 stars. | Screenshot: Trump Mobile Where's the Trump phone? We're going to keep talking about it every week . We've reached ou",
+      "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T12:47:16-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.791878+00:00"
+    },
+    {
+      "id": "7442d3b30e2b",
+      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+      "summary": "AI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images Andon Labs has been running a series of experiments in which AI agents run businesses without h",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T13:09:16-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.791598+00:00"
+    },
+    {
+      "id": "17910095770d",
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge , Broc",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T14:21:35-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.791302+00:00"
+    },
+    {
+      "id": "00097bc0707b",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the author",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T16:38:19-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.791034+00:00"
+    },
+    {
+      "id": "3ae6721de06e",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detect",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T18:25:00-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.790693+00:00"
+    },
+    {
+      "id": "a667f385c15c",
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "summary": "The variety of terrible is impressive. After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII , it's trying to clarify how the feature works. The",
+      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-05-16T11:37:05-04:00",
+      "scrapedAt": "2026-05-17T09:52:19.790325+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-05-17T09:52:19.316091+00:00"
+    },
+    {
+      "id": "85331331526c",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-16T15:33:33+00:00",
+      "scrapedAt": "2026-05-17T09:52:18.946555+00:00"
+    },
+    {
+      "id": "f04b5b1c9763",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-16T18:54:28+00:00",
+      "scrapedAt": "2026-05-17T09:52:18.946507+00:00"
+    },
+    {
+      "id": "859b70ce116b",
+      "title": "The haves and have nots of the AI gold rush",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-16T20:17:16+00:00",
+      "scrapedAt": "2026-05-17T09:52:18.946450+00:00"
+    },
+    {
+      "id": "b9939c2fea26",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-16T00:00:00+00:00",
+      "scrapedAt": "2026-05-17T09:52:18.812017+00:00"
+    },
     {
       "id": "2114f62a66f0",
       "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
@@ -1210,206 +1410,6 @@
       "publishedAt": "2026-05-11T06:00:00+00:00",
       "scrapedAt": "2026-05-11T11:30:18.474389+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "98aabe91a364",
-      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-      "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-05-07T21:37:20+00:00",
-      "scrapedAt": "2026-05-10T09:42:19.287227+00:00"
-    },
-    {
-      "id": "bc47ce2988c1",
-      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-      "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T01:42:14+00:00",
-      "scrapedAt": "2026-05-10T09:42:19.287121+00:00"
-    },
-    {
-      "id": "454dd828ca4a",
-      "title": "The New Wild West of AI Kids’ Toys",
-      "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-      "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T10:00:00+00:00",
-      "scrapedAt": "2026-05-10T09:42:19.287062+00:00"
-    },
-    {
-      "id": "20dad94b1dff",
-      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-      "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T15:00:00+00:00",
-      "scrapedAt": "2026-05-10T09:42:19.287005+00:00"
-    },
-    {
-      "id": "dcce1257bd03",
-      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-      "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T15:00:00+00:00",
-      "scrapedAt": "2026-05-10T09:42:19.286944+00:00"
-    },
-    {
-      "id": "d8d45d408538",
-      "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-      "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-05-09T10:30:00+00:00",
-      "scrapedAt": "2026-05-10T09:42:19.286870+00:00"
-    },
-    {
-      "id": "74cdffe7e5df",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT . In 2024, Musk filed a lawsuit accusing OpenAI of abandon",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-07T13:40:50-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.115336+00:00"
-    },
-    {
-      "id": "78d7e9daf806",
-      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
-      "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designat",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-07T14:00:00-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.102762+00:00"
-    },
-    {
-      "id": "a4f7e22e9142",
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\"",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-07T15:26:16-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.102480+00:00"
-    },
-    {
-      "id": "408a70be6510",
-      "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-      "summary": "AirPods Pro 3. | Photo by Amelia Holowaty Krales / The Verge Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports",
-      "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-07T15:39:22-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.102122+00:00"
-    },
-    {
-      "id": "5cb0197e266d",
-      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-07T15:55:22-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.101814+00:00"
-    },
-    {
-      "id": "4ef0d8377bd5",
-      "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
-      "summary": "Nanoleaf teased a trio of new products focused on embodied AI as it looks to move its brand beyond smart lighting. | Image: Nanoleaf Smart lighting company Nanoleaf has been unusually quiet recently. ",
-      "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T08:15:00-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.101530+00:00"
-    },
-    {
-      "id": "56959341dab6",
-      "title": "Everybody wants to rule the AI world",
-      "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch o",
-      "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T09:31:37-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.101135+00:00"
-    },
-    {
-      "id": "696d5e6d87ce",
-      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-      "summary": "OpenAI CEO Sam Altman and Microsoft CTO Kevin Scott. | Image: Getty Images When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in",
-      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T11:25:02-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.100594+00:00"
-    },
-    {
-      "id": "91cd61c2a457",
-      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-      "summary": "As part of an earnings presentation on Friday , Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generati",
-      "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T12:30:56-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.100221+00:00"
-    },
-    {
-      "id": "3bc01457309b",
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T14:45:08-04:00",
-      "scrapedAt": "2026-05-10T09:42:19.099746+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-05-10T09:42:18.596411+00:00"
-    },
-    {
-      "id": "4b6db41ff386",
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-09T14:43:30+00:00",
-      "scrapedAt": "2026-05-10T09:42:18.207597+00:00"
-    },
-    {
-      "id": "f09c2bde499d",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-09T21:45:00+00:00",
-      "scrapedAt": "2026-05-10T09:42:18.207539+00:00"
-    },
-    {
-      "id": "78ff151ea44f",
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-10T02:00:00+00:00",
-      "scrapedAt": "2026-05-10T09:42:18.207463+00:00"
     }
   ]
 }
