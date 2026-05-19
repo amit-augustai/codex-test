@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-05-18T11:50:05.231637+00:00",
+  "lastUpdated": "2026-05-19T11:26:53.945354+00:00",
   "articles": [
+    {
+      "id": "76d03bf2af3a",
+      "title": "AdaGraph: A Graph-Native Clustering Algorithm That Overcomes the Curse of Dimensionality and Enables Scientific Discovery",
+      "summary": "arXiv:2605.16320v1 Announce Type: new Abstract: We present AdaGraph, a graph-native clustering algorithm born from the Structure-Centric Machine Learning (SC-ML) paradigm -- a new field of unsupervise",
+      "url": "https://arxiv.org/abs/2605.16320",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-19T00:00:00-04:00",
+      "scrapedAt": "2026-05-19T11:25:59.784562+00:00"
+    },
+    {
+      "id": "e6daa69fe20d",
+      "title": "Forecasting Medium-Horizon Alzheimer's Disease Progression: Residual Gap-Aware Transformers for 24-Month CDR-SB Change from ADNI Clinical and Biomarker Histories",
+      "summary": "arXiv:2605.16319v1 Announce Type: new Abstract: Medium-horizon Alzheimer's disease progression prediction is difficult because future clinical scores can remain tied to baseline severity, while biomar",
+      "url": "https://arxiv.org/abs/2605.16319",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-19T00:00:00-04:00",
+      "scrapedAt": "2026-05-19T11:25:59.784453+00:00"
+    },
+    {
+      "id": "f594db8aff9e",
+      "title": "Investigating Action Encodings in Recurrent Neural Networks in Reinforcement Learning",
+      "summary": "arXiv:2605.16318v1 Announce Type: new Abstract: Building and maintaining state to learn policies and value functions is critical for deploying reinforcement learning (RL) agents in the real world. Rec",
+      "url": "https://arxiv.org/abs/2605.16318",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-19T00:00:00-04:00",
+      "scrapedAt": "2026-05-19T11:25:59.784332+00:00"
+    },
+    {
+      "id": "143860670dd5",
+      "title": "A Structural Threshold in Decision Capacity Governs Collapse in Self-Play Reinforcement Learning",
+      "summary": "arXiv:2605.16315v1 Announce Type: new Abstract: We show that a threshold in decision capacity determines whether self-play reinforcement learning agents collapse under asymmetric rule perturbations. A",
+      "url": "https://arxiv.org/abs/2605.16315",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-19T00:00:00-04:00",
+      "scrapedAt": "2026-05-19T11:25:59.784245+00:00"
+    },
+    {
+      "id": "3c032ffabe9b",
+      "title": "When Actions Disappear: Adversarial Action Removal in Self-Play Reinforcement Learning",
+      "summary": "arXiv:2605.16312v1 Announce Type: new Abstract: We study adversarial action masking in self-play reinforcement learning: an attacker selectively removes legal actions from a victim's action set. Unlik",
+      "url": "https://arxiv.org/abs/2605.16312",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-19T00:00:00-04:00",
+      "scrapedAt": "2026-05-19T11:25:59.784158+00:00"
+    },
+    {
+      "id": "e8ad4f411e15",
+      "title": "SignMuon: Communication-Efficient Distributed Muon Optimization",
+      "summary": "arXiv:2605.16311v1 Announce Type: new Abstract: Distributed training of large neural networks is bottlenecked by full-precision gradient communication and by coordinatewise optimizers that ignore the ",
+      "url": "https://arxiv.org/abs/2605.16311",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-19T00:00:00-04:00",
+      "scrapedAt": "2026-05-19T11:25:59.784069+00:00"
+    },
+    {
+      "id": "4120c01efe2e",
+      "title": "Reducing Credit Assignment Variance via Counterfactual Reasoning Paths",
+      "summary": "arXiv:2605.16302v1 Announce Type: new Abstract: Reinforcement learning for multi-step reasoning with large language models (LLMs) often relies on sparse terminal rewards, leading to poor credit assign",
+      "url": "https://arxiv.org/abs/2605.16302",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-19T00:00:00-04:00",
+      "scrapedAt": "2026-05-19T11:25:59.783938+00:00"
+    },
+    {
+      "id": "bf2e37a6b3cc",
+      "title": "Mirror Descent-Type Algorithms for the Variational Inequality Problem with Functional Constraints",
+      "summary": "arXiv:2605.16262v1 Announce Type: new Abstract: Variational inequalities play a key role in machine learning research, such as generative adversarial networks, reinforcement learning, adversarial trai",
+      "url": "https://arxiv.org/abs/2605.16262",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-19T00:00:00-04:00",
+      "scrapedAt": "2026-05-19T11:25:59.783843+00:00"
+    },
+    {
+      "id": "7d98d58c716d",
+      "title": "Systematic Optimization of Real-Time Diffusion Model Inference on Apple M3 Ultra",
+      "summary": "arXiv:2605.16259v1 Announce Type: new Abstract: While real-time image generation using diffusion models has advanced rapidly on NVIDIA GPUs, systematic optimization research on non-CUDA platforms such",
+      "url": "https://arxiv.org/abs/2605.16259",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-19T00:00:00-04:00",
+      "scrapedAt": "2026-05-19T11:25:59.783702+00:00"
+    },
+    {
+      "id": "3a9b0386203c",
+      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-18T14:56:47+00:00",
+      "scrapedAt": "2026-05-19T11:25:58.654304+00:00"
+    },
+    {
+      "id": "f568df07558f",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-18T17:34:43+00:00",
+      "scrapedAt": "2026-05-19T11:25:58.654240+00:00"
+    },
+    {
+      "id": "d023da2950a3",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-18T19:27:52+00:00",
+      "scrapedAt": "2026-05-19T11:25:58.654177+00:00"
+    },
+    {
+      "id": "d8859cfa6328",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-18T21:29:31+00:00",
+      "scrapedAt": "2026-05-19T11:25:58.654087+00:00"
+    },
+    {
+      "id": "1af67e245b3a",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-18T10:00:00+00:00",
+      "scrapedAt": "2026-05-19T11:25:58.587493+00:00"
+    },
+    {
+      "id": "79cb2cae762e",
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-04T15:30:00+00:00",
+      "scrapedAt": "2026-05-19T11:25:57.721147+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "d6be253d5160",
+      "title": "The latest AI news we announced in April 2026",
+      "summary": "Here are Google’s latest AI updates from April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-04T17:00:00+00:00",
+      "scrapedAt": "2026-05-19T11:25:57.721067+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "18e29f063a54",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . A few months before he was awarded the Nobel Prize in economi",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-11T17:35:12+00:00",
+      "scrapedAt": "2026-05-19T11:25:57.431031+00:00"
+    },
+    {
+      "id": "981e2ce3b8c4",
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking ",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-18T16:01:39+00:00",
+      "scrapedAt": "2026-05-19T11:25:57.417623+00:00"
+    },
+    {
+      "id": "824e77ca4c6b",
+      "title": "What to expect from Google this week",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . When Google opens its doors tomorrow for its annual developer",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-18T17:35:43+00:00",
+      "scrapedAt": "2026-05-19T11:25:57.416397+00:00"
+    },
+    {
+      "id": "9b154231c9e4",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T00:53:10+00:00",
+      "scrapedAt": "2026-05-19T11:25:57.415294+00:00"
+    },
     {
       "id": "a99c36731d68",
       "title": "Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for Crashworthiness Field Prediction under Large Geometric Variation",
@@ -1208,208 +1410,6 @@
       "publishedAt": "2026-05-05T16:00:00+00:00",
       "scrapedAt": "2026-05-13T10:35:11.476248+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "2b8f9704a059",
-      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-      "summary": "arXiv:2605.08374v1 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval",
-      "url": "https://arxiv.org/abs/2605.08374",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-12T00:00:00-04:00",
-      "scrapedAt": "2026-05-12T10:37:44.147633+00:00"
-    },
-    {
-      "id": "04499fb6a6d9",
-      "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-      "summary": "arXiv:2605.08368v1 Announce Type: new Abstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But",
-      "url": "https://arxiv.org/abs/2605.08368",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-12T00:00:00-04:00",
-      "scrapedAt": "2026-05-12T10:37:44.147533+00:00"
-    },
-    {
-      "id": "5b2d28f31b68",
-      "title": "Embeddings for Preferences, Not Semantics",
-      "summary": "arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed se",
-      "url": "https://arxiv.org/abs/2605.08360",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-12T00:00:00-04:00",
-      "scrapedAt": "2026-05-12T10:37:44.147428+00:00"
-    },
-    {
-      "id": "5a4023840cab",
-      "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-      "summary": "arXiv:2605.08354v1 Announce Type: new Abstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human",
-      "url": "https://arxiv.org/abs/2605.08354",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-12T00:00:00-04:00",
-      "scrapedAt": "2026-05-12T10:37:44.147326+00:00"
-    },
-    {
-      "id": "49928d3fdf0e",
-      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-      "summary": "arXiv:2605.08220v1 Announce Type: new Abstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (",
-      "url": "https://arxiv.org/abs/2605.08220",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-12T00:00:00-04:00",
-      "scrapedAt": "2026-05-12T10:37:44.147208+00:00"
-    },
-    {
-      "id": "a7b8fa7f70a4",
-      "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-      "summary": "arXiv:2605.08200v1 Announce Type: new Abstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the ",
-      "url": "https://arxiv.org/abs/2605.08200",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-12T00:00:00-04:00",
-      "scrapedAt": "2026-05-12T10:37:44.147080+00:00"
-    },
-    {
-      "id": "8b55c4119673",
-      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-      "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and th",
-      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-11T13:00:00+00:00",
-      "scrapedAt": "2026-05-12T10:37:42.971610+00:00"
-    },
-    {
-      "id": "0b86095285b9",
-      "title": "Digg tries again, this time as an AI news aggregator",
-      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
-      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-11T17:02:35+00:00",
-      "scrapedAt": "2026-05-12T10:37:42.971550+00:00"
-    },
-    {
-      "id": "a8dd42f86055",
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-11T23:04:10+00:00",
-      "scrapedAt": "2026-05-12T10:37:42.971487+00:00"
-    },
-    {
-      "id": "7a7c4cf1151c",
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T00:09:01+00:00",
-      "scrapedAt": "2026-05-12T10:37:42.971423+00:00"
-    },
-    {
-      "id": "d3b5b5ad9510",
-      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a",
-      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T04:52:35+00:00",
-      "scrapedAt": "2026-05-12T10:37:42.971348+00:00"
-    },
-    {
-      "id": "c86720c8c7e1",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-11T06:00:00+00:00",
-      "scrapedAt": "2026-05-12T10:37:42.842885+00:00"
-    },
-    {
-      "id": "45f994a15450",
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-11T15:00:00+00:00",
-      "scrapedAt": "2026-05-12T10:37:42.842661+00:00"
-    },
-    {
-      "id": "79cb2cae762e",
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-04T15:30:00+00:00",
-      "scrapedAt": "2026-05-12T10:37:42.218565+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "d6be253d5160",
-      "title": "The latest AI news we announced in April 2026",
-      "summary": "Here are Google’s latest AI updates from April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-04T17:00:00+00:00",
-      "scrapedAt": "2026-05-12T10:37:42.218487+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "dcf3412565ed",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Two of the most powerful people in AI—Sam Altman and Elon Mus",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-04T15:51:27+00:00",
-      "scrapedAt": "2026-05-12T10:37:41.849821+00:00"
-    },
-    {
-      "id": "c9dd6bc7b13c",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, repr",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-05T09:00:00+00:00",
-      "scrapedAt": "2026-05-12T10:37:41.848211+00:00"
-    },
-    {
-      "id": "cff19a85c096",
-      "title": "Implementing advanced AI technologies in finance",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership",
-      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-11T13:00:00+00:00",
-      "scrapedAt": "2026-05-12T10:37:41.845294+00:00"
-    },
-    {
-      "id": "14c481f9151a",
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research . That’s because most big companies begin with t",
-      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-11T13:33:06+00:00",
-      "scrapedAt": "2026-05-12T10:37:41.844640+00:00"
-    },
-    {
-      "id": "18e29f063a54",
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . A few months before he was awarded the Nobel Prize in economi",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-11T17:35:12+00:00",
-      "scrapedAt": "2026-05-12T10:37:41.842974+00:00"
     }
   ]
 }
