@@ -1,6 +1,213 @@
 {
-  "lastUpdated": "2026-05-19T11:26:53.945354+00:00",
+  "lastUpdated": "2026-05-20T10:58:00.251387+00:00",
   "articles": [
+    {
+      "id": "fc249c0e6342",
+      "title": "OpenAI is making it easier to check if an image was made by their models",
+      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554741+00:00"
+    },
+    {
+      "id": "ae91773f2b55",
+      "title": "Google Search as you know it is over",
+      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce t",
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T17:46:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554675+00:00"
+    },
+    {
+      "id": "333d754287f2",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T17:51:30+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554599+00:00"
+    },
+    {
+      "id": "70e8d0fce37f",
+      "title": "Google’s Genie world model can now simulate real streets with Street View",
+      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather chang",
+      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T17:51:39+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554528+00:00"
+    },
+    {
+      "id": "55ef14863693",
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+      "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
+      "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T19:15:31+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554433+00:00"
+    },
+    {
+      "id": "53d03497bf4f",
+      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+      "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waite",
+      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T20:11:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554364+00:00"
+    },
+    {
+      "id": "f54e9de1e415",
+      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
+      "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T21:08:51+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554291+00:00"
+    },
+    {
+      "id": "56e3cf0857f6",
+      "title": "How to use Google’s new AI agents to go beyond your standard searches",
+      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T21:16:25+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554217+00:00"
+    },
+    {
+      "id": "df9d01ab5f19",
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T21:25:31+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554140+00:00"
+    },
+    {
+      "id": "849677abbb40",
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T21:33:30+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.554056+00:00"
+    },
+    {
+      "id": "e4af29ed3a8d",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T10:45:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.406820+00:00"
+    },
+    {
+      "id": "b8480648c364",
+      "title": "Introducing OpenAI for Singapore",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T20:30:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.406748+00:00"
+    },
+    {
+      "id": "ae68796c79fe",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-20T00:00:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:02.406662+00:00"
+    },
+    {
+      "id": "6277c54bdb44",
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "summary": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:01.356396+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6cad7b8bd247",
+      "title": "A new era for AI Search",
+      "summary": "We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:01.356306+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "388f97def8c6",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:01.356214+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "cd2fbffde559",
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "summary": "The latest from Google I/O: See how we’re helping you get more done with Gemini.",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:01.356126+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "adac55b4e4fe",
+      "title": "New ways to create and get things done in Google Workspace",
+      "summary": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:01.356034+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "757b4a2a57b0",
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "summary": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:01.355937+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "8feaaef8f93e",
+      "title": "I/O 2026",
+      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-20T10:57:01.355821+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
+    },
     {
       "id": "76d03bf2af3a",
       "title": "AdaGraph: A Graph-Native Clustering Algorithm That Overcomes the Curse of Dimensionality and Enables Scientific Discovery",
@@ -1207,209 +1414,6 @@
       "category": "product",
       "publishedAt": "2026-05-14T09:00:00+00:00",
       "scrapedAt": "2026-05-14T10:25:31.044092+00:00"
-    },
-    {
-      "id": "43c1eab5660e",
-      "title": "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking",
-      "summary": "arXiv:2605.11151v1 Announce Type: new Abstract: Offline-to-online reinforcement learning (RL) improves sample efficiency by leveraging pre-collected datasets prior to online interaction. A key challen",
-      "url": "https://arxiv.org/abs/2605.11151",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-13T00:00:00-04:00",
-      "scrapedAt": "2026-05-13T10:35:13.336754+00:00"
-    },
-    {
-      "id": "176c5c0bac6b",
-      "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
-      "summary": "arXiv:2605.11136v1 Announce Type: new Abstract: We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context a",
-      "url": "https://arxiv.org/abs/2605.11136",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-13T00:00:00-04:00",
-      "scrapedAt": "2026-05-13T10:35:13.336637+00:00"
-    },
-    {
-      "id": "6f1957a4ac4b",
-      "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
-      "summary": "arXiv:2605.11118v1 Announce Type: new Abstract: Personalized storefronts in large e-commerce marketplaces are often assembled from many independent components: static themes per page section (\"placeme",
-      "url": "https://arxiv.org/abs/2605.11118",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-13T00:00:00-04:00",
-      "scrapedAt": "2026-05-13T10:35:13.336493+00:00"
-    },
-    {
-      "id": "96fbba7e01c0",
-      "title": "Threads tests a Meta AI integration that works similarly to Grok",
-      "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
-      "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T16:34:36+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547909+00:00"
-    },
-    {
-      "id": "c650de7ab417",
-      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
-      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order t",
-      "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T17:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547858+00:00"
-    },
-    {
-      "id": "a7d4706ba05a",
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
-      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T17:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547802+00:00"
-    },
-    {
-      "id": "c17e0830ca0b",
-      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other re",
-      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T17:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547749+00:00"
-    },
-    {
-      "id": "45e7e76da78d",
-      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
-      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
-      "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T17:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547674+00:00"
-    },
-    {
-      "id": "21c7329d0e60",
-      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-      "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
-      "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T17:01:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547573+00:00"
-    },
-    {
-      "id": "4d7daab98acd",
-      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-      "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T17:30:57+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547296+00:00"
-    },
-    {
-      "id": "0e25700c8ad5",
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
-      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T17:36:34+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547235+00:00"
-    },
-    {
-      "id": "000a74bed36f",
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experie",
-      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-12T18:05:15+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547167+00:00"
-    },
-    {
-      "id": "64b6496592c2",
-      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. AC",
-      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-13T00:26:48+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.547070+00:00"
-    },
-    {
-      "id": "818b51bc8be5",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "url": "https://openai.com/index/autoscout24",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-12T00:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.420995+00:00"
-    },
-    {
-      "id": "15ea451729b2",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-12T00:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.420938+00:00"
-    },
-    {
-      "id": "efdc3d87f1cd",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "url": "https://openai.com/index/nvidia",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-12T00:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.420872+00:00"
-    },
-    {
-      "id": "14f0330ce5a9",
-      "title": "How finance teams use Codex",
-      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-12T15:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:12.420790+00:00"
-    },
-    {
-      "id": "29488e13238b",
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-27T13:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:11.476531+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6d3470cf9379",
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
-      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-28T16:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:11.476465+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5f907f4d68cc",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-05T16:00:00+00:00",
-      "scrapedAt": "2026-05-13T10:35:11.476248+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
     }
   ]
 }
