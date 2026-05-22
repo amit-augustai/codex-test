@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-05-21T11:32:19.982463+00:00",
+  "lastUpdated": "2026-05-22T10:56:29.737004+00:00",
   "articles": [
+    {
+      "id": "58d72d723a9d",
+      "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+      "summary": "arXiv:2605.20189v1 Announce Type: new Abstract: Despite the remarkable success of large language models (LLMs), they still face bottlenecks while deploying in dynamic, real-world settings with primary",
+      "url": "https://arxiv.org/abs/2605.20189",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-22T00:00:00-04:00",
+      "scrapedAt": "2026-05-22T10:55:34.751587+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:34.273517+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:34.269992+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:34.262378+00:00"
+    },
+    {
+      "id": "e4a7cf7dbbba",
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T13:38:42+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935836+00:00"
+    },
+    {
+      "id": "2dc9bf4077b0",
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T13:52:23+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935746+00:00"
+    },
+    {
+      "id": "65ea913ba782",
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T14:00:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935503+00:00"
+    },
+    {
+      "id": "7b8293e95bcb",
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T14:00:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935441+00:00"
+    },
+    {
+      "id": "2c78b5199539",
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T15:27:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935381+00:00"
+    },
+    {
+      "id": "d559b8767d3c",
+      "title": "Spotify takes on Google’s NotebookLM with its new app",
+      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T15:27:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935318+00:00"
+    },
+    {
+      "id": "ecf87ae7aac7",
+      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T15:27:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935256+00:00"
+    },
+    {
+      "id": "90bacf183f61",
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T17:30:45+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935198+00:00"
+    },
+    {
+      "id": "7d8088891c85",
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T19:19:05+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935135+00:00"
+    },
+    {
+      "id": "00d321dd1852",
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T19:45:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.935060+00:00"
+    },
+    {
+      "id": "973c5765af89",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "url": "https://openai.com/index/adventhealth",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-21T12:00:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:33.844701+00:00"
+    },
+    {
+      "id": "03022e48742f",
+      "title": "How Chinese short dramas became AI content machines",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T09:00:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:32.966783+00:00"
+    },
+    {
+      "id": "e46b93e1759f",
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex,",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T14:30:45+00:00",
+      "scrapedAt": "2026-05-22T10:55:32.958458+00:00"
+    },
+    {
+      "id": "13fdcf243334",
+      "title": "Scaling creativity in the age of AI",
+      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from ea",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T19:16:43+00:00",
+      "scrapedAt": "2026-05-22T10:55:32.957115+00:00"
+    },
+    {
+      "id": "bf40a95dd6a6",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-21T20:41:05+00:00",
+      "scrapedAt": "2026-05-22T10:55:32.955159+00:00"
+    },
+    {
+      "id": "81495904716a",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-22T10:00:00+00:00",
+      "scrapedAt": "2026-05-22T10:55:32.954223+00:00"
+    },
     {
       "id": "4e96c9e7f7a4",
       "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
@@ -1216,207 +1416,6 @@
       "category": "product",
       "publishedAt": "2026-05-15T23:39:35+00:00",
       "scrapedAt": "2026-05-16T09:46:12.261212+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.672284+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.669113+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.661239+00:00"
-    },
-    {
-      "id": "b11eb5e475b0",
-      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
-      "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
-      "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T14:00:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213801+00:00"
-    },
-    {
-      "id": "0ebe629cf260",
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T14:01:14+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213742+00:00"
-    },
-    {
-      "id": "6cc7aedcf8cc",
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T15:20:18+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213684+00:00"
-    },
-    {
-      "id": "73e7f5e11396",
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T16:30:02+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213628+00:00"
-    },
-    {
-      "id": "2c05eee6a567",
-      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T19:05:01+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213552+00:00"
-    },
-    {
-      "id": "3a7e43483526",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho",
-      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T19:12:03+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213489+00:00"
-    },
-    {
-      "id": "baafa407a6f8",
-      "title": "What happens when AI starts building itself?",
-      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T19:57:20+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213427+00:00"
-    },
-    {
-      "id": "5cc6e708b103",
-      "title": "OpenAI says Codex is coming to your phone",
-      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
-      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T20:58:55+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213362+00:00"
-    },
-    {
-      "id": "a798c83d7c0e",
-      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene",
-      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T21:30:44+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213302+00:00"
-    },
-    {
-      "id": "17ff85e16a36",
-      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-      "summary": "Here's what the biggest tech court case of the year is all about.",
-      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T22:47:51+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.213218+00:00"
-    },
-    {
-      "id": "0782024bcee1",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-14T00:00:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.017614+00:00"
-    },
-    {
-      "id": "09ab76a12173",
-      "title": "Work with Codex from anywhere",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-14T13:00:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.017534+00:00"
-    },
-    {
-      "id": "73eb815ab647",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "url": "https://openai.com/index/sea-david-chen",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-14T20:30:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:54.017458+00:00"
-    },
-    {
-      "id": "5329de4b0dfc",
-      "title": "5 gardening tips you can try right in Search",
-      "summary": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-06T16:00:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:53.191990+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "f187631eef2e",
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party ",
-      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T13:00:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:52.890498+00:00"
-    },
-    {
-      "id": "7db00b81e7f6",
-      "title": "Data readiness for agentic AI in financial services",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second",
-      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T13:00:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:52.889747+00:00"
-    },
-    {
-      "id": "03022e48742f",
-      "title": "How Chinese short dramas became AI content machines",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-15T09:00:00+00:00",
-      "scrapedAt": "2026-05-15T10:31:52.888343+00:00"
     }
   ]
 }
