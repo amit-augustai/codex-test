@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-05-22T10:56:29.737004+00:00",
+  "lastUpdated": "2026-05-23T10:00:19.172670+00:00",
   "articles": [
+    {
+      "id": "3de53fe24146",
+      "title": "The Impact of AI Usage and Informativeness on Skill Development in Logical Reasoning",
+      "summary": "arXiv:2605.21695v1 Announce Type: new Abstract: Artificial intelligence (AI) is being increasingly integrated into human problem-solving, yet its effects on individual skill development remain unclear",
+      "url": "https://arxiv.org/abs/2605.21695",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-23T00:00:00-04:00",
+      "scrapedAt": "2026-05-23T09:59:20.953743+00:00"
+    },
+    {
+      "id": "2b104cf6e0e6",
+      "title": "Investigating Concept Alignment Using Implausible Category Members",
+      "summary": "arXiv:2605.21683v1 Announce Type: new Abstract: Developing AI systems with a human-like understanding of everyday concepts is a key step towards developing safe, reliable systems whose behavior makes ",
+      "url": "https://arxiv.org/abs/2605.21683",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-23T00:00:00-04:00",
+      "scrapedAt": "2026-05-23T09:59:20.953644+00:00"
+    },
+    {
+      "id": "4d9f9073269b",
+      "title": "AOP-Wiki EMOD 3.0: Data Model Expansions and Content Evaluation Framework for Using Agentic AI to Improve Integration between AOPs and New Approach Methodologies (NAMs)",
+      "summary": "arXiv:2605.21645v1 Announce Type: new Abstract: Adverse Outcome Pathways (AOP) are logic models that causally link biological mechanisms that can be measured in a lab to adverse outcomes, relevant to ",
+      "url": "https://arxiv.org/abs/2605.21645",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-23T00:00:00-04:00",
+      "scrapedAt": "2026-05-23T09:59:20.953516+00:00"
+    },
+    {
+      "id": "7ae4f71070d0",
+      "title": "MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis",
+      "summary": "arXiv:2605.21630v1 Announce Type: new Abstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis ",
+      "url": "https://arxiv.org/abs/2605.21630",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-23T00:00:00-04:00",
+      "scrapedAt": "2026-05-23T09:59:20.953406+00:00"
+    },
+    {
+      "id": "bbcd0d9dda06",
+      "title": "The Shape of Testimony: A Scalable Framework for Oral History Archive Comparison",
+      "summary": "arXiv:2605.21623v1 Announce Type: new Abstract: Researchers in Holocaust studies have often distinguished between two styles of oral survivor testimony: the USC Shoah Foundation's interviews tend to f",
+      "url": "https://arxiv.org/abs/2605.21623",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-23T00:00:00-04:00",
+      "scrapedAt": "2026-05-23T09:59:20.953288+00:00"
+    },
+    {
+      "id": "384a15cec041",
+      "title": "TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization",
+      "summary": "arXiv:2605.21622v1 Announce Type: new Abstract: Topology optimization can generate efficient structures, but designers often must manually translate qualitative intent, such as desired visual style, p",
+      "url": "https://arxiv.org/abs/2605.21622",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-23T00:00:00-04:00",
+      "scrapedAt": "2026-05-23T09:59:20.953183+00:00"
+    },
+    {
+      "id": "f45c1996335c",
+      "title": "Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs",
+      "summary": "arXiv:2605.21602v1 Announce Type: new Abstract: Many safety and alignment failures of large language models (LLMs) occur due to out-of-distribution (OOD) situations: unusual prompt or response pattern",
+      "url": "https://arxiv.org/abs/2605.21602",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-23T00:00:00-04:00",
+      "scrapedAt": "2026-05-23T09:59:20.953044+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-05-23T09:59:20.549374+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-05-23T09:59:20.546920+00:00"
+    },
+    {
+      "id": "50ff72bb6a1d",
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total",
+      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-22T14:30:00+00:00",
+      "scrapedAt": "2026-05-23T09:59:20.045710+00:00"
+    },
+    {
+      "id": "3db5dbae3cb2",
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-22T15:37:15+00:00",
+      "scrapedAt": "2026-05-23T09:59:20.045603+00:00"
+    },
+    {
+      "id": "7e9de1698fc8",
+      "title": "You can no longer Google the word ‘disregard’",
+      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-22T16:16:48+00:00",
+      "scrapedAt": "2026-05-23T09:59:20.045509+00:00"
+    },
+    {
+      "id": "daf1eb7380df",
+      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total",
+      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-22T18:17:07+00:00",
+      "scrapedAt": "2026-05-23T09:59:20.045414+00:00"
+    },
+    {
+      "id": "6c669bd48f01",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-22T20:40:48+00:00",
+      "scrapedAt": "2026-05-23T09:59:20.022612+00:00"
+    },
+    {
+      "id": "d4ba36838dce",
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-22T21:02:36+00:00",
+      "scrapedAt": "2026-05-23T09:59:20.022549+00:00"
+    },
+    {
+      "id": "fd275f985643",
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-22T23:03:33+00:00",
+      "scrapedAt": "2026-05-23T09:59:20.022463+00:00"
+    },
+    {
+      "id": "740545d72e85",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-22T00:00:00+00:00",
+      "scrapedAt": "2026-05-23T09:59:19.810934+00:00"
+    },
+    {
+      "id": "f2261073b77c",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-22T00:00:00+00:00",
+      "scrapedAt": "2026-05-23T09:59:19.810854+00:00"
+    },
+    {
+      "id": "18f4f93feb30",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-22T18:00:00+00:00",
+      "scrapedAt": "2026-05-23T09:59:18.896868+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "9c8aa558adfd",
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk’s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accep",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-15T23:39:35+00:00",
+      "scrapedAt": "2026-05-23T09:59:18.610458+00:00"
+    },
     {
       "id": "58d72d723a9d",
       "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
@@ -1213,209 +1414,6 @@
       "category": "research",
       "publishedAt": "2026-05-16T00:00:00+00:00",
       "scrapedAt": "2026-05-17T09:52:18.812017+00:00"
-    },
-    {
-      "id": "2114f62a66f0",
-      "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
-      "summary": "arXiv:2605.13849v1 Announce Type: new Abstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations",
-      "url": "https://arxiv.org/abs/2605.13849",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-16T00:00:00-04:00",
-      "scrapedAt": "2026-05-16T09:46:14.183988+00:00"
-    },
-    {
-      "id": "0a1bf7f364df",
-      "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-      "summary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routi",
-      "url": "https://arxiv.org/abs/2605.13848",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-16T00:00:00-04:00",
-      "scrapedAt": "2026-05-16T09:46:14.183842+00:00"
-    },
-    {
-      "id": "c2e433d6dc00",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X f",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-05T07:45:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.760952+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.758803+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.755523+00:00"
-    },
-    {
-      "id": "5d5f0482cd39",
-      "title": "Osaurus brings both local and cloud AI models to your Mac",
-      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-15T12:19:48+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.373490+00:00"
-    },
-    {
-      "id": "91ef357f0757",
-      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-15T14:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.373413+00:00"
-    },
-    {
-      "id": "ba162ec2cb94",
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-15T16:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.373303+00:00"
-    },
-    {
-      "id": "fbdbbdaad4a0",
-      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-      "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-15T18:14:44+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.373157+00:00"
-    },
-    {
-      "id": "f87ad16de1e1",
-      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges to",
-      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-15T19:24:16+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.373031+00:00"
-    },
-    {
-      "id": "4ed1b1b76f19",
-      "title": "A new personal finance experience in ChatGPT",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-15T00:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.226579+00:00"
-    },
-    {
-      "id": "990a39ff7c1a",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "url": "https://openai.com/index/databricks",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-15T00:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.226508+00:00"
-    },
-    {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use Codex",
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-15T00:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.226437+00:00"
-    },
-    {
-      "id": "d93b94d20e7f",
-      "title": "How business operations teams use Codex",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-15T00:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.226363+00:00"
-    },
-    {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use Codex",
-      "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-15T00:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:13.226271+00:00"
-    },
-    {
-      "id": "d281c9734e27",
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "summary": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-23T12:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:12.480556+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "0edf8674fcb1",
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-04-24T19:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:12.480533+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "70615ef3544f",
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "summary": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-08T15:00:00+00:00",
-      "scrapedAt": "2026-05-16T09:46:12.479917+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "8e2b23460141",
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman",
-      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-08T23:59:19+00:00",
-      "scrapedAt": "2026-05-16T09:46:12.280116+00:00"
-    },
-    {
-      "id": "9c8aa558adfd",
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involv",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-15T23:39:35+00:00",
-      "scrapedAt": "2026-05-16T09:46:12.261212+00:00"
     }
   ]
 }
