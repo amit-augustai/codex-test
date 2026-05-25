@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-05-24T10:01:14.727792+00:00",
+  "lastUpdated": "2026-05-25T11:57:40.349713+00:00",
   "articles": [
+    {
+      "id": "9ea2c7ef79e6",
+      "title": "When Do LLMs Reason? A Dynamical Systems View via Entropy Phase Transitions",
+      "summary": "arXiv:2605.22873v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning has become the default strategy for enhancing LLM capabilities, yet its application raises a fundamental question: when",
+      "url": "https://arxiv.org/abs/2605.22873",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.436182+00:00"
+    },
+    {
+      "id": "301828bd2343",
+      "title": "MedExpMem: Adapting Experience Memory for Differential Diagnosis",
+      "summary": "arXiv:2605.22872v1 Announce Type: new Abstract: Experienced physicians develop diagnostic expertise through clinical practice, acquiring not only disease knowledge but also the ability to differentiat",
+      "url": "https://arxiv.org/abs/2605.22872",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.436065+00:00"
+    },
+    {
+      "id": "cbb31ce9f25c",
+      "title": "Approximate Machine Unlearning through Manifold Representation Forgetting Guided by Self Mode Connectivity",
+      "summary": "arXiv:2605.22871v1 Announce Type: new Abstract: Machine unlearning is a fundamental mechanism that enforces the right to be forgotten. Existing unlearning studies that rely on label manipulation or ta",
+      "url": "https://arxiv.org/abs/2605.22871",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.435949+00:00"
+    },
+    {
+      "id": "fd3658237b48",
+      "title": "The Readout Shortcut: Positional Number Copying Dominates Arithmetic CoT Readout in Small Language Models",
+      "summary": "arXiv:2605.22870v1 Announce Type: new Abstract: Chain-of-thought (CoT) prompting is necessary for arithmetic in small language models, yet shuffling its steps preserves most performance. What does CoT",
+      "url": "https://arxiv.org/abs/2605.22870",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.435834+00:00"
+    },
+    {
+      "id": "c17b0e2a8b79",
+      "title": "FuRA: Full-Rank Parameter-Efficient Fine-Tuning with Spectral Preconditioning",
+      "summary": "arXiv:2605.22869v1 Announce Type: new Abstract: Both full fine-tuning (Full FT) and parameter-efficient fine-tuning methods such as LoRA introduce weight updates without accounting for the spectral st",
+      "url": "https://arxiv.org/abs/2605.22869",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.435732+00:00"
+    },
+    {
+      "id": "be038910c67e",
+      "title": "FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal Edge Intelligence",
+      "summary": "arXiv:2605.22868v1 Announce Type: new Abstract: Autonomous systems and smart-industry deployments increasingly split computation across near-sensor, edge, and cloud resources, where tight energy, late",
+      "url": "https://arxiv.org/abs/2605.22868",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.435627+00:00"
+    },
+    {
+      "id": "4f8812b25061",
+      "title": "Reading Calibrated Uncertainty from Language Model Trajectories",
+      "summary": "arXiv:2605.22864v1 Announce Type: new Abstract: The maximum softmax probability (MSP) represents a default approach when evaluating uncertainty quantification for language model generation with struct",
+      "url": "https://arxiv.org/abs/2605.22864",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.435514+00:00"
+    },
+    {
+      "id": "47f836c82b4e",
+      "title": "Latent Cache Flow: Model-to-Model Communication Without Text",
+      "summary": "arXiv:2605.22863v1 Announce Type: new Abstract: LLM agents today communicate via text, which incurs considerable latency and information loss due to the need to autoregressively decode the sharer mode",
+      "url": "https://arxiv.org/abs/2605.22863",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.435402+00:00"
+    },
+    {
+      "id": "348671972553",
+      "title": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
+      "summary": "arXiv:2605.23074v1 Announce Type: new Abstract: The emergence of Large Reasoning Language Models (LRMs) has paved the way for tackling complex reasoning tasks through test-time scaling by generating l",
+      "url": "https://arxiv.org/abs/2605.23074",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.191163+00:00"
+    },
+    {
+      "id": "8d6048ce674d",
+      "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
+      "summary": "arXiv:2605.23024v1 Announce Type: new Abstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Fre",
+      "url": "https://arxiv.org/abs/2605.23024",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.191051+00:00"
+    },
+    {
+      "id": "3a2534b957ae",
+      "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
+      "summary": "arXiv:2605.22905v1 Announce Type: new Abstract: Self-evolving agents should not train on examples they cannot justify. Data-free self-evolving search agents offer a scalable route to systems that gene",
+      "url": "https://arxiv.org/abs/2605.22905",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.190916+00:00"
+    },
+    {
+      "id": "e1ba6cf62909",
+      "title": "Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions",
+      "summary": "arXiv:2605.22900v1 Announce Type: new Abstract: Mediative Fuzzy Logic was conceived as a practical scheme for reconciling hesitant or conflicting assessments in fuzzy control and decision-making. Howe",
+      "url": "https://arxiv.org/abs/2605.22900",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.190809+00:00"
+    },
+    {
+      "id": "f2c64063531b",
+      "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
+      "summary": "arXiv:2605.22885v1 Announce Type: new Abstract: Formal mathematics libraries are rapidly expanding, creating a growing need to refactor verified proofs for maintainability and to improve training data",
+      "url": "https://arxiv.org/abs/2605.22885",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.190713+00:00"
+    },
+    {
+      "id": "4891ed0c0e4e",
+      "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+      "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads th",
+      "url": "https://arxiv.org/abs/2605.22883",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.190615+00:00"
+    },
+    {
+      "id": "869a67bf9e4a",
+      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+      "summary": "arXiv:2605.22878v1 Announce Type: new Abstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmen",
+      "url": "https://arxiv.org/abs/2605.22878",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.190493+00:00"
+    },
+    {
+      "id": "4b63eac18469",
+      "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+      "summary": "arXiv:2605.22875v1 Announce Type: new Abstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior stu",
+      "url": "https://arxiv.org/abs/2605.22875",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.190380+00:00"
+    },
+    {
+      "id": "aa00ebb04452",
+      "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+      "summary": "arXiv:2605.22874v1 Announce Type: new Abstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verificat",
+      "url": "https://arxiv.org/abs/2605.22874",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.190269+00:00"
+    },
+    {
+      "id": "e28f83a2a8e2",
+      "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+      "summary": "arXiv:2605.22866v1 Announce Type: new Abstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose",
+      "url": "https://arxiv.org/abs/2605.22866",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00-04:00",
+      "scrapedAt": "2026-05-25T11:56:42.190139+00:00"
+    },
+    {
+      "id": "8907bc013160",
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-24T15:00:00+00:00",
+      "scrapedAt": "2026-05-25T11:56:41.382492+00:00"
+    },
+    {
+      "id": "a1acbef14ea2",
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "summary": "We're in the transition period -- all of us.",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-24T21:39:21+00:00",
+      "scrapedAt": "2026-05-25T11:56:41.382418+00:00"
+    },
     {
       "id": "392dfc1e63da",
       "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
@@ -1213,207 +1413,6 @@
       "category": "product",
       "publishedAt": "2026-05-19T00:53:10+00:00",
       "scrapedAt": "2026-05-19T11:25:57.415294+00:00"
-    },
-    {
-      "id": "a99c36731d68",
-      "title": "Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for Crashworthiness Field Prediction under Large Geometric Variation",
-      "summary": "arXiv:2605.15231v1 Announce Type: new Abstract: Nonlinear finite element crash simulations are accurate but computationally expensive, limiting their use in iterative design optimisation. Machine-lear",
-      "url": "https://arxiv.org/abs/2605.15231",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:07.118776+00:00"
-    },
-    {
-      "id": "b6a9e2252800",
-      "title": "Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models and Precision Levels",
-      "summary": "arXiv:2605.15208v1 Announce Type: new Abstract: Large Language Models are routinely compressed via post-training quantization to reduce inference costs and memory footprint for cloud and edge deployme",
-      "url": "https://arxiv.org/abs/2605.15208",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:07.118652+00:00"
-    },
-    {
-      "id": "cda15c704b6d",
-      "title": "TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination",
-      "summary": "arXiv:2605.15207v1 Announce Type: new Abstract: Multi-agent LLM systems have shown promise for complex reasoning, yet recent evaluations reveal they often underperform single-model baselines. We ident",
-      "url": "https://arxiv.org/abs/2605.15207",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:07.118541+00:00"
-    },
-    {
-      "id": "3422225167cb",
-      "title": "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices",
-      "summary": "arXiv:2605.15206v1 Announce Type: new Abstract: Autonomous agents powered by large language models (LLMs) are increasingly used to automate complex, multi-step tasks such as coding or web-based questi",
-      "url": "https://arxiv.org/abs/2605.15206",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:07.118429+00:00"
-    },
-    {
-      "id": "533843e86279",
-      "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
-      "summary": "arXiv:2605.15228v1 Announce Type: new Abstract: Modern cloud and enterprise systems rely on identity-centric authorization, assuming that callers possessing valid credentials are safe to execute comma",
-      "url": "https://arxiv.org/abs/2605.15228",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.785760+00:00"
-    },
-    {
-      "id": "2818fcf48296",
-      "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
-      "summary": "arXiv:2605.15227v1 Announce Type: new Abstract: Self-driving laboratories (SDLs) have attracted increasing attention as a means of accelerating scientific discovery; however, developing SDL software r",
-      "url": "https://arxiv.org/abs/2605.15227",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.785640+00:00"
-    },
-    {
-      "id": "ab43b37612af",
-      "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
-      "summary": "arXiv:2605.15224v1 Announce Type: new Abstract: Large language model-based agents make mistakes, yet critique can often guide the same model toward correct behavior. However, when critique is removed,",
-      "url": "https://arxiv.org/abs/2605.15224",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.785549+00:00"
-    },
-    {
-      "id": "341f1e07ea10",
-      "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
-      "summary": "arXiv:2605.15219v1 Announce Type: new Abstract: Can AI systems discover genuinely new knowledge through iterative self improvement, and if so, at what cost? We introduce the NOVA framework, which mode",
-      "url": "https://arxiv.org/abs/2605.15219",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.785433+00:00"
-    },
-    {
-      "id": "cccc158d9d16",
-      "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
-      "summary": "arXiv:2605.15218v1 Announce Type: new Abstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured execution control, tool enc",
-      "url": "https://arxiv.org/abs/2605.15218",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.785321+00:00"
-    },
-    {
-      "id": "8ed8d3098a96",
-      "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
-      "summary": "arXiv:2605.15217v1 Announce Type: new Abstract: Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in their internal representa",
-      "url": "https://arxiv.org/abs/2605.15217",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.785202+00:00"
-    },
-    {
-      "id": "e6c29f8453e1",
-      "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
-      "summary": "arXiv:2605.15215v1 Announce Type: new Abstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are t",
-      "url": "https://arxiv.org/abs/2605.15215",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.785046+00:00"
-    },
-    {
-      "id": "b576102a639d",
-      "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
-      "summary": "arXiv:2605.15205v1 Announce Type: new Abstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and h",
-      "url": "https://arxiv.org/abs/2605.15205",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.784938+00:00"
-    },
-    {
-      "id": "cb3e80117bcb",
-      "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-      "summary": "arXiv:2605.15204v1 Announce Type: new Abstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do not enforce the stage con",
-      "url": "https://arxiv.org/abs/2605.15204",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.784835+00:00"
-    },
-    {
-      "id": "4599d96ab597",
-      "title": "DeepSlide: From Artifacts to Presentation Delivery",
-      "summary": "arXiv:2605.15202v1 Announce Type: new Abstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while und",
-      "url": "https://arxiv.org/abs/2605.15202",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-18T00:00:00-04:00",
-      "scrapedAt": "2026-05-18T11:49:06.784701+00:00"
-    },
-    {
-      "id": "481cbcf6e999",
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-17T16:05:00+00:00",
-      "scrapedAt": "2026-05-18T11:49:05.945507+00:00"
-    },
-    {
-      "id": "f4e20e1053ea",
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-17T16:32:04+00:00",
-      "scrapedAt": "2026-05-18T11:49:05.945451+00:00"
-    },
-    {
-      "id": "0687ec213c6d",
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-17T19:46:34+00:00",
-      "scrapedAt": "2026-05-18T11:49:05.945396+00:00"
-    },
-    {
-      "id": "5ffbcd2eae2e",
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-17T20:15:00+00:00",
-      "scrapedAt": "2026-05-18T11:49:05.945335+00:00"
-    },
-    {
-      "id": "ed128b31ae1c",
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-18T11:00:00+00:00",
-      "scrapedAt": "2026-05-18T11:49:05.945263+00:00"
-    },
-    {
-      "id": "493dd3fda709",
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "summary": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-11T06:00:00+00:00",
-      "scrapedAt": "2026-05-18T11:49:05.160666+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp"
     }
   ]
 }
