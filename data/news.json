@@ -1,6 +1,215 @@
 {
-  "lastUpdated": "2026-05-25T11:57:40.349713+00:00",
+  "lastUpdated": "2026-05-28T11:43:32.052783+00:00",
   "articles": [
+    {
+      "id": "86df175a446d",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-25T00:00:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:34.278598+00:00"
+    },
+    {
+      "id": "919d46e19bc3",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-27T00:00:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:34.278516+00:00"
+    },
+    {
+      "id": "1c77cec1ddad",
+      "title": "Election information and safeguards in 2026",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-27T00:00:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:34.278441+00:00"
+    },
+    {
+      "id": "5899b169bc6e",
+      "title": "Building self-improving tax agents with Codex",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-27T07:00:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:34.278324+00:00"
+    },
+    {
+      "id": "b5479ebcde18",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "url": "https://openai.com/index/cisco",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-27T11:00:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:34.278232+00:00"
+    },
+    {
+      "id": "6cad7b8bd247",
+      "title": "A new era for AI Search",
+      "summary": "We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.619004+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "388f97def8c6",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.618908+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "cd2fbffde559",
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "summary": "The latest from Google I/O: See how we’re helping you get more done with Gemini.",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.618817+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "adac55b4e4fe",
+      "title": "New ways to create and get things done in Google Workspace",
+      "summary": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.618726+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "757b4a2a57b0",
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "summary": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.618634+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "8feaaef8f93e",
+      "title": "I/O 2026",
+      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.618532+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
+    },
+    {
+      "id": "9e924c46a871",
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "summary": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-20T16:45:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.618431+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c1e2764b80c5",
+      "title": "100 things we announced at I/O 2026",
+      "summary": "We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-20T19:30:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.618297+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "58130303da4c",
+      "title": "We’re announcing new community investments in Missouri.",
+      "summary": "We’re announcing new community investments in Missouri.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-20T20:40:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.618181+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "9b154231c9e4",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T00:53:10+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.255364+00:00"
+    },
+    {
+      "id": "25e688045343",
+      "title": "Roundtables: Inside the Musk v. Altman Trial",
+      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch",
+      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T20:15:18+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.253697+00:00"
+    },
+    {
+      "id": "e49dc2a61c4b",
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-26T09:00:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.246487+00:00"
+    },
+    {
+      "id": "7400dc01b3a1",
+      "title": "A reality check on the AI jobs hysteria",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-26T09:00:00+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.245266+00:00"
+    },
+    {
+      "id": "b920d871e577",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next thr",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-26T14:54:10+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.240924+00:00"
+    },
+    {
+      "id": "2c6e5bbca2bc",
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-28T09:51:11+00:00",
+      "scrapedAt": "2026-05-28T11:42:33.238630+00:00"
+    },
     {
       "id": "9ea2c7ef79e6",
       "title": "When Do LLMs Reason? A Dynamical Systems View via Entropy Phase Transitions",
@@ -801,618 +1010,6 @@
       "category": "product",
       "publishedAt": "2026-05-22T10:00:00+00:00",
       "scrapedAt": "2026-05-22T10:55:32.954223+00:00"
-    },
-    {
-      "id": "4e96c9e7f7a4",
-      "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-      "summary": "arXiv:2605.18801v1 Announce Type: new Abstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, i",
-      "url": "https://arxiv.org/abs/2605.18801",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-21T00:00:00-04:00",
-      "scrapedAt": "2026-05-21T11:31:24.759952+00:00"
-    },
-    {
-      "id": "e7785d8c77e3",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-21T11:31:24.236760+00:00"
-    },
-    {
-      "id": "8ee8f9a64ecd",
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-20T17:24:24+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.917095+00:00"
-    },
-    {
-      "id": "4f3ec8edc1c2",
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
-      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-20T19:47:20+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.917046+00:00"
-    },
-    {
-      "id": "5e513af90e20",
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-20T20:28:27+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.916991+00:00"
-    },
-    {
-      "id": "8ad8deb31608",
-      "title": "Anthropic will pay xAI $1.25B per month for compute",
-      "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-20T21:29:22+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.916937+00:00"
-    },
-    {
-      "id": "42a4a62f5a1d",
-      "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-      "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
-      "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-20T21:55:49+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.916889+00:00"
-    },
-    {
-      "id": "701a8a6a4c04",
-      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-20T22:03:51+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.916837+00:00"
-    },
-    {
-      "id": "1dd7071627fc",
-      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-20T22:26:08+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.916780+00:00"
-    },
-    {
-      "id": "6b0b9cf6e7e3",
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-20T22:30:45+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.916712+00:00"
-    },
-    {
-      "id": "e6eed5941e8d",
-      "title": "Anthropic says it’s about to have its first profitable quarter",
-      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-21T00:21:21+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.916653+00:00"
-    },
-    {
-      "id": "f5f013421de1",
-      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-21T00:28:31+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.916580+00:00"
-    },
-    {
-      "id": "95e072c6616e",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "url": "https://openai.com/index/ramp",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-20T00:00:00+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.762657+00:00"
-    },
-    {
-      "id": "a23c5621227e",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-20T00:00:00+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.762595+00:00"
-    },
-    {
-      "id": "9e924c46a871",
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "summary": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-20T16:45:00+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.011703+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c1e2764b80c5",
-      "title": "100 things we announced at I/O 2026",
-      "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-20T19:30:00+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.011614+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "58130303da4c",
-      "title": "We’re announcing new community investments in Missouri.",
-      "summary": "We’re announcing new community investments in Missouri.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-20T20:40:00+00:00",
-      "scrapedAt": "2026-05-21T11:31:23.011448+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "110d107a61de",
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a loc",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-13T18:09:03+00:00",
-      "scrapedAt": "2026-05-21T11:31:22.765192+00:00"
-    },
-    {
-      "id": "7ca2e14624de",
-      "title": "The shock of seeing your body used in deepfake porn",
-      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos ",
-      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-14T09:00:00+00:00",
-      "scrapedAt": "2026-05-21T11:31:22.762534+00:00"
-    },
-    {
-      "id": "25e688045343",
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch",
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T20:15:18+00:00",
-      "scrapedAt": "2026-05-21T11:31:22.749530+00:00"
-    },
-    {
-      "id": "fc249c0e6342",
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554741+00:00"
-    },
-    {
-      "id": "ae91773f2b55",
-      "title": "Google Search as you know it is over",
-      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce t",
-      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:46:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554675+00:00"
-    },
-    {
-      "id": "333d754287f2",
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so",
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:51:30+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554599+00:00"
-    },
-    {
-      "id": "70e8d0fce37f",
-      "title": "Google’s Genie world model can now simulate real streets with Street View",
-      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather chang",
-      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:51:39+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554528+00:00"
-    },
-    {
-      "id": "55ef14863693",
-      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
-      "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
-      "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T19:15:31+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554433+00:00"
-    },
-    {
-      "id": "53d03497bf4f",
-      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
-      "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waite",
-      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T20:11:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554364+00:00"
-    },
-    {
-      "id": "f54e9de1e415",
-      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-      "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
-      "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T21:08:51+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554291+00:00"
-    },
-    {
-      "id": "56e3cf0857f6",
-      "title": "How to use Google’s new AI agents to go beyond your standard searches",
-      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T21:16:25+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554217+00:00"
-    },
-    {
-      "id": "df9d01ab5f19",
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T21:25:31+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554140+00:00"
-    },
-    {
-      "id": "849677abbb40",
-      "title": "Google just declared itself a contender in AI design at IO 2026",
-      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T21:33:30+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.554056+00:00"
-    },
-    {
-      "id": "e4af29ed3a8d",
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-19T10:45:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.406820+00:00"
-    },
-    {
-      "id": "b8480648c364",
-      "title": "Introducing OpenAI for Singapore",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-19T20:30:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.406748+00:00"
-    },
-    {
-      "id": "ae68796c79fe",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-20T00:00:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:02.406662+00:00"
-    },
-    {
-      "id": "6277c54bdb44",
-      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-      "summary": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:01.356396+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6cad7b8bd247",
-      "title": "A new era for AI Search",
-      "summary": "We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:01.356306+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "388f97def8c6",
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:01.356214+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "cd2fbffde559",
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "summary": "The latest from Google I/O: See how we’re helping you get more done with Gemini.",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:01.356126+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "adac55b4e4fe",
-      "title": "New ways to create and get things done in Google Workspace",
-      "summary": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:01.356034+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "757b4a2a57b0",
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "summary": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:01.355937+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "8feaaef8f93e",
-      "title": "I/O 2026",
-      "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-20T10:57:01.355821+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
-    },
-    {
-      "id": "76d03bf2af3a",
-      "title": "AdaGraph: A Graph-Native Clustering Algorithm That Overcomes the Curse of Dimensionality and Enables Scientific Discovery",
-      "summary": "arXiv:2605.16320v1 Announce Type: new Abstract: We present AdaGraph, a graph-native clustering algorithm born from the Structure-Centric Machine Learning (SC-ML) paradigm -- a new field of unsupervise",
-      "url": "https://arxiv.org/abs/2605.16320",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-19T00:00:00-04:00",
-      "scrapedAt": "2026-05-19T11:25:59.784562+00:00"
-    },
-    {
-      "id": "e6daa69fe20d",
-      "title": "Forecasting Medium-Horizon Alzheimer's Disease Progression: Residual Gap-Aware Transformers for 24-Month CDR-SB Change from ADNI Clinical and Biomarker Histories",
-      "summary": "arXiv:2605.16319v1 Announce Type: new Abstract: Medium-horizon Alzheimer's disease progression prediction is difficult because future clinical scores can remain tied to baseline severity, while biomar",
-      "url": "https://arxiv.org/abs/2605.16319",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-19T00:00:00-04:00",
-      "scrapedAt": "2026-05-19T11:25:59.784453+00:00"
-    },
-    {
-      "id": "f594db8aff9e",
-      "title": "Investigating Action Encodings in Recurrent Neural Networks in Reinforcement Learning",
-      "summary": "arXiv:2605.16318v1 Announce Type: new Abstract: Building and maintaining state to learn policies and value functions is critical for deploying reinforcement learning (RL) agents in the real world. Rec",
-      "url": "https://arxiv.org/abs/2605.16318",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-19T00:00:00-04:00",
-      "scrapedAt": "2026-05-19T11:25:59.784332+00:00"
-    },
-    {
-      "id": "143860670dd5",
-      "title": "A Structural Threshold in Decision Capacity Governs Collapse in Self-Play Reinforcement Learning",
-      "summary": "arXiv:2605.16315v1 Announce Type: new Abstract: We show that a threshold in decision capacity determines whether self-play reinforcement learning agents collapse under asymmetric rule perturbations. A",
-      "url": "https://arxiv.org/abs/2605.16315",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-19T00:00:00-04:00",
-      "scrapedAt": "2026-05-19T11:25:59.784245+00:00"
-    },
-    {
-      "id": "3c032ffabe9b",
-      "title": "When Actions Disappear: Adversarial Action Removal in Self-Play Reinforcement Learning",
-      "summary": "arXiv:2605.16312v1 Announce Type: new Abstract: We study adversarial action masking in self-play reinforcement learning: an attacker selectively removes legal actions from a victim's action set. Unlik",
-      "url": "https://arxiv.org/abs/2605.16312",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-19T00:00:00-04:00",
-      "scrapedAt": "2026-05-19T11:25:59.784158+00:00"
-    },
-    {
-      "id": "e8ad4f411e15",
-      "title": "SignMuon: Communication-Efficient Distributed Muon Optimization",
-      "summary": "arXiv:2605.16311v1 Announce Type: new Abstract: Distributed training of large neural networks is bottlenecked by full-precision gradient communication and by coordinatewise optimizers that ignore the ",
-      "url": "https://arxiv.org/abs/2605.16311",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-19T00:00:00-04:00",
-      "scrapedAt": "2026-05-19T11:25:59.784069+00:00"
-    },
-    {
-      "id": "4120c01efe2e",
-      "title": "Reducing Credit Assignment Variance via Counterfactual Reasoning Paths",
-      "summary": "arXiv:2605.16302v1 Announce Type: new Abstract: Reinforcement learning for multi-step reasoning with large language models (LLMs) often relies on sparse terminal rewards, leading to poor credit assign",
-      "url": "https://arxiv.org/abs/2605.16302",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-19T00:00:00-04:00",
-      "scrapedAt": "2026-05-19T11:25:59.783938+00:00"
-    },
-    {
-      "id": "bf2e37a6b3cc",
-      "title": "Mirror Descent-Type Algorithms for the Variational Inequality Problem with Functional Constraints",
-      "summary": "arXiv:2605.16262v1 Announce Type: new Abstract: Variational inequalities play a key role in machine learning research, such as generative adversarial networks, reinforcement learning, adversarial trai",
-      "url": "https://arxiv.org/abs/2605.16262",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-19T00:00:00-04:00",
-      "scrapedAt": "2026-05-19T11:25:59.783843+00:00"
-    },
-    {
-      "id": "7d98d58c716d",
-      "title": "Systematic Optimization of Real-Time Diffusion Model Inference on Apple M3 Ultra",
-      "summary": "arXiv:2605.16259v1 Announce Type: new Abstract: While real-time image generation using diffusion models has advanced rapidly on NVIDIA GPUs, systematic optimization research on non-CUDA platforms such",
-      "url": "https://arxiv.org/abs/2605.16259",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-19T00:00:00-04:00",
-      "scrapedAt": "2026-05-19T11:25:59.783702+00:00"
-    },
-    {
-      "id": "3a9b0386203c",
-      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-18T14:56:47+00:00",
-      "scrapedAt": "2026-05-19T11:25:58.654304+00:00"
-    },
-    {
-      "id": "f568df07558f",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-18T17:34:43+00:00",
-      "scrapedAt": "2026-05-19T11:25:58.654240+00:00"
-    },
-    {
-      "id": "d023da2950a3",
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-18T19:27:52+00:00",
-      "scrapedAt": "2026-05-19T11:25:58.654177+00:00"
-    },
-    {
-      "id": "d8859cfa6328",
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-18T21:29:31+00:00",
-      "scrapedAt": "2026-05-19T11:25:58.654087+00:00"
-    },
-    {
-      "id": "1af67e245b3a",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-18T10:00:00+00:00",
-      "scrapedAt": "2026-05-19T11:25:58.587493+00:00"
-    },
-    {
-      "id": "79cb2cae762e",
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-04T15:30:00+00:00",
-      "scrapedAt": "2026-05-19T11:25:57.721147+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "d6be253d5160",
-      "title": "The latest AI news we announced in April 2026",
-      "summary": "Here are Google’s latest AI updates from April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-04T17:00:00+00:00",
-      "scrapedAt": "2026-05-19T11:25:57.721067+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "18e29f063a54",
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . A few months before he was awarded the Nobel Prize in economi",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-11T17:35:12+00:00",
-      "scrapedAt": "2026-05-19T11:25:57.431031+00:00"
-    },
-    {
-      "id": "981e2ce3b8c4",
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking ",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-18T16:01:39+00:00",
-      "scrapedAt": "2026-05-19T11:25:57.417623+00:00"
-    },
-    {
-      "id": "824e77ca4c6b",
-      "title": "What to expect from Google this week",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . When Google opens its doors tomorrow for its annual developer",
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-18T17:35:43+00:00",
-      "scrapedAt": "2026-05-19T11:25:57.416397+00:00"
-    },
-    {
-      "id": "9b154231c9e4",
-      "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T00:53:10+00:00",
-      "scrapedAt": "2026-05-19T11:25:57.415294+00:00"
     }
   ]
 }
