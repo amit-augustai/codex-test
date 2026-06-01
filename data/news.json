@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-05-31T10:21:05.777749+00:00",
+  "lastUpdated": "2026-06-01T13:43:10.939003+00:00",
   "articles": [
+    {
+      "id": "99061daac8ea",
+      "title": "NumLeak: Public Numeric Benchmarks as Latent Labels in Foundation Models",
+      "summary": "arXiv:2605.30393v1 Announce Type: new Abstract: Public numeric benchmarks appear in pretraining, so an evaluation that conditions on a date may be measuring memorized recall rather than out-of-sample ",
+      "url": "https://arxiv.org/abs/2605.30393",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.856904+00:00"
+    },
+    {
+      "id": "459c6b819789",
+      "title": "A Novel Evaluation Metric for Unsupervised Learning in AIS-Based Maritime Anomaly Detection: MADQI",
+      "summary": "arXiv:2605.30388v1 Announce Type: new Abstract: This paper introduces a new systematic framework for detecting anomalies in maritime Automatic Identification System (AIS) datasets. These anomalies inc",
+      "url": "https://arxiv.org/abs/2605.30388",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.856793+00:00"
+    },
+    {
+      "id": "0ef07497283a",
+      "title": "Functional MRI Time Series Generation via Wavelet-Based Image Transform and Spectral Flow Matching for Brain Disorder Identification",
+      "summary": "arXiv:2605.30387v1 Announce Type: new Abstract: Functional Magnetic Resonance Imaging (fMRI) provides non-invasive access to dynamic brain activity by measuring blood oxygen level-dependent (BOLD) sig",
+      "url": "https://arxiv.org/abs/2605.30387",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.856656+00:00"
+    },
+    {
+      "id": "d3d043455fcc",
+      "title": "LLMs Without Deep Neural Networks: New Architecture, Benefits and Case Study",
+      "summary": "arXiv:2605.30385v1 Announce Type: new Abstract: The purpose of this article is to provide validation to my deep neural network alternative in the context of LLMs. Very recently, there has been a signi",
+      "url": "https://arxiv.org/abs/2605.30385",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.856502+00:00"
+    },
+    {
+      "id": "350594000bc6",
+      "title": "When LLMs Learn to Be Consistently Wrong: A Multi-Model Study of Linear Representations of Synthetic Deception",
+      "summary": "arXiv:2605.30381v1 Announce Type: new Abstract: Deceptive alignment, in which models maintain accurate internal representations while deliberately producing false outputs, remains a central challenge ",
+      "url": "https://arxiv.org/abs/2605.30381",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.856411+00:00"
+    },
+    {
+      "id": "c1752c033b04",
+      "title": "Unicorn: Scaling High-Dimensional Time Series Forecasting via Universal Correlation Modeling",
+      "summary": "arXiv:2605.30376v1 Announce Type: new Abstract: Modern time series architectures face a fundamental trade-off: channel-independent models scale well with increasing data volume but ignore critical int",
+      "url": "https://arxiv.org/abs/2605.30376",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.856277+00:00"
+    },
+    {
+      "id": "3d6b861ac85b",
+      "title": "Gait2Hip-60: A Unified Deep Learning Benchmark for Predicting Hip Muscle Forces and Joint Moments from Multi-Cadence Gait Kinematics",
+      "summary": "arXiv:2605.30374v1 Announce Type: new Abstract: Estimating hip muscle forces and joint moments during gait typically relies on musculoskeletal simulation, which is informative but time-consuming and d",
+      "url": "https://arxiv.org/abs/2605.30374",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.856168+00:00"
+    },
+    {
+      "id": "13db27724624",
+      "title": "QASM-Eval: A Dataset to Train and Evaluate LLMs on OpenQASM-3 Beyond Quantum Circuits",
+      "summary": "arXiv:2605.30358v1 Announce Type: new Abstract: Quantum computing remains in the Noisy Intermediate-Scale Quantum (NISQ) era, where the performance is highly constrained to noise. Addressing the limit",
+      "url": "https://arxiv.org/abs/2605.30358",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.856004+00:00"
+    },
+    {
+      "id": "7b52e4995638",
+      "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+      "summary": "arXiv:2605.30738v1 Announce Type: new Abstract: Generalization across agentic tool-calling environments remains a central challenge for reliable agentic reasoning systems. Although large language mode",
+      "url": "https://arxiv.org/abs/2605.30738",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.413437+00:00"
+    },
+    {
+      "id": "f178f0e5929c",
+      "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
+      "summary": "arXiv:2605.30680v1 Announce Type: new Abstract: Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold this response fixed and s",
+      "url": "https://arxiv.org/abs/2605.30680",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.413329+00:00"
+    },
+    {
+      "id": "0420ceff79d1",
+      "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+      "summary": "arXiv:2605.30664v1 Announce Type: new Abstract: Subgoal-based policy tree search, which uses a policy to guide search, is effective for complex single-agent deterministic problems but often relies on ",
+      "url": "https://arxiv.org/abs/2605.30664",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.413226+00:00"
+    },
+    {
+      "id": "85b2e0e66ca6",
+      "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+      "summary": "arXiv:2605.30637v1 Announce Type: new Abstract: Clinical decision-making (CDM) is central to real-world clinical workflows, where clinicians infer diagnoses, select treatments, or anticipate future he",
+      "url": "https://arxiv.org/abs/2605.30637",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.413125+00:00"
+    },
+    {
+      "id": "ca6ec70b9df6",
+      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+      "summary": "arXiv:2605.30621v1 Announce Type: new Abstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task",
+      "url": "https://arxiv.org/abs/2605.30621",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.412997+00:00"
+    },
+    {
+      "id": "5712a926c16f",
+      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+      "summary": "arXiv:2605.30576v1 Announce Type: new Abstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can ",
+      "url": "https://arxiv.org/abs/2605.30576",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.412871+00:00"
+    },
+    {
+      "id": "bf74cd9ca250",
+      "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+      "summary": "arXiv:2605.30570v1 Announce Type: new Abstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consid",
+      "url": "https://arxiv.org/abs/2605.30570",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.412763+00:00"
+    },
+    {
+      "id": "1cc51a1d87ca",
+      "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+      "summary": "arXiv:2605.30563v1 Announce Type: new Abstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, conditional effects, and angel",
+      "url": "https://arxiv.org/abs/2605.30563",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.412659+00:00"
+    },
+    {
+      "id": "9e8797235255",
+      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+      "summary": "arXiv:2605.30542v1 Announce Type: new Abstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing acti",
+      "url": "https://arxiv.org/abs/2605.30542",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.412498+00:00"
+    },
+    {
+      "id": "268f441a63da",
+      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+      "summary": "arXiv:2605.30512v1 Announce Type: new Abstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, th",
+      "url": "https://arxiv.org/abs/2605.30512",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-01T00:00:00-04:00",
+      "scrapedAt": "2026-06-01T13:42:14.412331+00:00"
+    },
+    {
+      "id": "219fb65d984a",
+      "title": "Making sense of the debate over AI psychosis",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-31T15:30:00+00:00",
+      "scrapedAt": "2026-06-01T13:42:13.572654+00:00"
+    },
+    {
+      "id": "6e2aa85b95d5",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-05-31T21:05:14+00:00",
+      "scrapedAt": "2026-06-01T13:42:13.572568+00:00"
+    },
     {
       "id": "a7e70ffca486",
       "title": "How Turkey Hacked the Hair Transplant Industry",
@@ -814,206 +1014,6 @@
       "category": "product",
       "publishedAt": "2026-05-28T09:51:11+00:00",
       "scrapedAt": "2026-05-28T11:42:33.238630+00:00"
-    },
-    {
-      "id": "9ea2c7ef79e6",
-      "title": "When Do LLMs Reason? A Dynamical Systems View via Entropy Phase Transitions",
-      "summary": "arXiv:2605.22873v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning has become the default strategy for enhancing LLM capabilities, yet its application raises a fundamental question: when",
-      "url": "https://arxiv.org/abs/2605.22873",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.436182+00:00"
-    },
-    {
-      "id": "301828bd2343",
-      "title": "MedExpMem: Adapting Experience Memory for Differential Diagnosis",
-      "summary": "arXiv:2605.22872v1 Announce Type: new Abstract: Experienced physicians develop diagnostic expertise through clinical practice, acquiring not only disease knowledge but also the ability to differentiat",
-      "url": "https://arxiv.org/abs/2605.22872",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.436065+00:00"
-    },
-    {
-      "id": "cbb31ce9f25c",
-      "title": "Approximate Machine Unlearning through Manifold Representation Forgetting Guided by Self Mode Connectivity",
-      "summary": "arXiv:2605.22871v1 Announce Type: new Abstract: Machine unlearning is a fundamental mechanism that enforces the right to be forgotten. Existing unlearning studies that rely on label manipulation or ta",
-      "url": "https://arxiv.org/abs/2605.22871",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.435949+00:00"
-    },
-    {
-      "id": "fd3658237b48",
-      "title": "The Readout Shortcut: Positional Number Copying Dominates Arithmetic CoT Readout in Small Language Models",
-      "summary": "arXiv:2605.22870v1 Announce Type: new Abstract: Chain-of-thought (CoT) prompting is necessary for arithmetic in small language models, yet shuffling its steps preserves most performance. What does CoT",
-      "url": "https://arxiv.org/abs/2605.22870",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.435834+00:00"
-    },
-    {
-      "id": "c17b0e2a8b79",
-      "title": "FuRA: Full-Rank Parameter-Efficient Fine-Tuning with Spectral Preconditioning",
-      "summary": "arXiv:2605.22869v1 Announce Type: new Abstract: Both full fine-tuning (Full FT) and parameter-efficient fine-tuning methods such as LoRA introduce weight updates without accounting for the spectral st",
-      "url": "https://arxiv.org/abs/2605.22869",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.435732+00:00"
-    },
-    {
-      "id": "be038910c67e",
-      "title": "FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal Edge Intelligence",
-      "summary": "arXiv:2605.22868v1 Announce Type: new Abstract: Autonomous systems and smart-industry deployments increasingly split computation across near-sensor, edge, and cloud resources, where tight energy, late",
-      "url": "https://arxiv.org/abs/2605.22868",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.435627+00:00"
-    },
-    {
-      "id": "4f8812b25061",
-      "title": "Reading Calibrated Uncertainty from Language Model Trajectories",
-      "summary": "arXiv:2605.22864v1 Announce Type: new Abstract: The maximum softmax probability (MSP) represents a default approach when evaluating uncertainty quantification for language model generation with struct",
-      "url": "https://arxiv.org/abs/2605.22864",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.435514+00:00"
-    },
-    {
-      "id": "47f836c82b4e",
-      "title": "Latent Cache Flow: Model-to-Model Communication Without Text",
-      "summary": "arXiv:2605.22863v1 Announce Type: new Abstract: LLM agents today communicate via text, which incurs considerable latency and information loss due to the need to autoregressively decode the sharer mode",
-      "url": "https://arxiv.org/abs/2605.22863",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.435402+00:00"
-    },
-    {
-      "id": "348671972553",
-      "title": "PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning",
-      "summary": "arXiv:2605.23074v1 Announce Type: new Abstract: The emergence of Large Reasoning Language Models (LRMs) has paved the way for tackling complex reasoning tasks through test-time scaling by generating l",
-      "url": "https://arxiv.org/abs/2605.23074",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.191163+00:00"
-    },
-    {
-      "id": "8d6048ce674d",
-      "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
-      "summary": "arXiv:2605.23024v1 Announce Type: new Abstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Fre",
-      "url": "https://arxiv.org/abs/2605.23024",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.191051+00:00"
-    },
-    {
-      "id": "3a2534b957ae",
-      "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
-      "summary": "arXiv:2605.22905v1 Announce Type: new Abstract: Self-evolving agents should not train on examples they cannot justify. Data-free self-evolving search agents offer a scalable route to systems that gene",
-      "url": "https://arxiv.org/abs/2605.22905",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.190916+00:00"
-    },
-    {
-      "id": "e1ba6cf62909",
-      "title": "Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions",
-      "summary": "arXiv:2605.22900v1 Announce Type: new Abstract: Mediative Fuzzy Logic was conceived as a practical scheme for reconciling hesitant or conflicting assessments in fuzzy control and decision-making. Howe",
-      "url": "https://arxiv.org/abs/2605.22900",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.190809+00:00"
-    },
-    {
-      "id": "f2c64063531b",
-      "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
-      "summary": "arXiv:2605.22885v1 Announce Type: new Abstract: Formal mathematics libraries are rapidly expanding, creating a growing need to refactor verified proofs for maintainability and to improve training data",
-      "url": "https://arxiv.org/abs/2605.22885",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.190713+00:00"
-    },
-    {
-      "id": "4891ed0c0e4e",
-      "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
-      "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads th",
-      "url": "https://arxiv.org/abs/2605.22883",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.190615+00:00"
-    },
-    {
-      "id": "869a67bf9e4a",
-      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
-      "summary": "arXiv:2605.22878v1 Announce Type: new Abstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmen",
-      "url": "https://arxiv.org/abs/2605.22878",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.190493+00:00"
-    },
-    {
-      "id": "4b63eac18469",
-      "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
-      "summary": "arXiv:2605.22875v1 Announce Type: new Abstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior stu",
-      "url": "https://arxiv.org/abs/2605.22875",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.190380+00:00"
-    },
-    {
-      "id": "aa00ebb04452",
-      "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
-      "summary": "arXiv:2605.22874v1 Announce Type: new Abstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verificat",
-      "url": "https://arxiv.org/abs/2605.22874",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.190269+00:00"
-    },
-    {
-      "id": "e28f83a2a8e2",
-      "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
-      "summary": "arXiv:2605.22866v1 Announce Type: new Abstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose",
-      "url": "https://arxiv.org/abs/2605.22866",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-05-25T00:00:00-04:00",
-      "scrapedAt": "2026-05-25T11:56:42.190139+00:00"
-    },
-    {
-      "id": "8907bc013160",
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-24T15:00:00+00:00",
-      "scrapedAt": "2026-05-25T11:56:41.382492+00:00"
-    },
-    {
-      "id": "a1acbef14ea2",
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "summary": "We're in the transition period -- all of us.",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-24T21:39:21+00:00",
-      "scrapedAt": "2026-05-25T11:56:41.382418+00:00"
     }
   ]
 }
