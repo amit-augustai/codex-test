@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-06-03T12:46:37.849345+00:00",
+  "lastUpdated": "2026-06-04T11:20:50.557586+00:00",
   "articles": [
+    {
+      "id": "9931e5103b44",
+      "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+      "summary": "arXiv:2606.04223v1 Announce Type: new Abstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue th",
+      "url": "https://arxiv.org/abs/2606.04223",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-04T00:00:00-04:00",
+      "scrapedAt": "2026-06-04T11:19:53.520016+00:00"
+    },
+    {
+      "id": "e2377aa64651",
+      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+      "summary": "arXiv:2606.04202v1 Announce Type: new Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coor",
+      "url": "https://arxiv.org/abs/2606.04202",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-04T00:00:00-04:00",
+      "scrapedAt": "2026-06-04T11:19:53.519919+00:00"
+    },
+    {
+      "id": "5a36a01a32bc",
+      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+      "summary": "arXiv:2606.04152v1 Announce Type: new Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Prot",
+      "url": "https://arxiv.org/abs/2606.04152",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-04T00:00:00-04:00",
+      "scrapedAt": "2026-06-04T11:19:53.519811+00:00"
+    },
+    {
+      "id": "fc743632196b",
+      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+      "summary": "arXiv:2606.04150v1 Announce Type: new Abstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a de",
+      "url": "https://arxiv.org/abs/2606.04150",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-04T00:00:00-04:00",
+      "scrapedAt": "2026-06-04T11:19:53.519714+00:00"
+    },
+    {
+      "id": "79a9a55fba9c",
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "summary": "arXiv:2606.04037v1 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability bench",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-04T00:00:00-04:00",
+      "scrapedAt": "2026-06-04T11:19:53.519574+00:00"
+    },
+    {
+      "id": "ad14f408dfde",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-03T13:02:51+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.535718+00:00"
+    },
+    {
+      "id": "218e40b90285",
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-03T13:40:00+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.535647+00:00"
+    },
+    {
+      "id": "f82a30b068b3",
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-03T14:58:33+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.535580+00:00"
+    },
+    {
+      "id": "be5890923c67",
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-03T15:00:00+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.535508+00:00"
+    },
+    {
+      "id": "d0737aada843",
+      "title": "Amazon will show AI product images when you search for some reason",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-03T15:50:26+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.535400+00:00"
+    },
+    {
+      "id": "51fe822e196e",
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-03T19:07:42+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.535329+00:00"
+    },
+    {
+      "id": "ea4455262cfd",
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-03T19:38:32+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.535257+00:00"
+    },
+    {
+      "id": "1fe21f8da08e",
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-03T22:56:51+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.535174+00:00"
+    },
+    {
+      "id": "985e9a4f3bc7",
+      "title": "OpenAI public policy agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-03T10:00:00+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.417489+00:00"
+    },
+    {
+      "id": "b918a5525a80",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-03T10:00:00+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.417393+00:00"
+    },
+    {
+      "id": "0af0c5c72218",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "url": "https://openai.com/index/wasmer",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-03T12:00:00+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.417311+00:00"
+    },
+    {
+      "id": "1a654943dc71",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-03T13:15:00+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.417234+00:00"
+    },
+    {
+      "id": "ae995b9c3e75",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "url": "https://openai.com/index/endava-frontiers",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-04T12:00:00+00:00",
+      "scrapedAt": "2026-06-04T11:19:52.417142+00:00"
+    },
+    {
+      "id": "a799e1e611d4",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-03T13:00:00+00:00",
+      "scrapedAt": "2026-06-04T11:19:51.426039+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ce50fb25a5f8",
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a law",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-06-04T10:50:18+00:00",
+      "scrapedAt": "2026-06-04T11:19:50.986166+00:00"
+    },
     {
       "id": "6354913dd989",
       "title": "An Exploration of Collision-based Enemy Morphology Generation",
