@@ -1,6 +1,212 @@
 {
-  "lastUpdated": "2026-06-05T11:33:31.137774+00:00",
+  "lastUpdated": "2026-06-06T10:11:39.951653+00:00",
   "articles": [
+    {
+      "id": "ca059f7c85be",
+      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+      "summary": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rel",
+      "url": "https://arxiv.org/abs/2606.05316",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-06T00:00:00-04:00",
+      "scrapedAt": "2026-06-06T10:10:44.112997+00:00"
+    },
+    {
+      "id": "3428e1763ab5",
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "summary": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that age",
+      "url": "https://arxiv.org/abs/2606.05304",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-06T00:00:00-04:00",
+      "scrapedAt": "2026-06-06T10:10:44.112897+00:00"
+    },
+    {
+      "id": "1f16d91e2c4d",
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown,",
+      "url": "https://arxiv.org/abs/2606.05256",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-06T00:00:00-04:00",
+      "scrapedAt": "2026-06-06T10:10:44.112766+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:43.739235+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:43.730351+00:00"
+    },
+    {
+      "id": "e7785d8c77e3",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:43.726931+00:00"
+    },
+    {
+      "id": "df474478ba46",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-05T13:03:10+00:00",
+      "scrapedAt": "2026-06-06T10:10:43.529783+00:00"
+    },
+    {
+      "id": "fa10587d0189",
+      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringi",
+      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-05T14:00:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:43.529708+00:00"
+    },
+    {
+      "id": "177fcfdc05d4",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-05T14:49:12+00:00",
+      "scrapedAt": "2026-06-06T10:10:43.529532+00:00"
+    },
+    {
+      "id": "79cc28ab279b",
+      "title": "The most interesting startups right now want to get you off your phone",
+      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringi",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-05T17:17:06+00:00",
+      "scrapedAt": "2026-06-06T10:10:43.529372+00:00"
+    },
+    {
+      "id": "0a80813a45dd",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-05T18:57:20+00:00",
+      "scrapedAt": "2026-06-06T10:10:43.519535+00:00"
+    },
+    {
+      "id": "5f705da3009f",
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-05T20:00:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:43.519444+00:00"
+    },
+    {
+      "id": "18f4f93feb30",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-22T18:00:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:42.760540+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3404b326f5b4",
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-28T15:00:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:42.760443+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7a1c98af09d2",
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "summary": "Check out real-life AI prototypes from the Futures Lab.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-29T12:00:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:42.760337+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6aee6b02d3b5",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-29T17:30:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:42.760315+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "bb0319888f69",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "summary": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-29T19:00:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:42.760228+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "752c96ffbdef",
+      "title": "The latest AI news we announced in May 2026",
+      "summary": "Here are Google’s latest AI updates from May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-05T14:45:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:42.760005+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "81495904716a",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-22T10:00:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:42.364414+00:00"
+    },
+    {
+      "id": "f706a3b8d9c5",
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-05-29T10:00:00+00:00",
+      "scrapedAt": "2026-06-06T10:10:42.355491+00:00"
+    },
     {
       "id": "2accf44358f0",
       "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
@@ -1205,411 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-05-30T21:45:00+00:00",
       "scrapedAt": "2026-05-31T10:20:06.873341+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.291399+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.283709+00:00"
-    },
-    {
-      "id": "e7785d8c77e3",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.280727+00:00"
-    },
-    {
-      "id": "95bb06f5125a",
-      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
-      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T12:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022745+00:00"
-    },
-    {
-      "id": "a205088c9383",
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T13:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022687+00:00"
-    },
-    {
-      "id": "f49b9b132fe5",
-      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “",
-      "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T14:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022623+00:00"
-    },
-    {
-      "id": "23be547c0da8",
-      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ant",
-      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T14:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022542+00:00"
-    },
-    {
-      "id": "1b3d96b11fca",
-      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T14:15:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022459+00:00"
-    },
-    {
-      "id": "4b1d7fc08047",
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T16:13:47+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022398+00:00"
-    },
-    {
-      "id": "fe0f51562a56",
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T17:27:13+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022338+00:00"
-    },
-    {
-      "id": "4fd5861e26d9",
-      "title": "What happens when companies become too AI-pilled?",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T17:57:05+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022271+00:00"
-    },
-    {
-      "id": "75f84cfeffeb",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T18:49:19+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022180+00:00"
-    },
-    {
-      "id": "62b1c2746533",
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T22:14:22+00:00",
-      "scrapedAt": "2026-05-30T10:05:20.022103+00:00"
-    },
-    {
-      "id": "fdf6c4e98bb2",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T00:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:19.866693+00:00"
-    },
-    {
-      "id": "ce0322c55738",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "url": "https://openai.com/index/braintrust",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T12:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:19.866560+00:00"
-    },
-    {
-      "id": "be876b176720",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T12:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:19.866467+00:00"
-    },
-    {
-      "id": "18f4f93feb30",
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-22T18:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:19.105392+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7a1c98af09d2",
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "summary": "Check out real-life AI prototypes from the Futures Lab.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T12:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:19.105230+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6aee6b02d3b5",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T17:30:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:19.105208+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "bb0319888f69",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "summary": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T19:00:00+00:00",
-      "scrapedAt": "2026-05-30T10:05:19.105060+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5ae8ee806afa",
-      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
-      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-28T14:45:13+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970800+00:00"
-    },
-    {
-      "id": "d39d7de0ab30",
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a per",
-      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-28T15:35:43+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970704+00:00"
-    },
-    {
-      "id": "aa6edfc162be",
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
-      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-28T15:36:00+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970629+00:00"
-    },
-    {
-      "id": "9f1ac71754c5",
-      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-28T17:00:09+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970555+00:00"
-    },
-    {
-      "id": "c7127ebb5741",
-      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
-      "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
-      "url": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-28T17:30:00+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970487+00:00"
-    },
-    {
-      "id": "407517f5fdbe",
-      "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-      "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-28T18:32:25+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970417+00:00"
-    },
-    {
-      "id": "fa304b3484d5",
-      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-28T18:52:51+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970342+00:00"
-    },
-    {
-      "id": "0d22b3289c3b",
-      "title": "Asana acquires no-code agent-builder StackAI",
-      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
-      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-28T20:06:07+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970269+00:00"
-    },
-    {
-      "id": "7b1aab1a5e8d",
-      "title": "The internet is being rebuilt for machines",
-      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-28T21:24:01+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970198+00:00"
-    },
-    {
-      "id": "c87f159dd82a",
-      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
-      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T00:44:37+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.970114+00:00"
-    },
-    {
-      "id": "702fb607570e",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-28T00:00:00+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.899682+00:00"
-    },
-    {
-      "id": "78758b8ec5bc",
-      "title": "OpenAI’s Frontier Governance Framework",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-28T00:00:00+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.899604+00:00"
-    },
-    {
-      "id": "6b1fa8ae684f",
-      "title": "How Endava builds an agentic organization with Codex",
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "url": "https://openai.com/index/endava",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-28T12:00:00+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.899524+00:00"
-    },
-    {
-      "id": "2f358dc4a504",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through ",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T03:00:00+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.899437+00:00"
-    },
-    {
-      "id": "3404b326f5b4",
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-28T15:00:00+00:00",
-      "scrapedAt": "2026-05-29T11:34:24.131050+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e46b93e1759f",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex,",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-21T14:30:45+00:00",
-      "scrapedAt": "2026-05-29T11:34:23.834256+00:00"
-    },
-    {
-      "id": "13fdcf243334",
-      "title": "Scaling creativity in the age of AI",
-      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from ea",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-21T19:16:43+00:00",
-      "scrapedAt": "2026-05-29T11:34:23.832647+00:00"
-    },
-    {
-      "id": "bf40a95dd6a6",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-21T20:41:05+00:00",
-      "scrapedAt": "2026-05-29T11:34:23.830405+00:00"
-    },
-    {
-      "id": "81495904716a",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-22T10:00:00+00:00",
-      "scrapedAt": "2026-05-29T11:34:23.829416+00:00"
-    },
-    {
-      "id": "f706a3b8d9c5",
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-05-29T10:00:00+00:00",
-      "scrapedAt": "2026-05-29T11:34:23.820347+00:00"
     }
   ]
 }
