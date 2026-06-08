@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-06-07T10:33:12.815609+00:00",
+  "lastUpdated": "2026-06-08T12:39:12.406926+00:00",
   "articles": [
+    {
+      "id": "2b2c0b0cb225",
+      "title": "Generative Models Erode Human Temporal Learning Through Market Selection",
+      "summary": "arXiv:2606.06572v1 Announce Type: new Abstract: We argue that modern generative models create structural risks for knowledge and cultural production at current, sub-AGI capability levels. We define Hu",
+      "url": "https://arxiv.org/abs/2606.06572",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.618921+00:00"
+    },
+    {
+      "id": "fcb542ef4118",
+      "title": "Are you sure? A Comprehensive and Comprehensible Survey of Uncertainty Quantification in Symbolic Regression",
+      "summary": "arXiv:2606.06567v1 Announce Type: new Abstract: Symbolic regression (SR) is a class of methods that systematically explore the space of mathematical functions to discover models that accurately captur",
+      "url": "https://arxiv.org/abs/2606.06567",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.618815+00:00"
+    },
+    {
+      "id": "6207f238e97d",
+      "title": "WAV: Multi-Resolution Block Residual Routing for Deep Decoder-Only Transformers",
+      "summary": "arXiv:2606.06564v1 Announce Type: new Abstract: Residual connections are central to training deep Transformers, but standard PreNorm residual streams aggregate sublayer updates with fixed unit weights",
+      "url": "https://arxiv.org/abs/2606.06564",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.618709+00:00"
+    },
+    {
+      "id": "ba2a1f3b2708",
+      "title": "MacArena: Benchmarking Computer Use Agents on an Online macOS Environment",
+      "summary": "arXiv:2606.06560v1 Announce Type: new Abstract: Computer-use agents (CUAs) operate graphical user interfaces (GUIs) through vision and control primitives, and their capabilities have advanced rapidly,",
+      "url": "https://arxiv.org/abs/2606.06560",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.618519+00:00"
+    },
+    {
+      "id": "2414c5f821ef",
+      "title": "Multi-Scale Feature Attention Network for Polymer Classification using THz Dual-Comb Spectroscopy",
+      "summary": "arXiv:2606.06554v1 Announce Type: new Abstract: Reliable polymer identification is essential for ensuring the quality and safety of recycled plastics, yet conventional sorting and spectroscopic techni",
+      "url": "https://arxiv.org/abs/2606.06554",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.618406+00:00"
+    },
+    {
+      "id": "2596fee4371c",
+      "title": "FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models",
+      "summary": "arXiv:2606.06547v1 Announce Type: new Abstract: Diffusion Large Language Models (dLLMs) refine tokens iteratively but commit them irreversibly, leading to a \"stability lag\" where early decisions remai",
+      "url": "https://arxiv.org/abs/2606.06547",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.618297+00:00"
+    },
+    {
+      "id": "e9a1c0ac3b8e",
+      "title": "Elmes*: Automated Construction of Fine-Grained Evaluation Rubrics for Large Language Models in Long-Tail Educational Scenarios",
+      "summary": "arXiv:2606.06546v1 Announce Type: new Abstract: Evaluating large language models (LLMs) for education requires measuring how models teach, not only what they know. Existing benchmarks emphasize domain",
+      "url": "https://arxiv.org/abs/2606.06546",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.618183+00:00"
+    },
+    {
+      "id": "28bc2fc69baf",
+      "title": "A Study of Parallel Continuous Local Search",
+      "summary": "arXiv:2606.06656v1 Announce Type: new Abstract: We study parallel Continuous Local Search (CLS) as a solution approach for Boolean satisfiability problems with symmetric pseudo-Boolean (PB) constraint",
+      "url": "https://arxiv.org/abs/2606.06656",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.367360+00:00"
+    },
+    {
+      "id": "1e222988bee6",
+      "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
+      "summary": "arXiv:2606.06641v1 Announce Type: new Abstract: We present Accelerated Fourier SAT (AFSAT), a GPU-accelerated solver for pseudo-Boolean satisfiability based on continuous local search (CLS). AFSAT rea",
+      "url": "https://arxiv.org/abs/2606.06641",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.367266+00:00"
+    },
+    {
+      "id": "e85fda8f3ffd",
+      "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+      "summary": "arXiv:2606.06533v1 Announce Type: new Abstract: What would it mean to have a scientific understanding of AI? Models are not static objects: they are snapshots of time-evolving processes shaped by data",
+      "url": "https://arxiv.org/abs/2606.06533",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.367164+00:00"
+    },
+    {
+      "id": "b7a64887356e",
+      "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+      "summary": "arXiv:2606.06531v1 Announce Type: new Abstract: The critical question after a correct driving veto is not only whether a maneuver is unsafe, but whether the blocked interaction admits a lawful, audita",
+      "url": "https://arxiv.org/abs/2606.06531",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.367061+00:00"
+    },
+    {
+      "id": "8d89880ec950",
+      "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+      "summary": "arXiv:2606.06529v1 Announce Type: new Abstract: An attacker that strategically chooses when to attack is much harder to catch than one that attacks indiscriminately. AI control is a safety framework f",
+      "url": "https://arxiv.org/abs/2606.06529",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.366932+00:00"
+    },
+    {
+      "id": "45c4fba7f799",
+      "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+      "summary": "arXiv:2606.06526v1 Announce Type: new Abstract: Large language models have made substantial progress on mathematical reasoning, but existing benchmarks typically evaluate well-specified problems with ",
+      "url": "https://arxiv.org/abs/2606.06526",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.366813+00:00"
+    },
+    {
+      "id": "cf5270b3f668",
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "summary": "arXiv:2606.06523v1 Announce Type: new Abstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recen",
+      "url": "https://arxiv.org/abs/2606.06523",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.366694+00:00"
+    },
+    {
+      "id": "13f48f70041d",
+      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+      "summary": "arXiv:2606.06519v1 Announce Type: new Abstract: Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment and make models more vul",
+      "url": "https://arxiv.org/abs/2606.06519",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.366518+00:00"
+    },
+    {
+      "id": "131207dd3d76",
+      "title": "DiBS: Diffusion-Informed Branch Selection",
+      "summary": "arXiv:2606.06518v1 Announce Type: new Abstract: Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete constraints. The existing wor",
+      "url": "https://arxiv.org/abs/2606.06518",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.366408+00:00"
+    },
+    {
+      "id": "c49d38c44706",
+      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+      "summary": "arXiv:2606.06514v1 Announce Type: new Abstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a cl",
+      "url": "https://arxiv.org/abs/2606.06514",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00-04:00",
+      "scrapedAt": "2026-06-08T12:38:18.366277+00:00"
+    },
+    {
+      "id": "893947abd016",
+      "title": "OpenAI is still working on that ‘super app’",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-07T16:23:22+00:00",
+      "scrapedAt": "2026-06-08T12:38:17.771729+00:00"
+    },
+    {
+      "id": "c733bac7a8d4",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-07T17:56:22+00:00",
+      "scrapedAt": "2026-06-08T12:38:17.771657+00:00"
+    },
+    {
+      "id": "823021378754",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-07T20:26:13+00:00",
+      "scrapedAt": "2026-06-08T12:38:17.771571+00:00"
+    },
     {
       "id": "e81282646082",
       "title": "Has Microsoft Lost Its Mojo (Again)?",
