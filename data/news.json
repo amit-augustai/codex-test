@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-06-08T12:39:12.406926+00:00",
+  "lastUpdated": "2026-06-09T11:23:34.572852+00:00",
   "articles": [
+    {
+      "id": "0bee50dcae5e",
+      "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+      "summary": "arXiv:2606.07720v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated remarkable reasoning abilities on mathematical and multi-hop planning tasks. The CoCoNuT (Chain of Contin",
+      "url": "https://arxiv.org/abs/2606.07720",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-09T00:00:00-04:00",
+      "scrapedAt": "2026-06-09T11:22:37.917337+00:00"
+    },
+    {
+      "id": "2a7d6a08b8ca",
+      "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
+      "summary": "arXiv:2606.07718v1 Announce Type: new Abstract: Agentic AI tools offer a promising path to automating software development bottlenecks in scientific research pipelines, particularly for stages that ta",
+      "url": "https://arxiv.org/abs/2606.07718",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-09T00:00:00-04:00",
+      "scrapedAt": "2026-06-09T11:22:37.917219+00:00"
+    },
+    {
+      "id": "46c0e23a5d1d",
+      "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+      "summary": "arXiv:2606.07594v1 Announce Type: new Abstract: Personal AI agents must increasingly operate across APIs, shells, web surfaces, and desktop GUIs, yet many systems remain tuned to a single interface an",
+      "url": "https://arxiv.org/abs/2606.07594",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-09T00:00:00-04:00",
+      "scrapedAt": "2026-06-09T11:22:37.917080+00:00"
+    },
+    {
+      "id": "4f4f19bb98b7",
+      "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+      "summary": "arXiv:2606.07577v1 Announce Type: new Abstract: Audio-visual large language models (LLMs) hold strong promise for long-form video understanding, yet their long-video inference is fundamentally limited",
+      "url": "https://arxiv.org/abs/2606.07577",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-09T00:00:00-04:00",
+      "scrapedAt": "2026-06-09T11:22:37.916928+00:00"
+    },
+    {
+      "id": "c56e32becc42",
+      "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+      "summary": "arXiv:2606.07549v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models (MLLMs) and agent workflows have shown strong promise for computational pathology, yet reliable patc",
+      "url": "https://arxiv.org/abs/2606.07549",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-09T00:00:00-04:00",
+      "scrapedAt": "2026-06-09T11:22:37.916804+00:00"
+    },
+    {
+      "id": "a6f495cb508b",
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-08T18:45:12+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.085178+00:00"
+    },
+    {
+      "id": "d35f80c9e14b",
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-08T18:48:45+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.085111+00:00"
+    },
+    {
+      "id": "671e14593266",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-08T19:41:32+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.085017+00:00"
+    },
+    {
+      "id": "bae85cd85745",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-08T20:53:55+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.084949+00:00"
+    },
+    {
+      "id": "d5767efbb2bb",
+      "title": "Apple plays catch-up at WWDC",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to ",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-08T21:15:42+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.084879+00:00"
+    },
+    {
+      "id": "060a84be34f2",
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-08T21:29:57+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.084811+00:00"
+    },
+    {
+      "id": "66efa84f4702",
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-08T22:39:57+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.084742+00:00"
+    },
+    {
+      "id": "6025772369b3",
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-08T22:41:45+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.084670+00:00"
+    },
+    {
+      "id": "d2fe95fff064",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-09T00:45:56+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.084596+00:00"
+    },
+    {
+      "id": "bf51653a4ab1",
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-09T01:56:48+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.084516+00:00"
+    },
+    {
+      "id": "f4ee2a7a3a8a",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-08T00:00:00+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.008528+00:00"
+    },
+    {
+      "id": "536604e9e1ff",
+      "title": "Built to benefit everyone: our plan",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-08T01:30:00+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.008443+00:00"
+    },
+    {
+      "id": "c39ad57d6bd7",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-08T14:00:00+00:00",
+      "scrapedAt": "2026-06-09T11:22:37.008357+00:00"
+    },
+    {
+      "id": "5a0f8f20efd8",
+      "title": "Five things you need to know about AI",
+      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 ",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-06-09T09:16:45+00:00",
+      "scrapedAt": "2026-06-09T11:22:35.369535+00:00"
+    },
+    {
+      "id": "25761d5880ff",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterp",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-06-09T10:20:06+00:00",
+      "scrapedAt": "2026-06-09T11:22:35.367129+00:00"
+    },
     {
       "id": "2b2c0b0cb225",
       "title": "Generative Models Erode Human Temporal Learning Through Market Selection",
@@ -1411,206 +1611,6 @@
       "category": "product",
       "publishedAt": "2026-06-02T11:23:34+00:00",
       "scrapedAt": "2026-06-02T12:10:41.888310+00:00"
-    },
-    {
-      "id": "99061daac8ea",
-      "title": "NumLeak: Public Numeric Benchmarks as Latent Labels in Foundation Models",
-      "summary": "arXiv:2605.30393v1 Announce Type: new Abstract: Public numeric benchmarks appear in pretraining, so an evaluation that conditions on a date may be measuring memorized recall rather than out-of-sample ",
-      "url": "https://arxiv.org/abs/2605.30393",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.856904+00:00"
-    },
-    {
-      "id": "459c6b819789",
-      "title": "A Novel Evaluation Metric for Unsupervised Learning in AIS-Based Maritime Anomaly Detection: MADQI",
-      "summary": "arXiv:2605.30388v1 Announce Type: new Abstract: This paper introduces a new systematic framework for detecting anomalies in maritime Automatic Identification System (AIS) datasets. These anomalies inc",
-      "url": "https://arxiv.org/abs/2605.30388",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.856793+00:00"
-    },
-    {
-      "id": "0ef07497283a",
-      "title": "Functional MRI Time Series Generation via Wavelet-Based Image Transform and Spectral Flow Matching for Brain Disorder Identification",
-      "summary": "arXiv:2605.30387v1 Announce Type: new Abstract: Functional Magnetic Resonance Imaging (fMRI) provides non-invasive access to dynamic brain activity by measuring blood oxygen level-dependent (BOLD) sig",
-      "url": "https://arxiv.org/abs/2605.30387",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.856656+00:00"
-    },
-    {
-      "id": "d3d043455fcc",
-      "title": "LLMs Without Deep Neural Networks: New Architecture, Benefits and Case Study",
-      "summary": "arXiv:2605.30385v1 Announce Type: new Abstract: The purpose of this article is to provide validation to my deep neural network alternative in the context of LLMs. Very recently, there has been a signi",
-      "url": "https://arxiv.org/abs/2605.30385",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.856502+00:00"
-    },
-    {
-      "id": "350594000bc6",
-      "title": "When LLMs Learn to Be Consistently Wrong: A Multi-Model Study of Linear Representations of Synthetic Deception",
-      "summary": "arXiv:2605.30381v1 Announce Type: new Abstract: Deceptive alignment, in which models maintain accurate internal representations while deliberately producing false outputs, remains a central challenge ",
-      "url": "https://arxiv.org/abs/2605.30381",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.856411+00:00"
-    },
-    {
-      "id": "c1752c033b04",
-      "title": "Unicorn: Scaling High-Dimensional Time Series Forecasting via Universal Correlation Modeling",
-      "summary": "arXiv:2605.30376v1 Announce Type: new Abstract: Modern time series architectures face a fundamental trade-off: channel-independent models scale well with increasing data volume but ignore critical int",
-      "url": "https://arxiv.org/abs/2605.30376",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.856277+00:00"
-    },
-    {
-      "id": "3d6b861ac85b",
-      "title": "Gait2Hip-60: A Unified Deep Learning Benchmark for Predicting Hip Muscle Forces and Joint Moments from Multi-Cadence Gait Kinematics",
-      "summary": "arXiv:2605.30374v1 Announce Type: new Abstract: Estimating hip muscle forces and joint moments during gait typically relies on musculoskeletal simulation, which is informative but time-consuming and d",
-      "url": "https://arxiv.org/abs/2605.30374",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.856168+00:00"
-    },
-    {
-      "id": "13db27724624",
-      "title": "QASM-Eval: A Dataset to Train and Evaluate LLMs on OpenQASM-3 Beyond Quantum Circuits",
-      "summary": "arXiv:2605.30358v1 Announce Type: new Abstract: Quantum computing remains in the Noisy Intermediate-Scale Quantum (NISQ) era, where the performance is highly constrained to noise. Addressing the limit",
-      "url": "https://arxiv.org/abs/2605.30358",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.856004+00:00"
-    },
-    {
-      "id": "7b52e4995638",
-      "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
-      "summary": "arXiv:2605.30738v1 Announce Type: new Abstract: Generalization across agentic tool-calling environments remains a central challenge for reliable agentic reasoning systems. Although large language mode",
-      "url": "https://arxiv.org/abs/2605.30738",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.413437+00:00"
-    },
-    {
-      "id": "f178f0e5929c",
-      "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
-      "summary": "arXiv:2605.30680v1 Announce Type: new Abstract: Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold this response fixed and s",
-      "url": "https://arxiv.org/abs/2605.30680",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.413329+00:00"
-    },
-    {
-      "id": "0420ceff79d1",
-      "title": "Structure-Induced Information for Rerooting Levin Tree Search",
-      "summary": "arXiv:2605.30664v1 Announce Type: new Abstract: Subgoal-based policy tree search, which uses a policy to guide search, is effective for complex single-agent deterministic problems but often relies on ",
-      "url": "https://arxiv.org/abs/2605.30664",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.413226+00:00"
-    },
-    {
-      "id": "85b2e0e66ca6",
-      "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
-      "summary": "arXiv:2605.30637v1 Announce Type: new Abstract: Clinical decision-making (CDM) is central to real-world clinical workflows, where clinicians infer diagnoses, select treatments, or anticipate future he",
-      "url": "https://arxiv.org/abs/2605.30637",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.413125+00:00"
-    },
-    {
-      "id": "ca6ec70b9df6",
-      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
-      "summary": "arXiv:2605.30621v1 Announce Type: new Abstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task",
-      "url": "https://arxiv.org/abs/2605.30621",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.412997+00:00"
-    },
-    {
-      "id": "5712a926c16f",
-      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
-      "summary": "arXiv:2605.30576v1 Announce Type: new Abstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can ",
-      "url": "https://arxiv.org/abs/2605.30576",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.412871+00:00"
-    },
-    {
-      "id": "bf74cd9ca250",
-      "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
-      "summary": "arXiv:2605.30570v1 Announce Type: new Abstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consid",
-      "url": "https://arxiv.org/abs/2605.30570",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.412763+00:00"
-    },
-    {
-      "id": "1cc51a1d87ca",
-      "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
-      "summary": "arXiv:2605.30563v1 Announce Type: new Abstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, conditional effects, and angel",
-      "url": "https://arxiv.org/abs/2605.30563",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.412659+00:00"
-    },
-    {
-      "id": "9e8797235255",
-      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
-      "summary": "arXiv:2605.30542v1 Announce Type: new Abstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing acti",
-      "url": "https://arxiv.org/abs/2605.30542",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.412498+00:00"
-    },
-    {
-      "id": "268f441a63da",
-      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
-      "summary": "arXiv:2605.30512v1 Announce Type: new Abstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, th",
-      "url": "https://arxiv.org/abs/2605.30512",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-01T00:00:00-04:00",
-      "scrapedAt": "2026-06-01T13:42:14.412331+00:00"
-    },
-    {
-      "id": "219fb65d984a",
-      "title": "Making sense of the debate over AI psychosis",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-31T15:30:00+00:00",
-      "scrapedAt": "2026-06-01T13:42:13.572654+00:00"
-    },
-    {
-      "id": "6e2aa85b95d5",
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "summary": "Environmental activist Erin Brockovich has a new mission.",
-      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-05-31T21:05:14+00:00",
-      "scrapedAt": "2026-06-01T13:42:13.572568+00:00"
     }
   ]
 }
