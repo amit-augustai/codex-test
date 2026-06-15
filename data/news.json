@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-06-14T10:52:19.317406+00:00",
+  "lastUpdated": "2026-06-15T14:30:17.869579+00:00",
   "articles": [
+    {
+      "id": "b2bd25d9c200",
+      "title": "A fully GPU-based workflow for building physics emulators of hypersonic flows",
+      "summary": "arXiv:2606.13742v1 Announce Type: new Abstract: The ability to resolve complex physical phenomena with high fidelity and at low computational cost is central to addressing key challenges in modern eng",
+      "url": "https://arxiv.org/abs/2606.13742",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.394868+00:00"
+    },
+    {
+      "id": "e46f5d9b41d6",
+      "title": "High-Frequency Pricing at Scale for E-Commerce",
+      "summary": "arXiv:2606.13741v1 Announce Type: new Abstract: This paper presents the design, development, and implementation of a specialized forecast-then-optimize algorithmic pricing tool for sales campaigns in ",
+      "url": "https://arxiv.org/abs/2606.13741",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.394757+00:00"
+    },
+    {
+      "id": "7dba3f9c1742",
+      "title": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
+      "summary": "arXiv:2606.13740v1 Announce Type: new Abstract: Diffusion large language models (dLLMs) accelerate generation by denoising multiple tokens in parallel, making them attractive for latency-sensitive mob",
+      "url": "https://arxiv.org/abs/2606.13740",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.394648+00:00"
+    },
+    {
+      "id": "ef8ba0653d09",
+      "title": "Can Editing 1 Neuron Fix Repetition Loops in LLMs?",
+      "summary": "arXiv:2606.13705v1 Announce Type: new Abstract: Yes. Can it cure doom loops? Probably not. The Gemma 4 instruction-tuned models share a reproducible failure: on long factual enumeration prompts, such ",
+      "url": "https://arxiv.org/abs/2606.13705",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.394519+00:00"
+    },
+    {
+      "id": "5868c8ec9b31",
+      "title": "When Sample Selection Bias Precipitates Model Collapse",
+      "summary": "arXiv:2606.13732v1 Announce Type: new Abstract: The proliferation of recursive training on synthetic data can alleviate data scarcity but risks model collapse, where repeated training erodes distribut",
+      "url": "https://arxiv.org/abs/2606.13732",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.205450+00:00"
+    },
+    {
+      "id": "db2209501963",
+      "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+      "summary": "arXiv:2606.13731v1 Announce Type: new Abstract: Business intelligence (BI) increasingly combines dashboard interaction with LLM-based assistance, but these two modes often fall out of sync during mult",
+      "url": "https://arxiv.org/abs/2606.13731",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.205351+00:00"
+    },
+    {
+      "id": "88fb8e2765c6",
+      "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+      "summary": "arXiv:2606.13722v1 Announce Type: new Abstract: This paper introduces YeasierAgent, an application-building paradigm based on symbiotic agents, narrative worlds, and scene-aware interaction. It challe",
+      "url": "https://arxiv.org/abs/2606.13722",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.205226+00:00"
+    },
+    {
+      "id": "a622fca748f8",
+      "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+      "summary": "arXiv:2606.13720v1 Announce Type: new Abstract: Arditi et al. (2024) has shown that refusal in safety fine-tuned chat models is mediated by a single linear direction in the residual stream, recoverabl",
+      "url": "https://arxiv.org/abs/2606.13720",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.205144+00:00"
+    },
+    {
+      "id": "ed8e751ea740",
+      "title": "WorkBench Revisited: Workplace Agents Two Years On",
+      "summary": "arXiv:2606.13715v1 Announce Type: new Abstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing the wrong person, on 26",
+      "url": "https://arxiv.org/abs/2606.13715",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.205046+00:00"
+    },
+    {
+      "id": "4189ca72bf9c",
+      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+      "summary": "arXiv:2606.13710v1 Announce Type: new Abstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former en",
+      "url": "https://arxiv.org/abs/2606.13710",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.204953+00:00"
+    },
+    {
+      "id": "15696521ad26",
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "summary": "arXiv:2606.13707v1 Announce Type: new Abstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent system",
+      "url": "https://arxiv.org/abs/2606.13707",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.204855+00:00"
+    },
+    {
+      "id": "04fc868be50f",
+      "title": "History of the Muddy Children Puzzle",
+      "summary": "arXiv:2606.13703v1 Announce Type: new Abstract: The Muddy Children Puzzle is a puzzle about knowledge and ignorance that has been inspiring for the development of epistemic logic. Who came up with it ",
+      "url": "https://arxiv.org/abs/2606.13703",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.204751+00:00"
+    },
+    {
+      "id": "a4ce144e1e12",
+      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+      "summary": "arXiv:2606.13683v1 Announce Type: new Abstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteristics, this paper propose",
+      "url": "https://arxiv.org/abs/2606.13683",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.204678+00:00"
+    },
+    {
+      "id": "e5bfd826a774",
+      "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+      "summary": "arXiv:2606.13682v1 Announce Type: new Abstract: The open shop scheduling problem (OSSP) arises in many industrial and service settings but remains computationally challenging as the number of jobs and",
+      "url": "https://arxiv.org/abs/2606.13682",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-15T00:00:00-04:00",
+      "scrapedAt": "2026-06-15T14:29:23.204564+00:00"
+    },
+    {
+      "id": "ba7f12545c7f",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-14T16:38:09+00:00",
+      "scrapedAt": "2026-06-15T14:29:22.411767+00:00"
+    },
+    {
+      "id": "0340f2ccb5a1",
+      "title": "The AI layoff wave is becoming a powder keg",
+      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-15T07:25:41+00:00",
+      "scrapedAt": "2026-06-15T14:29:22.411709+00:00"
+    },
+    {
+      "id": "e3d090f143fc",
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-15T12:00:00+00:00",
+      "scrapedAt": "2026-06-15T14:29:22.411648+00:00"
+    },
+    {
+      "id": "da4b5edf73d1",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-15T13:00:00+00:00",
+      "scrapedAt": "2026-06-15T14:29:22.411588+00:00"
+    },
+    {
+      "id": "bfeca2ee1bfe",
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-15T13:46:08+00:00",
+      "scrapedAt": "2026-06-15T14:29:22.411514+00:00"
+    },
+    {
+      "id": "9b41ef631f1c",
+      "title": "Introducing the OpenAI Partner Network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-14T17:00:00+00:00",
+      "scrapedAt": "2026-06-15T14:29:22.253188+00:00"
+    },
     {
       "id": "e7f26c0044c3",
       "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-06-09T10:20:06+00:00",
       "scrapedAt": "2026-06-09T11:22:35.367129+00:00"
-    },
-    {
-      "id": "2b2c0b0cb225",
-      "title": "Generative Models Erode Human Temporal Learning Through Market Selection",
-      "summary": "arXiv:2606.06572v1 Announce Type: new Abstract: We argue that modern generative models create structural risks for knowledge and cultural production at current, sub-AGI capability levels. We define Hu",
-      "url": "https://arxiv.org/abs/2606.06572",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.618921+00:00"
-    },
-    {
-      "id": "fcb542ef4118",
-      "title": "Are you sure? A Comprehensive and Comprehensible Survey of Uncertainty Quantification in Symbolic Regression",
-      "summary": "arXiv:2606.06567v1 Announce Type: new Abstract: Symbolic regression (SR) is a class of methods that systematically explore the space of mathematical functions to discover models that accurately captur",
-      "url": "https://arxiv.org/abs/2606.06567",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.618815+00:00"
-    },
-    {
-      "id": "6207f238e97d",
-      "title": "WAV: Multi-Resolution Block Residual Routing for Deep Decoder-Only Transformers",
-      "summary": "arXiv:2606.06564v1 Announce Type: new Abstract: Residual connections are central to training deep Transformers, but standard PreNorm residual streams aggregate sublayer updates with fixed unit weights",
-      "url": "https://arxiv.org/abs/2606.06564",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.618709+00:00"
-    },
-    {
-      "id": "ba2a1f3b2708",
-      "title": "MacArena: Benchmarking Computer Use Agents on an Online macOS Environment",
-      "summary": "arXiv:2606.06560v1 Announce Type: new Abstract: Computer-use agents (CUAs) operate graphical user interfaces (GUIs) through vision and control primitives, and their capabilities have advanced rapidly,",
-      "url": "https://arxiv.org/abs/2606.06560",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.618519+00:00"
-    },
-    {
-      "id": "2414c5f821ef",
-      "title": "Multi-Scale Feature Attention Network for Polymer Classification using THz Dual-Comb Spectroscopy",
-      "summary": "arXiv:2606.06554v1 Announce Type: new Abstract: Reliable polymer identification is essential for ensuring the quality and safety of recycled plastics, yet conventional sorting and spectroscopic techni",
-      "url": "https://arxiv.org/abs/2606.06554",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.618406+00:00"
-    },
-    {
-      "id": "2596fee4371c",
-      "title": "FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models",
-      "summary": "arXiv:2606.06547v1 Announce Type: new Abstract: Diffusion Large Language Models (dLLMs) refine tokens iteratively but commit them irreversibly, leading to a \"stability lag\" where early decisions remai",
-      "url": "https://arxiv.org/abs/2606.06547",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.618297+00:00"
-    },
-    {
-      "id": "e9a1c0ac3b8e",
-      "title": "Elmes*: Automated Construction of Fine-Grained Evaluation Rubrics for Large Language Models in Long-Tail Educational Scenarios",
-      "summary": "arXiv:2606.06546v1 Announce Type: new Abstract: Evaluating large language models (LLMs) for education requires measuring how models teach, not only what they know. Existing benchmarks emphasize domain",
-      "url": "https://arxiv.org/abs/2606.06546",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.618183+00:00"
-    },
-    {
-      "id": "28bc2fc69baf",
-      "title": "A Study of Parallel Continuous Local Search",
-      "summary": "arXiv:2606.06656v1 Announce Type: new Abstract: We study parallel Continuous Local Search (CLS) as a solution approach for Boolean satisfiability problems with symmetric pseudo-Boolean (PB) constraint",
-      "url": "https://arxiv.org/abs/2606.06656",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.367360+00:00"
-    },
-    {
-      "id": "1e222988bee6",
-      "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
-      "summary": "arXiv:2606.06641v1 Announce Type: new Abstract: We present Accelerated Fourier SAT (AFSAT), a GPU-accelerated solver for pseudo-Boolean satisfiability based on continuous local search (CLS). AFSAT rea",
-      "url": "https://arxiv.org/abs/2606.06641",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.367266+00:00"
-    },
-    {
-      "id": "e85fda8f3ffd",
-      "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
-      "summary": "arXiv:2606.06533v1 Announce Type: new Abstract: What would it mean to have a scientific understanding of AI? Models are not static objects: they are snapshots of time-evolving processes shaped by data",
-      "url": "https://arxiv.org/abs/2606.06533",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.367164+00:00"
-    },
-    {
-      "id": "b7a64887356e",
-      "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
-      "summary": "arXiv:2606.06531v1 Announce Type: new Abstract: The critical question after a correct driving veto is not only whether a maneuver is unsafe, but whether the blocked interaction admits a lawful, audita",
-      "url": "https://arxiv.org/abs/2606.06531",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.367061+00:00"
-    },
-    {
-      "id": "8d89880ec950",
-      "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
-      "summary": "arXiv:2606.06529v1 Announce Type: new Abstract: An attacker that strategically chooses when to attack is much harder to catch than one that attacks indiscriminately. AI control is a safety framework f",
-      "url": "https://arxiv.org/abs/2606.06529",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.366932+00:00"
-    },
-    {
-      "id": "45c4fba7f799",
-      "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
-      "summary": "arXiv:2606.06526v1 Announce Type: new Abstract: Large language models have made substantial progress on mathematical reasoning, but existing benchmarks typically evaluate well-specified problems with ",
-      "url": "https://arxiv.org/abs/2606.06526",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.366813+00:00"
-    },
-    {
-      "id": "cf5270b3f668",
-      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
-      "summary": "arXiv:2606.06523v1 Announce Type: new Abstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recen",
-      "url": "https://arxiv.org/abs/2606.06523",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.366694+00:00"
-    },
-    {
-      "id": "13f48f70041d",
-      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
-      "summary": "arXiv:2606.06519v1 Announce Type: new Abstract: Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment and make models more vul",
-      "url": "https://arxiv.org/abs/2606.06519",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.366518+00:00"
-    },
-    {
-      "id": "131207dd3d76",
-      "title": "DiBS: Diffusion-Informed Branch Selection",
-      "summary": "arXiv:2606.06518v1 Announce Type: new Abstract: Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete constraints. The existing wor",
-      "url": "https://arxiv.org/abs/2606.06518",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.366408+00:00"
-    },
-    {
-      "id": "c49d38c44706",
-      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
-      "summary": "arXiv:2606.06514v1 Announce Type: new Abstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a cl",
-      "url": "https://arxiv.org/abs/2606.06514",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-08T00:00:00-04:00",
-      "scrapedAt": "2026-06-08T12:38:18.366277+00:00"
-    },
-    {
-      "id": "893947abd016",
-      "title": "OpenAI is still working on that ‘super app’",
-      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-07T16:23:22+00:00",
-      "scrapedAt": "2026-06-08T12:38:17.771729+00:00"
-    },
-    {
-      "id": "c733bac7a8d4",
-      "title": "Notion restores access to Anthropic after service disruption",
-      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-07T17:56:22+00:00",
-      "scrapedAt": "2026-06-08T12:38:17.771657+00:00"
-    },
-    {
-      "id": "823021378754",
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
-      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-07T20:26:13+00:00",
-      "scrapedAt": "2026-06-08T12:38:17.771571+00:00"
     }
   ]
 }
