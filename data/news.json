@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-06-17T12:21:57.332530+00:00",
+  "lastUpdated": "2026-06-18T11:54:49.481817+00:00",
   "articles": [
+    {
+      "id": "a505177afbeb",
+      "title": "CODEBLOCK: Learning to Supervise Code at the Right Granularity",
+      "summary": "arXiv:2606.18286v1 Announce Type: new Abstract: Supervised fine-tuning of code LLMs typically applies uniform cross-entropy loss to all response tokens, implicitly assuming that every token provides e",
+      "url": "https://arxiv.org/abs/2606.18286",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-18T00:00:00-04:00",
+      "scrapedAt": "2026-06-18T11:53:54.781186+00:00"
+    },
+    {
+      "id": "821c3f2ad78b",
+      "title": "Breaking the Solver Bottleneck: Training Task Generators at the Learnable Frontier",
+      "summary": "arXiv:2606.18284v1 Announce Type: new Abstract: The limiting resource for training agents via reinforcement learning (RL) is increasingly frontier task supply: valid, solvable tasks just difficult eno",
+      "url": "https://arxiv.org/abs/2606.18284",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-18T00:00:00-04:00",
+      "scrapedAt": "2026-06-18T11:53:54.781062+00:00"
+    },
+    {
+      "id": "8e927120c9c7",
+      "title": "Gaussian Mixture Attention: Linear-Time Sequence Mixing via Probabilistic Latent Routing",
+      "summary": "arXiv:2606.18283v1 Announce Type: new Abstract: The dense token-to-token interaction pattern of standard dot-product attention remains a central bottleneck in scaling Transformer architectures to long",
+      "url": "https://arxiv.org/abs/2606.18283",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-06-18T00:00:00-04:00",
+      "scrapedAt": "2026-06-18T11:53:54.780913+00:00"
+    },
+    {
+      "id": "5ac8d01ee934",
+      "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
+      "summary": "arXiv:2606.17405v1 Announce Type: new Abstract: Clinical decision support AI systems (CDSASs) must adapt to evolving patient conditions in real-time while adhering to strict safety constraints. We pre",
+      "url": "https://arxiv.org/abs/2606.17405",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-18T00:00:00-04:00",
+      "scrapedAt": "2026-06-18T11:53:54.531813+00:00"
+    },
+    {
+      "id": "d416a6076cb0",
+      "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
+      "summary": "arXiv:2606.17368v1 Announce Type: new Abstract: Large language models have accelerated the transition from passive conversational assistants to autonomous agents that can understand goals, plan action",
+      "url": "https://arxiv.org/abs/2606.17368",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-18T00:00:00-04:00",
+      "scrapedAt": "2026-06-18T11:53:54.531704+00:00"
+    },
+    {
+      "id": "082db82cb6eb",
+      "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
+      "summary": "arXiv:2606.17339v1 Announce Type: new Abstract: Speech offers a uniquely informative window into health by simultaneously engaging neurological, motor, respiratory, and vocal systems. Current clinical",
+      "url": "https://arxiv.org/abs/2606.17339",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-18T00:00:00-04:00",
+      "scrapedAt": "2026-06-18T11:53:54.531549+00:00"
+    },
+    {
+      "id": "60e8e314cfb8",
+      "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
+      "summary": "arXiv:2606.17328v1 Announce Type: new Abstract: LLM agents increasingly maintain long-term memory of user facts across sessions. Yet such memory is usually evaluated by aggregating accuracy over quest",
+      "url": "https://arxiv.org/abs/2606.17328",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-18T00:00:00-04:00",
+      "scrapedAt": "2026-06-18T11:53:54.531444+00:00"
+    },
+    {
+      "id": "c450fcaeffa8",
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T17:00:01+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.779461+00:00"
+    },
+    {
+      "id": "d84f6e5d3df2",
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+      "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T17:43:07+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.779393+00:00"
+    },
+    {
+      "id": "69f241dbd025",
+      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its",
+      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T18:00:00+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.779321+00:00"
+    },
+    {
+      "id": "a459b814ba8d",
+      "title": "Social media’s next evolution: user-controlled algorithms",
+      "summary": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+      "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T18:19:48+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.779197+00:00"
+    },
+    {
+      "id": "1d907aaa2f0e",
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T18:30:56+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.779122+00:00"
+    },
+    {
+      "id": "9ef08ab1d787",
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T19:01:19+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.779044+00:00"
+    },
+    {
+      "id": "3d1666c95475",
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its",
+      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T20:17:38+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.778926+00:00"
+    },
+    {
+      "id": "358e207ac3c7",
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T20:24:28+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.777196+00:00"
+    },
+    {
+      "id": "3daf2dc5e48c",
+      "title": "Roelof Botha joins SpaceX’s board of directors",
+      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T20:32:52+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.777124+00:00"
+    },
+    {
+      "id": "e304a2af2a1b",
+      "title": "How to turn off AI in your Google Docs",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T01:23:51+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.777039+00:00"
+    },
+    {
+      "id": "916e534ab8d5",
+      "title": "Introducing LifeSciBench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-17T00:00:00+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.720449+00:00"
+    },
+    {
+      "id": "80c1a32658b0",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-17T10:00:00+00:00",
+      "scrapedAt": "2026-06-18T11:53:53.720360+00:00"
+    },
+    {
+      "id": "0af1478cb097",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "summary": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-17T15:00:00+00:00",
+      "scrapedAt": "2026-06-18T11:53:52.811888+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp"
+    },
     {
       "id": "9f0eeaf0ca85",
       "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
