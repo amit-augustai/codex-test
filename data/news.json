@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-06-20T10:37:15.549062+00:00",
+  "lastUpdated": "2026-06-21T11:20:41.498797+00:00",
   "articles": [
+    {
+      "id": "ffd482a186da",
+      "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
+      "summary": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
+      "url": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T22:12:45+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.972713+00:00"
+    },
+    {
+      "id": "977190f7106d",
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-20T10:00:00+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.972650+00:00"
+    },
+    {
+      "id": "f7a0139ea9bc",
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-21T10:30:00+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.972579+00:00"
+    },
+    {
+      "id": "d57f9d01d74a",
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
+      "summary": "According to the latest Pew Research poll , 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T13:20:24-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.893892+00:00"
+    },
+    {
+      "id": "df07fe6f5184",
+      "title": "Anthropic got hit by export rules nobody understands",
+      "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including us",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T14:28:50-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.893523+00:00"
+    },
+    {
+      "id": "6bb412ed386a",
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+      "summary": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical Midjourney CEO David Holz just showed off the company's f",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T23:12:31-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.893172+00:00"
+    },
+    {
+      "id": "b7c74be4353f",
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "summary": "Give your characters, objects, and backgrounds a name to easily replicate them without changing the design. | Image: Adobe Adobe is introducing some new capabilities for its Firefly AI assistant, alon",
+      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T09:00:00-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.892871+00:00"
+    },
+    {
+      "id": "c4a5a14ca477",
+      "title": "Photoshop and Premiere now have AI assistants",
+      "summary": "﻿Photoshop is one of several Adobe Creative Cloud apps to receive new conversational editing capabilities. | Image: Adobe Adobe's plan to stick AI assistants into all of its Creative Cloud suite is no",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T09:00:00-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.892534+00:00"
+    },
+    {
+      "id": "cab0921cfdea",
+      "title": "Who decides when AI is too dangerous?",
+      "summary": "On today’s episode of Decoder , my guest is Hayden Field, senior AI reporter for The Verge . Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T10:00:00-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.892186+00:00"
+    },
+    {
+      "id": "cffdb8f6c88a",
+      "title": "Amazon employees say they’re facing termination for backing data center limits",
+      "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discriminati",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T12:00:00-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.885249+00:00"
+    },
+    {
+      "id": "4b49eeba9a48",
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-19T00:49:33-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.884945+00:00"
+    },
+    {
+      "id": "aca35cefe862",
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial , has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spannin",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-19T10:15:29-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.884517+00:00"
+    },
+    {
+      "id": "e4500944fe85",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-20T14:46:48-04:00",
+      "scrapedAt": "2026-06-21T11:19:45.883983+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.541383+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.538876+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.536126+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.530652+00:00"
+    },
+    {
+      "id": "232b0ce5ea49",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-20T16:39:57+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.072049+00:00"
+    },
+    {
+      "id": "5cab6cb8b0ba",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "summary": "So ... what's your In the Weights score?",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-20T19:41:11+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.071991+00:00"
+    },
+    {
+      "id": "7ddc78b7ede2",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-20T20:32:29+00:00",
+      "scrapedAt": "2026-06-21T11:19:45.071919+00:00"
+    },
     {
       "id": "64ada3fa6469",
       "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
@@ -1209,206 +1409,6 @@
       "category": "research",
       "publishedAt": "2026-06-14T17:00:00+00:00",
       "scrapedAt": "2026-06-15T14:29:22.253188+00:00"
-    },
-    {
-      "id": "e7f26c0044c3",
-      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-      "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
-      "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T02:26:10+00:00",
-      "scrapedAt": "2026-06-14T10:51:25.502873+00:00"
-    },
-    {
-      "id": "ab3929d7804d",
-      "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
-      "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
-      "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T09:00:00+00:00",
-      "scrapedAt": "2026-06-14T10:51:25.502795+00:00"
-    },
-    {
-      "id": "f1c8e5bce4ab",
-      "title": "Siri won’t be your AI girlfriend",
-      "summary": "‘Listen, that's not what I'm here for.' | Image: Apple Our early testing has already shown that Siri AI knows when to shut up , and that's very much by design. In an interview with Mostly Human spotte",
-      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-12T03:00:31-04:00",
-      "scrapedAt": "2026-06-14T10:51:25.373584+00:00"
-    },
-    {
-      "id": "2e1e6f85787c",
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC . The startup, called Prometheus, ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-12T10:03:39-04:00",
-      "scrapedAt": "2026-06-14T10:51:25.373180+00:00"
-    },
-    {
-      "id": "60d55ee8121f",
-      "title": "SpaceX’s massive IPO: all the latest news",
-      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. He has",
-      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-12T10:35:48-04:00",
-      "scrapedAt": "2026-06-14T10:51:25.372797+00:00"
-    },
-    {
-      "id": "ae65ff682b91",
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO . His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spa",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-12T12:24:39-04:00",
-      "scrapedAt": "2026-06-14T10:51:25.371577+00:00"
-    },
-    {
-      "id": "770ccfe0beda",
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "summary": "Concept art from Dear Upstairs Neighbors that used to train custom builds of Google’s Veo and Imagen models. | Image: Google DeepMind For all the noise that's been made about how generative AI is pois",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T07:00:00-04:00",
-      "scrapedAt": "2026-06-14T10:51:25.370872+00:00"
-    },
-    {
-      "id": "d2ba0669e3fe",
-      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-      "summary": "iPhone owners are getting real, native AI photo editing for the first time. The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of u",
-      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T08:00:00-04:00",
-      "scrapedAt": "2026-06-14T10:51:25.370451+00:00"
-    },
-    {
-      "id": "bc7fc883d0fe",
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T08:55:49-04:00",
-      "scrapedAt": "2026-06-14T10:51:25.370092+00:00"
-    },
-    {
-      "id": "9b106dc66a19",
-      "title": "My yard is dying, so I made an app for that",
-      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T09:00:00-04:00",
-      "scrapedAt": "2026-06-14T10:51:25.369746+00:00"
-    },
-    {
-      "id": "258e5ef30730",
-      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-      "summary": "According to the Wall Street Journal , the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and con",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T17:39:26-04:00",
-      "scrapedAt": "2026-06-14T10:51:25.369322+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-06-14T10:51:24.971803+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-06-14T10:51:24.969391+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-06-14T10:51:24.966851+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-06-14T10:51:24.961332+00:00"
-    },
-    {
-      "id": "748265de56e1",
-      "title": "OpenAI faces investigation from state attorneys general",
-      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T16:47:18+00:00",
-      "scrapedAt": "2026-06-14T10:51:24.706118+00:00"
-    },
-    {
-      "id": "0308281aa0fc",
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T19:11:41+00:00",
-      "scrapedAt": "2026-06-14T10:51:24.706066+00:00"
-    },
-    {
-      "id": "2149290c64f5",
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-13T20:42:31+00:00",
-      "scrapedAt": "2026-06-14T10:51:24.706010+00:00"
-    },
-    {
-      "id": "38c70bbff9aa",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-14T00:03:49+00:00",
-      "scrapedAt": "2026-06-14T10:51:24.705953+00:00"
-    },
-    {
-      "id": "fc12c862cec5",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-14T03:00:00+00:00",
-      "scrapedAt": "2026-06-14T10:51:24.705881+00:00"
     }
   ]
 }
