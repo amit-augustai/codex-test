@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-06-21T11:20:41.498797+00:00",
+  "lastUpdated": "2026-06-22T13:40:08.543016+00:00",
   "articles": [
+    {
+      "id": "25bd7c6960ec",
+      "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+      "summary": "Score: 44 points",
+      "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-06-21T22:46:43+00:00",
+      "scrapedAt": "2026-06-22T13:39:12.402073+00:00"
+    },
+    {
+      "id": "ead6b93e0511",
+      "title": "Identity verification on Claude",
+      "summary": "<a href=\"https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_anthropic_to_require_identity&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-06-21T12:44:13+00:00",
+      "scrapedAt": "2026-06-22T13:39:12.135832+00:00"
+    },
+    {
+      "id": "57a790565b60",
+      "title": "Show HN: Recall – Local project memory for Claude Code",
+      "summary": "Score: 120 points",
+      "url": "https://github.com/raiyanyahya/recall",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-06-21T21:05:37+00:00",
+      "scrapedAt": "2026-06-22T13:39:11.736437+00:00"
+    },
+    {
+      "id": "3f16bf8bc620",
+      "title": "Becoming a dad changes men's brains",
+      "summary": "Score: 13 points",
+      "url": "https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-06-22T12:39:43+00:00",
+      "scrapedAt": "2026-06-22T13:39:11.331382+00:00"
+    },
+    {
+      "id": "9ab140b948c2",
+      "title": "JSON-LD explained for personal websites",
+      "summary": "Score: 241 points",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-06-21T18:51:47+00:00",
+      "scrapedAt": "2026-06-22T13:39:11.266914+00:00"
+    },
+    {
+      "id": "0cd966d46598",
+      "title": "Danish privacy activist Lars Andersen raided by police",
+      "summary": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;LarsAnders1620&#x2F;status&#x2F;2068208864747540516#m\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;LarsAnders1620&#x2F;status&#x2F;206820886474754051.",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-06-22T04:50:26+00:00",
+      "scrapedAt": "2026-06-22T13:39:11.234564+00:00"
+    },
+    {
+      "id": "963a38bbce8b",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "summary": "Score: 171 points",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-06-21T22:55:23+00:00",
+      "scrapedAt": "2026-06-22T13:39:11.117851+00:00"
+    },
+    {
+      "id": "ea5a45c3af5b",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "summary": "Score: 457 points",
+      "url": "https://apertvs.ai/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-06-21T21:29:43+00:00",
+      "scrapedAt": "2026-06-22T13:39:10.784576+00:00"
+    },
+    {
+      "id": "299189fcbd81",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "summary": "Score: 134 points",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-06-19T15:54:23+00:00",
+      "scrapedAt": "2026-06-22T13:39:10.752172+00:00"
+    },
+    {
+      "id": "5a5ce2d394ba",
+      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-17T22:52:00+00:00",
+      "scrapedAt": "2026-06-22T13:39:10.302974+00:00"
+    },
+    {
+      "id": "e10f10a21b2f",
+      "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
+      "summary": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It’s moving forward anyway.",
+      "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T06:00:00+00:00",
+      "scrapedAt": "2026-06-22T13:39:10.302933+00:00"
+    },
+    {
+      "id": "e323a1edc540",
+      "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
+      "summary": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
+      "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T16:03:27+00:00",
+      "scrapedAt": "2026-06-22T13:39:10.302894+00:00"
+    },
+    {
+      "id": "1cce7fb422fb",
+      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+      "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T19:29:51+00:00",
+      "scrapedAt": "2026-06-22T13:39:10.302852+00:00"
+    },
+    {
+      "id": "683dcb58db1d",
+      "title": "The White House Is Making Up Its Rules for AI in Real Time",
+      "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
+      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-18T21:03:43+00:00",
+      "scrapedAt": "2026-06-22T13:39:10.302809+00:00"
+    },
+    {
+      "id": "23d401c189d5",
+      "title": "World Cup Scams Are Getting Harder to Spot",
+      "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
+      "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T09:30:00+00:00",
+      "scrapedAt": "2026-06-22T13:39:10.302595+00:00"
+    },
+    {
+      "id": "bb053c7468c4",
+      "title": "Some Electricians Think Building Data Centers Is for Sellouts",
+      "summary": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
+      "url": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T09:30:00+00:00",
+      "scrapedAt": "2026-06-22T13:39:10.302532+00:00"
+    },
+    {
+      "id": "d9132501a8f5",
+      "title": "Read this before you vibe-code another app",
+      "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T07:00:00-04:00",
+      "scrapedAt": "2026-06-22T13:39:10.108730+00:00"
+    },
+    {
+      "id": "b893e7b70421",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-21T14:40:28+00:00",
+      "scrapedAt": "2026-06-22T13:39:09.230821+00:00"
+    },
+    {
+      "id": "a96480a97656",
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-21T15:28:17+00:00",
+      "scrapedAt": "2026-06-22T13:39:09.230757+00:00"
+    },
+    {
+      "id": "663d872622a3",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-21T23:00:00+00:00",
+      "scrapedAt": "2026-06-22T13:39:09.095749+00:00"
+    },
     {
       "id": "ffd482a186da",
       "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
