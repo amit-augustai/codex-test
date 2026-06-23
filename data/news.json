@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-06-22T13:40:08.543016+00:00",
+  "lastUpdated": "2026-06-23T11:23:27.594302+00:00",
   "articles": [
+    {
+      "id": "ea1a221f0d38",
+      "title": "PEAR: Permutation-Equivariant Adaptive Routing Multi-Agent Debate",
+      "summary": "arXiv:2606.20621v1 Announce Type: new Abstract: Multi-agent debate improves the reliability of large language models (LLMs) through iterative peer critiques. However, fixed topologies often introduce ",
+      "url": "https://arxiv.org/abs/2606.20621",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-23T00:00:00-04:00",
+      "scrapedAt": "2026-06-23T11:22:32.673260+00:00"
+    },
+    {
+      "id": "d47741561965",
+      "title": "Specifying AI-SDLC Processes: A Protocol Language for Human-Agent Boundaries",
+      "summary": "arXiv:2606.20615v1 Announce Type: new Abstract: AI agents now participate as first-class team members across the software development lifecycle, yet no specification language exists for expressing the",
+      "url": "https://arxiv.org/abs/2606.20615",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-23T00:00:00-04:00",
+      "scrapedAt": "2026-06-23T11:22:32.673156+00:00"
+    },
+    {
+      "id": "2bf9b56b1f6d",
+      "title": "The New Associationism: Lessons from Deep Learning",
+      "summary": "arXiv:2606.20600v1 Announce Type: new Abstract: What can the success of modern AI tell us about how humans learn? This paper argues that taking AI seriously as a model of human learning supports a mod",
+      "url": "https://arxiv.org/abs/2606.20600",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-23T00:00:00-04:00",
+      "scrapedAt": "2026-06-23T11:22:32.673032+00:00"
+    },
+    {
+      "id": "ef32038ce160",
+      "title": "Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies",
+      "summary": "arXiv:2606.20599v1 Announce Type: new Abstract: Tree of Thought (ToT) search has become a promising direction for improving the reasoning capabilities of large language models, but deploying these met",
+      "url": "https://arxiv.org/abs/2606.20599",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-23T00:00:00-04:00",
+      "scrapedAt": "2026-06-23T11:22:32.672927+00:00"
+    },
+    {
+      "id": "b7ea0c9bee51",
+      "title": "On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces",
+      "summary": "arXiv:2606.20569v1 Announce Type: new Abstract: We analyze identifiability in co-adaptive human-machine systems. We show that closed-loop encoder estimates do not uniquely identify user adaptation, bu",
+      "url": "https://arxiv.org/abs/2606.20569",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-23T00:00:00-04:00",
+      "scrapedAt": "2026-06-23T11:22:32.672780+00:00"
+    },
+    {
+      "id": "b22d2d1be4cf",
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T14:00:00+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.707002+00:00"
+    },
+    {
+      "id": "f7ef68bb6a12",
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T16:51:29+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.706932+00:00"
+    },
+    {
+      "id": "3bc52c088383",
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T17:31:29+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.706864+00:00"
+    },
+    {
+      "id": "2eba6f3aeae1",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T18:49:44+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.706795+00:00"
+    },
+    {
+      "id": "e14ed19e3b39",
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T20:08:15+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.706730+00:00"
+    },
+    {
+      "id": "a9ba7814c8ed",
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T20:13:58+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.706655+00:00"
+    },
+    {
+      "id": "f811b25fbf9d",
+      "title": "The AI world is getting ‘loopy’",
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T20:53:11+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.706584+00:00"
+    },
+    {
+      "id": "8bdf35b5ee90",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "summary": "OpenAI is using AI to help the open source community better protect itself.",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-23T00:11:31+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.706509+00:00"
+    },
+    {
+      "id": "44208f99c618",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-23T01:27:55+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.706418+00:00"
+    },
+    {
+      "id": "5edb7201b0cb",
+      "title": "Codex-maxxing for long-running work",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-22T00:00:00+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.548474+00:00"
+    },
+    {
+      "id": "f601b26b225b",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-22T10:00:00+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.548375+00:00"
+    },
+    {
+      "id": "5d9de7a5a94a",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-22T10:00:00+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.548297+00:00"
+    },
+    {
+      "id": "350becd7dc0b",
+      "title": "How Omio is building the future of conversational travel",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "url": "https://openai.com/index/omio",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-23T00:00:00+00:00",
+      "scrapedAt": "2026-06-23T11:22:31.548211+00:00"
+    },
+    {
+      "id": "e5321e5c15e4",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . For those of you enjoying your summer unaware of Anthropic’s ",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-06-22T18:00:00+00:00",
+      "scrapedAt": "2026-06-23T11:22:30.591750+00:00"
+    },
+    {
+      "id": "3dba77af320d",
+      "title": "The $400 million machine powering the future of chipmaking",
+      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine. It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled al",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-06-23T09:00:00+00:00",
+      "scrapedAt": "2026-06-23T11:22:30.590569+00:00"
+    },
     {
       "id": "25bd7c6960ec",
       "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
@@ -1409,206 +1609,6 @@
       "category": "product",
       "publishedAt": "2026-06-16T09:00:00+00:00",
       "scrapedAt": "2026-06-16T12:58:58.302379+00:00"
-    },
-    {
-      "id": "b2bd25d9c200",
-      "title": "A fully GPU-based workflow for building physics emulators of hypersonic flows",
-      "summary": "arXiv:2606.13742v1 Announce Type: new Abstract: The ability to resolve complex physical phenomena with high fidelity and at low computational cost is central to addressing key challenges in modern eng",
-      "url": "https://arxiv.org/abs/2606.13742",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.394868+00:00"
-    },
-    {
-      "id": "e46f5d9b41d6",
-      "title": "High-Frequency Pricing at Scale for E-Commerce",
-      "summary": "arXiv:2606.13741v1 Announce Type: new Abstract: This paper presents the design, development, and implementation of a specialized forecast-then-optimize algorithmic pricing tool for sales campaigns in ",
-      "url": "https://arxiv.org/abs/2606.13741",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.394757+00:00"
-    },
-    {
-      "id": "7dba3f9c1742",
-      "title": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
-      "summary": "arXiv:2606.13740v1 Announce Type: new Abstract: Diffusion large language models (dLLMs) accelerate generation by denoising multiple tokens in parallel, making them attractive for latency-sensitive mob",
-      "url": "https://arxiv.org/abs/2606.13740",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.394648+00:00"
-    },
-    {
-      "id": "ef8ba0653d09",
-      "title": "Can Editing 1 Neuron Fix Repetition Loops in LLMs?",
-      "summary": "arXiv:2606.13705v1 Announce Type: new Abstract: Yes. Can it cure doom loops? Probably not. The Gemma 4 instruction-tuned models share a reproducible failure: on long factual enumeration prompts, such ",
-      "url": "https://arxiv.org/abs/2606.13705",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.394519+00:00"
-    },
-    {
-      "id": "5868c8ec9b31",
-      "title": "When Sample Selection Bias Precipitates Model Collapse",
-      "summary": "arXiv:2606.13732v1 Announce Type: new Abstract: The proliferation of recursive training on synthetic data can alleviate data scarcity but risks model collapse, where repeated training erodes distribut",
-      "url": "https://arxiv.org/abs/2606.13732",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.205450+00:00"
-    },
-    {
-      "id": "db2209501963",
-      "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
-      "summary": "arXiv:2606.13731v1 Announce Type: new Abstract: Business intelligence (BI) increasingly combines dashboard interaction with LLM-based assistance, but these two modes often fall out of sync during mult",
-      "url": "https://arxiv.org/abs/2606.13731",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.205351+00:00"
-    },
-    {
-      "id": "88fb8e2765c6",
-      "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
-      "summary": "arXiv:2606.13722v1 Announce Type: new Abstract: This paper introduces YeasierAgent, an application-building paradigm based on symbiotic agents, narrative worlds, and scene-aware interaction. It challe",
-      "url": "https://arxiv.org/abs/2606.13722",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.205226+00:00"
-    },
-    {
-      "id": "a622fca748f8",
-      "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
-      "summary": "arXiv:2606.13720v1 Announce Type: new Abstract: Arditi et al. (2024) has shown that refusal in safety fine-tuned chat models is mediated by a single linear direction in the residual stream, recoverabl",
-      "url": "https://arxiv.org/abs/2606.13720",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.205144+00:00"
-    },
-    {
-      "id": "ed8e751ea740",
-      "title": "WorkBench Revisited: Workplace Agents Two Years On",
-      "summary": "arXiv:2606.13715v1 Announce Type: new Abstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing the wrong person, on 26",
-      "url": "https://arxiv.org/abs/2606.13715",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.205046+00:00"
-    },
-    {
-      "id": "4189ca72bf9c",
-      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
-      "summary": "arXiv:2606.13710v1 Announce Type: new Abstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former en",
-      "url": "https://arxiv.org/abs/2606.13710",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.204953+00:00"
-    },
-    {
-      "id": "15696521ad26",
-      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
-      "summary": "arXiv:2606.13707v1 Announce Type: new Abstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent system",
-      "url": "https://arxiv.org/abs/2606.13707",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.204855+00:00"
-    },
-    {
-      "id": "04fc868be50f",
-      "title": "History of the Muddy Children Puzzle",
-      "summary": "arXiv:2606.13703v1 Announce Type: new Abstract: The Muddy Children Puzzle is a puzzle about knowledge and ignorance that has been inspiring for the development of epistemic logic. Who came up with it ",
-      "url": "https://arxiv.org/abs/2606.13703",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.204751+00:00"
-    },
-    {
-      "id": "a4ce144e1e12",
-      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
-      "summary": "arXiv:2606.13683v1 Announce Type: new Abstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteristics, this paper propose",
-      "url": "https://arxiv.org/abs/2606.13683",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.204678+00:00"
-    },
-    {
-      "id": "e5bfd826a774",
-      "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
-      "summary": "arXiv:2606.13682v1 Announce Type: new Abstract: The open shop scheduling problem (OSSP) arises in many industrial and service settings but remains computationally challenging as the number of jobs and",
-      "url": "https://arxiv.org/abs/2606.13682",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-15T00:00:00-04:00",
-      "scrapedAt": "2026-06-15T14:29:23.204564+00:00"
-    },
-    {
-      "id": "ba7f12545c7f",
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-14T16:38:09+00:00",
-      "scrapedAt": "2026-06-15T14:29:22.411767+00:00"
-    },
-    {
-      "id": "0340f2ccb5a1",
-      "title": "The AI layoff wave is becoming a powder keg",
-      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
-      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-15T07:25:41+00:00",
-      "scrapedAt": "2026-06-15T14:29:22.411709+00:00"
-    },
-    {
-      "id": "e3d090f143fc",
-      "title": "A satellite just learned to find things on its own — here’s what that means",
-      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
-      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-15T12:00:00+00:00",
-      "scrapedAt": "2026-06-15T14:29:22.411648+00:00"
-    },
-    {
-      "id": "da4b5edf73d1",
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-15T13:00:00+00:00",
-      "scrapedAt": "2026-06-15T14:29:22.411588+00:00"
-    },
-    {
-      "id": "bfeca2ee1bfe",
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-15T13:46:08+00:00",
-      "scrapedAt": "2026-06-15T14:29:22.411514+00:00"
-    },
-    {
-      "id": "9b41ef631f1c",
-      "title": "Introducing the OpenAI Partner Network",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-14T17:00:00+00:00",
-      "scrapedAt": "2026-06-15T14:29:22.253188+00:00"
     }
   ]
 }
