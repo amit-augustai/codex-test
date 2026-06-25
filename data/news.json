@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-06-24T10:57:01.579511+00:00",
+  "lastUpdated": "2026-06-25T10:48:47.232930+00:00",
   "articles": [
+    {
+      "id": "33c2e99a6156",
+      "title": "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing",
+      "summary": "arXiv:2606.25108v1 Announce Type: new Abstract: Autonomous AI systems are transitioning from advisory to autonomous roles for medication prescriptions. Recent United States bill H.R. 238 and Utah's pr",
+      "url": "https://arxiv.org/abs/2606.25108",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-25T00:00:00-04:00",
+      "scrapedAt": "2026-06-25T10:47:50.213932+00:00"
+    },
+    {
+      "id": "af99da574ada",
+      "title": "Beyond Shapley: Efficient Computation of Asymmetric Shapley Values",
+      "summary": "arXiv:2606.25103v1 Announce Type: new Abstract: We address the problem of explainability in machine learning models through feature attribution methods. In particular, we consider a variant of Shapley",
+      "url": "https://arxiv.org/abs/2606.25103",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-25T00:00:00-04:00",
+      "scrapedAt": "2026-06-25T10:47:50.213773+00:00"
+    },
+    {
+      "id": "395639bdb42c",
+      "title": "Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms",
+      "summary": "arXiv:2606.25066v1 Announce Type: new Abstract: Visual search has been one of the most productive paradigms in the study of visual attention: the way reaction time scales with the number of items dist",
+      "url": "https://arxiv.org/abs/2606.25066",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-25T00:00:00-04:00",
+      "scrapedAt": "2026-06-25T10:47:50.213664+00:00"
+    },
+    {
+      "id": "df8764a2d769",
+      "title": "Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval",
+      "summary": "arXiv:2606.24976v1 Announce Type: new Abstract: Foundation-model agents in multi-step, open-ended environments frequently suffer from compounding errors, where early mistakes contaminate long-horizon ",
+      "url": "https://arxiv.org/abs/2606.24976",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-25T00:00:00-04:00",
+      "scrapedAt": "2026-06-25T10:47:50.213533+00:00"
+    },
+    {
+      "id": "276bbbfeeae5",
+      "title": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
+      "summary": "arXiv:2606.24965v1 Announce Type: new Abstract: Reasoning about relational structures remains a significant challenge for neural models, particularly when they must systematically apply learned knowle",
+      "url": "https://arxiv.org/abs/2606.24965",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-25T00:00:00-04:00",
+      "scrapedAt": "2026-06-25T10:47:50.213414+00:00"
+    },
+    {
+      "id": "32922e6a20cc",
+      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+      "summary": "arXiv:2606.24937v1 Announce Type: new Abstract: The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from",
+      "url": "https://arxiv.org/abs/2606.24937",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-06-25T00:00:00-04:00",
+      "scrapedAt": "2026-06-25T10:47:50.213281+00:00"
+    },
+    {
+      "id": "b2d1e66efb72",
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T16:15:00+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558826+00:00"
+    },
+    {
+      "id": "97c642dd855a",
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T16:48:43+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558758+00:00"
+    },
+    {
+      "id": "e56119b650d5",
+      "title": "Facebook rolls out an AI companion app for creators",
+      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T17:16:24+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558688+00:00"
+    },
+    {
+      "id": "444e45a48fbe",
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T20:09:45+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558621+00:00"
+    },
+    {
+      "id": "fad9e23ecf16",
+      "title": "The memory chip crunch is paying off for this US company",
+      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T21:30:55+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558556+00:00"
+    },
+    {
+      "id": "73ecb6bfd59c",
+      "title": "AI researchers continue to leave Google for its rivals",
+      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T21:42:07+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558488+00:00"
+    },
+    {
+      "id": "266f847badbe",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T21:56:41+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558418+00:00"
+    },
+    {
+      "id": "b33a37220fba",
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T22:41:41+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558347+00:00"
+    },
+    {
+      "id": "dd940491a26a",
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T23:26:52+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558273+00:00"
+    },
+    {
+      "id": "0eaac807cea4",
+      "title": "Europe is pushing back on Washington’s chip war",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Ac",
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-25T00:08:36+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.558188+00:00"
+    },
+    {
+      "id": "24a3a922502a",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-24T06:00:00+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.449727+00:00"
+    },
+    {
+      "id": "24d4c9543d4c",
+      "title": "How agents are transforming work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-25T02:00:00+00:00",
+      "scrapedAt": "2026-06-25T10:47:49.449632+00:00"
+    },
+    {
+      "id": "4be325886964",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "summary": "Learn how Googlers used AI to produce Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-01T16:00:00+00:00",
+      "scrapedAt": "2026-06-25T10:47:48.589081+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "abc015d0b086",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstru",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T11:59:54+00:00",
+      "scrapedAt": "2026-06-25T10:47:48.201652+00:00"
+    },
     {
       "id": "fbefbdfc2d44",
       "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
@@ -1408,207 +1609,6 @@
       "publishedAt": "2026-06-17T15:00:00+00:00",
       "scrapedAt": "2026-06-18T11:53:52.811888+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "9f0eeaf0ca85",
-      "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-      "summary": "arXiv:2606.17312v1 Announce Type: new Abstract: Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to rank consistently -- a fai",
-      "url": "https://arxiv.org/abs/2606.17312",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-17T00:00:00-04:00",
-      "scrapedAt": "2026-06-17T12:21:02.225605+00:00"
-    },
-    {
-      "id": "b233df524d4c",
-      "title": "Nothing from Something: Can a Language Model Discover 0?",
-      "summary": "arXiv:2606.17289v1 Announce Type: new Abstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key quest",
-      "url": "https://arxiv.org/abs/2606.17289",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-17T00:00:00-04:00",
-      "scrapedAt": "2026-06-17T12:21:02.225493+00:00"
-    },
-    {
-      "id": "413514f65364",
-      "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
-      "summary": "arXiv:2606.17269v1 Announce Type: new Abstract: In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions made today: production ",
-      "url": "https://arxiv.org/abs/2606.17269",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-17T00:00:00-04:00",
-      "scrapedAt": "2026-06-17T12:21:02.225396+00:00"
-    },
-    {
-      "id": "6fb13a9bf619",
-      "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-      "summary": "arXiv:2606.17266v1 Announce Type: new Abstract: Production planning increasingly has to treat workforce capability as a decision variable: certifications lapse when skills are not maintained, new prod",
-      "url": "https://arxiv.org/abs/2606.17266",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-17T00:00:00-04:00",
-      "scrapedAt": "2026-06-17T12:21:02.225281+00:00"
-    },
-    {
-      "id": "f7846de13e73",
-      "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-      "summary": "arXiv:2606.17220v1 Announce Type: new Abstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant",
-      "url": "https://arxiv.org/abs/2606.17220",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-17T00:00:00-04:00",
-      "scrapedAt": "2026-06-17T12:21:02.225154+00:00"
-    },
-    {
-      "id": "61040ddaea78",
-      "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-      "summary": "arXiv:2606.17209v1 Announce Type: new Abstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). H",
-      "url": "https://arxiv.org/abs/2606.17209",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-17T00:00:00-04:00",
-      "scrapedAt": "2026-06-17T12:21:02.225024+00:00"
-    },
-    {
-      "id": "f9c4e0583697",
-      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note ",
-      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-16T14:50:09+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.434374+00:00"
-    },
-    {
-      "id": "feb65f9e80a7",
-      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-16T15:00:00+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.434318+00:00"
-    },
-    {
-      "id": "2b4c89d3385f",
-      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
-      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-16T15:05:03+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.434268+00:00"
-    },
-    {
-      "id": "d516edde44df",
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
-      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-16T15:53:12+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.434215+00:00"
-    },
-    {
-      "id": "78fc4b6ad1a2",
-      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-16T16:49:44+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.434158+00:00"
-    },
-    {
-      "id": "4a500f4a83d6",
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that bri",
-      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-16T18:00:00+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.434101+00:00"
-    },
-    {
-      "id": "ff6d444e10ee",
-      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-16T20:11:00+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.434032+00:00"
-    },
-    {
-      "id": "e9ed648d3b34",
-      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-16T22:34:17+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.433972+00:00"
-    },
-    {
-      "id": "ca1ffebd7c89",
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-      "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-17T11:00:00+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.433894+00:00"
-    },
-    {
-      "id": "3ee1e2948f78",
-      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-      "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
-      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-17T12:14:44+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.433817+00:00"
-    },
-    {
-      "id": "031fe56c38cf",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "url": "https://openai.com/index/deployment-simulation",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-16T00:00:00+00:00",
-      "scrapedAt": "2026-06-17T12:21:01.353046+00:00"
-    },
-    {
-      "id": "4be325886964",
-      "title": "How we used Gemini to build Google I/O 2026",
-      "summary": "Learn how Googlers used AI to produce Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-01T16:00:00+00:00",
-      "scrapedAt": "2026-06-17T12:21:00.295273+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e0ba9cd4bb87",
-      "title": "How small businesses can leverage AI",
-      "summary": "This article is from Making AI Work , MIT Technology Review ’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here . From accounting to desi",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-02T09:00:00+00:00",
-      "scrapedAt": "2026-06-17T12:20:59.934972+00:00"
-    },
-    {
-      "id": "7c39f76db0bd",
-      "title": "Rehumanizing global health care with agentic AI",
-      "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Ga",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-02T11:23:34+00:00",
-      "scrapedAt": "2026-06-17T12:20:59.933434+00:00"
     }
   ]
 }
