@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-06-26T10:56:37.046773+00:00",
+  "lastUpdated": "2026-06-27T10:15:45.289719+00:00",
   "articles": [
+    {
+      "id": "2420478b93bb",
+      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+      "summary": "Alex Bores (D-NY) enters his watch party at The Freehand Hotel after conceding the congressional race to Micah Lasher who will replace Rep Jerry Nadler (D-NY) in NY's 12th Congressional District on Ju",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T13:25:00-04:00",
+      "scrapedAt": "2026-06-27T10:14:49.855179+00:00"
+    },
+    {
+      "id": "618f67acd3fe",
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever",
+      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-24T15:36:46-04:00",
+      "scrapedAt": "2026-06-27T10:14:49.854813+00:00"
+    },
+    {
+      "id": "101e1ff9a5c2",
+      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+      "summary": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as ",
+      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-25T05:06:19-04:00",
+      "scrapedAt": "2026-06-27T10:14:49.854471+00:00"
+    },
+    {
+      "id": "1d6d9742c4a6",
+      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reli",
+      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-25T08:00:00-04:00",
+      "scrapedAt": "2026-06-27T10:14:49.854080+00:00"
+    },
+    {
+      "id": "cfac8b7094d3",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-25T17:57:06-04:00",
+      "scrapedAt": "2026-06-27T10:14:49.853808+00:00"
+    },
+    {
+      "id": "3f864cb93a38",
+      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T10:07:03-04:00",
+      "scrapedAt": "2026-06-27T10:14:49.853447+00:00"
+    },
+    {
+      "id": "522a607f3975",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T13:00:00-04:00",
+      "scrapedAt": "2026-06-27T10:14:49.853100+00:00"
+    },
+    {
+      "id": "59859df9563e",
+      "title": "Anthropic&#8217;s Mythos 5 is back",
+      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T20:33:44-04:00",
+      "scrapedAt": "2026-06-27T10:14:49.852711+00:00"
+    },
+    {
+      "id": "fea00359a7e2",
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T13:00:00+00:00",
+      "scrapedAt": "2026-06-27T10:14:49.061156+00:00"
+    },
+    {
+      "id": "b0101abc6db7",
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with ",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T14:00:00+00:00",
+      "scrapedAt": "2026-06-27T10:14:49.061096+00:00"
+    },
+    {
+      "id": "d295ec6c7f14",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T16:24:47+00:00",
+      "scrapedAt": "2026-06-27T10:14:49.060982+00:00"
+    },
+    {
+      "id": "30ba8e524968",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with ",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T17:43:22+00:00",
+      "scrapedAt": "2026-06-27T10:14:49.060893+00:00"
+    },
+    {
+      "id": "aea0b75b5039",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T18:19:36+00:00",
+      "scrapedAt": "2026-06-27T10:14:49.050693+00:00"
+    },
+    {
+      "id": "f9c0cbd38e55",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T18:32:14+00:00",
+      "scrapedAt": "2026-06-27T10:14:49.050610+00:00"
+    },
+    {
+      "id": "b18057ca1428",
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-27T01:01:37+00:00",
+      "scrapedAt": "2026-06-27T10:14:49.050504+00:00"
+    },
+    {
+      "id": "7843b9ea14bc",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-26T10:00:00+00:00",
+      "scrapedAt": "2026-06-27T10:14:48.852868+00:00"
+    },
+    {
+      "id": "a799e1e611d4",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-03T13:00:00+00:00",
+      "scrapedAt": "2026-06-27T10:14:47.921161+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a004c2b18314",
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "summary": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-11T20:00:00+00:00",
+      "scrapedAt": "2026-06-27T10:14:47.920990+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5fa3405179d5",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-06-11T11:00:45+00:00",
+      "scrapedAt": "2026-06-27T10:14:47.542913+00:00"
+    },
+    {
+      "id": "8add01e4aff7",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language model",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-06-19T10:40:24+00:00",
+      "scrapedAt": "2026-06-27T10:14:47.537297+00:00"
+    },
     {
       "id": "70a64a10ff2b",
       "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
@@ -1408,208 +1610,6 @@
       "publishedAt": "2026-06-05T14:45:00+00:00",
       "scrapedAt": "2026-06-20T10:36:20.050654+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "66eed0f78485",
-      "title": "The smartphone era created an attention crisis — slow tech is fixing it",
-      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
-      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-18T17:16:30+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.772684+00:00"
-    },
-    {
-      "id": "f9dbd01a64e0",
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-18T17:49:23+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.772573+00:00"
-    },
-    {
-      "id": "5748f9c6e6a8",
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-18T18:22:13+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.772508+00:00"
-    },
-    {
-      "id": "0a368702d056",
-      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-18T18:51:46+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.772441+00:00"
-    },
-    {
-      "id": "2446e599d34e",
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-18T19:59:22+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.772372+00:00"
-    },
-    {
-      "id": "8fd795d8c6da",
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-18T20:30:00+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.772303+00:00"
-    },
-    {
-      "id": "c7f03eb380cc",
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-18T21:20:13+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.772230+00:00"
-    },
-    {
-      "id": "f7db370cf36f",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-19T00:51:11+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.772153+00:00"
-    },
-    {
-      "id": "bd33e41be4e5",
-      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
-      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-19T07:59:12+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.772075+00:00"
-    },
-    {
-      "id": "bfbf641beda5",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-11T00:00:00+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.719835+00:00"
-    },
-    {
-      "id": "e5e9bd931104",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "url": "https://openai.com/index/preply",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-12T00:00:00+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.719764+00:00"
-    },
-    {
-      "id": "796b3536965e",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-18T08:00:00+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.719318+00:00"
-    },
-    {
-      "id": "ad2ec02b5ba7",
-      "title": "Improving health intelligence in ChatGPT",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-18T11:00:00+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.719243+00:00"
-    },
-    {
-      "id": "a55ebd412e31",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-18T17:00:00+00:00",
-      "scrapedAt": "2026-06-19T12:13:02.719151+00:00"
-    },
-    {
-      "id": "a799e1e611d4",
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-03T13:00:00+00:00",
-      "scrapedAt": "2026-06-19T12:13:01.707574+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "a004c2b18314",
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "summary": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-11T20:00:00+00:00",
-      "scrapedAt": "2026-06-19T12:13:01.707314+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ce50fb25a5f8",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a law",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-04T10:50:18+00:00",
-      "scrapedAt": "2026-06-19T12:13:01.385229+00:00"
-    },
-    {
-      "id": "94d4f7da1b03",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email ",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-05T09:00:00+00:00",
-      "scrapedAt": "2026-06-19T12:13:01.383453+00:00"
-    },
-    {
-      "id": "5fa3405179d5",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-11T11:00:45+00:00",
-      "scrapedAt": "2026-06-19T12:13:01.378207+00:00"
-    },
-    {
-      "id": "8add01e4aff7",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-19T10:40:24+00:00",
-      "scrapedAt": "2026-06-19T12:13:01.371208+00:00"
     }
   ]
 }
