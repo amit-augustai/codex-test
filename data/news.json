@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-06-27T10:15:45.289719+00:00",
+  "lastUpdated": "2026-06-28T10:32:14.435368+00:00",
   "articles": [
+    {
+      "id": "5062632f8aef",
+      "title": "World Cup Teams Are in a Race for AI Dominance",
+      "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
+      "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-25T11:00:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.732350+00:00"
+    },
+    {
+      "id": "4b70fb3645c3",
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-25T23:13:45+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.732280+00:00"
+    },
+    {
+      "id": "3387a1dd2c38",
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+      "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T00:49:13+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.732205+00:00"
+    },
+    {
+      "id": "7eff067dbe90",
+      "title": "How Qatar Became FIFA’s Technology Test Lab",
+      "summary": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
+      "url": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T10:00:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.732108+00:00"
+    },
+    {
+      "id": "65e5067a6e44",
+      "title": "Europe Is Fed Up and Wants Its Own AI",
+      "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+      "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T15:00:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.732030+00:00"
+    },
+    {
+      "id": "808edb231287",
+      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+      "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-26T17:05:40+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.731958+00:00"
+    },
+    {
+      "id": "31c67be8f05e",
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-27T00:26:14+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.731873+00:00"
+    },
+    {
+      "id": "d3cecd4bbd6e",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "summary": "Tim Cook recently said price increases were \" unavoidable \" and described the company's pricing as \" unsustainable .\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went fro",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-27T09:30:00-04:00",
+      "scrapedAt": "2026-06-28T10:31:19.518673+00:00"
+    },
+    {
+      "id": "299a59cd3d90",
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin , was interviewe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-27T14:39:32-04:00",
+      "scrapedAt": "2026-06-28T10:31:19.518067+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.057510+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.049015+00:00"
+    },
+    {
+      "id": "e7785d8c77e3",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:19.045747+00:00"
+    },
+    {
+      "id": "4209c1889e4c",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-27T12:00:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:18.664659+00:00"
+    },
+    {
+      "id": "d032b792729f",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-27T14:00:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:18.664584+00:00"
+    },
+    {
+      "id": "1facd80fd98c",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-27T16:45:09+00:00",
+      "scrapedAt": "2026-06-28T10:31:18.664496+00:00"
+    },
+    {
+      "id": "81c360008f98",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-06-27T20:42:36+00:00",
+      "scrapedAt": "2026-06-28T10:31:18.664407+00:00"
+    },
+    {
+      "id": "7a1c98af09d2",
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "summary": "Check out real-life AI prototypes from the Futures Lab.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-29T12:00:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:17.622020+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6aee6b02d3b5",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-29T17:30:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:17.621997+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "bb0319888f69",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "summary": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-05-29T19:00:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:17.621905+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "752c96ffbdef",
+      "title": "The latest AI news we announced in May 2026",
+      "summary": "Here are Google’s latest AI updates from May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-05T14:45:00+00:00",
+      "scrapedAt": "2026-06-28T10:31:17.621690+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
+    },
     {
       "id": "2420478b93bb",
       "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
@@ -1405,211 +1609,6 @@
       "category": "product",
       "publishedAt": "2026-06-20T20:32:29+00:00",
       "scrapedAt": "2026-06-21T11:19:45.071919+00:00"
-    },
-    {
-      "id": "64ada3fa6469",
-      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-      "summary": "arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read wea",
-      "url": "https://arxiv.org/abs/2606.19501",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-20T00:00:00-04:00",
-      "scrapedAt": "2026-06-20T10:36:21.635756+00:00"
-    },
-    {
-      "id": "68845e90121b",
-      "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-      "summary": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet ",
-      "url": "https://arxiv.org/abs/2606.19494",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-20T00:00:00-04:00",
-      "scrapedAt": "2026-06-20T10:36:21.635668+00:00"
-    },
-    {
-      "id": "3d9c2ebbf815",
-      "title": "Diffusion Language Models: An Experimental Analysis",
-      "summary": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of",
-      "url": "https://arxiv.org/abs/2606.19475",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-20T00:00:00-04:00",
-      "scrapedAt": "2026-06-20T10:36:21.635567+00:00"
-    },
-    {
-      "id": "73c1d0912cd0",
-      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "summary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducibl",
-      "url": "https://arxiv.org/abs/2606.19469",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-20T00:00:00-04:00",
-      "scrapedAt": "2026-06-20T10:36:21.635458+00:00"
-    },
-    {
-      "id": "f9ead70f10cc",
-      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-      "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent tha",
-      "url": "https://arxiv.org/abs/2606.19464",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-20T00:00:00-04:00",
-      "scrapedAt": "2026-06-20T10:36:21.635325+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:21.385685+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:21.378111+00:00"
-    },
-    {
-      "id": "e7785d8c77e3",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:21.375238+00:00"
-    },
-    {
-      "id": "076b29791c7a",
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-19T13:00:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.938059+00:00"
-    },
-    {
-      "id": "e35040ffdf08",
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-19T15:23:28+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.938000+00:00"
-    },
-    {
-      "id": "00841429d7c1",
-      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
-      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-19T16:01:03+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.937931+00:00"
-    },
-    {
-      "id": "d131d924d4b8",
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
-      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-19T16:08:17+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.937755+00:00"
-    },
-    {
-      "id": "d0d9430b3e14",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-19T22:40:14+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.935868+00:00"
-    },
-    {
-      "id": "9b77dce7b354",
-      "title": "OpenAI to acquire Ona",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-11T00:00:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.873481+00:00"
-    },
-    {
-      "id": "31e268b2c07a",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-12T10:00:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.873362+00:00"
-    },
-    {
-      "id": "3404b326f5b4",
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-28T15:00:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.051022+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7a1c98af09d2",
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "summary": "Check out real-life AI prototypes from the Futures Lab.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T12:00:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.050939+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6aee6b02d3b5",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T17:30:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.050919+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "bb0319888f69",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "summary": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-05-29T19:00:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.050844+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "752c96ffbdef",
-      "title": "The latest AI news we announced in May 2026",
-      "summary": "Here are Google’s latest AI updates from May 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-05T14:45:00+00:00",
-      "scrapedAt": "2026-06-20T10:36:20.050654+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
     }
   ]
 }
