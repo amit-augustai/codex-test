@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-07-01T11:29:43.497802+00:00",
+  "lastUpdated": "2026-07-02T10:47:23.769947+00:00",
   "articles": [
+    {
+      "id": "4649fd6ad4f8",
+      "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+      "summary": "arXiv:2607.00233v1 Announce Type: new Abstract: How do two agents invent a shared language from scratch? In a Lewis signaling game, a sender and receiver must coordinate on a code using only their int",
+      "url": "https://arxiv.org/abs/2607.00233",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-02T00:00:00-04:00",
+      "scrapedAt": "2026-07-02T10:46:27.696391+00:00"
+    },
+    {
+      "id": "3728d4ac5493",
+      "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+      "summary": "arXiv:2607.00211v1 Announce Type: new Abstract: Epistemic thinking plays a central role in students' learning processes when applying generative artificial intelligence (GenAI), particularly in progra",
+      "url": "https://arxiv.org/abs/2607.00211",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-02T00:00:00-04:00",
+      "scrapedAt": "2026-07-02T10:46:27.696277+00:00"
+    },
+    {
+      "id": "b9db13da1184",
+      "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+      "summary": "arXiv:2607.00155v1 Announce Type: new Abstract: We study runtime human oversight of an AI agent when private information runs in both directions: the human privately knows her reward function, while t",
+      "url": "https://arxiv.org/abs/2607.00155",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-02T00:00:00-04:00",
+      "scrapedAt": "2026-07-02T10:46:27.696152+00:00"
+    },
+    {
+      "id": "fa7c4a3ac46b",
+      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+      "summary": "arXiv:2607.00147v1 Announce Type: new Abstract: Rare disease differential diagnosis is a critical yet arduous clinical task, requiring physicians to identify precise phenotypes from complex, unstructu",
+      "url": "https://arxiv.org/abs/2607.00147",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-02T00:00:00-04:00",
+      "scrapedAt": "2026-07-02T10:46:27.696009+00:00"
+    },
+    {
+      "id": "9e20d436ea0c",
+      "title": "Solution space path planning for supporting en-route air traffic control",
+      "summary": "arXiv:2607.00064v1 Announce Type: new Abstract: As technology advances, many path-planning algorithms have been proposed for Air Traffic Management, yet their operational adoption in tactical control ",
+      "url": "https://arxiv.org/abs/2607.00064",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-02T00:00:00-04:00",
+      "scrapedAt": "2026-07-02T10:46:27.695884+00:00"
+    },
+    {
+      "id": "80b2dd028739",
+      "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+      "summary": "arXiv:2607.00035v1 Announce Type: new Abstract: LLMs and agents can generate web scrapers from natural-language requirements, but direct generation remains unreliable because of dependency errors, bro",
+      "url": "https://arxiv.org/abs/2607.00035",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-02T00:00:00-04:00",
+      "scrapedAt": "2026-07-02T10:46:27.695751+00:00"
+    },
+    {
+      "id": "bcf356843ff2",
+      "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+      "summary": "arXiv:2607.00032v1 Announce Type: new Abstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. While effective for large-s",
+      "url": "https://arxiv.org/abs/2607.00032",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-02T00:00:00-04:00",
+      "scrapedAt": "2026-07-02T10:46:27.695641+00:00"
+    },
+    {
+      "id": "e9ea963315e3",
+      "title": "Bounded Morality: Defining the Space of Moral Computation",
+      "summary": "arXiv:2607.00002v1 Announce Type: new Abstract: Moral cognition has traditionally been modeled as adherence to fixed ethical theories--deontology, consequentialism, virtue ethics--implemented as stati",
+      "url": "https://arxiv.org/abs/2607.00002",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-02T00:00:00-04:00",
+      "scrapedAt": "2026-07-02T10:46:27.695523+00:00"
+    },
+    {
+      "id": "6b43ceed4361",
+      "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+      "summary": "arXiv:2607.00001v1 Announce Type: new Abstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empirica",
+      "url": "https://arxiv.org/abs/2607.00001",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-02T00:00:00-04:00",
+      "scrapedAt": "2026-07-02T10:46:27.695392+00:00"
+    },
+    {
+      "id": "d01b2b5aa529",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T13:43:07+00:00",
+      "scrapedAt": "2026-07-02T10:46:27.159310+00:00"
+    },
+    {
+      "id": "482350f7f2a1",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scal",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T14:00:00+00:00",
+      "scrapedAt": "2026-07-02T10:46:27.159218+00:00"
+    },
+    {
+      "id": "5d5a6e1dac13",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T14:20:19+00:00",
+      "scrapedAt": "2026-07-02T10:46:27.157308+00:00"
+    },
+    {
+      "id": "01aa09519773",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T14:25:23+00:00",
+      "scrapedAt": "2026-07-02T10:46:27.157007+00:00"
+    },
+    {
+      "id": "af371092847a",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T17:48:37+00:00",
+      "scrapedAt": "2026-07-02T10:46:27.156939+00:00"
+    },
+    {
+      "id": "aeca795eedce",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure a",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T18:47:22+00:00",
+      "scrapedAt": "2026-07-02T10:46:27.156864+00:00"
+    },
+    {
+      "id": "cba85e1be003",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T18:54:18+00:00",
+      "scrapedAt": "2026-07-02T10:46:27.156773+00:00"
+    },
+    {
+      "id": "f23d1aa63f1a",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-02T05:30:00+00:00",
+      "scrapedAt": "2026-07-02T10:46:27.156683+00:00"
+    },
+    {
+      "id": "05a77cd02507",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "summary": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-01T16:00:00+00:00",
+      "scrapedAt": "2026-07-02T10:46:26.219139+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "1f96c5e608ff",
+      "title": "The latest AI news we announced in June 2026",
+      "summary": "Here are Google’s latest AI updates from June 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-01T18:15:00+00:00",
+      "scrapedAt": "2026-07-02T10:46:26.219103+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b7a1a19f77c0",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T14:35:16+00:00",
+      "scrapedAt": "2026-07-02T10:46:25.991988+00:00"
+    },
     {
       "id": "01496d14f80c",
       "title": "Acti puts AI agents directly into your smartphone keyboard",
