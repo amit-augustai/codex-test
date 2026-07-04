@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-07-03T10:44:31.164530+00:00",
+  "lastUpdated": "2026-07-04T10:18:02.744295+00:00",
   "articles": [
+    {
+      "id": "abe11bc28287",
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-02T18:01:20+00:00",
+      "scrapedAt": "2026-07-04T10:17:04.415288+00:00"
+    },
+    {
+      "id": "cecf9e43b0c1",
+      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
+      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-03T16:30:00+00:00",
+      "scrapedAt": "2026-07-04T10:17:04.415203+00:00"
+    },
+    {
+      "id": "6e0dbec31b28",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-29T15:47:35-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.246925+00:00"
+    },
+    {
+      "id": "c6680161de80",
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "summary": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which ",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-30T08:00:00-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.246528+00:00"
+    },
+    {
+      "id": "0460f8f816b6",
+      "title": "Libby will filter out AI content, kind of",
+      "summary": "This is Lowpass by Janko Roettgers , a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" s",
+      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-30T11:30:00-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.245886+00:00"
+    },
+    {
+      "id": "cda80fe152fa",
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-30T13:19:15-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.245341+00:00"
+    },
+    {
+      "id": "ee6c50661691",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-30T15:24:51-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.244645+00:00"
+    },
+    {
+      "id": "b13e4677f113",
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X , Anthropic said it plans to begin restoring access ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-06-30T20:03:55-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.244023+00:00"
+    },
+    {
+      "id": "474d4e312b75",
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "summary": "The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge Smart speakers have spent the past few years searching for a compelling s",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T08:00:00-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.243493+00:00"
+    },
+    {
+      "id": "3afaca491ac0",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-07-02T06:23:27-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.242926+00:00"
+    },
+    {
+      "id": "f3bac651121f",
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "summary": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Midjourney has shown more of its futuristic medical scanner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-07-03T07:49:10-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.242370+00:00"
+    },
+    {
+      "id": "a77a7282a377",
+      "title": "Anthropic wants to develop its own drugs",
+      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science , a new \" AI workbench for scientists \" that pulls fragmented tools and datasets into one environment,",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-07-03T09:56:52-04:00",
+      "scrapedAt": "2026-07-04T10:17:04.241827+00:00"
+    },
+    {
+      "id": "f5e18ba468be",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-03T18:43:00+00:00",
+      "scrapedAt": "2026-07-04T10:17:03.401781+00:00"
+    },
+    {
+      "id": "eeb0f69b3cf9",
+      "title": "The only AI glossary you’ll need this year",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-03T21:20:00+00:00",
+      "scrapedAt": "2026-07-04T10:17:03.401694+00:00"
+    },
+    {
+      "id": "7843b9ea14bc",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-26T10:00:00+00:00",
+      "scrapedAt": "2026-07-04T10:17:03.251055+00:00"
+    },
+    {
+      "id": "a799e1e611d4",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-03T13:00:00+00:00",
+      "scrapedAt": "2026-07-04T10:17:02.192086+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a004c2b18314",
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "summary": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-11T20:00:00+00:00",
+      "scrapedAt": "2026-07-04T10:17:02.191912+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "0af1478cb097",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "summary": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-17T15:00:00+00:00",
+      "scrapedAt": "2026-07-04T10:17:02.191871+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "235f1239691f",
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-25T16:00:00+00:00",
+      "scrapedAt": "2026-07-04T10:17:02.191849+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "21b4b9b70216",
+      "title": "Repositioning retail for the AI era",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-06-25T14:22:59+00:00",
+      "scrapedAt": "2026-07-04T10:17:01.812823+00:00"
+    },
     {
       "id": "7a7f7e88e413",
       "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
@@ -1208,410 +1412,6 @@
       "publishedAt": "2026-06-05T14:45:00+00:00",
       "scrapedAt": "2026-06-28T10:31:17.621690+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "2420478b93bb",
-      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-      "summary": "Alex Bores (D-NY) enters his watch party at The Freehand Hotel after conceding the congressional race to Micah Lasher who will replace Rep Jerry Nadler (D-NY) in NY's 12th Congressional District on Ju",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-24T13:25:00-04:00",
-      "scrapedAt": "2026-06-27T10:14:49.855179+00:00"
-    },
-    {
-      "id": "618f67acd3fe",
-      "title": "Congresswoman denies staff used AI to write defense funding amendment",
-      "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever",
-      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-24T15:36:46-04:00",
-      "scrapedAt": "2026-06-27T10:14:49.854813+00:00"
-    },
-    {
-      "id": "101e1ff9a5c2",
-      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-      "summary": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as ",
-      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T05:06:19-04:00",
-      "scrapedAt": "2026-06-27T10:14:49.854471+00:00"
-    },
-    {
-      "id": "1d6d9742c4a6",
-      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-      "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reli",
-      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T08:00:00-04:00",
-      "scrapedAt": "2026-06-27T10:14:49.854080+00:00"
-    },
-    {
-      "id": "cfac8b7094d3",
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T17:57:06-04:00",
-      "scrapedAt": "2026-06-27T10:14:49.853808+00:00"
-    },
-    {
-      "id": "3f864cb93a38",
-      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
-      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-26T10:07:03-04:00",
-      "scrapedAt": "2026-06-27T10:14:49.853447+00:00"
-    },
-    {
-      "id": "522a607f3975",
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-26T13:00:00-04:00",
-      "scrapedAt": "2026-06-27T10:14:49.853100+00:00"
-    },
-    {
-      "id": "59859df9563e",
-      "title": "Anthropic&#8217;s Mythos 5 is back",
-      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-06-26T20:33:44-04:00",
-      "scrapedAt": "2026-06-27T10:14:49.852711+00:00"
-    },
-    {
-      "id": "fea00359a7e2",
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-26T13:00:00+00:00",
-      "scrapedAt": "2026-06-27T10:14:49.061156+00:00"
-    },
-    {
-      "id": "b0101abc6db7",
-      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with ",
-      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-26T14:00:00+00:00",
-      "scrapedAt": "2026-06-27T10:14:49.061096+00:00"
-    },
-    {
-      "id": "d295ec6c7f14",
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-26T16:24:47+00:00",
-      "scrapedAt": "2026-06-27T10:14:49.060982+00:00"
-    },
-    {
-      "id": "30ba8e524968",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with ",
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-26T17:43:22+00:00",
-      "scrapedAt": "2026-06-27T10:14:49.060893+00:00"
-    },
-    {
-      "id": "aea0b75b5039",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-26T18:19:36+00:00",
-      "scrapedAt": "2026-06-27T10:14:49.050693+00:00"
-    },
-    {
-      "id": "f9c0cbd38e55",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-26T18:32:14+00:00",
-      "scrapedAt": "2026-06-27T10:14:49.050610+00:00"
-    },
-    {
-      "id": "b18057ca1428",
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-27T01:01:37+00:00",
-      "scrapedAt": "2026-06-27T10:14:49.050504+00:00"
-    },
-    {
-      "id": "7843b9ea14bc",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-26T10:00:00+00:00",
-      "scrapedAt": "2026-06-27T10:14:48.852868+00:00"
-    },
-    {
-      "id": "a799e1e611d4",
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-03T13:00:00+00:00",
-      "scrapedAt": "2026-06-27T10:14:47.921161+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "a004c2b18314",
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "summary": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-11T20:00:00+00:00",
-      "scrapedAt": "2026-06-27T10:14:47.920990+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5fa3405179d5",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-11T11:00:45+00:00",
-      "scrapedAt": "2026-06-27T10:14:47.542913+00:00"
-    },
-    {
-      "id": "8add01e4aff7",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language model",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-19T10:40:24+00:00",
-      "scrapedAt": "2026-06-27T10:14:47.537297+00:00"
-    },
-    {
-      "id": "70a64a10ff2b",
-      "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
-      "summary": "arXiv:2606.26298v1 Announce Type: new Abstract: Autonomous AI agents may begin to perform consequential, irreversible actions such as clinical prescribing and production software deployment. This pape",
-      "url": "https://arxiv.org/abs/2606.26298",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-26T00:00:00-04:00",
-      "scrapedAt": "2026-06-26T10:55:39.552070+00:00"
-    },
-    {
-      "id": "ec0d24fe4426",
-      "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
-      "summary": "arXiv:2606.26267v1 Announce Type: new Abstract: Rating systems such as Elo serve as the gold standard for matchmaking in competitive chess. However, they inherently suffer from response lag due to the",
-      "url": "https://arxiv.org/abs/2606.26267",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-26T00:00:00-04:00",
-      "scrapedAt": "2026-06-26T10:55:39.551975+00:00"
-    },
-    {
-      "id": "711545a404ef",
-      "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
-      "summary": "arXiv:2606.26205v1 Announce Type: new Abstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, ",
-      "url": "https://arxiv.org/abs/2606.26205",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-26T00:00:00-04:00",
-      "scrapedAt": "2026-06-26T10:55:39.551871+00:00"
-    },
-    {
-      "id": "0c11cfa841c3",
-      "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-      "summary": "arXiv:2606.26203v1 Announce Type: new Abstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an ",
-      "url": "https://arxiv.org/abs/2606.26203",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-26T00:00:00-04:00",
-      "scrapedAt": "2026-06-26T10:55:39.551757+00:00"
-    },
-    {
-      "id": "7d89653d1145",
-      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-      "summary": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most c",
-      "url": "https://arxiv.org/abs/2606.26173",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-26T00:00:00-04:00",
-      "scrapedAt": "2026-06-26T10:55:39.551653+00:00"
-    },
-    {
-      "id": "33c779eb9635",
-      "title": "Refusal Lives Downstream of Persona in Chat Models",
-      "summary": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been s",
-      "url": "https://arxiv.org/abs/2606.26161",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-26T00:00:00-04:00",
-      "scrapedAt": "2026-06-26T10:55:39.551547+00:00"
-    },
-    {
-      "id": "d5e4199056ba",
-      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-      "summary": "arXiv:2606.26158v1 Announce Type: new Abstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy ",
-      "url": "https://arxiv.org/abs/2606.26158",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-26T00:00:00-04:00",
-      "scrapedAt": "2026-06-26T10:55:39.551441+00:00"
-    },
-    {
-      "id": "d8617eb90ee7",
-      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-      "summary": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired",
-      "url": "https://arxiv.org/abs/2606.26155",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-26T00:00:00-04:00",
-      "scrapedAt": "2026-06-26T10:55:39.551250+00:00"
-    },
-    {
-      "id": "c06892b974a0",
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T12:00:38+00:00",
-      "scrapedAt": "2026-06-26T10:55:38.577097+00:00"
-    },
-    {
-      "id": "1ef1bcd1b824",
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T13:30:00+00:00",
-      "scrapedAt": "2026-06-26T10:55:38.577024+00:00"
-    },
-    {
-      "id": "5a59abd386fe",
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
-      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T14:00:00+00:00",
-      "scrapedAt": "2026-06-26T10:55:38.576958+00:00"
-    },
-    {
-      "id": "50960b146d31",
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T14:55:38+00:00",
-      "scrapedAt": "2026-06-26T10:55:38.576890+00:00"
-    },
-    {
-      "id": "ba304cad7d51",
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T16:48:11+00:00",
-      "scrapedAt": "2026-06-26T10:55:38.576821+00:00"
-    },
-    {
-      "id": "eb1c42e24d9c",
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T16:55:00+00:00",
-      "scrapedAt": "2026-06-26T10:55:38.576752+00:00"
-    },
-    {
-      "id": "8778afccd777",
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T17:38:27+00:00",
-      "scrapedAt": "2026-06-26T10:55:38.576682+00:00"
-    },
-    {
-      "id": "7f5ba665e4de",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T20:19:25+00:00",
-      "scrapedAt": "2026-06-26T10:55:38.576611+00:00"
-    },
-    {
-      "id": "7d96e7dab588",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T23:34:39+00:00",
-      "scrapedAt": "2026-06-26T10:55:38.576531+00:00"
-    },
-    {
-      "id": "0af1478cb097",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "summary": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-17T15:00:00+00:00",
-      "scrapedAt": "2026-06-26T10:55:37.499643+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "235f1239691f",
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-25T16:00:00+00:00",
-      "scrapedAt": "2026-06-26T10:55:37.499613+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "21b4b9b70216",
-      "title": "Repositioning retail for the AI era",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-25T14:22:59+00:00",
-      "scrapedAt": "2026-06-26T10:55:37.145610+00:00"
     }
   ]
 }
