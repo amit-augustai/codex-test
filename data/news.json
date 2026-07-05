@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-07-04T10:18:02.744295+00:00",
+  "lastUpdated": "2026-07-05T10:23:27.989463+00:00",
   "articles": [
+    {
+      "id": "17643e5aa2f6",
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "summary": "Score: 23 points",
+      "url": "https://arxiv.org/abs/2606.26967",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-04T20:38:39+00:00",
+      "scrapedAt": "2026-07-05T10:22:33.690605+00:00"
+    },
+    {
+      "id": "9fda12ad7680",
+      "title": "I wanted to be Anthony Bourdain–until I met him",
+      "summary": "Score: 4 points",
+      "url": "https://cailey.substack.com/p/i-wanted-to-be-anthony-bourdainuntil",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-05T09:46:07+00:00",
+      "scrapedAt": "2026-07-05T10:22:33.512882+00:00"
+    },
+    {
+      "id": "e36932b0ff3f",
+      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "summary": "Score: 32 points",
+      "url": "https://hic-ai.com",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-05T05:01:14+00:00",
+      "scrapedAt": "2026-07-05T10:22:33.246108+00:00"
+    },
+    {
+      "id": "24a6c426cbb4",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "summary": "Score: 48 points",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-05T06:19:34+00:00",
+      "scrapedAt": "2026-07-05T10:22:32.975908+00:00"
+    },
+    {
+      "id": "f65c53e7a741",
+      "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+      "summary": "Score: 50 points",
+      "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-05T01:23:11+00:00",
+      "scrapedAt": "2026-07-05T10:22:32.942937+00:00"
+    },
+    {
+      "id": "616c0559730d",
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "summary": "Score: 75 points",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-02T19:03:54+00:00",
+      "scrapedAt": "2026-07-05T10:22:32.608670+00:00"
+    },
+    {
+      "id": "7887c5805612",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "summary": "Score: 277 points",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-04T21:51:09+00:00",
+      "scrapedAt": "2026-07-05T10:22:32.271447+00:00"
+    },
+    {
+      "id": "3c610c759a68",
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-29T21:49:26+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.847401+00:00"
+    },
+    {
+      "id": "b6b1f9ceb614",
+      "title": "Bernie Sanders Saw This Coming",
+      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-30T10:30:00+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.847317+00:00"
+    },
+    {
+      "id": "86b7b987dee7",
+      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+      "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-06-30T23:23:04+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.847261+00:00"
+    },
+    {
+      "id": "88634f28df46",
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
+      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T10:00:00+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.847206+00:00"
+    },
+    {
+      "id": "fc0b8d7e7744",
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
+      "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T16:00:00+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.847147+00:00"
+    },
+    {
+      "id": "d94a70a0008d",
+      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+      "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T18:10:00+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.847092+00:00"
+    },
+    {
+      "id": "e9b5f503be40",
+      "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
+      "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
+      "url": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-01T20:28:57+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.847036+00:00"
+    },
+    {
+      "id": "830e0da1a75b",
+      "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+      "summary": "You bought the hardware. Now you’ll need to subscribe for “expanded access” to the most advanced features.",
+      "url": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-02T09:30:00+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.846974+00:00"
+    },
+    {
+      "id": "f87cfe76151d",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, wi",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-07-04T08:00:00-04:00",
+      "scrapedAt": "2026-07-05T10:22:31.742937+00:00"
+    },
+    {
+      "id": "a00e4ef27862",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-04T15:51:32+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.038294+00:00"
+    },
+    {
+      "id": "ffdf2d6e4cd4",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-04T16:32:08+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.038229+00:00"
+    },
+    {
+      "id": "81db9c8e2dbc",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-04T18:00:05+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.038173+00:00"
+    },
+    {
+      "id": "4aeb7d2c2c24",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-04T20:55:25+00:00",
+      "scrapedAt": "2026-07-05T10:22:31.038099+00:00"
+    },
     {
       "id": "abe11bc28287",
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
