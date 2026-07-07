@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-07-06T12:09:50.197257+00:00",
+  "lastUpdated": "2026-07-07T11:14:44.945778+00:00",
   "articles": [
+    {
+      "id": "3ff93651ebcb",
+      "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+      "summary": "arXiv:2607.02686v1 Announce Type: new Abstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from",
+      "url": "https://arxiv.org/abs/2607.02686",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-07T00:00:00-04:00",
+      "scrapedAt": "2026-07-07T11:13:46.090285+00:00"
+    },
+    {
+      "id": "a4a858b5cc3b",
+      "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+      "summary": "arXiv:2607.02672v1 Announce Type: new Abstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory design or alignment. However,",
+      "url": "https://arxiv.org/abs/2607.02672",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-07T00:00:00-04:00",
+      "scrapedAt": "2026-07-07T11:13:46.090142+00:00"
+    },
+    {
+      "id": "d93127451f3e",
+      "title": "iFLYTEK-Embodied-Omni Technical Report",
+      "summary": "arXiv:2607.02542v1 Announce Type: new Abstract: General-purpose embodied agents must understand multimodal instructions, anticipate how their environment will evolve, and produce precise control actio",
+      "url": "https://arxiv.org/abs/2607.02542",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-07T00:00:00-04:00",
+      "scrapedAt": "2026-07-07T11:13:46.089993+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:45.373164+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:45.370048+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:45.366746+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:45.359793+00:00"
+    },
+    {
+      "id": "6f235eb6d9b8",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T13:00:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.845869+00:00"
+    },
+    {
+      "id": "6d2d9fde8021",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T15:22:08+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.845791+00:00"
+    },
+    {
+      "id": "507388fe73ce",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sal",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T15:32:43+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.845716+00:00"
+    },
+    {
+      "id": "88a9e7b84587",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” t",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T17:04:58+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.845609+00:00"
+    },
+    {
+      "id": "1fae758ade94",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T18:35:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.845526+00:00"
+    },
+    {
+      "id": "0f64c66e0db7",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T19:01:59+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.845416+00:00"
+    },
+    {
+      "id": "b96d9864f868",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T19:49:10+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.845280+00:00"
+    },
+    {
+      "id": "d4e9be0269bb",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T23:21:03+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.845020+00:00"
+    },
+    {
+      "id": "bd206ca68985",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T23:56:14+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.844941+00:00"
+    },
+    {
+      "id": "a88205ef5d4e",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "summary": "Forterra has deployed more than 100",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-07T09:00:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.844847+00:00"
+    },
+    {
+      "id": "178c1d5ae377",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-28T17:00:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.759299+00:00"
+    },
+    {
+      "id": "df49518d3b94",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-29T07:00:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:44.759230+00:00"
+    },
+    {
+      "id": "e930f63d2b61",
+      "title": "Your family’s $300 stake in OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . OpenAI CEO Sam Altman’s oft-discussed promise that Americans ",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T18:00:00+00:00",
+      "scrapedAt": "2026-07-07T11:13:43.596931+00:00"
+    },
     {
       "id": "a021e8109101",
       "title": "When AI Costs More Than the Engineer",
@@ -1379,206 +1579,6 @@
       "category": "product",
       "publishedAt": "2026-06-29T18:00:00+00:00",
       "scrapedAt": "2026-06-30T11:14:28.161483+00:00"
-    },
-    {
-      "id": "90af100d18fc",
-      "title": "RANSAC Scoring Done Right",
-      "summary": "arXiv:2606.27385v1 Announce Type: new Abstract: The most widely used RANSAC variants score candidate models by counting inliers or summing per-point scores that saturate beyond a residual threshold. E",
-      "url": "https://arxiv.org/abs/2606.27385",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.638278+00:00"
-    },
-    {
-      "id": "acf1b9efca38",
-      "title": "OverFlowLight: Real-Time Gridlock Prevention and Traffic Signal Optimization for Urban Intersections",
-      "summary": "arXiv:2606.27381v1 Announce Type: new Abstract: Queue overflow, a severe consequence of urban traffic congestion, occurs when vehicle queues exceed intersection capacity, obstructing upstream traffic ",
-      "url": "https://arxiv.org/abs/2606.27381",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.638126+00:00"
-    },
-    {
-      "id": "6beb155694f0",
-      "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
-      "summary": "arXiv:2606.27806v1 Announce Type: new Abstract: World models for language agents come in two useful forms. An agent-based world model calls an LLM API and reasons flexibly in language, but its errors ",
-      "url": "https://arxiv.org/abs/2606.27806",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.437100+00:00"
-    },
-    {
-      "id": "047c3731edd2",
-      "title": "Understanding Rollout Error in Graph World Models",
-      "summary": "arXiv:2606.27780v1 Announce Type: new Abstract: World models are often used for planning by rolling learned dynamics forward. Many planning environments, however, are not vectors or images; they are g",
-      "url": "https://arxiv.org/abs/2606.27780",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.436993+00:00"
-    },
-    {
-      "id": "809419f8ea26",
-      "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
-      "summary": "arXiv:2606.27757v1 Announce Type: new Abstract: Large language models (LLMs) have attracted widespread attention from academia and industry, yet their deployment raises critical security concerns rega",
-      "url": "https://arxiv.org/abs/2606.27757",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.436880+00:00"
-    },
-    {
-      "id": "f1766b4a4930",
-      "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
-      "summary": "arXiv:2606.27736v1 Announce Type: new Abstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation under Generative Engine Opti",
-      "url": "https://arxiv.org/abs/2606.27736",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.436767+00:00"
-    },
-    {
-      "id": "7d0ac3eac269",
-      "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
-      "summary": "arXiv:2606.27652v1 Announce Type: new Abstract: We find that explicit reasoning does not necessarily translate into better multimodal emotion recognition (MER) accuracy, even though it makes predictio",
-      "url": "https://arxiv.org/abs/2606.27652",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.436659+00:00"
-    },
-    {
-      "id": "5e07d694b69e",
-      "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
-      "summary": "arXiv:2606.27619v1 Announce Type: new Abstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their",
-      "url": "https://arxiv.org/abs/2606.27619",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.436545+00:00"
-    },
-    {
-      "id": "413ce943b15a",
-      "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
-      "summary": "arXiv:2606.27593v1 Announce Type: new Abstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as compositions of foundries: ",
-      "url": "https://arxiv.org/abs/2606.27593",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.436414+00:00"
-    },
-    {
-      "id": "255089f4a6a1",
-      "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-      "summary": "arXiv:2606.27483v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-hor",
-      "url": "https://arxiv.org/abs/2606.27483",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.436260+00:00"
-    },
-    {
-      "id": "dbd9c6f72783",
-      "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-      "summary": "arXiv:2606.27443v1 Announce Type: new Abstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-exp",
-      "url": "https://arxiv.org/abs/2606.27443",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.436137+00:00"
-    },
-    {
-      "id": "83f4dcacc7eb",
-      "title": "AI-Model Network: Concept, Current State and Future",
-      "summary": "arXiv:2606.27382v1 Announce Type: new Abstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Compu",
-      "url": "https://arxiv.org/abs/2606.27382",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-06-29T00:00:00-04:00",
-      "scrapedAt": "2026-06-29T12:39:09.436008+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-06-29T12:39:08.962227+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-06-29T12:39:08.958931+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-06-29T12:39:08.955398+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-06-29T12:39:08.948504+00:00"
-    },
-    {
-      "id": "c954eb691633",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-28T15:00:00+00:00",
-      "scrapedAt": "2026-06-29T12:39:08.676608+00:00"
-    },
-    {
-      "id": "66a122702bc0",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-06-28T19:05:39+00:00",
-      "scrapedAt": "2026-06-29T12:39:08.676514+00:00"
-    },
-    {
-      "id": "178c1d5ae377",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-28T17:00:00+00:00",
-      "scrapedAt": "2026-06-29T12:39:08.622758+00:00"
-    },
-    {
-      "id": "df49518d3b94",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-29T07:00:00+00:00",
-      "scrapedAt": "2026-06-29T12:39:08.622661+00:00"
     }
   ]
 }
