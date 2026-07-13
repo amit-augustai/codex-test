@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-07-12T09:56:46.107450+00:00",
+  "lastUpdated": "2026-07-13T11:19:45.480675+00:00",
   "articles": [
+    {
+      "id": "511cad091624",
+      "title": "Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices",
+      "summary": "arXiv:2607.08786v1 Announce Type: new Abstract: With the growing deployment of large language models (LLMs), LLM inference cost has become a key challenge. Pruning techniques that introduce sparsity i",
+      "url": "https://arxiv.org/abs/2607.08786",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.713957+00:00"
+    },
+    {
+      "id": "b8ff014ba0df",
+      "title": "DaDaDa: A Dataset for Data Pricing in Data Marketplaces",
+      "summary": "arXiv:2607.08785v1 Announce Type: new Abstract: High-quality data drives machine learning advances across industries. Recognizing the value of data, data transactions are increasingly common, giving r",
+      "url": "https://arxiv.org/abs/2607.08785",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.713856+00:00"
+    },
+    {
+      "id": "8e1e67d5d802",
+      "title": "HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning",
+      "summary": "arXiv:2607.08784v1 Announce Type: new Abstract: Federated continual learning (FCL) evaluates how distributed clients learn from changing data streams while retaining previously learned knowledge. Exis",
+      "url": "https://arxiv.org/abs/2607.08784",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.713734+00:00"
+    },
+    {
+      "id": "76648271bf2b",
+      "title": "LieBN: Batch Normalization over Lie Groups",
+      "summary": "arXiv:2607.08783v1 Announce Type: new Abstract: Manifold-valued measurements are prevalent in various machine learning tasks. Recent advances have extended Deep Neural Networks (DNNs) to operate on ma",
+      "url": "https://arxiv.org/abs/2607.08783",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.713628+00:00"
+    },
+    {
+      "id": "ab150a676e84",
+      "title": "Director: Accelerating Distributed MoE Serving via Online Proactive Expert Placement",
+      "summary": "arXiv:2607.08782v1 Announce Type: new Abstract: Expert parallelism has become the prevailing paradigm to serve Mixture-of-Experts (MoE) models. Its efficiency depends on the communication and computat",
+      "url": "https://arxiv.org/abs/2607.08782",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.713529+00:00"
+    },
+    {
+      "id": "ee712ceb2825",
+      "title": "Reward Transport: Property Control in Flow Matching via Noise-Space Alignment",
+      "summary": "arXiv:2607.08781v1 Announce Type: new Abstract: The coupling in flow matching -- the rule pairing noise vectors with data points -- is typically treated as a computational choice. We show that this co",
+      "url": "https://arxiv.org/abs/2607.08781",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.713423+00:00"
+    },
+    {
+      "id": "c7009af7c138",
+      "title": "Sticky Routing: Training MoE Models for Memory-Efficient Inference",
+      "summary": "arXiv:2607.08780v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) models activate only a sparse subset of experts per token, yet consecutive tokens frequently activate different experts -- caus",
+      "url": "https://arxiv.org/abs/2607.08780",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.713316+00:00"
+    },
+    {
+      "id": "cc4ba898baea",
+      "title": "Signed Symmetric Quantization for Few-Bit Integers",
+      "summary": "arXiv:2607.08779v1 Announce Type: new Abstract: The signed integer alphabet contains one more negative representable value than positive. Yet, by convention, the standard symmetric integer quantizer f",
+      "url": "https://arxiv.org/abs/2607.08779",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.713219+00:00"
+    },
+    {
+      "id": "d5204a7d793b",
+      "title": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
+      "summary": "arXiv:2607.08778v1 Announce Type: new Abstract: Alzheimer's Disease (AD) is a complex neurodegenerative disorder that continues to impact millions of people worldwide. Predicting AD conversion during ",
+      "url": "https://arxiv.org/abs/2607.08778",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.713092+00:00"
+    },
+    {
+      "id": "739b9bb4ba82",
+      "title": "A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions",
+      "summary": "arXiv:2607.08776v1 Announce Type: new Abstract: Despite the success of knowledge distillation (KD) in Large Language Models (LLMs), the underlying mechanism behind its efficacy remains unclear. In thi",
+      "url": "https://arxiv.org/abs/2607.08776",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.712979+00:00"
+    },
+    {
+      "id": "db83ce0723e8",
+      "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+      "summary": "arXiv:2607.09153v1 Announce Type: new Abstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significantly boost the capabilit",
+      "url": "https://arxiv.org/abs/2607.09153",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.582601+00:00"
+    },
+    {
+      "id": "5cd804c4a77e",
+      "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+      "summary": "arXiv:2607.09142v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned with real clinical ",
+      "url": "https://arxiv.org/abs/2607.09142",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.582509+00:00"
+    },
+    {
+      "id": "66f4e8794f4f",
+      "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+      "summary": "arXiv:2607.09099v1 Announce Type: new Abstract: While multi-agent debate (MAD) frameworks have shown significant potential in general reasoning, their effectiveness in highly structured, knowledge-hea",
+      "url": "https://arxiv.org/abs/2607.09099",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.582401+00:00"
+    },
+    {
+      "id": "82f46e77855f",
+      "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+      "summary": "arXiv:2607.09076v1 Announce Type: new Abstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of traditional rule-based ",
+      "url": "https://arxiv.org/abs/2607.09076",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.582322+00:00"
+    },
+    {
+      "id": "00285188efbc",
+      "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+      "summary": "arXiv:2607.09059v1 Announce Type: new Abstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constraints. ARCANA decomposes ",
+      "url": "https://arxiv.org/abs/2607.09059",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.582225+00:00"
+    },
+    {
+      "id": "c2ff1a30480f",
+      "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+      "summary": "arXiv:2607.08986v1 Announce Type: new Abstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity as a formalization ga",
+      "url": "https://arxiv.org/abs/2607.08986",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.582145+00:00"
+    },
+    {
+      "id": "8284a7746675",
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "summary": "arXiv:2607.08964v1 Announce Type: new Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple prob",
+      "url": "https://arxiv.org/abs/2607.08964",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.582025+00:00"
+    },
+    {
+      "id": "1da89e1c8f83",
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "summary": "arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and Re",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.581900+00:00"
+    },
+    {
+      "id": "32c02c02db1a",
+      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "summary": "arXiv:2607.08774v1 Announce Type: new Abstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliabi",
+      "url": "https://arxiv.org/abs/2607.08774",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.581782+00:00"
+    },
+    {
+      "id": "99d2a7575d56",
+      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "summary": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show t",
+      "url": "https://arxiv.org/abs/2607.08773",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-13T00:00:00-04:00",
+      "scrapedAt": "2026-07-13T11:18:51.581634+00:00"
+    },
     {
       "id": "e8265069f1e3",
       "title": "Mesh LLM: distributed AI computing on iroh",
@@ -1379,206 +1579,6 @@
       "publishedAt": "2026-06-05T14:45:00+00:00",
       "scrapedAt": "2026-07-06T12:09:01.549024+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "17643e5aa2f6",
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "summary": "Score: 23 points",
-      "url": "https://arxiv.org/abs/2606.26967",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-04T20:38:39+00:00",
-      "scrapedAt": "2026-07-05T10:22:33.690605+00:00"
-    },
-    {
-      "id": "9fda12ad7680",
-      "title": "I wanted to be Anthony Bourdain–until I met him",
-      "summary": "Score: 4 points",
-      "url": "https://cailey.substack.com/p/i-wanted-to-be-anthony-bourdainuntil",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-05T09:46:07+00:00",
-      "scrapedAt": "2026-07-05T10:22:33.512882+00:00"
-    },
-    {
-      "id": "e36932b0ff3f",
-      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-      "summary": "Score: 32 points",
-      "url": "https://hic-ai.com",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-05T05:01:14+00:00",
-      "scrapedAt": "2026-07-05T10:22:33.246108+00:00"
-    },
-    {
-      "id": "24a6c426cbb4",
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "summary": "Score: 48 points",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-05T06:19:34+00:00",
-      "scrapedAt": "2026-07-05T10:22:32.975908+00:00"
-    },
-    {
-      "id": "f65c53e7a741",
-      "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
-      "summary": "Score: 50 points",
-      "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-05T01:23:11+00:00",
-      "scrapedAt": "2026-07-05T10:22:32.942937+00:00"
-    },
-    {
-      "id": "616c0559730d",
-      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
-      "summary": "Score: 75 points",
-      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-02T19:03:54+00:00",
-      "scrapedAt": "2026-07-05T10:22:32.608670+00:00"
-    },
-    {
-      "id": "7887c5805612",
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "summary": "Score: 277 points",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-04T21:51:09+00:00",
-      "scrapedAt": "2026-07-05T10:22:32.271447+00:00"
-    },
-    {
-      "id": "3c610c759a68",
-      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-06-29T21:49:26+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.847401+00:00"
-    },
-    {
-      "id": "b6b1f9ceb614",
-      "title": "Bernie Sanders Saw This Coming",
-      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-06-30T10:30:00+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.847317+00:00"
-    },
-    {
-      "id": "86b7b987dee7",
-      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-      "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-06-30T23:23:04+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.847261+00:00"
-    },
-    {
-      "id": "88634f28df46",
-      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-01T10:00:00+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.847206+00:00"
-    },
-    {
-      "id": "fc0b8d7e7744",
-      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-      "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-01T16:00:00+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.847147+00:00"
-    },
-    {
-      "id": "d94a70a0008d",
-      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-      "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-01T18:10:00+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.847092+00:00"
-    },
-    {
-      "id": "e9b5f503be40",
-      "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
-      "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
-      "url": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-01T20:28:57+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.847036+00:00"
-    },
-    {
-      "id": "830e0da1a75b",
-      "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
-      "summary": "You bought the hardware. Now you’ll need to subscribe for “expanded access” to the most advanced features.",
-      "url": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-02T09:30:00+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.846974+00:00"
-    },
-    {
-      "id": "f87cfe76151d",
-      "title": "The fanfiction community is at war with AI — and itself",
-      "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, wi",
-      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-04T08:00:00-04:00",
-      "scrapedAt": "2026-07-05T10:22:31.742937+00:00"
-    },
-    {
-      "id": "a00e4ef27862",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-04T15:51:32+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.038294+00:00"
-    },
-    {
-      "id": "ffdf2d6e4cd4",
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-04T16:32:08+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.038229+00:00"
-    },
-    {
-      "id": "81db9c8e2dbc",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-04T18:00:05+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.038173+00:00"
-    },
-    {
-      "id": "4aeb7d2c2c24",
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-04T20:55:25+00:00",
-      "scrapedAt": "2026-07-05T10:22:31.038099+00:00"
     }
   ]
 }
