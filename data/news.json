@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-07-13T11:19:45.480675+00:00",
+  "lastUpdated": "2026-07-14T10:04:36.615813+00:00",
   "articles": [
+    {
+      "id": "f480f8c09e0d",
+      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+      "summary": "arXiv:2607.09689v1 Announce Type: new Abstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $\\",
+      "url": "https://arxiv.org/abs/2607.09689",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-14T00:00:00-04:00",
+      "scrapedAt": "2026-07-14T10:03:40.588561+00:00"
+    },
+    {
+      "id": "4a2b45a0b67d",
+      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+      "summary": "arXiv:2607.09678v1 Announce Type: new Abstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that str",
+      "url": "https://arxiv.org/abs/2607.09678",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-14T00:00:00-04:00",
+      "scrapedAt": "2026-07-14T10:03:40.588473+00:00"
+    },
+    {
+      "id": "73e50eb0892c",
+      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+      "summary": "arXiv:2607.09665v1 Announce Type: new Abstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under a",
+      "url": "https://arxiv.org/abs/2607.09665",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-14T00:00:00-04:00",
+      "scrapedAt": "2026-07-14T10:03:40.588338+00:00"
+    },
+    {
+      "id": "c3adaaaa75d7",
+      "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+      "summary": "arXiv:2607.09664v1 Announce Type: new Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentatio",
+      "url": "https://arxiv.org/abs/2607.09664",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-14T00:00:00-04:00",
+      "scrapedAt": "2026-07-14T10:03:40.588225+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-07-14T10:03:40.153687+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-07-14T10:03:40.145121+00:00"
+    },
+    {
+      "id": "e7785d8c77e3",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-07-14T10:03:40.141878+00:00"
+    },
+    {
+      "id": "e05cb5c1953d",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-13T14:18:16+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.935030+00:00"
+    },
+    {
+      "id": "cda1dfeab597",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-13T15:34:59+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.934957+00:00"
+    },
+    {
+      "id": "0e7e142d3d4e",
+      "title": "Should AI help you get away with killing your spouse?",
+      "summary": "What does a world of total user-aligned AI actually look like?",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-13T16:31:23+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.934892+00:00"
+    },
+    {
+      "id": "c0b352c36c1e",
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-13T17:28:37+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.934827+00:00"
+    },
+    {
+      "id": "25a33f9e5281",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple ",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-13T18:22:10+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.934757+00:00"
+    },
+    {
+      "id": "3917d3b170f3",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary m",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-13T20:59:00+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.934682+00:00"
+    },
+    {
+      "id": "102e5c971823",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-13T23:31:18+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.934571+00:00"
+    },
+    {
+      "id": "4bee90298658",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-14T00:00:00+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.934500+00:00"
+    },
+    {
+      "id": "71ee9ef92d3c",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-14T00:45:00+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.934429+00:00"
+    },
+    {
+      "id": "1445c1679aea",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-14T02:46:42+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.934344+00:00"
+    },
+    {
+      "id": "076e1c598139",
+      "title": "Getting started with ChatGPT",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "url": "https://openai.com/academy/getting-started",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-10T00:00:00+00:00",
+      "scrapedAt": "2026-07-14T10:03:39.799981+00:00"
+    },
+    {
+      "id": "752c96ffbdef",
+      "title": "The latest AI news we announced in May 2026",
+      "summary": "Here are Google’s latest AI updates from May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-05T14:45:00+00:00",
+      "scrapedAt": "2026-07-14T10:03:38.761613+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "50ee0b4631ad",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Anthropic—currently the world’s most valuable AI company, wit",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-13T18:00:00+00:00",
+      "scrapedAt": "2026-07-14T10:03:38.472270+00:00"
+    },
     {
       "id": "511cad091624",
       "title": "Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices",
@@ -1408,177 +1609,6 @@
       "category": "product",
       "publishedAt": "2026-07-06T18:00:00+00:00",
       "scrapedAt": "2026-07-07T11:13:43.596931+00:00"
-    },
-    {
-      "id": "a021e8109101",
-      "title": "When AI Costs More Than the Engineer",
-      "summary": "Score: 107 points",
-      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-06T07:05:25+00:00",
-      "scrapedAt": "2026-07-06T12:09:04.746424+00:00"
-    },
-    {
-      "id": "1400beb069a3",
-      "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
-      "summary": "Score: 137 points",
-      "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-05T19:22:51+00:00",
-      "scrapedAt": "2026-07-06T12:09:04.574822+00:00"
-    },
-    {
-      "id": "091c39f17562",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "summary": "Score: 167 points",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-05T18:47:43+00:00",
-      "scrapedAt": "2026-07-06T12:09:04.531456+00:00"
-    },
-    {
-      "id": "bbf0d1aa4ee3",
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "summary": "Score: 192 points",
-      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-03T03:13:53+00:00",
-      "scrapedAt": "2026-07-06T12:09:04.470562+00:00"
-    },
-    {
-      "id": "5a6316e2605b",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "summary": "<a href=\"https:&#x2F;&#x2F;archive.md&#x2F;Q9trL\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;Q9trL</a>",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-02T20:38:06+00:00",
-      "scrapedAt": "2026-07-06T12:09:04.322958+00:00"
-    },
-    {
-      "id": "9faf0573f9de",
-      "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
-      "summary": "Earth.tattoo divides the earth into 510 million 16x16 pixel &quot;tiles&quot; that you can own and paint as you like. You can claim one free tile per hour.",
-      "url": "https://earth.tattoo",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-06T10:28:32+00:00",
-      "scrapedAt": "2026-07-06T12:09:04.306610+00:00"
-    },
-    {
-      "id": "3a095b2ff647",
-      "title": "C programmers commit fresh crimes against readability",
-      "summary": "Score: 7 points",
-      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-06T11:44:39+00:00",
-      "scrapedAt": "2026-07-06T12:09:04.218365+00:00"
-    },
-    {
-      "id": "07a18c86657a",
-      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-      "summary": "Score: 149 points",
-      "url": "https://arxiv.org/abs/2605.20049",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-05T23:03:55+00:00",
-      "scrapedAt": "2026-07-06T12:09:04.200178+00:00"
-    },
-    {
-      "id": "a5123436eb6c",
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "summary": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575</a>, <a href=\"https:&#x2F;&",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-06T01:04:03+00:00",
-      "scrapedAt": "2026-07-06T12:09:03.856314+00:00"
-    },
-    {
-      "id": "3dc1f1d165e8",
-      "title": "Real-time map of Great Britain's rail network",
-      "summary": "Score: 148 points",
-      "url": "https://www.map.signalbox.io",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-06T09:38:36+00:00",
-      "scrapedAt": "2026-07-06T12:09:03.722379+00:00"
-    },
-    {
-      "id": "c597736af88d",
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "summary": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google \"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-05T10:23:11-04:00",
-      "scrapedAt": "2026-07-06T12:09:03.038220+00:00"
-    },
-    {
-      "id": "f4dfdde345c5",
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "summary": "Most Americans don't trust AI . It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music . But none of that matters for some of America's wealthy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-05T18:30:54-04:00",
-      "scrapedAt": "2026-07-06T12:09:03.037767+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-07-06T12:09:02.838871+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-07-06T12:09:02.830442+00:00"
-    },
-    {
-      "id": "e7785d8c77e3",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-07-06T12:09:02.827208+00:00"
-    },
-    {
-      "id": "0600934a9010",
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-05T17:43:36+00:00",
-      "scrapedAt": "2026-07-06T12:09:02.587656+00:00"
-    },
-    {
-      "id": "752c96ffbdef",
-      "title": "The latest AI news we announced in May 2026",
-      "summary": "Here are Google’s latest AI updates from May 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-05T14:45:00+00:00",
-      "scrapedAt": "2026-07-06T12:09:01.549024+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
     }
   ]
 }
