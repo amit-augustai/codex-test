@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-07-19T09:57:11.319194+00:00",
+  "lastUpdated": "2026-07-20T11:07:34.258918+00:00",
   "articles": [
+    {
+      "id": "647c501b72bb",
+      "title": "AI Trading: Evaluating Large Language Models for Technical Market Analysis",
+      "summary": "arXiv:2607.15414v1 Announce Type: new Abstract: Large Language Models (LLMs) have emerged as powerful tools for processing the heterogeneous information environments of modern financial markets. This ",
+      "url": "https://arxiv.org/abs/2607.15414",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:38.052425+00:00"
+    },
+    {
+      "id": "9fea582ce233",
+      "title": "Regularity-Aware Stochastic MGDA with Adaptive Conflict-Avoidant Update Direction Control",
+      "summary": "arXiv:2607.15412v1 Announce Type: new Abstract: Multi-objective learning (MOL) aims to optimize multiple objectives simultaneously. The multi-gradient descent algorithm (MGDA) is a workhorse that iter",
+      "url": "https://arxiv.org/abs/2607.15412",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:38.052324+00:00"
+    },
+    {
+      "id": "31b7c81359f2",
+      "title": "A Transportable Threshold-Based Framework for Interpretable Classification of Medical Data",
+      "summary": "arXiv:2607.15394v1 Announce Type: new Abstract: Black-box models limit the adoption of artificial intelligence in medicine due to their lack of interpretability and reproducibility. We introduce a sta",
+      "url": "https://arxiv.org/abs/2607.15394",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:38.052233+00:00"
+    },
+    {
+      "id": "2567c54ef295",
+      "title": "Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling",
+      "summary": "arXiv:2607.15313v1 Announce Type: new Abstract: The scaling hypothesis assumes that increasing model parameters yields emergent reasoning capabilities. This position paper argues that applying this pr",
+      "url": "https://arxiv.org/abs/2607.15313",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:38.052139+00:00"
+    },
+    {
+      "id": "7abc2a44c23d",
+      "title": "Structure of the Circular-Dyadic Convolution Error",
+      "summary": "arXiv:2607.15293v1 Announce Type: new Abstract: Dyadic and circular convolution can both be computed in $O(N\\log N)$ time using the Hadamard transform and the FFT-computed discrete Fourier transform (",
+      "url": "https://arxiv.org/abs/2607.15293",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:38.052045+00:00"
+    },
+    {
+      "id": "c48bd3d7664a",
+      "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
+      "summary": "arXiv:2607.15480v1 Announce Type: new Abstract: As artificial intelligence (AI) systems increasingly impact society, ensuring their ethical and trustworthy deployment has become a global priority. Whi",
+      "url": "https://arxiv.org/abs/2607.15480",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807969+00:00"
+    },
+    {
+      "id": "e057741d03f9",
+      "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
+      "summary": "arXiv:2607.15459v1 Announce Type: new Abstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an executable logic progra",
+      "url": "https://arxiv.org/abs/2607.15459",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807869+00:00"
+    },
+    {
+      "id": "dff27b3b2244",
+      "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
+      "summary": "arXiv:2607.15442v1 Announce Type: new Abstract: Internet memes intertwine visual cues, textual content, and cultural context, making them particularly challenging to interpret in scenarios where humor",
+      "url": "https://arxiv.org/abs/2607.15442",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807770+00:00"
+    },
+    {
+      "id": "37aceab9bcce",
+      "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
+      "summary": "arXiv:2607.15439v1 Announce Type: new Abstract: Our previous ARC-AGI-3 agent bundled executable world modeling, scheduled simplification, and exact replay verification, leaving unclear which idea acco",
+      "url": "https://arxiv.org/abs/2607.15439",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807683+00:00"
+    },
+    {
+      "id": "4c71f63bba04",
+      "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+      "summary": "arXiv:2607.15418v1 Announce Type: new Abstract: We introduce DrawingVQA, the first benchmark designed to evaluate multimodal large language models (MLLMs) on real-world construction drawings -- a core",
+      "url": "https://arxiv.org/abs/2607.15418",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807586+00:00"
+    },
+    {
+      "id": "c813bd720c2f",
+      "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+      "summary": "arXiv:2607.15388v1 Announce Type: new Abstract: Many math- and science-oriented agent systems use hierarchical designs with specialized reviewer roles, assuming that a dedicated review stage should he",
+      "url": "https://arxiv.org/abs/2607.15388",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807509+00:00"
+    },
+    {
+      "id": "52d5022060eb",
+      "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+      "summary": "arXiv:2607.15367v1 Announce Type: new Abstract: Desktop voice assistants are still dominated by cloud pipelines that ship raw audio off the machine and expose a fixed set of skills. We describe AnovaX",
+      "url": "https://arxiv.org/abs/2607.15367",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807424+00:00"
+    },
+    {
+      "id": "2fbca698146f",
+      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+      "summary": "arXiv:2607.15314v1 Announce Type: new Abstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain li",
+      "url": "https://arxiv.org/abs/2607.15314",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807324+00:00"
+    },
+    {
+      "id": "9c6316982955",
+      "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+      "summary": "arXiv:2607.15281v1 Announce Type: new Abstract: Causal and intervention-based question answering is fundamental to advancing large language models (LLMs) toward reasoning beyond surface-level correlat",
+      "url": "https://arxiv.org/abs/2607.15281",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807243+00:00"
+    },
+    {
+      "id": "e2d5317e077d",
+      "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+      "summary": "arXiv:2607.15280v1 Announce Type: new Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Mode",
+      "url": "https://arxiv.org/abs/2607.15280",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-20T00:00:00-04:00",
+      "scrapedAt": "2026-07-20T11:06:37.807143+00:00"
+    },
+    {
+      "id": "cc5e7a064593",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-19T14:00:00+00:00",
+      "scrapedAt": "2026-07-20T11:06:36.966534+00:00"
+    },
+    {
+      "id": "f94394e35d70",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-19T14:52:08+00:00",
+      "scrapedAt": "2026-07-20T11:06:36.966480+00:00"
+    },
+    {
+      "id": "87a2e11003ab",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-19T19:24:45+00:00",
+      "scrapedAt": "2026-07-20T11:06:36.966428+00:00"
+    },
+    {
+      "id": "3a06d71f5b9e",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-19T21:16:07+00:00",
+      "scrapedAt": "2026-07-20T11:06:36.966358+00:00"
+    },
+    {
+      "id": "d213c30d2534",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-20T08:39:01+00:00",
+      "scrapedAt": "2026-07-20T11:06:35.808419+00:00"
+    },
     {
       "id": "f57b1182fef9",
       "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
