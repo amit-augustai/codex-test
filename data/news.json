@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-07-21T10:29:51.706788+00:00",
+  "lastUpdated": "2026-07-22T10:30:55.789631+00:00",
   "articles": [
+    {
+      "id": "53c387f6ad91",
+      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+      "summary": "arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-sca",
+      "url": "https://arxiv.org/abs/2607.18241",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-22T00:00:00-04:00",
+      "scrapedAt": "2026-07-22T10:29:59.963815+00:00"
+    },
+    {
+      "id": "94e593ee878e",
+      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+      "summary": "arXiv:2607.18240v1 Announce Type: new Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may ",
+      "url": "https://arxiv.org/abs/2607.18240",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-22T00:00:00-04:00",
+      "scrapedAt": "2026-07-22T10:29:59.963692+00:00"
+    },
+    {
+      "id": "39c5df78a80e",
+      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+      "summary": "arXiv:2607.18239v1 Announce Type: new Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as ",
+      "url": "https://arxiv.org/abs/2607.18239",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-22T00:00:00-04:00",
+      "scrapedAt": "2026-07-22T10:29:59.963570+00:00"
+    },
+    {
+      "id": "be406df3fd99",
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T15:37:05+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.338464+00:00"
+    },
+    {
+      "id": "c096964be54d",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T17:11:50+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.338415+00:00"
+    },
+    {
+      "id": "50506afdaa3d",
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T18:06:38+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.338365+00:00"
+    },
+    {
+      "id": "0919b4f551ff",
+      "title": "AI and the rise of the universal entertainment app",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T19:39:30+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.338316+00:00"
+    },
+    {
+      "id": "d77aa8a5fe08",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T19:43:41+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.338256+00:00"
+    },
+    {
+      "id": "591f1cb3d739",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T20:56:55+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.338201+00:00"
+    },
+    {
+      "id": "86519c5dd5f1",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T23:55:10+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.338144+00:00"
+    },
+    {
+      "id": "0f1ee6934ed4",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T03:20:57+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.338083+00:00"
+    },
+    {
+      "id": "27421537c448",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T08:00:00+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.338007+00:00"
+    },
+    {
+      "id": "e75398f513ac",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T10:00:00+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.337924+00:00"
+    },
+    {
+      "id": "e59f55fe659d",
+      "title": "How to manage AI investments in the agentic era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-14T10:00:00+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.193269+00:00"
+    },
+    {
+      "id": "10666aebf14a",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-21T00:00:00+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.192856+00:00"
+    },
+    {
+      "id": "07a59789a1f9",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-21T07:00:00+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.192786+00:00"
+    },
+    {
+      "id": "9783627bd88c",
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-21T17:00:00+00:00",
+      "scrapedAt": "2026-07-22T10:29:59.192705+00:00"
+    },
+    {
+      "id": "84e3af10ba85",
+      "title": "Celebrating 25 years of visual search innovation",
+      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-14T16:00:00+00:00",
+      "scrapedAt": "2026-07-22T10:29:58.294796+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "e930f63d2b61",
+      "title": "Your family’s $300 stake in OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . OpenAI CEO Sam Altman’s oft-discussed promise that Americans ",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-06T18:00:00+00:00",
+      "scrapedAt": "2026-07-22T10:29:58.065670+00:00"
+    },
+    {
+      "id": "6d5a86555da5",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T10:37:34+00:00",
+      "scrapedAt": "2026-07-22T10:29:58.055852+00:00"
+    },
     {
       "id": "670750801976",
       "title": "Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models",
@@ -1209,207 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-07-15T17:09:37+00:00",
       "scrapedAt": "2026-07-16T10:15:20.616196+00:00"
-    },
-    {
-      "id": "691801dcfeb9",
-      "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
-      "summary": "arXiv:2607.09698v1 Announce Type: new Abstract: Recent latent reasoning methods, such as CODI and COCONUT, face a fundamental interpretability problem: they maintain multiple superimposed candidate tr",
-      "url": "https://arxiv.org/abs/2607.09698",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-14T00:00:00-04:00",
-      "scrapedAt": "2026-07-15T10:07:57.040490+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.547919+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.545573+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.543040+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.537953+00:00"
-    },
-    {
-      "id": "5531c5f6b4f6",
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
-      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-14T17:45:55+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.189012+00:00"
-    },
-    {
-      "id": "46faa28596ea",
-      "title": "Google faces another AI training lawsuit from major publishers",
-      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-14T18:33:31+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.188962+00:00"
-    },
-    {
-      "id": "41138521bbab",
-      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-14T19:39:39+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.188914+00:00"
-    },
-    {
-      "id": "c604b203eb8e",
-      "title": "Anthropic’s newest ad is creeping people out",
-      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of",
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-14T19:41:27+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.188860+00:00"
-    },
-    {
-      "id": "9fd65f338ac2",
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its A",
-      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-14T19:42:27+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.188806+00:00"
-    },
-    {
-      "id": "c59caaf5dd92",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-14T21:50:11+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.188750+00:00"
-    },
-    {
-      "id": "3b5a63d55d86",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-14T22:07:42+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.188699+00:00"
-    },
-    {
-      "id": "becee1c63011",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and bec",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-14T22:22:24+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.188648+00:00"
-    },
-    {
-      "id": "0a8a6aa50a5f",
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-14T23:10:02+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.188577+00:00"
-    },
-    {
-      "id": "28e622f54015",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T00:27:04+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.188508+00:00"
-    },
-    {
-      "id": "ca8d7bccf4af",
-      "title": "How sales teams use ChatGPT Work",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-14T00:00:00+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.045528+00:00"
-    },
-    {
-      "id": "afc8cde3e2c8",
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-14T00:00:00+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.045467+00:00"
-    },
-    {
-      "id": "e59f55fe659d",
-      "title": "How to manage AI investments in the agentic era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-14T10:00:00+00:00",
-      "scrapedAt": "2026-07-15T10:07:56.045394+00:00"
-    },
-    {
-      "id": "84e3af10ba85",
-      "title": "Celebrating 25 years of visual search innovation",
-      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-14T16:00:00+00:00",
-      "scrapedAt": "2026-07-15T10:07:55.123195+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e930f63d2b61",
-      "title": "Your family’s $300 stake in OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . OpenAI CEO Sam Altman’s oft-discussed promise that Americans ",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-06T18:00:00+00:00",
-      "scrapedAt": "2026-07-15T10:07:54.808930+00:00"
     }
   ]
 }
