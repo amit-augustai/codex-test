@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-07-22T10:30:55.789631+00:00",
+  "lastUpdated": "2026-07-23T10:29:24.700235+00:00",
   "articles": [
+    {
+      "id": "22ff93960bae",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T16:24:08+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.171406+00:00"
+    },
+    {
+      "id": "e726d7442e64",
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T17:54:14+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.171328+00:00"
+    },
+    {
+      "id": "2eef0e4f7c29",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T18:13:58+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.171238+00:00"
+    },
+    {
+      "id": "6a7f08f97575",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T18:50:44+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.171165+00:00"
+    },
+    {
+      "id": "298db90fda8b",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T19:11:46+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.171095+00:00"
+    },
+    {
+      "id": "eb195570e729",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T20:49:03+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.170998+00:00"
+    },
+    {
+      "id": "42dd8f7444e9",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T22:01:52+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.170887+00:00"
+    },
+    {
+      "id": "97d598949ef9",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T23:47:54+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.170775+00:00"
+    },
+    {
+      "id": "3d07170d3443",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T06:09:13+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.170696+00:00"
+    },
+    {
+      "id": "0723f553c0b8",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "url": "https://openai.com/index/ntt-data",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-22T00:00:00+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.000494+00:00"
+    },
+    {
+      "id": "1f5d786bd553",
+      "title": "Introducing OpenAI Presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-22T05:30:00+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.000425+00:00"
+    },
+    {
+      "id": "1de8660326e5",
+      "title": "Advancing the next era of national science",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-22T12:00:00+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.000352+00:00"
+    },
+    {
+      "id": "7c5769317a94",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-22T13:00:00+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.000254+00:00"
+    },
+    {
+      "id": "4eb3751221ad",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-22T13:00:00+00:00",
+      "scrapedAt": "2026-07-23T10:28:28.000171+00:00"
+    },
+    {
+      "id": "d2a0fe43f1ac",
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-29T16:00:00+00:00",
+      "scrapedAt": "2026-07-23T10:28:27.271866+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "bcdfc8c6057d",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-30T06:00:00+00:00",
+      "scrapedAt": "2026-07-23T10:28:27.271773+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c754a9a1d071",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-07T08:54:00+00:00",
+      "scrapedAt": "2026-07-23T10:28:27.271563+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "bf18d69a0505",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-22T13:00:00+00:00",
+      "scrapedAt": "2026-07-23T10:28:27.271135+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "34dc6f6de3b4",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-07T11:10:52+00:00",
+      "scrapedAt": "2026-07-23T10:28:26.819782+00:00"
+    },
+    {
+      "id": "0081d2e6c395",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-15T17:09:37+00:00",
+      "scrapedAt": "2026-07-23T10:28:26.814486+00:00"
+    },
     {
       "id": "53c387f6ad91",
       "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
@@ -1207,209 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-07-17T08:57:32+00:00",
       "scrapedAt": "2026-07-17T10:03:44.648900+00:00"
-    },
-    {
-      "id": "3d8b425b2bd1",
-      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "summary": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which ",
-      "url": "https://arxiv.org/abs/2607.13037",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-16T00:00:00-04:00",
-      "scrapedAt": "2026-07-16T10:15:22.301297+00:00"
-    },
-    {
-      "id": "dc315898b2db",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T22:24:17+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.928081+00:00"
-    },
-    {
-      "id": "abe5db521872",
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi",
-      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T15:00:00+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.600490+00:00"
-    },
-    {
-      "id": "d3f280f36006",
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T15:29:33+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.598694+00:00"
-    },
-    {
-      "id": "ec46a9e54745",
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T16:20:18+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.598642+00:00"
-    },
-    {
-      "id": "e8dd50de2f6d",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and dis",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T17:00:00+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.598585+00:00"
-    },
-    {
-      "id": "ed41beb09c12",
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T17:00:34+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.598510+00:00"
-    },
-    {
-      "id": "be5f4e7765aa",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T18:04:06+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.598459+00:00"
-    },
-    {
-      "id": "d1802f967e8d",
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T18:06:05+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.598406+00:00"
-    },
-    {
-      "id": "c9ca9bb827ce",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T19:41:38+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.598347+00:00"
-    },
-    {
-      "id": "86fc4744cf64",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T23:59:44+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.598284+00:00"
-    },
-    {
-      "id": "3442e88d0150",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T04:00:00+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.598209+00:00"
-    },
-    {
-      "id": "5ea0a6358ff1",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-15T10:00:00+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.529085+00:00"
-    },
-    {
-      "id": "817e2aedd430",
-      "title": "The US is advancing AI safety through state and federal action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-15T12:00:00+00:00",
-      "scrapedAt": "2026-07-16T10:15:21.529003+00:00"
-    },
-    {
-      "id": "d2a0fe43f1ac",
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-29T16:00:00+00:00",
-      "scrapedAt": "2026-07-16T10:15:20.877585+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "bcdfc8c6057d",
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-30T06:00:00+00:00",
-      "scrapedAt": "2026-07-16T10:15:20.877492+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c754a9a1d071",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-07T08:54:00+00:00",
-      "scrapedAt": "2026-07-16T10:15:20.877316+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "9d9559f96015",
-      "title": "Building the foundation for an autonomous enterprise",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-02T12:51:44+00:00",
-      "scrapedAt": "2026-07-16T10:15:20.626040+00:00"
-    },
-    {
-      "id": "34dc6f6de3b4",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-07T11:10:52+00:00",
-      "scrapedAt": "2026-07-16T10:15:20.620728+00:00"
-    },
-    {
-      "id": "0081d2e6c395",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T17:09:37+00:00",
-      "scrapedAt": "2026-07-16T10:15:20.616196+00:00"
     }
   ]
 }
