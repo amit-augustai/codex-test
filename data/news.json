@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-07-23T10:29:24.700235+00:00",
+  "lastUpdated": "2026-07-24T10:25:00.641604+00:00",
   "articles": [
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.792763+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.788806+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.785761+00:00"
+    },
+    {
+      "id": "6b6c0e694dc0",
+      "title": "Google’s Gemini nears billion-user milestone",
+      "summary": "Gemini had over 750 million monthly users in February.",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T14:52:44+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.516611+00:00"
+    },
+    {
+      "id": "8d7c08e5e756",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T15:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.516547+00:00"
+    },
+    {
+      "id": "1422aada1fe9",
+      "title": "Nvidia is sending GPUs to the moon",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T15:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.516477+00:00"
+    },
+    {
+      "id": "5ba8a5eff9b7",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T16:28:50+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.516394+00:00"
+    },
+    {
+      "id": "a9cb3adc849d",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T17:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.516323+00:00"
+    },
+    {
+      "id": "7280fe4d8d9a",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T17:07:35+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.516255+00:00"
+    },
+    {
+      "id": "83feacd899b0",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T18:38:34+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.516178+00:00"
+    },
+    {
+      "id": "0a457876b007",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T19:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.516098+00:00"
+    },
+    {
+      "id": "2a9598e40ea5",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T20:33:02+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.515991+00:00"
+    },
+    {
+      "id": "f254e58029de",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-24T01:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.515907+00:00"
+    },
+    {
+      "id": "b6e63d548020",
+      "title": "Launching Health in ChatGPT",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:03.364914+00:00"
+    },
+    {
+      "id": "05a77cd02507",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "summary": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-01T16:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:02.437746+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "1f96c5e608ff",
+      "title": "The latest AI news we announced in June 2026",
+      "summary": "Here are Google’s latest AI updates from June 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-01T18:15:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:02.437718+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b1da67ab5327",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-16T16:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:02.437427+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c2f66cb0a504",
+      "title": "Connect more of your apps to Search",
+      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-16T16:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:02.437331+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5777494d3bc5",
+      "title": "The risk of weather data sabotage is rising",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-17T08:57:32+00:00",
+      "scrapedAt": "2026-07-24T10:24:02.122540+00:00"
+    },
+    {
+      "id": "7f188a0c6b4b",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T12:00:00+00:00",
+      "scrapedAt": "2026-07-24T10:24:02.116606+00:00"
+    },
     {
       "id": "22ff93960bae",
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
@@ -1207,210 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-07-09T20:22:28+00:00",
       "scrapedAt": "2026-07-18T09:38:23.654305+00:00"
-    },
-    {
-      "id": "e1584d598002",
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T19:02:38+00:00",
-      "scrapedAt": "2026-07-17T10:03:46.256284+00:00"
-    },
-    {
-      "id": "308c77cdd950",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T19:16:48+00:00",
-      "scrapedAt": "2026-07-17T10:03:46.253767+00:00"
-    },
-    {
-      "id": "92bf3c7f3d86",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T13:17:59+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.962963+00:00"
-    },
-    {
-      "id": "bb03fb42eb3d",
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T14:26:29+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.962893+00:00"
-    },
-    {
-      "id": "99dfba78ed41",
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T14:40:00+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.962822+00:00"
-    },
-    {
-      "id": "bf27aeddf352",
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T15:02:00+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.962747+00:00"
-    },
-    {
-      "id": "bcfaf7641bb6",
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T15:31:09+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.962674+00:00"
-    },
-    {
-      "id": "b5237ebb8981",
-      "title": "Yes, you can now order DoorDash from the command line",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar",
-      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T15:38:55+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.962607+00:00"
-    },
-    {
-      "id": "c3261b8580a4",
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.962533+00:00"
-    },
-    {
-      "id": "0699caaab6d7",
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T18:22:06+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.962460+00:00"
-    },
-    {
-      "id": "c27a3acd5bed",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T18:32:54+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.962379+00:00"
-    },
-    {
-      "id": "b57416a816cc",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "url": "https://openai.com/index/cars24",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-16T00:00:00+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.837886+00:00"
-    },
-    {
-      "id": "fc1dde757a2d",
-      "title": "Why teens deserve access to safe AI",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "scrapedAt": "2026-07-17T10:03:45.837799+00:00"
-    },
-    {
-      "id": "05a77cd02507",
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "summary": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-01T16:00:00+00:00",
-      "scrapedAt": "2026-07-17T10:03:44.931736+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "1f96c5e608ff",
-      "title": "The latest AI news we announced in June 2026",
-      "summary": "Here are Google’s latest AI updates from June 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-01T18:15:00+00:00",
-      "scrapedAt": "2026-07-17T10:03:44.931714+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b1da67ab5327",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "scrapedAt": "2026-07-17T10:03:44.931436+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c2f66cb0a504",
-      "title": "Connect more of your apps to Search",
-      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "scrapedAt": "2026-07-17T10:03:44.931329+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "78c501247f18",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-06-30T21:50:04+00:00",
-      "scrapedAt": "2026-07-17T10:03:44.664327+00:00"
-    },
-    {
-      "id": "b7a1a19f77c0",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-01T14:35:16+00:00",
-      "scrapedAt": "2026-07-17T10:03:44.663534+00:00"
-    },
-    {
-      "id": "5777494d3bc5",
-      "title": "The risk of weather data sabotage is rising",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-17T08:57:32+00:00",
-      "scrapedAt": "2026-07-17T10:03:44.648900+00:00"
     }
   ]
 }
