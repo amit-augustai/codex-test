@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-07-25T09:55:09.296668+00:00",
+  "lastUpdated": "2026-07-26T10:06:12.734473+00:00",
   "articles": [
+    {
+      "id": "c13d67073208",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "summary": "Score: 123 points",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-25T22:50:49+00:00",
+      "scrapedAt": "2026-07-26T10:05:17.586679+00:00"
+    },
+    {
+      "id": "7d2d21f0d729",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "summary": "Score: 150 points",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-25T23:32:50+00:00",
+      "scrapedAt": "2026-07-26T10:05:17.501864+00:00"
+    },
+    {
+      "id": "9b29631a6a5a",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "summary": "Score: 332 points",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-25T20:42:35+00:00",
+      "scrapedAt": "2026-07-26T10:05:17.332332+00:00"
+    },
+    {
+      "id": "f98451746f8a",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "summary": "Score: 72 points",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-07-26T05:57:22+00:00",
+      "scrapedAt": "2026-07-26T10:05:17.247968+00:00"
+    },
+    {
+      "id": "33a2bb7eead8",
+      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+      "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T19:05:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942722+00:00"
+    },
+    {
+      "id": "4faa88042352",
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T22:50:01+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942673+00:00"
+    },
+    {
+      "id": "7d7d859d0c3b",
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+      "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T19:01:38+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942617+00:00"
+    },
+    {
+      "id": "0379f082bc13",
+      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+      "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-22T21:00:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942562+00:00"
+    },
+    {
+      "id": "0e47865c0d80",
+      "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
+      "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.",
+      "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T09:15:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942507+00:00"
+    },
+    {
+      "id": "c520ff81d490",
+      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+      "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T18:45:52+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942427+00:00"
+    },
+    {
+      "id": "4b641599ed89",
+      "title": "Some Kids Will Never Think AI Is Cool",
+      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
+      "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-24T10:00:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942374+00:00"
+    },
+    {
+      "id": "3ab7d1a7f587",
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+      "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-24T15:00:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942315+00:00"
+    },
+    {
+      "id": "3bce429613d5",
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-24T17:53:01+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942256+00:00"
+    },
+    {
+      "id": "c82a3ed9f76a",
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-07-25T10:30:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.942185+00:00"
+    },
+    {
+      "id": "bf8b59fc2dda",
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a r",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T10:13:35-04:00",
+      "scrapedAt": "2026-07-26T10:05:16.817847+00:00"
+    },
+    {
+      "id": "1d1f4c9db4af",
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T13:00:00-04:00",
+      "scrapedAt": "2026-07-26T10:05:16.817481+00:00"
+    },
+    {
+      "id": "102564d4308f",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-25T13:05:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.054182+00:00"
+    },
+    {
+      "id": "9026899f60e4",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-25T16:00:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.054130+00:00"
+    },
+    {
+      "id": "cb61b6a2a5da",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-26T01:30:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:16.054065+00:00"
+    },
+    {
+      "id": "235f1239691f",
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-06-25T16:00:00+00:00",
+      "scrapedAt": "2026-07-26T10:05:15.377384+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"
+    },
     {
       "id": "655cdfa99e06",
       "title": "Patreon is laying off 20 percent of workers",
@@ -1209,208 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-07-20T08:39:01+00:00",
       "scrapedAt": "2026-07-20T11:06:35.808419+00:00"
-    },
-    {
-      "id": "f57b1182fef9",
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "summary": "Score: 16 points",
-      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-19T08:00:24+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.624381+00:00"
-    },
-    {
-      "id": "d1cb0c279873",
-      "title": "Thinking Machines Lab Drops Its First Model",
-      "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T18:05:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.292315+00:00"
-    },
-    {
-      "id": "44a115bb92eb",
-      "title": "AI Isn’t Smarter Than a Baby—Yet",
-      "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
-      "url": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T18:30:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.292264+00:00"
-    },
-    {
-      "id": "714f1e609997",
-      "title": "Please Stop Making Me Opt Out of AI",
-      "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
-      "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T10:00:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.292215+00:00"
-    },
-    {
-      "id": "3137b9c5b80c",
-      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
-      "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T18:35:18+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.292162+00:00"
-    },
-    {
-      "id": "94c993265c18",
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T22:17:27+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.292110+00:00"
-    },
-    {
-      "id": "ce1f4cc75ac5",
-      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-      "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
-      "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-17T09:00:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.292054+00:00"
-    },
-    {
-      "id": "6d6025a00c1b",
-      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-      "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
-      "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-17T10:00:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.291996+00:00"
-    },
-    {
-      "id": "70826d3b2622",
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-18T09:00:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.291933+00:00"
-    },
-    {
-      "id": "78c12f50c0a4",
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
-      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-18T10:00:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.291871+00:00"
-    },
-    {
-      "id": "6200e59e5ba7",
-      "title": "Your Period Tracker Is (Probably) Spying on You",
-      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-18T10:30:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:15.291794+00:00"
-    },
-    {
-      "id": "9b81d6e21d71",
-      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
-      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters , xAI cl",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-15T17:33:20-04:00",
-      "scrapedAt": "2026-07-19T09:56:15.132209+00:00"
-    },
-    {
-      "id": "969ceaf475e1",
-      "title": "Computer cops",
-      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T07:00:00-04:00",
-      "scrapedAt": "2026-07-19T09:56:15.131860+00:00"
-    },
-    {
-      "id": "53ca432aa981",
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus",
-      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T08:06:51-04:00",
-      "scrapedAt": "2026-07-19T09:56:15.131528+00:00"
-    },
-    {
-      "id": "6895063c5fd2",
-      "title": "Claude can now use your 1Password credentials for you",
-      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means",
-      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-16T09:00:00-04:00",
-      "scrapedAt": "2026-07-19T09:56:15.131087+00:00"
-    },
-    {
-      "id": "cdbda3af6e9c",
-      "title": "The apps, gadgets, and tools every reader needs",
-      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read",
-      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-18T08:00:00-04:00",
-      "scrapedAt": "2026-07-19T09:56:15.129216+00:00"
-    },
-    {
-      "id": "5476eaca52d0",
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "summary": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, Sam Altman invited author Dave Eggers to give a talk to arou",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-18T16:54:42-04:00",
-      "scrapedAt": "2026-07-19T09:56:15.128286+00:00"
-    },
-    {
-      "id": "ee7e2eccd745",
-      "title": "Kimi: Threat or menace?",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-18T18:51:07+00:00",
-      "scrapedAt": "2026-07-19T09:56:14.527906+00:00"
-    },
-    {
-      "id": "0af1478cb097",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "summary": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-17T15:00:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:13.732572+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "235f1239691f",
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-25T16:00:00+00:00",
-      "scrapedAt": "2026-07-19T09:56:13.732553+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"
     }
   ]
 }
