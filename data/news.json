@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-07-27T11:31:19.612636+00:00",
+  "lastUpdated": "2026-07-28T10:41:11.143562+00:00",
   "articles": [
+    {
+      "id": "38da9051f9ac",
+      "title": "CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents",
+      "summary": "arXiv:2607.22711v1 Announce Type: new Abstract: LLM coding agents operate by constructing trajectories that accumulate reasoning, tool calls, and results to enable multi-step decision-making. However,",
+      "url": "https://arxiv.org/abs/2607.22711",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-28T00:00:00-04:00",
+      "scrapedAt": "2026-07-28T10:40:13.881762+00:00"
+    },
+    {
+      "id": "706a0bf2e770",
+      "title": "Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B",
+      "summary": "arXiv:2607.22545v1 Announce Type: new Abstract: Deploying large language models in financial-services and agentic settings requires safety classifiers that simultaneously handle prompt injection, regu",
+      "url": "https://arxiv.org/abs/2607.22545",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-07-28T00:00:00-04:00",
+      "scrapedAt": "2026-07-28T10:40:13.881625+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.246193+00:00"
+    },
+    {
+      "id": "e7785d8c77e3",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.242854+00:00"
+    },
+    {
+      "id": "e91ca0f7e12b",
+      "title": "This $9 key physically locks your most addictive apps",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T15:25:37+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041716+00:00"
+    },
+    {
+      "id": "2ad1fe773140",
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the ",
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T15:30:00+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041650+00:00"
+    },
+    {
+      "id": "9787dc63d089",
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T15:57:12+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041579+00:00"
+    },
+    {
+      "id": "e0cbdd2980b8",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T16:45:24+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041506+00:00"
+    },
+    {
+      "id": "999e3252e27a",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T17:28:42+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041438+00:00"
+    },
+    {
+      "id": "699cca776fc6",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T18:32:11+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041365+00:00"
+    },
+    {
+      "id": "f6ec309cb073",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T20:19:42+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041291+00:00"
+    },
+    {
+      "id": "f1637c21f380",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T21:17:11+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041213+00:00"
+    },
+    {
+      "id": "063a78a65e9e",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-28T00:13:33+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041127+00:00"
+    },
+    {
+      "id": "470d3cc5669e",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-28T04:30:00+00:00",
+      "scrapedAt": "2026-07-28T10:40:13.041038+00:00"
+    },
+    {
+      "id": "61d13d198506",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Over the weekend, several current and former advisors to Pres",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-20T18:00:00+00:00",
+      "scrapedAt": "2026-07-28T10:40:12.088616+00:00"
+    },
+    {
+      "id": "d10dbf6ad8c7",
+      "title": "Building the enterprise environment for agentic AI",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T11:32:58+00:00",
+      "scrapedAt": "2026-07-28T10:40:12.084124+00:00"
+    },
+    {
+      "id": "31a791e8e2a8",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceutical",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T11:40:16+00:00",
+      "scrapedAt": "2026-07-28T10:40:12.082365+00:00"
+    },
+    {
+      "id": "25cc5f27cc6a",
+      "title": "The path to artificial superintelligence",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they ",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T12:00:00+00:00",
+      "scrapedAt": "2026-07-28T10:40:12.080327+00:00"
+    },
+    {
+      "id": "bd9265e44747",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Reading OpenAI’s account last week of how some of its models ",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-27T18:00:00+00:00",
+      "scrapedAt": "2026-07-28T10:40:12.078614+00:00"
+    },
+    {
+      "id": "e9c7d242f0b7",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-28T09:18:57+00:00",
+      "scrapedAt": "2026-07-28T10:40:12.077085+00:00"
+    },
     {
       "id": "f9843a51307f",
       "title": "Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-07-21T10:37:34+00:00",
       "scrapedAt": "2026-07-22T10:29:58.055852+00:00"
-    },
-    {
-      "id": "670750801976",
-      "title": "Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models",
-      "summary": "arXiv:2607.16201v1 Announce Type: new Abstract: Ontology engineering remains a critical bottleneck in knowledge-intensive AI systems. Existing automated approaches either depend on predefined schemas,",
-      "url": "https://arxiv.org/abs/2607.16201",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-21T00:00:00-04:00",
-      "scrapedAt": "2026-07-21T10:28:55.443541+00:00"
-    },
-    {
-      "id": "5db2839459e0",
-      "title": "Deterministic Replay for AI Agent Systems",
-      "summary": "arXiv:2607.16200v1 Announce Type: new Abstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sampling variance, external",
-      "url": "https://arxiv.org/abs/2607.16200",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-21T00:00:00-04:00",
-      "scrapedAt": "2026-07-21T10:28:55.443398+00:00"
-    },
-    {
-      "id": "4c4fda405d2f",
-      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
-      "summary": "arXiv:2607.16199v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and",
-      "url": "https://arxiv.org/abs/2607.16199",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-21T00:00:00-04:00",
-      "scrapedAt": "2026-07-21T10:28:55.443289+00:00"
-    },
-    {
-      "id": "30dce3b4860a",
-      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
-      "summary": "arXiv:2607.16198v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) have emerged as the leading paradigm for link prediction, enabling the inference of missing connections and the anticipatio",
-      "url": "https://arxiv.org/abs/2607.16198",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-21T00:00:00-04:00",
-      "scrapedAt": "2026-07-21T10:28:55.443170+00:00"
-    },
-    {
-      "id": "e54851fb0c8e",
-      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
-      "summary": "arXiv:2607.16197v1 Announce Type: new Abstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is tran",
-      "url": "https://arxiv.org/abs/2607.16197",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-21T00:00:00-04:00",
-      "scrapedAt": "2026-07-21T10:28:55.443070+00:00"
-    },
-    {
-      "id": "8e1ebc3027c6",
-      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
-      "summary": "arXiv:2607.16196v1 Announce Type: new Abstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet their deformability and",
-      "url": "https://arxiv.org/abs/2607.16196",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-21T00:00:00-04:00",
-      "scrapedAt": "2026-07-21T10:28:55.442957+00:00"
-    },
-    {
-      "id": "d910b24135cf",
-      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
-      "summary": "arXiv:2607.16195v1 Announce Type: new Abstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared ",
-      "url": "https://arxiv.org/abs/2607.16195",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-21T00:00:00-04:00",
-      "scrapedAt": "2026-07-21T10:28:55.442815+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-07-21T10:28:55.023581+00:00"
-    },
-    {
-      "id": "e7785d8c77e3",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-07-21T10:28:55.020046+00:00"
-    },
-    {
-      "id": "48ec45dfbbf6",
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-20T15:23:06+00:00",
-      "scrapedAt": "2026-07-21T10:28:54.855611+00:00"
-    },
-    {
-      "id": "af832c75a2ac",
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-20T15:45:00+00:00",
-      "scrapedAt": "2026-07-21T10:28:54.855537+00:00"
-    },
-    {
-      "id": "7eab661b9a59",
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-20T19:33:25+00:00",
-      "scrapedAt": "2026-07-21T10:28:54.855443+00:00"
-    },
-    {
-      "id": "180974706d82",
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "summary": "X says the rebuilt version of its Android app is now available globally.",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-20T19:37:39+00:00",
-      "scrapedAt": "2026-07-21T10:28:54.855374+00:00"
-    },
-    {
-      "id": "9afbcd831bf6",
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-20T20:50:40+00:00",
-      "scrapedAt": "2026-07-21T10:28:54.855308+00:00"
-    },
-    {
-      "id": "20d9bcdf5693",
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-20T21:21:15+00:00",
-      "scrapedAt": "2026-07-21T10:28:54.855237+00:00"
-    },
-    {
-      "id": "79729dbd9369",
-      "title": "Trump’s latest AI czar has already resigned",
-      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-20T22:21:04+00:00",
-      "scrapedAt": "2026-07-21T10:28:54.855166+00:00"
-    },
-    {
-      "id": "683e474adcf4",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T00:12:24+00:00",
-      "scrapedAt": "2026-07-21T10:28:54.855083+00:00"
-    },
-    {
-      "id": "960e35dd4f7d",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-20T10:00:00+00:00",
-      "scrapedAt": "2026-07-21T10:28:54.790294+00:00"
-    },
-    {
-      "id": "50ee0b4631ad",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Anthropic—currently the world’s most valuable AI company, wit",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-13T18:00:00+00:00",
-      "scrapedAt": "2026-07-21T10:28:53.680061+00:00"
-    },
-    {
-      "id": "61d13d198506",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Over the weekend, several current and former advisors to Pres",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-20T18:00:00+00:00",
-      "scrapedAt": "2026-07-21T10:28:53.673136+00:00"
     }
   ]
 }
