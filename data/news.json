@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-07-28T10:41:11.143562+00:00",
+  "lastUpdated": "2026-07-29T10:45:15.282121+00:00",
   "articles": [
+    {
+      "id": "140880e4ecb1",
+      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "summary": "arXiv:2607.24763v1 Announce Type: new Abstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept p",
+      "url": "https://arxiv.org/abs/2607.24763",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-29T00:00:00-04:00",
+      "scrapedAt": "2026-07-29T10:44:18.152731+00:00"
+    },
+    {
+      "id": "312815cf8346",
+      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "summary": "arXiv:2607.24762v1 Announce Type: new Abstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as mat",
+      "url": "https://arxiv.org/abs/2607.24762",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-29T00:00:00-04:00",
+      "scrapedAt": "2026-07-29T10:44:18.152620+00:00"
+    },
+    {
+      "id": "d7aa5458abe7",
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "summary": "arXiv:2607.24759v1 Announce Type: new Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recov",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-29T00:00:00-04:00",
+      "scrapedAt": "2026-07-29T10:44:18.152502+00:00"
+    },
+    {
+      "id": "504a0623e51a",
+      "title": "Do Models Fake Alignment Without Clear Consequences?",
+      "summary": "arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical d",
+      "url": "https://arxiv.org/abs/2607.24758",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-07-29T00:00:00-04:00",
+      "scrapedAt": "2026-07-29T10:44:18.152365+00:00"
+    },
+    {
+      "id": "4fac33618388",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-28T13:19:17+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.597760+00:00"
+    },
+    {
+      "id": "72e62aa28e25",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-28T14:00:00+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.597695+00:00"
+    },
+    {
+      "id": "57b9aa43e338",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-28T15:42:26+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.597640+00:00"
+    },
+    {
+      "id": "cbe29efd99bf",
+      "title": "Sam Altman is ready to decelerate",
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-28T20:17:08+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.597585+00:00"
+    },
+    {
+      "id": "ab5715c29e35",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-28T20:45:12+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.597528+00:00"
+    },
+    {
+      "id": "2853fe7b4466",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-28T21:29:34+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.597466+00:00"
+    },
+    {
+      "id": "992c30afce20",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-07-29T00:09:05+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.597390+00:00"
+    },
+    {
+      "id": "07a59789a1f9",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-21T07:00:00+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.512447+00:00"
+    },
+    {
+      "id": "9783627bd88c",
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-21T17:00:00+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.512391+00:00"
+    },
+    {
+      "id": "8cc1ba4abc29",
+      "title": "Scientific computing in the age of agentic AI",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T17:00:00+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.511930+00:00"
+    },
+    {
+      "id": "84e3af10ba85",
+      "title": "Celebrating 25 years of visual search innovation",
+      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-14T16:00:00+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.024429+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "cd8e20ce04a2",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T13:00:00+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.024139+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ed733c91dec4",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T13:00:00+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.024055+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "85f9e2233c0c",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T16:00:00+00:00",
+      "scrapedAt": "2026-07-29T10:44:17.023942+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6d5a86555da5",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-21T10:37:34+00:00",
+      "scrapedAt": "2026-07-29T10:44:16.778386+00:00"
+    },
+    {
+      "id": "b4d3a90f6379",
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-29T08:42:57+00:00",
+      "scrapedAt": "2026-07-29T10:44:16.768475+00:00"
+    },
     {
       "id": "38da9051f9ac",
       "title": "CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents",
@@ -1209,207 +1413,6 @@
       "category": "product",
       "publishedAt": "2026-07-15T17:09:37+00:00",
       "scrapedAt": "2026-07-23T10:28:26.814486+00:00"
-    },
-    {
-      "id": "53c387f6ad91",
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "summary": "arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-sca",
-      "url": "https://arxiv.org/abs/2607.18241",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-22T00:00:00-04:00",
-      "scrapedAt": "2026-07-22T10:29:59.963815+00:00"
-    },
-    {
-      "id": "94e593ee878e",
-      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-      "summary": "arXiv:2607.18240v1 Announce Type: new Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may ",
-      "url": "https://arxiv.org/abs/2607.18240",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-22T00:00:00-04:00",
-      "scrapedAt": "2026-07-22T10:29:59.963692+00:00"
-    },
-    {
-      "id": "39c5df78a80e",
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "summary": "arXiv:2607.18239v1 Announce Type: new Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as ",
-      "url": "https://arxiv.org/abs/2607.18239",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-22T00:00:00-04:00",
-      "scrapedAt": "2026-07-22T10:29:59.963570+00:00"
-    },
-    {
-      "id": "be406df3fd99",
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T15:37:05+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.338464+00:00"
-    },
-    {
-      "id": "c096964be54d",
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T17:11:50+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.338415+00:00"
-    },
-    {
-      "id": "50506afdaa3d",
-      "title": "Data centers expected to use 4x more electricity by 2035",
-      "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
-      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T18:06:38+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.338365+00:00"
-    },
-    {
-      "id": "0919b4f551ff",
-      "title": "AI and the rise of the universal entertainment app",
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t",
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T19:39:30+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.338316+00:00"
-    },
-    {
-      "id": "d77aa8a5fe08",
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T19:43:41+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.338256+00:00"
-    },
-    {
-      "id": "591f1cb3d739",
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T20:56:55+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.338201+00:00"
-    },
-    {
-      "id": "86519c5dd5f1",
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T23:55:10+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.338144+00:00"
-    },
-    {
-      "id": "0f1ee6934ed4",
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-22T03:20:57+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.338083+00:00"
-    },
-    {
-      "id": "27421537c448",
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h",
-      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-22T08:00:00+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.338007+00:00"
-    },
-    {
-      "id": "e75398f513ac",
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-22T10:00:00+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.337924+00:00"
-    },
-    {
-      "id": "e59f55fe659d",
-      "title": "How to manage AI investments in the agentic era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-14T10:00:00+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.193269+00:00"
-    },
-    {
-      "id": "10666aebf14a",
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-21T00:00:00+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.192856+00:00"
-    },
-    {
-      "id": "07a59789a1f9",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-21T07:00:00+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.192786+00:00"
-    },
-    {
-      "id": "9783627bd88c",
-      "title": "Introducing the ChatGPT for small business program",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-21T17:00:00+00:00",
-      "scrapedAt": "2026-07-22T10:29:59.192705+00:00"
-    },
-    {
-      "id": "84e3af10ba85",
-      "title": "Celebrating 25 years of visual search innovation",
-      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-14T16:00:00+00:00",
-      "scrapedAt": "2026-07-22T10:29:58.294796+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e930f63d2b61",
-      "title": "Your family’s $300 stake in OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . OpenAI CEO Sam Altman’s oft-discussed promise that Americans ",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-06T18:00:00+00:00",
-      "scrapedAt": "2026-07-22T10:29:58.065670+00:00"
-    },
-    {
-      "id": "6d5a86555da5",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T10:37:34+00:00",
-      "scrapedAt": "2026-07-22T10:29:58.055852+00:00"
     }
   ]
 }
