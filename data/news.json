@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-08-02T10:02:45.160139+00:00",
+  "lastUpdated": "2026-08-03T11:33:13.977314+00:00",
   "articles": [
+    {
+      "id": "b5594796c557",
+      "title": "MPP-GNN: Subject-Adaptive Community Detection for fMRI-Based Alzheimer's Disease Classification",
+      "summary": "arXiv:2607.28681v1 Announce Type: new Abstract: Functional magnetic resonance imaging (fMRI) is a widely used technique for studying the brain. Recent methods that utilize graph neural networks (GNNs)",
+      "url": "https://arxiv.org/abs/2607.28681",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.406755+00:00"
+    },
+    {
+      "id": "cd8a72472ffa",
+      "title": "LAWFUL: Law-Aligned Witness for Faithful Use of Latents",
+      "summary": "arXiv:2607.28672v1 Announce Type: new Abstract: When a neural network predicts a physical system accurately, has it learned the governing law as formal, structured knowledge, and if so, does the netwo",
+      "url": "https://arxiv.org/abs/2607.28672",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.406646+00:00"
+    },
+    {
+      "id": "43c11a946965",
+      "title": "Hierarchical Copula-Gumbel-Top-\\texorpdfstring{$K$}{K} Routing: Two-Sided Dependence Control for Frozen Mixture-of-Experts at Fixed Per-Token Routing Laws",
+      "summary": "arXiv:2607.28670v1 Announce Type: new Abstract: A stochastic Gumbel-Top-$K$ router defines, for every token of a mixture-of-experts (MoE) model, a \\emph{routing law}: a distribution over ordered exper",
+      "url": "https://arxiv.org/abs/2607.28670",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.406545+00:00"
+    },
+    {
+      "id": "2358a692eafa",
+      "title": "LARA: Lightweight Adapters in the Residual Stream for Composable Adaptation and Alignment",
+      "summary": "arXiv:2607.28669v1 Announce Type: new Abstract: We present LARA (Lightweight Additive Residual Adaptation), a method for efficient adaptation that operates in the residual stream of a frozen model rat",
+      "url": "https://arxiv.org/abs/2607.28669",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.406413+00:00"
+    },
+    {
+      "id": "70cccaed8a43",
+      "title": "Guarantees on Dynamical System Distinguishability for LLM Token Generation",
+      "summary": "arXiv:2607.28667v1 Announce Type: new Abstract: Recent work has shown that classifying large language models (LLMs)' responses can be distinguished by modeling token embeddings as trajectories of a bl",
+      "url": "https://arxiv.org/abs/2607.28667",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.406294+00:00"
+    },
+    {
+      "id": "c1c700b6ce1a",
+      "title": "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems",
+      "summary": "arXiv:2607.28665v1 Announce Type: new Abstract: Automated driving systems (ADSs) are becoming ubiquitous. Future Software Defined Vehicles (SDVs) may be able to run multiple ADSs, both native and afte",
+      "url": "https://arxiv.org/abs/2607.28665",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.406160+00:00"
+    },
+    {
+      "id": "9afd37e3f430",
+      "title": "Topology-Aware Data Movement for Disaggregated GPU Inference",
+      "summary": "arXiv:2607.28633v1 Announce Type: new Abstract: Disaggregated LLM inference creates a datacenter networking problem that no existing system solves correctly. When prefill and decode run on separate GP",
+      "url": "https://arxiv.org/abs/2607.28633",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.405990+00:00"
+    },
+    {
+      "id": "39db82751f30",
+      "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+      "summary": "arXiv:2607.28678v1 Announce Type: new Abstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally ",
+      "url": "https://arxiv.org/abs/2607.28678",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.211606+00:00"
+    },
+    {
+      "id": "4c463ca70e3c",
+      "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+      "summary": "arXiv:2607.28677v1 Announce Type: new Abstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the",
+      "url": "https://arxiv.org/abs/2607.28677",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.211496+00:00"
+    },
+    {
+      "id": "a24d612a346e",
+      "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+      "summary": "arXiv:2607.28674v1 Announce Type: new Abstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpr",
+      "url": "https://arxiv.org/abs/2607.28674",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.211365+00:00"
+    },
+    {
+      "id": "32125e803dbc",
+      "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+      "summary": "arXiv:2607.28662v1 Announce Type: new Abstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabularies fracture across docu",
+      "url": "https://arxiv.org/abs/2607.28662",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.211258+00:00"
+    },
+    {
+      "id": "d13106c075de",
+      "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+      "summary": "arXiv:2607.28659v1 Announce Type: new Abstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across multiple domains. Recentl",
+      "url": "https://arxiv.org/abs/2607.28659",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.211106+00:00"
+    },
+    {
+      "id": "2164206e12ba",
+      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "summary": "arXiv:2607.28657v1 Announce Type: new Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This w",
+      "url": "https://arxiv.org/abs/2607.28657",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.210990+00:00"
+    },
+    {
+      "id": "1ea40d56ca5c",
+      "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+      "summary": "arXiv:2607.28642v1 Announce Type: new Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error an",
+      "url": "https://arxiv.org/abs/2607.28642",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.210887+00:00"
+    },
+    {
+      "id": "50bae3b94bd2",
+      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "summary": "arXiv:2607.28632v1 Announce Type: new Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures",
+      "url": "https://arxiv.org/abs/2607.28632",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.210784+00:00"
+    },
+    {
+      "id": "baf156a8d5ab",
+      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "summary": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and compari",
+      "url": "https://arxiv.org/abs/2607.28631",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.210674+00:00"
+    },
+    {
+      "id": "a38e5189adba",
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural und",
+      "url": "https://arxiv.org/abs/2607.28629",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-03T00:00:00-04:00",
+      "scrapedAt": "2026-08-03T11:32:18.210513+00:00"
+    },
+    {
+      "id": "80e7e83282c8",
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-02T20:54:22+00:00",
+      "scrapedAt": "2026-08-03T11:32:17.650056+00:00"
+    },
+    {
+      "id": "a7754f051081",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-03T10:00:00+00:00",
+      "scrapedAt": "2026-08-03T11:32:17.649971+00:00"
+    },
+    {
+      "id": "e4b3c3d5632c",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI mod",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-03T08:30:05+00:00",
+      "scrapedAt": "2026-08-03T11:32:16.620412+00:00"
+    },
     {
       "id": "db6d13b99b09",
       "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
@@ -1210,407 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-07-28T09:18:57+00:00",
       "scrapedAt": "2026-07-28T10:40:12.077085+00:00"
-    },
-    {
-      "id": "f9843a51307f",
-      "title": "Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models",
-      "summary": "arXiv:2607.21636v1 Announce Type: new Abstract: Synthetic tabular data is valued for preserving not only each column's marginal distribution but the dependencies between columns -- structure that carr",
-      "url": "https://arxiv.org/abs/2607.21636",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.909644+00:00"
-    },
-    {
-      "id": "f2f88364b143",
-      "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
-      "summary": "arXiv:2607.21635v1 Announce Type: new Abstract: Personal agents maintain memories, learned skills, tool configurations, and policy state that evolve with each user. Existing agent benchmarks often eva",
-      "url": "https://arxiv.org/abs/2607.21635",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.909525+00:00"
-    },
-    {
-      "id": "97b89f10a10b",
-      "title": "MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion",
-      "summary": "arXiv:2607.21634v1 Announce Type: new Abstract: Masked discrete diffusion for molecular graph generation typically applies a uniform corruption schedule to all tokens in a lossless graph-to-sequence r",
-      "url": "https://arxiv.org/abs/2607.21634",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.909423+00:00"
-    },
-    {
-      "id": "7e089f319474",
-      "title": "On the Depth Scalability of Logic Gate Networks",
-      "summary": "arXiv:2607.21633v1 Announce Type: new Abstract: Logic Gate Networks (LGNs) implement computation through compositions of Boolean operations, yet unlike classical Boolean circuits, existing LGNs do not",
-      "url": "https://arxiv.org/abs/2607.21633",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.909308+00:00"
-    },
-    {
-      "id": "64dcb4e600e7",
-      "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
-      "summary": "arXiv:2607.21623v1 Announce Type: new Abstract: We present EaaS, a cloud-native reference architecture that operationalizes AI evaluation methods as six stateless Kubernetes microservices: conformal p",
-      "url": "https://arxiv.org/abs/2607.21623",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.909181+00:00"
-    },
-    {
-      "id": "c4e109ea76ee",
-      "title": "SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text",
-      "summary": "arXiv:2607.21610v1 Announce Type: new Abstract: Schema graphs are an upstream bottleneck of schema-grounded information extraction and knowledge graph construction, yet most extraction systems assume ",
-      "url": "https://arxiv.org/abs/2607.21610",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.726731+00:00"
-    },
-    {
-      "id": "e44f3a8dc92a",
-      "title": "Coupled Hierarchical Search over Topology and Execution for Agentic Workflow Synthesis",
-      "summary": "arXiv:2607.21609v1 Announce Type: new Abstract: Although structured workflows empower Large Language Models (LLMs) to tackle complex problems, automating their creation is severely hindered by a vast ",
-      "url": "https://arxiv.org/abs/2607.21609",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.726633+00:00"
-    },
-    {
-      "id": "cf41fc50ec9a",
-      "title": "Spectral Flow Certificates for Depth-Aware Long-Range Propagation in Graph Neural Networks",
-      "summary": "arXiv:2607.21607v1 Announce Type: new Abstract: Graph Neural Networks propagate information through local message passing, but the graph topologies themselves can silently prevent any amount of traini",
-      "url": "https://arxiv.org/abs/2607.21607",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.726540+00:00"
-    },
-    {
-      "id": "2699f06212c0",
-      "title": "TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward",
-      "summary": "arXiv:2607.21606v1 Announce Type: new Abstract: Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling tr",
-      "url": "https://arxiv.org/abs/2607.21606",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.726424+00:00"
-    },
-    {
-      "id": "53261bea112e",
-      "title": "AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems",
-      "summary": "arXiv:2607.21604v1 Announce Type: new Abstract: Memory-augmented LLM agents maintain context across hundreds of interactions through agentic memory systems that actively curate retrieved content with ",
-      "url": "https://arxiv.org/abs/2607.21604",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.726337+00:00"
-    },
-    {
-      "id": "7a89d59d36d1",
-      "title": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
-      "summary": "arXiv:2607.21602v1 Announce Type: new Abstract: Accurate latency prediction is critical for deploying large language models (LLMs) on heterogeneous edge devices, where inference latency is affected by",
-      "url": "https://arxiv.org/abs/2607.21602",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.726216+00:00"
-    },
-    {
-      "id": "02727977114e",
-      "title": "From Frame-Level Recognition to Event-Level Confirmation: Repair Traces and Runtime Failure Analysis of Public-Space Gesture Interaction",
-      "summary": "arXiv:2607.21601v1 Announce Type: new Abstract: Public-space gesture interaction is often evaluated as a frame-level recognition problem, but deployed systems expose a different failure boundary. In s",
-      "url": "https://arxiv.org/abs/2607.21601",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.726108+00:00"
-    },
-    {
-      "id": "3562d30ea97b",
-      "title": "Securing Multimodal AI through Internal Information Decomposition",
-      "summary": "arXiv:2607.21600v1 Announce Type: new Abstract: Multimodal large language models introduce attack surfaces absent in unimodal systems: adversaries can distribute malicious intent across modalities to ",
-      "url": "https://arxiv.org/abs/2607.21600",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.726008+00:00"
-    },
-    {
-      "id": "9be98bbc887a",
-      "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
-      "summary": "arXiv:2607.21597v1 Announce Type: new Abstract: Evaluating wildfire risk systems using standard machine-learning metrics such as F1-score or IoU is fundamentally flawed: these metrics assess event pre",
-      "url": "https://arxiv.org/abs/2607.21597",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.725890+00:00"
-    },
-    {
-      "id": "8d23ebd1b276",
-      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
-      "summary": "arXiv:2607.21596v1 Announce Type: new Abstract: Large language model agents increasingly solve complex tasks by constructing inference-time workflows that combine reasoning, tool use, and code executi",
-      "url": "https://arxiv.org/abs/2607.21596",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-27T00:00:00-04:00",
-      "scrapedAt": "2026-07-27T11:30:23.725756+00:00"
-    },
-    {
-      "id": "355626f29c21",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-26T16:33:13+00:00",
-      "scrapedAt": "2026-07-27T11:30:23.060433+00:00"
-    },
-    {
-      "id": "216b0412425a",
-      "title": "Making sense of the panic over Chinese AI",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-26T19:40:57+00:00",
-      "scrapedAt": "2026-07-27T11:30:23.060375+00:00"
-    },
-    {
-      "id": "5d2ba47b7c6e",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-27T00:19:14+00:00",
-      "scrapedAt": "2026-07-27T11:30:23.060300+00:00"
-    },
-    {
-      "id": "680c3dc9eb02",
-      "title": "How AI is expanding what people do at work",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-27T03:30:00+00:00",
-      "scrapedAt": "2026-07-27T11:30:22.992466+00:00"
-    },
-    {
-      "id": "d213c30d2534",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-20T08:39:01+00:00",
-      "scrapedAt": "2026-07-27T11:30:22.246535+00:00"
-    },
-    {
-      "id": "c13d67073208",
-      "title": "Cloudflare's new AI traffic options for customers",
-      "summary": "Score: 123 points",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-25T22:50:49+00:00",
-      "scrapedAt": "2026-07-26T10:05:17.586679+00:00"
-    },
-    {
-      "id": "7d2d21f0d729",
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "summary": "Score: 150 points",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-25T23:32:50+00:00",
-      "scrapedAt": "2026-07-26T10:05:17.501864+00:00"
-    },
-    {
-      "id": "9b29631a6a5a",
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "summary": "Score: 332 points",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-25T20:42:35+00:00",
-      "scrapedAt": "2026-07-26T10:05:17.332332+00:00"
-    },
-    {
-      "id": "f98451746f8a",
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "summary": "Score: 72 points",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-07-26T05:57:22+00:00",
-      "scrapedAt": "2026-07-26T10:05:17.247968+00:00"
-    },
-    {
-      "id": "33a2bb7eead8",
-      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-      "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T19:05:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942722+00:00"
-    },
-    {
-      "id": "4faa88042352",
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T22:50:01+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942673+00:00"
-    },
-    {
-      "id": "7d7d859d0c3b",
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
-      "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-22T19:01:38+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942617+00:00"
-    },
-    {
-      "id": "0379f082bc13",
-      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-      "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
-      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-22T21:00:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942562+00:00"
-    },
-    {
-      "id": "0e47865c0d80",
-      "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
-      "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.",
-      "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-23T09:15:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942507+00:00"
-    },
-    {
-      "id": "c520ff81d490",
-      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
-      "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-23T18:45:52+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942427+00:00"
-    },
-    {
-      "id": "4b641599ed89",
-      "title": "Some Kids Will Never Think AI Is Cool",
-      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-24T10:00:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942374+00:00"
-    },
-    {
-      "id": "3ab7d1a7f587",
-      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-      "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-24T15:00:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942315+00:00"
-    },
-    {
-      "id": "3bce429613d5",
-      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-24T17:53:01+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942256+00:00"
-    },
-    {
-      "id": "c82a3ed9f76a",
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-07-25T10:30:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.942185+00:00"
-    },
-    {
-      "id": "bf8b59fc2dda",
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a r",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-23T10:13:35-04:00",
-      "scrapedAt": "2026-07-26T10:05:16.817847+00:00"
-    },
-    {
-      "id": "1d1f4c9db4af",
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-23T13:00:00-04:00",
-      "scrapedAt": "2026-07-26T10:05:16.817481+00:00"
-    },
-    {
-      "id": "102564d4308f",
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-25T13:05:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.054182+00:00"
-    },
-    {
-      "id": "9026899f60e4",
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-25T16:00:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.054130+00:00"
-    },
-    {
-      "id": "cb61b6a2a5da",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-26T01:30:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:16.054065+00:00"
-    },
-    {
-      "id": "235f1239691f",
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-06-25T16:00:00+00:00",
-      "scrapedAt": "2026-07-26T10:05:15.377384+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"
     }
   ]
 }
