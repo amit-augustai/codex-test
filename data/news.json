@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-08-04T10:45:37.316267+00:00",
+  "lastUpdated": "2026-08-05T10:42:39.273215+00:00",
   "articles": [
+    {
+      "id": "c02ad938468e",
+      "title": "Motif-Mamba: network motif improved mamba for long-range sequence modeling",
+      "summary": "arXiv:2608.00027v1 Announce Type: new Abstract: Efficient long-sequence modeling remains a central challenge for large language models, as self-attention scales quadratically with sequence length. Mam",
+      "url": "https://arxiv.org/abs/2608.00027",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-05T00:00:00-04:00",
+      "scrapedAt": "2026-08-05T10:41:44.871442+00:00"
+    },
+    {
+      "id": "d192900f291e",
+      "title": "Request-Level Energy Attribution for Batched LLM Serving",
+      "summary": "arXiv:2608.00026v1 Announce Type: new Abstract: Batched LLM serving improves throughput but complicates energy accounting. GPU power telemetry is aggregate, whereas sustainability reporting, chargebac",
+      "url": "https://arxiv.org/abs/2608.00026",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-05T00:00:00-04:00",
+      "scrapedAt": "2026-08-05T10:41:44.871338+00:00"
+    },
+    {
+      "id": "089fbcd50659",
+      "title": "Memory Reward Inflation in Self-Improving LLM Agents",
+      "summary": "arXiv:2608.00017v1 Announce Type: new Abstract: Self-improving LLM agents increasingly learn from experience without updating any weights. Each episode is stored in an external memory, scored, and ret",
+      "url": "https://arxiv.org/abs/2608.00017",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-05T00:00:00-04:00",
+      "scrapedAt": "2026-08-05T10:41:44.871190+00:00"
+    },
+    {
+      "id": "2b1f2e0f2842",
+      "title": "Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process",
+      "summary": "arXiv:2608.00015v1 Announce Type: new Abstract: Both optimization modeling and constraint modeling are non-trivial problems requiring deep domain expertise and proficiency in modeling formalism langua",
+      "url": "https://arxiv.org/abs/2608.00015",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-05T00:00:00-04:00",
+      "scrapedAt": "2026-08-05T10:41:44.871058+00:00"
+    },
+    {
+      "id": "58a0408d59fa",
+      "title": "CoT-Core: Accelerating LLM Evaluation via CoT-Aware Coreset Selection",
+      "summary": "arXiv:2608.00014v1 Announce Type: new Abstract: Evaluating Large Language Models (LLMs) incurs prohibitive computational overhead during continuous development processes. While coreset selection accel",
+      "url": "https://arxiv.org/abs/2608.00014",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-05T00:00:00-04:00",
+      "scrapedAt": "2026-08-05T10:41:44.870934+00:00"
+    },
+    {
+      "id": "a4f388f817d4",
+      "title": "Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware",
+      "summary": "arXiv:2608.00008v1 Announce Type: new Abstract: The local deployment of large language models (LLMs) is gaining traction due to privacy concerns and the desire for on-premise inference. However, the e",
+      "url": "https://arxiv.org/abs/2608.00008",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-05T00:00:00-04:00",
+      "scrapedAt": "2026-08-05T10:41:44.870831+00:00"
+    },
+    {
+      "id": "b79c480364b4",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T13:00:00+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.923354+00:00"
+    },
+    {
+      "id": "54ed8f1ef07c",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T14:03:01+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.923258+00:00"
+    },
+    {
+      "id": "80e106fe7e73",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T15:20:06+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.923188+00:00"
+    },
+    {
+      "id": "f373e2402edb",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T15:42:35+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.923119+00:00"
+    },
+    {
+      "id": "d239bf7b2660",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool ",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T15:50:06+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.923037+00:00"
+    },
+    {
+      "id": "a21d180516b2",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T19:28:49+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.922956+00:00"
+    },
+    {
+      "id": "8cd05edd7a37",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T19:34:34+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.922885+00:00"
+    },
+    {
+      "id": "af3fbfe150b0",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T19:48:40+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.922810+00:00"
+    },
+    {
+      "id": "c30ea359fc49",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T20:05:26+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.922734+00:00"
+    },
+    {
+      "id": "d677fdcd54de",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-04T21:07:26+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.922638+00:00"
+    },
+    {
+      "id": "26f5b739d7f8",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-04T00:00:00+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.870033+00:00"
+    },
+    {
+      "id": "899f3cac4020",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-04T19:00:00+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.869937+00:00"
+    },
+    {
+      "id": "3ce791ab7446",
+      "title": "Inside our 353,000-person vibe coding course",
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-03T15:00:00+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.265927+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "34a7f3824c27",
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "Here are Google’s latest AI updates from July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-04T13:00:00+00:00",
+      "scrapedAt": "2026-08-05T10:41:43.265805+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
+    },
     {
       "id": "67866d370ce3",
       "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
