@@ -1,6 +1,212 @@
 {
-  "lastUpdated": "2026-08-05T10:42:39.273215+00:00",
+  "lastUpdated": "2026-08-06T10:45:18.860084+00:00",
   "articles": [
+    {
+      "id": "47420ba48cb6",
+      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+      "summary": "arXiv:2608.04077v1 Announce Type: new Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompt",
+      "url": "https://arxiv.org/abs/2608.04077",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-06T00:00:00-04:00",
+      "scrapedAt": "2026-08-06T10:44:24.657421+00:00"
+    },
+    {
+      "id": "863af2c36399",
+      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "summary": "arXiv:2608.04071v1 Announce Type: new Abstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical c",
+      "url": "https://arxiv.org/abs/2608.04071",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-06T00:00:00-04:00",
+      "scrapedAt": "2026-08-06T10:44:24.657300+00:00"
+    },
+    {
+      "id": "cfa8dfe76cfb",
+      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "summary": "arXiv:2608.04066v1 Announce Type: new Abstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so th",
+      "url": "https://arxiv.org/abs/2608.04066",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-06T00:00:00-04:00",
+      "scrapedAt": "2026-08-06T10:44:24.657181+00:00"
+    },
+    {
+      "id": "b6cab815b0e6",
+      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+      "summary": "arXiv:2608.04012v1 Announce Type: new Abstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through iso",
+      "url": "https://arxiv.org/abs/2608.04012",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-06T00:00:00-04:00",
+      "scrapedAt": "2026-08-06T10:44:24.657040+00:00"
+    },
+    {
+      "id": "8b3b35a1cad7",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T11:00:00+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.793553+00:00"
+    },
+    {
+      "id": "63d1078404a2",
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T12:28:38+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.793501+00:00"
+    },
+    {
+      "id": "e911d06afa88",
+      "title": "Anthropic is hiring an AI chip design team",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T14:13:18+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.793432+00:00"
+    },
+    {
+      "id": "d22824990e86",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T15:05:00+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.793377+00:00"
+    },
+    {
+      "id": "844e872cde08",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T15:46:27+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.793318+00:00"
+    },
+    {
+      "id": "0108300124fb",
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T15:56:14+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.793265+00:00"
+    },
+    {
+      "id": "41dee0fbffe4",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T19:30:19+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.793197+00:00"
+    },
+    {
+      "id": "1619858f8bfb",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T20:05:00+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.793130+00:00"
+    },
+    {
+      "id": "f4b59bdfc21b",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T21:21:28+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.793058+00:00"
+    },
+    {
+      "id": "c754a9a1d071",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-07T08:54:00+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.238563+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "84e3af10ba85",
+      "title": "Celebrating 25 years of visual search innovation",
+      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-14T16:00:00+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.238490+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "bf18d69a0505",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-22T13:00:00+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.238258+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "cd8e20ce04a2",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T13:00:00+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.238188+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ed733c91dec4",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T13:00:00+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.238113+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "85f9e2233c0c",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T16:00:00+00:00",
+      "scrapedAt": "2026-08-06T10:44:23.238036+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b4d3a90f6379",
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-29T08:42:57+00:00",
+      "scrapedAt": "2026-08-06T10:44:22.783178+00:00"
+    },
     {
       "id": "c02ad938468e",
       "title": "Motif-Mamba: network motif improved mamba for long-range sequence modeling",
@@ -1206,412 +1412,6 @@
       "category": "product",
       "publishedAt": "2026-07-30T10:15:19+00:00",
       "scrapedAt": "2026-07-31T10:44:42.346806+00:00"
-    },
-    {
-      "id": "365a1c7fd3d5",
-      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-      "summary": "arXiv:2607.26119v1 Announce Type: new Abstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts",
-      "url": "https://arxiv.org/abs/2607.26119",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-30T00:00:00-04:00",
-      "scrapedAt": "2026-07-30T10:29:33.934092+00:00"
-    },
-    {
-      "id": "5de17107a676",
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T14:41:06+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.066366+00:00"
-    },
-    {
-      "id": "c037c1f2be4b",
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T15:35:09+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.066298+00:00"
-    },
-    {
-      "id": "b509c20461f2",
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T18:45:27+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.066222+00:00"
-    },
-    {
-      "id": "101b78fb3cd4",
-      "title": "The Hugging Face break-in explained",
-      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T19:44:49+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.066155+00:00"
-    },
-    {
-      "id": "7802d42c54c4",
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T21:07:48+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.066089+00:00"
-    },
-    {
-      "id": "0e31e3499c48",
-      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T21:16:39+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.066021+00:00"
-    },
-    {
-      "id": "c9945336eb04",
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T22:23:12+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.065944+00:00"
-    },
-    {
-      "id": "feca2ec539e2",
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T22:46:03+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.065862+00:00"
-    },
-    {
-      "id": "1929c1854e3f",
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T23:00:11+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.065784+00:00"
-    },
-    {
-      "id": "750af35496d7",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T00:21:06+00:00",
-      "scrapedAt": "2026-07-30T10:29:33.065697+00:00"
-    },
-    {
-      "id": "1f5d786bd553",
-      "title": "Introducing OpenAI Presence",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-22T05:30:00+00:00",
-      "scrapedAt": "2026-07-30T10:29:32.856893+00:00"
-    },
-    {
-      "id": "1de8660326e5",
-      "title": "Advancing the next era of national science",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-22T12:00:00+00:00",
-      "scrapedAt": "2026-07-30T10:29:32.856826+00:00"
-    },
-    {
-      "id": "7c5769317a94",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-22T13:00:00+00:00",
-      "scrapedAt": "2026-07-30T10:29:32.856758+00:00"
-    },
-    {
-      "id": "4eb3751221ad",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-22T13:00:00+00:00",
-      "scrapedAt": "2026-07-30T10:29:32.856687+00:00"
-    },
-    {
-      "id": "2c718aeef192",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-29T00:00:00+00:00",
-      "scrapedAt": "2026-07-30T10:29:32.856369+00:00"
-    },
-    {
-      "id": "e787c3a2ddc0",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-29T10:00:00+00:00",
-      "scrapedAt": "2026-07-30T10:29:32.856289+00:00"
-    },
-    {
-      "id": "232de1e55cde",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-29T15:00:00+00:00",
-      "scrapedAt": "2026-07-30T10:29:32.856193+00:00"
-    },
-    {
-      "id": "c754a9a1d071",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-07T08:54:00+00:00",
-      "scrapedAt": "2026-07-30T10:29:32.255073+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "bf18d69a0505",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-22T13:00:00+00:00",
-      "scrapedAt": "2026-07-30T10:29:32.254697+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "140880e4ecb1",
-      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
-      "summary": "arXiv:2607.24763v1 Announce Type: new Abstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept p",
-      "url": "https://arxiv.org/abs/2607.24763",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-29T00:00:00-04:00",
-      "scrapedAt": "2026-07-29T10:44:18.152731+00:00"
-    },
-    {
-      "id": "312815cf8346",
-      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-      "summary": "arXiv:2607.24762v1 Announce Type: new Abstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as mat",
-      "url": "https://arxiv.org/abs/2607.24762",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-29T00:00:00-04:00",
-      "scrapedAt": "2026-07-29T10:44:18.152620+00:00"
-    },
-    {
-      "id": "d7aa5458abe7",
-      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-      "summary": "arXiv:2607.24759v1 Announce Type: new Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recov",
-      "url": "https://arxiv.org/abs/2607.24759",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-29T00:00:00-04:00",
-      "scrapedAt": "2026-07-29T10:44:18.152502+00:00"
-    },
-    {
-      "id": "504a0623e51a",
-      "title": "Do Models Fake Alignment Without Clear Consequences?",
-      "summary": "arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical d",
-      "url": "https://arxiv.org/abs/2607.24758",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-07-29T00:00:00-04:00",
-      "scrapedAt": "2026-07-29T10:44:18.152365+00:00"
-    },
-    {
-      "id": "4fac33618388",
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it",
-      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-28T13:19:17+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.597760+00:00"
-    },
-    {
-      "id": "72e62aa28e25",
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-28T14:00:00+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.597695+00:00"
-    },
-    {
-      "id": "57b9aa43e338",
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-28T15:42:26+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.597640+00:00"
-    },
-    {
-      "id": "cbe29efd99bf",
-      "title": "Sam Altman is ready to decelerate",
-      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-28T20:17:08+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.597585+00:00"
-    },
-    {
-      "id": "ab5715c29e35",
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-28T20:45:12+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.597528+00:00"
-    },
-    {
-      "id": "2853fe7b4466",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-28T21:29:34+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.597466+00:00"
-    },
-    {
-      "id": "992c30afce20",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T00:09:05+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.597390+00:00"
-    },
-    {
-      "id": "07a59789a1f9",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-21T07:00:00+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.512447+00:00"
-    },
-    {
-      "id": "9783627bd88c",
-      "title": "Introducing the ChatGPT for small business program",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-21T17:00:00+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.512391+00:00"
-    },
-    {
-      "id": "8cc1ba4abc29",
-      "title": "Scientific computing in the age of agentic AI",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T17:00:00+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.511930+00:00"
-    },
-    {
-      "id": "84e3af10ba85",
-      "title": "Celebrating 25 years of visual search innovation",
-      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-14T16:00:00+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.024429+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "cd8e20ce04a2",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T13:00:00+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.024139+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ed733c91dec4",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T13:00:00+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.024055+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "85f9e2233c0c",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T16:00:00+00:00",
-      "scrapedAt": "2026-07-29T10:44:17.023942+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6d5a86555da5",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is a",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-21T10:37:34+00:00",
-      "scrapedAt": "2026-07-29T10:44:16.778386+00:00"
-    },
-    {
-      "id": "b4d3a90f6379",
-      "title": "The AI Hype Index: Unsexy AI",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T08:42:57+00:00",
-      "scrapedAt": "2026-07-29T10:44:16.768475+00:00"
     }
   ]
 }
