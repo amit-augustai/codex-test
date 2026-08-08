@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-08-07T09:06:05.583009+00:00",
+  "lastUpdated": "2026-08-08T08:49:58.979198+00:00",
   "articles": [
+    {
+      "id": "03c0d1f52367",
+      "title": "The left and right agree on one thing: no data centers",
+      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge , about the growing backlash against AI data centers. Gaby recently reported a fantastic piece about Hernando County, Florid",
+      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-06T10:00:00-04:00",
+      "scrapedAt": "2026-08-08T08:49:01.148967+00:00"
+    },
+    {
+      "id": "f661aa2dcfce",
+      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
+      "summary": "The Portsmouth, Ohio site where SoftBank will build its data center. | Image: US Department of Energy SoftBank contributed $50 million to the Trump Presidential Library in January, just months before ",
+      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-06T10:30:00-04:00",
+      "scrapedAt": "2026-08-08T08:49:01.140729+00:00"
+    },
+    {
+      "id": "c68d5f1c469c",
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI . Rig",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-06T13:00:00-04:00",
+      "scrapedAt": "2026-08-08T08:49:01.140277+00:00"
+    },
+    {
+      "id": "1c162fd11a26",
+      "title": "Suno shares plans to combat spammy AI music",
+      "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Suno announced plans to implement a new watermarking technology and download po",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-06T13:39:43-04:00",
+      "scrapedAt": "2026-08-08T08:49:01.139909+00:00"
+    },
+    {
+      "id": "94e895c27149",
+      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck,",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-06T16:55:39-04:00",
+      "scrapedAt": "2026-08-08T08:49:01.139415+00:00"
+    },
+    {
+      "id": "764f9d70a7a9",
+      "title": "What&#8217;s behind the Google AI shake-up",
+      "summary": "Some of the biggest names on Google's AI team got new jobs this week . In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to ",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T12:45:14-04:00",
+      "scrapedAt": "2026-08-08T08:49:01.139032+00:00"
+    },
+    {
+      "id": "65308bcbb462",
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows i",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T14:40:34-04:00",
+      "scrapedAt": "2026-08-08T08:49:01.138579+00:00"
+    },
+    {
+      "id": "73ddfbd0f80f",
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST spac",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T14:59:46-04:00",
+      "scrapedAt": "2026-08-08T08:49:01.138035+00:00"
+    },
+    {
+      "id": "78db5548d274",
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "summary": "That cover art is almost certainly AI too. | Image: Fenix Flexin It took long enough , but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T16:01:51-04:00",
+      "scrapedAt": "2026-08-08T08:49:01.137455+00:00"
+    },
+    {
+      "id": "141bf0235755",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "summary": "Meta's total fine has racked up to $942 million in this case.",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T11:40:37+00:00",
+      "scrapedAt": "2026-08-08T08:49:00.357793+00:00"
+    },
+    {
+      "id": "681d3ebb6321",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitte",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T14:00:00+00:00",
+      "scrapedAt": "2026-08-08T08:49:00.357700+00:00"
+    },
+    {
+      "id": "5f5222e53a44",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T14:22:49+00:00",
+      "scrapedAt": "2026-08-08T08:49:00.346620+00:00"
+    },
+    {
+      "id": "62678037a7fe",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T16:16:09+00:00",
+      "scrapedAt": "2026-08-08T08:49:00.346544+00:00"
+    },
+    {
+      "id": "c534158d528e",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T21:30:11+00:00",
+      "scrapedAt": "2026-08-08T08:49:00.346436+00:00"
+    },
+    {
+      "id": "59163ffd3cbe",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T22:48:24+00:00",
+      "scrapedAt": "2026-08-08T08:49:00.346348+00:00"
+    },
+    {
+      "id": "93f793ec8172",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-07T15:20:00+00:00",
+      "scrapedAt": "2026-08-08T08:49:00.198201+00:00"
+    },
+    {
+      "id": "b1da67ab5327",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-16T16:00:00+00:00",
+      "scrapedAt": "2026-08-08T08:48:59.553680+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c2f66cb0a504",
+      "title": "Connect more of your apps to Search",
+      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-16T16:00:00+00:00",
+      "scrapedAt": "2026-08-08T08:48:59.553587+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7f188a0c6b4b",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-23T12:00:00+00:00",
+      "scrapedAt": "2026-08-08T08:48:59.221135+00:00"
+    },
+    {
+      "id": "d3ef4a34cd19",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-30T10:15:19+00:00",
+      "scrapedAt": "2026-08-08T08:48:59.210576+00:00"
+    },
     {
       "id": "046bb693f5e6",
       "title": "Abstract Event Causal Rules: Induction and Application",
@@ -1408,210 +1610,6 @@
       "category": "research",
       "publishedAt": "2026-08-01T00:00:00+00:00",
       "scrapedAt": "2026-08-01T10:03:35.762639+00:00"
-    },
-    {
-      "id": "9327b8297589",
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T16:09:42+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.375857+00:00"
-    },
-    {
-      "id": "dc18fde4e6bc",
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T18:05:21+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.375784+00:00"
-    },
-    {
-      "id": "f41c7307b777",
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and ",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T18:57:58+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.375680+00:00"
-    },
-    {
-      "id": "b02910e87419",
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T19:44:16+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.375604+00:00"
-    },
-    {
-      "id": "358552aaff9a",
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T20:26:38+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.375535+00:00"
-    },
-    {
-      "id": "01023a47e339",
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T22:41:41+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.375459+00:00"
-    },
-    {
-      "id": "93cb0df58a6e",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T23:08:58+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.375388+00:00"
-    },
-    {
-      "id": "fb6c910e2e05",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T23:25:58+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.375314+00:00"
-    },
-    {
-      "id": "ac80cd240e82",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T01:06:54+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.375225+00:00"
-    },
-    {
-      "id": "b6e63d548020",
-      "title": "Launching Health in ChatGPT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.248191+00:00"
-    },
-    {
-      "id": "4ff655ca49b9",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "url": "https://openai.com/index/avatarin",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-30T00:00:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.247651+00:00"
-    },
-    {
-      "id": "28f36991d0d0",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-30T10:00:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.247352+00:00"
-    },
-    {
-      "id": "dc984bc27293",
-      "title": "Univé builds an AI-ready workforce",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "url": "https://openai.com/index/unive",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-31T07:00:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.247273+00:00"
-    },
-    {
-      "id": "5b3393f6cb74",
-      "title": "Advancing responsible AI across Europe",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-31T15:00:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:43.247180+00:00"
-    },
-    {
-      "id": "05a77cd02507",
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "summary": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-01T16:00:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:42.690415+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "1f96c5e608ff",
-      "title": "The latest AI news we announced in June 2026",
-      "summary": "Here are Google’s latest AI updates from June 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-01T18:15:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:42.690392+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b1da67ab5327",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:42.690122+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c2f66cb0a504",
-      "title": "Connect more of your apps to Search",
-      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:42.690033+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7f188a0c6b4b",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-23T12:00:00+00:00",
-      "scrapedAt": "2026-07-31T10:44:42.357615+00:00"
-    },
-    {
-      "id": "d3ef4a34cd19",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T10:15:19+00:00",
-      "scrapedAt": "2026-07-31T10:44:42.346806+00:00"
     }
   ]
 }
