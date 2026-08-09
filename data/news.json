@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-08-08T08:49:58.979198+00:00",
+  "lastUpdated": "2026-08-09T08:51:44.658768+00:00",
   "articles": [
+    {
+      "id": "86d26e1c6bca",
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "summary": "Score: 135 points",
+      "url": "http://longbets.org/601/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-08-09T04:30:26+00:00",
+      "scrapedAt": "2026-08-09T08:50:49.338658+00:00"
+    },
+    {
+      "id": "e417c799e0ba",
+      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
+      "summary": "Score: 112 points",
+      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-08-09T00:59:58+00:00",
+      "scrapedAt": "2026-08-09T08:50:49.282192+00:00"
+    },
+    {
+      "id": "72e208685876",
+      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+      "url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T19:42:12+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.859562+00:00"
+    },
+    {
+      "id": "718b633c321b",
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+      "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-05T23:30:00+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.859491+00:00"
+    },
+    {
+      "id": "aa0453c64131",
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+      "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-06T00:15:04+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.859420+00:00"
+    },
+    {
+      "id": "509f06b265ec",
+      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
+      "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-06T16:23:04+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.859344+00:00"
+    },
+    {
+      "id": "d9995c221a81",
+      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
+      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-06T19:30:46+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.859271+00:00"
+    },
+    {
+      "id": "59c40c8d314a",
+      "title": "Why Normal People Aren’t Using AI Agents",
+      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
+      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-06T19:55:45+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.859194+00:00"
+    },
+    {
+      "id": "d480e48926fe",
+      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+      "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T01:16:55+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.859124+00:00"
+    },
+    {
+      "id": "53b0454850e5",
+      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T10:00:00+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.859049+00:00"
+    },
+    {
+      "id": "eddedb5009d8",
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-07T14:13:57+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.858968+00:00"
+    },
+    {
+      "id": "878fbed42f98",
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-08T10:00:00+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.858880+00:00"
+    },
+    {
+      "id": "7a2536fc12ba",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-08T13:53:34-04:00",
+      "scrapedAt": "2026-08-09T08:50:48.744460+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.544807+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.541581+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.538146+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.534304+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.531160+00:00"
+    },
+    {
+      "id": "61f42ecb8f77",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-08T19:41:13+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.285901+00:00"
+    },
+    {
+      "id": "b56115e127cb",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-08T21:24:02+00:00",
+      "scrapedAt": "2026-08-09T08:50:48.285805+00:00"
+    },
     {
       "id": "03c0d1f52367",
       "title": "The left and right agree on one thing: no data centers",
@@ -1410,206 +1610,6 @@
       "category": "product",
       "publishedAt": "2026-08-01T20:26:04+00:00",
       "scrapedAt": "2026-08-02T10:01:49.137489+00:00"
-    },
-    {
-      "id": "a32f3d3705a3",
-      "title": "The major labels propose rules to keep AI slop off the charts",
-      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs . In short, they wouldn't be .",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T12:36:48-04:00",
-      "scrapedAt": "2026-08-01T10:03:36.730695+00:00"
-    },
-    {
-      "id": "69dd96f680d9",
-      "title": "Here’s the problem with putting an AI image generator in Google Earth",
-      "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature , like these images generated by Digital Diggi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T13:05:46-04:00",
-      "scrapedAt": "2026-08-01T10:03:36.730325+00:00"
-    },
-    {
-      "id": "a4ce4a17368d",
-      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "summary": "Pompeii reimagined with Nano Banana 2 in Google Earth. | Image: Google Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts usin",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T15:13:29-04:00",
-      "scrapedAt": "2026-08-01T10:03:36.729786+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-08-01T10:03:36.260770+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-08-01T10:03:36.258313+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-08-01T10:03:36.255702+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-08-01T10:03:36.252646+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-08-01T10:03:36.250221+00:00"
-    },
-    {
-      "id": "9fb139bb8c5f",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o",
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T14:00:00+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.877058+00:00"
-    },
-    {
-      "id": "eccb7dbefe54",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T14:47:11+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.876895+00:00"
-    },
-    {
-      "id": "d6b9a6d8c12d",
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T15:16:17+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.876836+00:00"
-    },
-    {
-      "id": "02a679ae68f9",
-      "title": "Siri AI could come with a paywall for power users",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T16:08:18+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.876770+00:00"
-    },
-    {
-      "id": "1539977fb106",
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T16:49:08+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.876702+00:00"
-    },
-    {
-      "id": "734a51283c78",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T17:26:32+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.876601+00:00"
-    },
-    {
-      "id": "cebdf34cbbc8",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T19:47:28+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.863816+00:00"
-    },
-    {
-      "id": "ef91c0cf4706",
-      "title": "India is starting to pay for apps, not just download them",
-      "summary": "India's app market generated a record $345 million in Q2.",
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T21:07:45+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.863756+00:00"
-    },
-    {
-      "id": "1d34eb822975",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-07-31T22:47:26+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.863685+00:00"
-    },
-    {
-      "id": "e2b8f86303a2",
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-31T00:00:00+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.762898+00:00"
-    },
-    {
-      "id": "ef7e135bdd5a",
-      "title": "Building abundant intelligence",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-31T15:00:00+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.762780+00:00"
-    },
-    {
-      "id": "e1503b988206",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-01T00:00:00+00:00",
-      "scrapedAt": "2026-08-01T10:03:35.762639+00:00"
     }
   ]
 }
