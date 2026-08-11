@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-08-10T09:39:28.226772+00:00",
+  "lastUpdated": "2026-08-11T09:05:09.014635+00:00",
   "articles": [
+    {
+      "id": "f389fd5f7e68",
+      "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+      "summary": "arXiv:2608.07476v1 Announce Type: new Abstract: We develop a formal framework for constructing canonical interpretations from plural structure theories. A structure theory is a triple T = ({\\Sigma}, A",
+      "url": "https://arxiv.org/abs/2608.07476",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-11T00:00:00-04:00",
+      "scrapedAt": "2026-08-11T09:04:14.053030+00:00"
+    },
+    {
+      "id": "a29b08691efa",
+      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+      "summary": "arXiv:2608.07474v1 Announce Type: new Abstract: Prior work showed that human-in-the-loop oversight becomes structurally untenable in high-loss domains when AI output velocity V exceeds human cognitive",
+      "url": "https://arxiv.org/abs/2608.07474",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-11T00:00:00-04:00",
+      "scrapedAt": "2026-08-11T09:04:14.052919+00:00"
+    },
+    {
+      "id": "560cde019cec",
+      "title": "Towards an Argumentative Foundation for Evaluative AI",
+      "summary": "arXiv:2608.07473v1 Announce Type: new Abstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendation, but by presenting co",
+      "url": "https://arxiv.org/abs/2608.07473",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-11T00:00:00-04:00",
+      "scrapedAt": "2026-08-11T09:04:14.052783+00:00"
+    },
+    {
+      "id": "ee092482a3ff",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.963660+00:00"
+    },
+    {
+      "id": "4662a98c4da9",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-10T16:20:13+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.963610+00:00"
+    },
+    {
+      "id": "9f4258eff4d0",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-10T20:04:24+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.963547+00:00"
+    },
+    {
+      "id": "559fae196559",
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-10T20:53:02+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.963489+00:00"
+    },
+    {
+      "id": "48cf888df404",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-10T23:56:15+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.963429+00:00"
+    },
+    {
+      "id": "b5e0104f574c",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "summary": "San Francisco's housing market is in trouble again.",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-11T00:03:18+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.963356+00:00"
+    },
+    {
+      "id": "f7be8d43b299",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T00:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.870987+00:00"
+    },
+    {
+      "id": "2400bb772f76",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "url": "https://openai.com/index/zapier",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T00:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.870931+00:00"
+    },
+    {
+      "id": "70ce1451328e",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T00:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.870878+00:00"
+    },
+    {
+      "id": "dd3ed843f279",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T10:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.870823+00:00"
+    },
+    {
+      "id": "d570d2706121",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T10:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.870766+00:00"
+    },
+    {
+      "id": "1b4a121cfec6",
+      "title": "What building an AI-native finance function taught me",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T17:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.870700+00:00"
+    },
+    {
+      "id": "52b9c6e06b63",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "url": "https://openai.com/index/model-ml",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T12:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.870638+00:00"
+    },
+    {
+      "id": "56292896a5d5",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T14:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.870558+00:00"
+    },
+    {
+      "id": "34b94057b7c1",
+      "title": "Evolve your marketing with new AI tools",
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T14:30:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:12.304219+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "e4b3c3d5632c",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI mod",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-03T08:30:05+00:00",
+      "scrapedAt": "2026-08-11T09:04:11.980409+00:00"
+    },
+    {
+      "id": "1281650c995b",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last week, I headed 30 miles south of San Francisco to a hote",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-10T20:00:00+00:00",
+      "scrapedAt": "2026-08-11T09:04:11.974498+00:00"
+    },
     {
       "id": "2c00bbe75c3d",
       "title": "Adversarial Causal Intervention Falsification",
@@ -1410,206 +1611,6 @@
       "category": "product",
       "publishedAt": "2026-08-03T18:43:30+00:00",
       "scrapedAt": "2026-08-04T10:44:39.253665+00:00"
-    },
-    {
-      "id": "b5594796c557",
-      "title": "MPP-GNN: Subject-Adaptive Community Detection for fMRI-Based Alzheimer's Disease Classification",
-      "summary": "arXiv:2607.28681v1 Announce Type: new Abstract: Functional magnetic resonance imaging (fMRI) is a widely used technique for studying the brain. Recent methods that utilize graph neural networks (GNNs)",
-      "url": "https://arxiv.org/abs/2607.28681",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.406755+00:00"
-    },
-    {
-      "id": "cd8a72472ffa",
-      "title": "LAWFUL: Law-Aligned Witness for Faithful Use of Latents",
-      "summary": "arXiv:2607.28672v1 Announce Type: new Abstract: When a neural network predicts a physical system accurately, has it learned the governing law as formal, structured knowledge, and if so, does the netwo",
-      "url": "https://arxiv.org/abs/2607.28672",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.406646+00:00"
-    },
-    {
-      "id": "43c11a946965",
-      "title": "Hierarchical Copula-Gumbel-Top-\\texorpdfstring{$K$}{K} Routing: Two-Sided Dependence Control for Frozen Mixture-of-Experts at Fixed Per-Token Routing Laws",
-      "summary": "arXiv:2607.28670v1 Announce Type: new Abstract: A stochastic Gumbel-Top-$K$ router defines, for every token of a mixture-of-experts (MoE) model, a \\emph{routing law}: a distribution over ordered exper",
-      "url": "https://arxiv.org/abs/2607.28670",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.406545+00:00"
-    },
-    {
-      "id": "2358a692eafa",
-      "title": "LARA: Lightweight Adapters in the Residual Stream for Composable Adaptation and Alignment",
-      "summary": "arXiv:2607.28669v1 Announce Type: new Abstract: We present LARA (Lightweight Additive Residual Adaptation), a method for efficient adaptation that operates in the residual stream of a frozen model rat",
-      "url": "https://arxiv.org/abs/2607.28669",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.406413+00:00"
-    },
-    {
-      "id": "70cccaed8a43",
-      "title": "Guarantees on Dynamical System Distinguishability for LLM Token Generation",
-      "summary": "arXiv:2607.28667v1 Announce Type: new Abstract: Recent work has shown that classifying large language models (LLMs)' responses can be distinguished by modeling token embeddings as trajectories of a bl",
-      "url": "https://arxiv.org/abs/2607.28667",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.406294+00:00"
-    },
-    {
-      "id": "c1c700b6ce1a",
-      "title": "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems",
-      "summary": "arXiv:2607.28665v1 Announce Type: new Abstract: Automated driving systems (ADSs) are becoming ubiquitous. Future Software Defined Vehicles (SDVs) may be able to run multiple ADSs, both native and afte",
-      "url": "https://arxiv.org/abs/2607.28665",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.406160+00:00"
-    },
-    {
-      "id": "9afd37e3f430",
-      "title": "Topology-Aware Data Movement for Disaggregated GPU Inference",
-      "summary": "arXiv:2607.28633v1 Announce Type: new Abstract: Disaggregated LLM inference creates a datacenter networking problem that no existing system solves correctly. When prefill and decode run on separate GP",
-      "url": "https://arxiv.org/abs/2607.28633",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.405990+00:00"
-    },
-    {
-      "id": "39db82751f30",
-      "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
-      "summary": "arXiv:2607.28678v1 Announce Type: new Abstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally ",
-      "url": "https://arxiv.org/abs/2607.28678",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.211606+00:00"
-    },
-    {
-      "id": "4c463ca70e3c",
-      "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
-      "summary": "arXiv:2607.28677v1 Announce Type: new Abstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the",
-      "url": "https://arxiv.org/abs/2607.28677",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.211496+00:00"
-    },
-    {
-      "id": "a24d612a346e",
-      "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
-      "summary": "arXiv:2607.28674v1 Announce Type: new Abstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpr",
-      "url": "https://arxiv.org/abs/2607.28674",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.211365+00:00"
-    },
-    {
-      "id": "32125e803dbc",
-      "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
-      "summary": "arXiv:2607.28662v1 Announce Type: new Abstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabularies fracture across docu",
-      "url": "https://arxiv.org/abs/2607.28662",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.211258+00:00"
-    },
-    {
-      "id": "d13106c075de",
-      "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
-      "summary": "arXiv:2607.28659v1 Announce Type: new Abstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across multiple domains. Recentl",
-      "url": "https://arxiv.org/abs/2607.28659",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.211106+00:00"
-    },
-    {
-      "id": "2164206e12ba",
-      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
-      "summary": "arXiv:2607.28657v1 Announce Type: new Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This w",
-      "url": "https://arxiv.org/abs/2607.28657",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.210990+00:00"
-    },
-    {
-      "id": "1ea40d56ca5c",
-      "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
-      "summary": "arXiv:2607.28642v1 Announce Type: new Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error an",
-      "url": "https://arxiv.org/abs/2607.28642",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.210887+00:00"
-    },
-    {
-      "id": "50bae3b94bd2",
-      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
-      "summary": "arXiv:2607.28632v1 Announce Type: new Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures",
-      "url": "https://arxiv.org/abs/2607.28632",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.210784+00:00"
-    },
-    {
-      "id": "baf156a8d5ab",
-      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-      "summary": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and compari",
-      "url": "https://arxiv.org/abs/2607.28631",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.210674+00:00"
-    },
-    {
-      "id": "a38e5189adba",
-      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "summary": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural und",
-      "url": "https://arxiv.org/abs/2607.28629",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-03T00:00:00-04:00",
-      "scrapedAt": "2026-08-03T11:32:18.210513+00:00"
-    },
-    {
-      "id": "80e7e83282c8",
-      "title": "Sam Altman and AI’s decel debate",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-02T20:54:22+00:00",
-      "scrapedAt": "2026-08-03T11:32:17.650056+00:00"
-    },
-    {
-      "id": "a7754f051081",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-03T10:00:00+00:00",
-      "scrapedAt": "2026-08-03T11:32:17.649971+00:00"
-    },
-    {
-      "id": "e4b3c3d5632c",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "summary": "MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI mod",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-03T08:30:05+00:00",
-      "scrapedAt": "2026-08-03T11:32:16.620412+00:00"
     }
   ]
 }
