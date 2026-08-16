@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-08-15T08:36:04.197545+00:00",
+  "lastUpdated": "2026-08-16T08:36:20.885675+00:00",
   "articles": [
+    {
+      "id": "ef69790693c0",
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-12T18:45:00+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.656233+00:00"
+    },
+    {
+      "id": "12be9d2e6777",
+      "title": "The White House Is Going to Expand Its AI Policy",
+      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-12T21:00:00+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.656169+00:00"
+    },
+    {
+      "id": "d9dba6737bd8",
+      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives",
+      "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-13T09:00:00+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.656100+00:00"
+    },
+    {
+      "id": "ca852585435c",
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-13T21:14:43+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.656024+00:00"
+    },
+    {
+      "id": "ad5eaa369611",
+      "title": "The Safety Reckoning Inside OpenAI",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-13T22:37:19+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.655953+00:00"
+    },
+    {
+      "id": "32c24d354fbc",
+      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-14T10:15:00+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.655880+00:00"
+    },
+    {
+      "id": "aae94cee85cd",
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+      "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-14T10:45:00+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.655808+00:00"
+    },
+    {
+      "id": "35761b29b74e",
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-14T15:00:00+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.655730+00:00"
+    },
+    {
+      "id": "5cbb86114cbf",
+      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-14T20:59:03+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.655649+00:00"
+    },
+    {
+      "id": "e6d4dc11df00",
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-15T09:00:00+00:00",
+      "scrapedAt": "2026-08-16T08:35:26.655565+00:00"
+    },
+    {
+      "id": "ed2d0e440f58",
+      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+      "summary": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"s",
+      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-13T09:30:00-04:00",
+      "scrapedAt": "2026-08-16T08:35:26.578995+00:00"
+    },
+    {
+      "id": "a4fd1976a564",
+      "title": "Does Google even want to win at AI?",
+      "summary": "Today on Decoder , I’m talking with Hayden Field, The Verge ’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That",
+      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-13T10:10:31-04:00",
+      "scrapedAt": "2026-08-16T08:35:26.578602+00:00"
+    },
+    {
+      "id": "70410d3b984c",
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each",
+      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-13T11:30:00-04:00",
+      "scrapedAt": "2026-08-16T08:35:26.569580+00:00"
+    },
+    {
+      "id": "10399f170c3b",
+      "title": "Suno is trying to look more like a real music production tool",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-13T12:00:00-04:00",
+      "scrapedAt": "2026-08-16T08:35:26.569230+00:00"
+    },
+    {
+      "id": "96fdcc1df6bb",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one ",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-15T16:45:00-04:00",
+      "scrapedAt": "2026-08-16T08:35:26.565970+00:00"
+    },
+    {
+      "id": "e68ddcb83011",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-15T16:30:00+00:00",
+      "scrapedAt": "2026-08-16T08:35:25.851517+00:00"
+    },
+    {
+      "id": "73cbb223a27a",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-15T18:58:39+00:00",
+      "scrapedAt": "2026-08-16T08:35:25.851447+00:00"
+    },
+    {
+      "id": "a17d0cbb65ba",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-15T21:29:19+00:00",
+      "scrapedAt": "2026-08-16T08:35:25.851341+00:00"
+    },
+    {
+      "id": "c2f66cb0a504",
+      "title": "Connect more of your apps to Search",
+      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-16T16:00:00+00:00",
+      "scrapedAt": "2026-08-16T08:35:25.128313+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "d3ef4a34cd19",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-07-30T10:15:19+00:00",
+      "scrapedAt": "2026-08-16T08:35:24.910945+00:00"
+    },
     {
       "id": "45947aa8ee00",
       "title": "OpenAI is losing its second executive this week",
@@ -1409,208 +1610,6 @@
       "category": "product",
       "publishedAt": "2026-08-08T21:24:02+00:00",
       "scrapedAt": "2026-08-09T08:50:48.285805+00:00"
-    },
-    {
-      "id": "03c0d1f52367",
-      "title": "The left and right agree on one thing: no data centers",
-      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge , about the growing backlash against AI data centers. Gaby recently reported a fantastic piece about Hernando County, Florid",
-      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-06T10:00:00-04:00",
-      "scrapedAt": "2026-08-08T08:49:01.148967+00:00"
-    },
-    {
-      "id": "f661aa2dcfce",
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "summary": "The Portsmouth, Ohio site where SoftBank will build its data center. | Image: US Department of Energy SoftBank contributed $50 million to the Trump Presidential Library in January, just months before ",
-      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-06T10:30:00-04:00",
-      "scrapedAt": "2026-08-08T08:49:01.140729+00:00"
-    },
-    {
-      "id": "c68d5f1c469c",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI . Rig",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-06T13:00:00-04:00",
-      "scrapedAt": "2026-08-08T08:49:01.140277+00:00"
-    },
-    {
-      "id": "1c162fd11a26",
-      "title": "Suno shares plans to combat spammy AI music",
-      "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Suno announced plans to implement a new watermarking technology and download po",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-06T13:39:43-04:00",
-      "scrapedAt": "2026-08-08T08:49:01.139909+00:00"
-    },
-    {
-      "id": "94e895c27149",
-      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck,",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-06T16:55:39-04:00",
-      "scrapedAt": "2026-08-08T08:49:01.139415+00:00"
-    },
-    {
-      "id": "764f9d70a7a9",
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week . In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to ",
-      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T12:45:14-04:00",
-      "scrapedAt": "2026-08-08T08:49:01.139032+00:00"
-    },
-    {
-      "id": "65308bcbb462",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows i",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T14:40:34-04:00",
-      "scrapedAt": "2026-08-08T08:49:01.138579+00:00"
-    },
-    {
-      "id": "73ddfbd0f80f",
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST spac",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T14:59:46-04:00",
-      "scrapedAt": "2026-08-08T08:49:01.138035+00:00"
-    },
-    {
-      "id": "78db5548d274",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "summary": "That cover art is almost certainly AI too. | Image: Fenix Flexin It took long enough , but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T16:01:51-04:00",
-      "scrapedAt": "2026-08-08T08:49:01.137455+00:00"
-    },
-    {
-      "id": "141bf0235755",
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "summary": "Meta's total fine has racked up to $942 million in this case.",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T11:40:37+00:00",
-      "scrapedAt": "2026-08-08T08:49:00.357793+00:00"
-    },
-    {
-      "id": "681d3ebb6321",
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitte",
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T14:00:00+00:00",
-      "scrapedAt": "2026-08-08T08:49:00.357700+00:00"
-    },
-    {
-      "id": "5f5222e53a44",
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T14:22:49+00:00",
-      "scrapedAt": "2026-08-08T08:49:00.346620+00:00"
-    },
-    {
-      "id": "62678037a7fe",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T16:16:09+00:00",
-      "scrapedAt": "2026-08-08T08:49:00.346544+00:00"
-    },
-    {
-      "id": "c534158d528e",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T21:30:11+00:00",
-      "scrapedAt": "2026-08-08T08:49:00.346436+00:00"
-    },
-    {
-      "id": "59163ffd3cbe",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T22:48:24+00:00",
-      "scrapedAt": "2026-08-08T08:49:00.346348+00:00"
-    },
-    {
-      "id": "93f793ec8172",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-07T15:20:00+00:00",
-      "scrapedAt": "2026-08-08T08:49:00.198201+00:00"
-    },
-    {
-      "id": "b1da67ab5327",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "scrapedAt": "2026-08-08T08:48:59.553680+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c2f66cb0a504",
-      "title": "Connect more of your apps to Search",
-      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "scrapedAt": "2026-08-08T08:48:59.553587+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7f188a0c6b4b",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-23T12:00:00+00:00",
-      "scrapedAt": "2026-08-08T08:48:59.221135+00:00"
-    },
-    {
-      "id": "d3ef4a34cd19",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-30T10:15:19+00:00",
-      "scrapedAt": "2026-08-08T08:48:59.210576+00:00"
     }
   ]
 }
