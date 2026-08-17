@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-08-16T08:36:20.885675+00:00",
+  "lastUpdated": "2026-08-17T08:51:01.148739+00:00",
   "articles": [
+    {
+      "id": "7aa79d3acdfe",
+      "title": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+      "summary": "arXiv:2608.13562v1 Announce Type: new Abstract: Modern operational systems face uncertainty even in routine conditions, where rare, bursty, and self-exciting events emerge from both exogenous covariat",
+      "url": "https://arxiv.org/abs/2608.13562",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:03.024180+00:00"
+    },
+    {
+      "id": "64b7cbf5c596",
+      "title": "Active Perception for Embodied Disambiguation",
+      "summary": "arXiv:2608.13605v1 Announce Type: new Abstract: Natural language provides robots with a flexible task interface, but target ambiguity in embodied environments arises not only from user intent; it can ",
+      "url": "https://arxiv.org/abs/2608.13605",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.846845+00:00"
+    },
+    {
+      "id": "de256d5c4d17",
+      "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+      "summary": "arXiv:2608.13604v1 Announce Type: new Abstract: Detection of misunderstanding is an urgent problem to solve because communication has moved away from real-time, in-person interaction and is increasing",
+      "url": "https://arxiv.org/abs/2608.13604",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.846742+00:00"
+    },
+    {
+      "id": "b7f573ee168a",
+      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+      "summary": "arXiv:2608.13598v1 Announce Type: new Abstract: Agent evaluation relies almost entirely on outcome metrics such as success rate, which capture whether an agent succeeds but not how consistently it beh",
+      "url": "https://arxiv.org/abs/2608.13598",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.846624+00:00"
+    },
+    {
+      "id": "5574c532b8b6",
+      "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+      "summary": "arXiv:2608.13591v1 Announce Type: new Abstract: High-confidence errors in large language models are often treated as evidence of fragile internal inference. We study a different possibility: stable mi",
+      "url": "https://arxiv.org/abs/2608.13591",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.846499+00:00"
+    },
+    {
+      "id": "222cccc14985",
+      "title": "AI Evaluation Should Work With Humans",
+      "summary": "arXiv:2608.13577v1 Announce Type: new Abstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and so implicitly targets the",
+      "url": "https://arxiv.org/abs/2608.13577",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.846391+00:00"
+    },
+    {
+      "id": "dcdc64592a0e",
+      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "summary": "arXiv:2608.13574v1 Announce Type: new Abstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols.",
+      "url": "https://arxiv.org/abs/2608.13574",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.846305+00:00"
+    },
+    {
+      "id": "a6cb9d5a081f",
+      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "summary": "arXiv:2608.13573v1 Announce Type: new Abstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving syst",
+      "url": "https://arxiv.org/abs/2608.13573",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.846191+00:00"
+    },
+    {
+      "id": "229ffdbf01ac",
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "summary": "arXiv:2608.13567v1 Announce Type: new Abstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about o",
+      "url": "https://arxiv.org/abs/2608.13567",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.846030+00:00"
+    },
+    {
+      "id": "9fdf15539889",
+      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "summary": "arXiv:2608.13565v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite t",
+      "url": "https://arxiv.org/abs/2608.13565",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.845903+00:00"
+    },
+    {
+      "id": "aa69ef98e036",
+      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+      "summary": "arXiv:2608.13564v1 Announce Type: new Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable e",
+      "url": "https://arxiv.org/abs/2608.13564",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-17T00:00:00-04:00",
+      "scrapedAt": "2026-08-17T08:50:02.845739+00:00"
+    },
+    {
+      "id": "b37d93646457",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-07T20:00:00+00:00",
+      "scrapedAt": "2026-08-17T08:50:02.555557+00:00"
+    },
+    {
+      "id": "a102a18a5efc",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-12T11:30:00+00:00",
+      "scrapedAt": "2026-08-17T08:50:02.552393+00:00"
+    },
+    {
+      "id": "db7ff708ed2f",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-13T13:00:00+00:00",
+      "scrapedAt": "2026-08-17T08:50:02.549095+00:00"
+    },
+    {
+      "id": "ca731494b194",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-16T14:01:00+00:00",
+      "scrapedAt": "2026-08-17T08:50:02.545550+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-08-17T08:50:02.542567+00:00"
+    },
+    {
+      "id": "9eeacf6b78b6",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-16T16:53:51+00:00",
+      "scrapedAt": "2026-08-17T08:50:02.349655+00:00"
+    },
+    {
+      "id": "30514dd888ea",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-16T20:32:01+00:00",
+      "scrapedAt": "2026-08-17T08:50:02.349583+00:00"
+    },
+    {
+      "id": "7430ad56634d",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-16T20:57:04+00:00",
+      "scrapedAt": "2026-08-17T08:50:02.349496+00:00"
+    },
+    {
+      "id": "4b1422325725",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-17T08:00:00+00:00",
+      "scrapedAt": "2026-08-17T08:50:01.646292+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
+    },
     {
       "id": "ef69790693c0",
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
@@ -1410,206 +1611,6 @@
       "category": "product",
       "publishedAt": "2026-08-10T09:00:00+00:00",
       "scrapedAt": "2026-08-10T09:38:28.311174+00:00"
-    },
-    {
-      "id": "86d26e1c6bca",
-      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "summary": "Score: 135 points",
-      "url": "http://longbets.org/601/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-08-09T04:30:26+00:00",
-      "scrapedAt": "2026-08-09T08:50:49.338658+00:00"
-    },
-    {
-      "id": "e417c799e0ba",
-      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-      "summary": "Score: 112 points",
-      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-08-09T00:59:58+00:00",
-      "scrapedAt": "2026-08-09T08:50:49.282192+00:00"
-    },
-    {
-      "id": "72e208685876",
-      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
-      "url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-05T19:42:12+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.859562+00:00"
-    },
-    {
-      "id": "718b633c321b",
-      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
-      "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-05T23:30:00+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.859491+00:00"
-    },
-    {
-      "id": "aa0453c64131",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-06T00:15:04+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.859420+00:00"
-    },
-    {
-      "id": "509f06b265ec",
-      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-      "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-06T16:23:04+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.859344+00:00"
-    },
-    {
-      "id": "d9995c221a81",
-      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-06T19:30:46+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.859271+00:00"
-    },
-    {
-      "id": "59c40c8d314a",
-      "title": "Why Normal People Aren’t Using AI Agents",
-      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-06T19:55:45+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.859194+00:00"
-    },
-    {
-      "id": "d480e48926fe",
-      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-      "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T01:16:55+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.859124+00:00"
-    },
-    {
-      "id": "53b0454850e5",
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T10:00:00+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.859049+00:00"
-    },
-    {
-      "id": "eddedb5009d8",
-      "title": "Scientists Used AI to Create 16 New Viruses",
-      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
-      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-07T14:13:57+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.858968+00:00"
-    },
-    {
-      "id": "878fbed42f98",
-      "title": "How to Disable Gemini in Gmail and Google Docs",
-      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
-      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-08T10:00:00+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.858880+00:00"
-    },
-    {
-      "id": "7a2536fc12ba",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-08T13:53:34-04:00",
-      "scrapedAt": "2026-08-09T08:50:48.744460+00:00"
-    },
-    {
-      "id": "b37d93646457",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several ",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-07T20:00:00+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.544807+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.541581+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.538146+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.534304+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.531160+00:00"
-    },
-    {
-      "id": "61f42ecb8f77",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "summary": "NextSlide says its team members are now working on ChatGPT.",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-08T19:41:13+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.285901+00:00"
-    },
-    {
-      "id": "b56115e127cb",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-08T21:24:02+00:00",
-      "scrapedAt": "2026-08-09T08:50:48.285805+00:00"
     }
   ]
 }
