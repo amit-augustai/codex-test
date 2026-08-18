@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-08-17T08:51:01.148739+00:00",
+  "lastUpdated": "2026-08-18T08:43:56.947735+00:00",
   "articles": [
+    {
+      "id": "eb19b3f62cdf",
+      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+      "summary": "arXiv:2608.14566v1 Announce Type: new Abstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral value problem, i.e., whet",
+      "url": "https://arxiv.org/abs/2608.14566",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-18T00:00:00-04:00",
+      "scrapedAt": "2026-08-18T08:43:01.181876+00:00"
+    },
+    {
+      "id": "7e51d45af61b",
+      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+      "summary": "arXiv:2608.14565v1 Announce Type: new Abstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and the regulation of genera",
+      "url": "https://arxiv.org/abs/2608.14565",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-18T00:00:00-04:00",
+      "scrapedAt": "2026-08-18T08:43:01.181818+00:00"
+    },
+    {
+      "id": "8047103b5158",
+      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+      "summary": "arXiv:2608.14562v1 Announce Type: new Abstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertaint",
+      "url": "https://arxiv.org/abs/2608.14562",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-18T00:00:00-04:00",
+      "scrapedAt": "2026-08-18T08:43:01.181763+00:00"
+    },
+    {
+      "id": "e5498bb9dc54",
+      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+      "summary": "arXiv:2608.14559v1 Announce Type: new Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing approa",
+      "url": "https://arxiv.org/abs/2608.14559",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-18T00:00:00-04:00",
+      "scrapedAt": "2026-08-18T08:43:01.181708+00:00"
+    },
+    {
+      "id": "49277d7addb9",
+      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+      "summary": "arXiv:2608.14558v1 Announce Type: new Abstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstra",
+      "url": "https://arxiv.org/abs/2608.14558",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-18T00:00:00-04:00",
+      "scrapedAt": "2026-08-18T08:43:01.181647+00:00"
+    },
+    {
+      "id": "76cf8dbe307f",
+      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+      "summary": "arXiv:2608.14552v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence ",
+      "url": "https://arxiv.org/abs/2608.14552",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-18T00:00:00-04:00",
+      "scrapedAt": "2026-08-18T08:43:01.181587+00:00"
+    },
+    {
+      "id": "8e91d5306db2",
+      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+      "summary": "arXiv:2608.14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. W",
+      "url": "https://arxiv.org/abs/2608.14550",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-18T00:00:00-04:00",
+      "scrapedAt": "2026-08-18T08:43:01.181496+00:00"
+    },
+    {
+      "id": "73672096953e",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T13:10:05+00:00",
+      "scrapedAt": "2026-08-18T08:43:00.246486+00:00"
+    },
+    {
+      "id": "40a9816ea480",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T15:16:24+00:00",
+      "scrapedAt": "2026-08-18T08:43:00.246454+00:00"
+    },
+    {
+      "id": "47e2b9845519",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T16:15:12+00:00",
+      "scrapedAt": "2026-08-18T08:43:00.246423+00:00"
+    },
+    {
+      "id": "897dfbe77af7",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T16:38:44+00:00",
+      "scrapedAt": "2026-08-18T08:43:00.246387+00:00"
+    },
+    {
+      "id": "5b8dbc23aeee",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T21:27:05+00:00",
+      "scrapedAt": "2026-08-18T08:43:00.246352+00:00"
+    },
+    {
+      "id": "de8e9b90f004",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T23:56:26+00:00",
+      "scrapedAt": "2026-08-18T08:43:00.246299+00:00"
+    },
+    {
+      "id": "e5221d6f877f",
+      "title": "New policy ideas for the Intelligence Age",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-17T03:15:00+00:00",
+      "scrapedAt": "2026-08-18T08:43:00.077032+00:00"
+    },
+    {
+      "id": "a7860c437a7c",
+      "title": "OpenAI joins PORTS-Pike project",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-17T05:00:00+00:00",
+      "scrapedAt": "2026-08-18T08:43:00.076996+00:00"
+    },
+    {
+      "id": "699d10e1c74c",
+      "title": "The Defender’s Window",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-17T05:30:00+00:00",
+      "scrapedAt": "2026-08-18T08:43:00.076949+00:00"
+    },
+    {
+      "id": "6859719fca47",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 201",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-10T09:00:00+00:00",
+      "scrapedAt": "2026-08-18T08:42:59.326869+00:00"
+    },
+    {
+      "id": "20c95f3fe530",
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-10T09:00:00+00:00",
+      "scrapedAt": "2026-08-18T08:42:59.325449+00:00"
+    },
+    {
+      "id": "0c3e7b3f060b",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T09:00:00+00:00",
+      "scrapedAt": "2026-08-18T08:42:59.320594+00:00"
+    },
+    {
+      "id": "dc51f568c245",
+      "title": "What Flock’s defenders are missing",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Flock, the police-tech giant known for its network of some 12",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T19:16:09+00:00",
+      "scrapedAt": "2026-08-18T08:42:59.317939+00:00"
+    },
     {
       "id": "7aa79d3acdfe",
       "title": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
@@ -1411,206 +1611,6 @@
       "category": "product",
       "publishedAt": "2026-08-10T20:00:00+00:00",
       "scrapedAt": "2026-08-11T09:04:11.974498+00:00"
-    },
-    {
-      "id": "2c00bbe75c3d",
-      "title": "Adversarial Causal Intervention Falsification",
-      "summary": "arXiv:2608.06427v1 Announce Type: new Abstract: Generative models can reproduce an observational distribution while encoding an incorrect causal structure. We study a sequential game in which a struct",
-      "url": "https://arxiv.org/abs/2608.06427",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:30.079391+00:00"
-    },
-    {
-      "id": "c15a190246d0",
-      "title": "Sharding Prevents LLM Oversight Failures and Adversarial Exploitation",
-      "summary": "arXiv:2608.06422v1 Announce Type: new Abstract: Giving an LLM judge more compute does not necessarily make it check more requirements. When one call must return many verdicts, some decisions become we",
-      "url": "https://arxiv.org/abs/2608.06422",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:30.079261+00:00"
-    },
-    {
-      "id": "94f9f6a7d3d9",
-      "title": "Risk-Aware Decision Policies for Agents Under Noisy Perception",
-      "summary": "arXiv:2608.06420v1 Announce Type: new Abstract: Perception in biological systems is inherently noisy, requiring organisms to make decisions under uncertainty where misclassification can be costly or f",
-      "url": "https://arxiv.org/abs/2608.06420",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:30.079132+00:00"
-    },
-    {
-      "id": "586541593a27",
-      "title": "Latent Fact-Checking: Detecting Misinformation through Activation Engineering",
-      "summary": "arXiv:2608.06417v1 Announce Type: new Abstract: The proliferation of misinformation online has driven demand for scalable detection systems. While most existing approaches rely on surface-level lingui",
-      "url": "https://arxiv.org/abs/2608.06417",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:30.079005+00:00"
-    },
-    {
-      "id": "f38f206f451d",
-      "title": "TaskSense: Focusing on What Matters in World Models",
-      "summary": "arXiv:2608.06544v1 Announce Type: new Abstract: World models for visual control typically learn compact latent states by reconstructing observations, implicitly encouraging representations to preserve",
-      "url": "https://arxiv.org/abs/2608.06544",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.881771+00:00"
-    },
-    {
-      "id": "c1a8e91540af",
-      "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
-      "summary": "arXiv:2608.06530v1 Announce Type: new Abstract: Planning a degree from official university sources requires solving two problems in order. The institution's curriculum must first be reconstructed from",
-      "url": "https://arxiv.org/abs/2608.06530",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.881641+00:00"
-    },
-    {
-      "id": "a02ca27d6676",
-      "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
-      "summary": "arXiv:2608.06501v1 Announce Type: new Abstract: Creative capabilities of MLLMs matter in design, communication, education, and human--AI collaboration, yet remain difficult to evaluate because explici",
-      "url": "https://arxiv.org/abs/2608.06501",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.881504+00:00"
-    },
-    {
-      "id": "7454d6fbb401",
-      "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
-      "summary": "arXiv:2608.06474v1 Announce Type: new Abstract: Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has become a central approa",
-      "url": "https://arxiv.org/abs/2608.06474",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.881352+00:00"
-    },
-    {
-      "id": "918c96dec515",
-      "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
-      "summary": "arXiv:2608.06411v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) achieve strong performance across diverse vision-language tasks, but their efficiency is limited by the cost of",
-      "url": "https://arxiv.org/abs/2608.06411",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.881234+00:00"
-    },
-    {
-      "id": "a06d179db31a",
-      "title": "ADIAS: Automated Design of Interactive Agentic Systems",
-      "summary": "arXiv:2608.06410v1 Announce Type: new Abstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing methods are largely candida",
-      "url": "https://arxiv.org/abs/2608.06410",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.881108+00:00"
-    },
-    {
-      "id": "97fe9ed4dfda",
-      "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
-      "summary": "arXiv:2608.06402v1 Announce Type: new Abstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Clas",
-      "url": "https://arxiv.org/abs/2608.06402",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.880997+00:00"
-    },
-    {
-      "id": "9b7cede74ade",
-      "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
-      "summary": "arXiv:2608.06400v1 Announce Type: new Abstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-o",
-      "url": "https://arxiv.org/abs/2608.06400",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.880871+00:00"
-    },
-    {
-      "id": "ccfa49056017",
-      "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
-      "summary": "arXiv:2608.06398v1 Announce Type: new Abstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patch",
-      "url": "https://arxiv.org/abs/2608.06398",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.880758+00:00"
-    },
-    {
-      "id": "500c3e9a2c43",
-      "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
-      "summary": "arXiv:2608.06394v1 Announce Type: new Abstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing ",
-      "url": "https://arxiv.org/abs/2608.06394",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-10T00:00:00-04:00",
-      "scrapedAt": "2026-08-10T09:38:29.880621+00:00"
-    },
-    {
-      "id": "35f6bb826f1d",
-      "title": "The AI safety test is becoming a safety risk",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-09T14:30:00+00:00",
-      "scrapedAt": "2026-08-10T09:38:29.355466+00:00"
-    },
-    {
-      "id": "d2ac7303d625",
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-09T15:00:00+00:00",
-      "scrapedAt": "2026-08-10T09:38:29.355366+00:00"
-    },
-    {
-      "id": "700247b13669",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-09T19:20:32+00:00",
-      "scrapedAt": "2026-08-10T09:38:29.355292+00:00"
-    },
-    {
-      "id": "f893fb1dc932",
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "summary": "The AI-focused hedge fund is still making some big bets.",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-09T20:35:17+00:00",
-      "scrapedAt": "2026-08-10T09:38:29.355209+00:00"
-    },
-    {
-      "id": "6859719fca47",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 201",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-10T09:00:00+00:00",
-      "scrapedAt": "2026-08-10T09:38:28.314326+00:00"
-    },
-    {
-      "id": "20c95f3fe530",
-      "title": "AI for science needs reasoning, not just data",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-10T09:00:00+00:00",
-      "scrapedAt": "2026-08-10T09:38:28.311174+00:00"
     }
   ]
 }
