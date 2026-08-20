@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-08-19T08:44:19.850372+00:00",
+  "lastUpdated": "2026-08-20T08:46:58.204549+00:00",
   "articles": [
+    {
+      "id": "0c2edf061e9a",
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy ",
+      "url": "https://arxiv.org/abs/2608.18080",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-20T00:00:00-04:00",
+      "scrapedAt": "2026-08-20T08:46:02.919302+00:00"
+    },
+    {
+      "id": "6b83274b11f0",
+      "title": "Position: Profiling Game Worlds by Transition Complexity",
+      "summary": "arXiv:2608.18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying tran",
+      "url": "https://arxiv.org/abs/2608.18079",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-20T00:00:00-04:00",
+      "scrapedAt": "2026-08-20T08:46:02.919092+00:00"
+    },
+    {
+      "id": "7b56b53cc3af",
+      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+      "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be requi",
+      "url": "https://arxiv.org/abs/2608.18078",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-20T00:00:00-04:00",
+      "scrapedAt": "2026-08-20T08:46:02.918879+00:00"
+    },
+    {
+      "id": "e670024b9a32",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-22T14:00:00+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.668985+00:00"
+    },
+    {
+      "id": "e7785d8c77e3",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.665643+00:00"
+    },
+    {
+      "id": "f8a8e90f0b14",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T14:18:12+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.662542+00:00"
+    },
+    {
+      "id": "759443956e5c",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T14:09:39+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.435488+00:00"
+    },
+    {
+      "id": "655769ab72fd",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T15:00:00+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.435419+00:00"
+    },
+    {
+      "id": "b7d34b8d601d",
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T15:44:53+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.435344+00:00"
+    },
+    {
+      "id": "da3d698d8f48",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products.",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T17:26:48+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.435257+00:00"
+    },
+    {
+      "id": "5276b3d7b615",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T18:46:14+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.422974+00:00"
+    },
+    {
+      "id": "8656b8f78d55",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T19:00:00+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.422898+00:00"
+    },
+    {
+      "id": "88cde3112e54",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T19:11:40+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.422795+00:00"
+    },
+    {
+      "id": "6aba2536a5ec",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T21:51:23+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.422714+00:00"
+    },
+    {
+      "id": "d306eafa18af",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T22:10:46+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.422638+00:00"
+    },
+    {
+      "id": "42bbaa081fc3",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T23:32:00+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.422556+00:00"
+    },
+    {
+      "id": "09f9dc1b5215",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-19T07:00:00+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.370659+00:00"
+    },
+    {
+      "id": "7e1debc1bd0a",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-19T19:00:00+00:00",
+      "scrapedAt": "2026-08-20T08:46:02.370575+00:00"
+    },
+    {
+      "id": "af6b566103fd",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-11T17:00:00+00:00",
+      "scrapedAt": "2026-08-20T08:46:01.761274+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ffa128c00a29",
+      "title": "5 new ways to level up your learning with Search",
+      "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-19T19:00:00+00:00",
+      "scrapedAt": "2026-08-20T08:46:01.760969+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
+    },
     {
       "id": "bc90461816ea",
       "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
@@ -1410,207 +1612,6 @@
       "category": "product",
       "publishedAt": "2026-08-12T16:51:57+00:00",
       "scrapedAt": "2026-08-13T09:17:25.305381+00:00"
-    },
-    {
-      "id": "524c6306476a",
-      "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
-      "summary": "arXiv:2608.07528v1 Announce Type: new Abstract: Linear probes detect corrupted context in language models with near-perfect accuracy, yet this does not translate into reliable failure prediction. The ",
-      "url": "https://arxiv.org/abs/2608.07528",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-12T00:00:00-04:00",
-      "scrapedAt": "2026-08-12T09:16:13.439889+00:00"
-    },
-    {
-      "id": "b93103c51220",
-      "title": "Training Variable Long Sequences with Data-Centric Parallel",
-      "summary": "arXiv:2608.07524v1 Announce Type: new Abstract: Training deep learning models on variable long sequences poses significant computational challenges. Existing methods force a difficult trade-off betwee",
-      "url": "https://arxiv.org/abs/2608.07524",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-12T00:00:00-04:00",
-      "scrapedAt": "2026-08-12T09:16:13.439791+00:00"
-    },
-    {
-      "id": "f3adcee6449d",
-      "title": "Emotion in an active inference model of human driving",
-      "summary": "arXiv:2608.07480v1 Announce Type: new Abstract: Active inference has emerged as a principled framework for modeling adaptive behavior by balancing goal-directed action with uncertainty reduction. It h",
-      "url": "https://arxiv.org/abs/2608.07480",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-12T00:00:00-04:00",
-      "scrapedAt": "2026-08-12T09:16:13.439707+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.793420+00:00"
-    },
-    {
-      "id": "e7785d8c77e3",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.790508+00:00"
-    },
-    {
-      "id": "387a273ab49a",
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-11T12:13:47+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.470292+00:00"
-    },
-    {
-      "id": "636a0618aace",
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
-      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-11T13:00:00+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.470238+00:00"
-    },
-    {
-      "id": "a3990db1706f",
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might ",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-11T16:25:20+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.470176+00:00"
-    },
-    {
-      "id": "3571ff97a4b1",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-11T17:41:22+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.470106+00:00"
-    },
-    {
-      "id": "b8d07c245c74",
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-11T17:41:34+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.470044+00:00"
-    },
-    {
-      "id": "61f03f2379bc",
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-11T18:49:12+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.469978+00:00"
-    },
-    {
-      "id": "c836abb2e392",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-11T19:15:35+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.469910+00:00"
-    },
-    {
-      "id": "2deee44b21d9",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-11T21:39:11+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.469838+00:00"
-    },
-    {
-      "id": "ca8161387cd4",
-      "title": "Daybreak models are now available on AWS",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-11T10:00:00+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.386703+00:00"
-    },
-    {
-      "id": "16251d7b149e",
-      "title": "Testing ads in ChatGPT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-11T10:00:00+00:00",
-      "scrapedAt": "2026-08-12T09:16:12.386630+00:00"
-    },
-    {
-      "id": "af6b566103fd",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-11T17:00:00+00:00",
-      "scrapedAt": "2026-08-12T09:16:11.771305+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "25cc5f27cc6a",
-      "title": "The path to artificial superintelligence",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they ",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-27T12:00:00+00:00",
-      "scrapedAt": "2026-08-12T09:16:11.399390+00:00"
-    },
-    {
-      "id": "bd9265e44747",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Reading OpenAI’s account last week of how some of its models ",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-27T18:00:00+00:00",
-      "scrapedAt": "2026-08-12T09:16:11.397965+00:00"
-    },
-    {
-      "id": "e9c7d242f0b7",
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-28T09:18:57+00:00",
-      "scrapedAt": "2026-08-12T09:16:11.396687+00:00"
-    },
-    {
-      "id": "dc0d90ec364e",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Humanoid robots usually elicit more cringe than awe: They stu",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-03T18:43:30+00:00",
-      "scrapedAt": "2026-08-12T09:16:11.392557+00:00"
     }
   ]
 }
