@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-08-20T08:46:58.204549+00:00",
+  "lastUpdated": "2026-08-21T08:49:00.452522+00:00",
   "articles": [
+    {
+      "id": "cc07c0e9ccd3",
+      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+      "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appear",
+      "url": "https://arxiv.org/abs/2608.18088",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-21T00:00:00-04:00",
+      "scrapedAt": "2026-08-21T08:48:03.810439+00:00"
+    },
+    {
+      "id": "691ec30f3006",
+      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+      "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Althoug",
+      "url": "https://arxiv.org/abs/2608.18086",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-21T00:00:00-04:00",
+      "scrapedAt": "2026-08-21T08:48:03.810350+00:00"
+    },
+    {
+      "id": "7e873e9536b7",
+      "title": "Position: Behavioral Systems Require Behavioral Tests",
+      "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. ",
+      "url": "https://arxiv.org/abs/2608.18081",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-21T00:00:00-04:00",
+      "scrapedAt": "2026-08-21T08:48:03.810272+00:00"
+    },
+    {
+      "id": "28cd1afbb67e",
+      "title": "Ramp launches its own AI model router, called Router",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T16:46:00+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.370045+00:00"
+    },
+    {
+      "id": "072ab33f0182",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T17:18:58+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.370007+00:00"
+    },
+    {
+      "id": "90eae5e4b71e",
+      "title": "Grok keeps sending gibberish responses to users",
+      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T17:32:16+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.369971+00:00"
+    },
+    {
+      "id": "501a92a0a813",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T18:20:35+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.369933+00:00"
+    },
+    {
+      "id": "dc3d7ed90c79",
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T19:15:05+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.369894+00:00"
+    },
+    {
+      "id": "b359671ae1bf",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to ",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T19:18:21+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.369854+00:00"
+    },
+    {
+      "id": "0e5fabfe4834",
+      "title": "OK, can we actually cool data centers with our pee?",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T20:53:13+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.369809+00:00"
+    },
+    {
+      "id": "fc53f9f20e6e",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T22:09:51+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.369761+00:00"
+    },
+    {
+      "id": "08dddb48c1bd",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T22:36:37+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.369715+00:00"
+    },
+    {
+      "id": "715aa7b8d8cb",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-21T00:13:44+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.369655+00:00"
+    },
+    {
+      "id": "6213ce5ceef3",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "url": "https://openai.com/index/stampli",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-20T00:00:00+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.241032+00:00"
+    },
+    {
+      "id": "2e8bfa2782e5",
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-20T07:00:00+00:00",
+      "scrapedAt": "2026-08-21T08:48:03.240967+00:00"
+    },
+    {
+      "id": "3ce791ab7446",
+      "title": "Inside our 353,000-person vibe coding course",
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-03T15:00:00+00:00",
+      "scrapedAt": "2026-08-21T08:48:02.793427+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "34a7f3824c27",
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "Here are Google’s latest AI updates from July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-04T13:00:00+00:00",
+      "scrapedAt": "2026-08-21T08:48:02.793369+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "afc23a12a580",
+      "title": "Scaling AI agents with trustworthy data",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents , and few executives doubt the technology’s potential to transform wor",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-12T16:51:57+00:00",
+      "scrapedAt": "2026-08-21T08:48:02.475894+00:00"
+    },
+    {
+      "id": "546c18a8a2cd",
+      "title": "Unlocking hidden revenue streams with market models",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T09:47:22+00:00",
+      "scrapedAt": "2026-08-21T08:48:02.464380+00:00"
+    },
+    {
+      "id": "5e86b723ff64",
+      "title": "Debates over AI consciousness are a trap",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T15:42:39+00:00",
+      "scrapedAt": "2026-08-21T08:48:02.463869+00:00"
+    },
     {
       "id": "0c2edf061e9a",
       "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
@@ -1410,208 +1612,6 @@
       "category": "product",
       "publishedAt": "2026-08-13T13:41:10+00:00",
       "scrapedAt": "2026-08-14T09:12:02.274100+00:00"
-    },
-    {
-      "id": "ae411ce6429e",
-      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase ",
-      "url": "https://arxiv.org/abs/2608.11215",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-13T00:00:00-04:00",
-      "scrapedAt": "2026-08-13T09:17:27.226116+00:00"
-    },
-    {
-      "id": "1c0d9a88fbc4",
-      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-      "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read b",
-      "url": "https://arxiv.org/abs/2608.11212",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-13T00:00:00-04:00",
-      "scrapedAt": "2026-08-13T09:17:27.225990+00:00"
-    },
-    {
-      "id": "92378a861f36",
-      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-      "summary": "arXiv:2608.11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproduc",
-      "url": "https://arxiv.org/abs/2608.11211",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-13T00:00:00-04:00",
-      "scrapedAt": "2026-08-13T09:17:27.225826+00:00"
-    },
-    {
-      "id": "d2cadd9aa1e6",
-      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-      "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers",
-      "url": "https://arxiv.org/abs/2608.11210",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-13T00:00:00-04:00",
-      "scrapedAt": "2026-08-13T09:17:27.225715+00:00"
-    },
-    {
-      "id": "c8e20057c58a",
-      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition ",
-      "url": "https://arxiv.org/abs/2608.11207",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-13T00:00:00-04:00",
-      "scrapedAt": "2026-08-13T09:17:27.225569+00:00"
-    },
-    {
-      "id": "d1915a50c5cc",
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i",
-      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T14:22:00+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.523304+00:00"
-    },
-    {
-      "id": "4aad83926644",
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T15:44:56+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.523182+00:00"
-    },
-    {
-      "id": "a8dd77df5184",
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T16:04:27+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.523106+00:00"
-    },
-    {
-      "id": "d4e662e0ffa5",
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i",
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T16:46:02+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.523015+00:00"
-    },
-    {
-      "id": "667e84b17d07",
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T16:57:58+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.512824+00:00"
-    },
-    {
-      "id": "2fd40c918be8",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T17:41:29+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.512758+00:00"
-    },
-    {
-      "id": "b77f0ff8e550",
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T17:51:00+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.512689+00:00"
-    },
-    {
-      "id": "fedb51cc07b1",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T18:19:12+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.512609+00:00"
-    },
-    {
-      "id": "0e1a976108c7",
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T20:10:40+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.512537+00:00"
-    },
-    {
-      "id": "79ba0d5b9dda",
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T22:26:37+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.512456+00:00"
-    },
-    {
-      "id": "dc35058bee54",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "url": "https://openai.com/index/ringcentral",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-12T00:00:00+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.402392+00:00"
-    },
-    {
-      "id": "143a56c3831e",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-12T06:00:00+00:00",
-      "scrapedAt": "2026-08-13T09:17:26.402305+00:00"
-    },
-    {
-      "id": "3ce791ab7446",
-      "title": "Inside our 353,000-person vibe coding course",
-      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-03T15:00:00+00:00",
-      "scrapedAt": "2026-08-13T09:17:25.729808+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "34a7f3824c27",
-      "title": "The latest AI news we announced in July 2026",
-      "summary": "Here are Google’s latest AI updates from July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-04T13:00:00+00:00",
-      "scrapedAt": "2026-08-13T09:17:25.729712+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "afc23a12a580",
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents , and few executives doubt the technology’s potential to transform wor",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-12T16:51:57+00:00",
-      "scrapedAt": "2026-08-13T09:17:25.305381+00:00"
     }
   ]
 }
