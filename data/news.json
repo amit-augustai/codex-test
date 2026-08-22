@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-08-21T08:49:00.452522+00:00",
+  "lastUpdated": "2026-08-22T08:36:45.796423+00:00",
   "articles": [
+    {
+      "id": "6edc23431654",
+      "title": "Meta AI is getting a Mac app",
+      "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta",
+      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T13:00:00-04:00",
+      "scrapedAt": "2026-08-22T08:35:48.928399+00:00"
+    },
+    {
+      "id": "b7c2fec452c0",
+      "title": "OpenAI hit the brakes. Now what?",
+      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes . On Tuesday, the",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T13:10:09-04:00",
+      "scrapedAt": "2026-08-22T08:35:48.928104+00:00"
+    },
+    {
+      "id": "dc3d81799698",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-19T15:00:00-04:00",
+      "scrapedAt": "2026-08-22T08:35:48.927808+00:00"
+    },
+    {
+      "id": "58939a4222a7",
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-spe",
+      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T08:00:00-04:00",
+      "scrapedAt": "2026-08-22T08:35:48.927535+00:00"
+    },
+    {
+      "id": "63a1c4c6a261",
+      "title": "Welcome to the AI crisis in math",
+      "summary": "Today on Decoder , I’m talking with Robert Hart, The Verge ’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are havin",
+      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T10:00:00-04:00",
+      "scrapedAt": "2026-08-22T08:35:48.927279+00:00"
+    },
+    {
+      "id": "c7fbc3b1617c",
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wides",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T11:45:55-04:00",
+      "scrapedAt": "2026-08-22T08:35:48.921802+00:00"
+    },
+    {
+      "id": "60d44502cd81",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature , rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak ",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-20T17:50:22-04:00",
+      "scrapedAt": "2026-08-22T08:35:48.921551+00:00"
+    },
+    {
+      "id": "9cbe86a70078",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "summary": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-21T09:37:52-04:00",
+      "scrapedAt": "2026-08-22T08:35:48.921293+00:00"
+    },
+    {
+      "id": "1cd4198d78c9",
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-21T17:25:50-04:00",
+      "scrapedAt": "2026-08-22T08:35:48.920810+00:00"
+    },
+    {
+      "id": "2128e60ca793",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-21T14:00:00+00:00",
+      "scrapedAt": "2026-08-22T08:35:48.542422+00:00"
+    },
+    {
+      "id": "f30a4a32fb60",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-21T14:00:00+00:00",
+      "scrapedAt": "2026-08-22T08:35:48.518391+00:00"
+    },
+    {
+      "id": "4af5149f16f9",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-21T19:43:39+00:00",
+      "scrapedAt": "2026-08-22T08:35:48.518345+00:00"
+    },
+    {
+      "id": "5a379d4f9d7f",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-21T22:37:38+00:00",
+      "scrapedAt": "2026-08-22T08:35:48.518296+00:00"
+    },
+    {
+      "id": "d7e3e6a3a485",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-21T23:07:25+00:00",
+      "scrapedAt": "2026-08-22T08:35:48.518234+00:00"
+    },
+    {
+      "id": "cd8e20ce04a2",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T13:00:00+00:00",
+      "scrapedAt": "2026-08-22T08:35:48.060872+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ed733c91dec4",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T13:00:00+00:00",
+      "scrapedAt": "2026-08-22T08:35:48.060817+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "85f9e2233c0c",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T16:00:00+00:00",
+      "scrapedAt": "2026-08-22T08:35:48.060758+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "657afebb011c",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-13T16:45:00+00:00",
+      "scrapedAt": "2026-08-22T08:35:48.060483+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "599ea52fc1f6",
+      "title": "How kids feel about AI, in their own words",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-13T09:00:00+00:00",
+      "scrapedAt": "2026-08-22T08:35:47.748882+00:00"
+    },
+    {
+      "id": "c22abf289983",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-13T13:41:10+00:00",
+      "scrapedAt": "2026-08-22T08:35:47.745163+00:00"
+    },
     {
       "id": "cc07c0e9ccd3",
       "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
@@ -1207,411 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-07-30T10:15:19+00:00",
       "scrapedAt": "2026-08-16T08:35:24.910945+00:00"
-    },
-    {
-      "id": "45947aa8ee00",
-      "title": "OpenAI is losing its second executive this week",
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T15:28:39-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.836042+00:00"
-    },
-    {
-      "id": "a202a998008f",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "summary": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page , Microsoft says it's goi",
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T17:42:38-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.835427+00:00"
-    },
-    {
-      "id": "ae32eded766b",
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-14T05:21:17-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.834830+00:00"
-    },
-    {
-      "id": "b8d906c34178",
-      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update , you can toggle off a new \"Media watermark\" setting in Gemini and Google'",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-14T12:39:32-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.834311+00:00"
-    },
-    {
-      "id": "fcca288b1b06",
-      "title": "Mark Zuckerberg has an Instagzam",
-      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't",
-      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-14T12:54:16-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.833766+00:00"
-    },
-    {
-      "id": "f52cdc3cbc97",
-      "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
-      "summary": "arXiv:2608.12395v1 Announce Type: new Abstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions acr",
-      "url": "https://arxiv.org/abs/2608.12395",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.652852+00:00"
-    },
-    {
-      "id": "b4615808c02e",
-      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
-      "summary": "arXiv:2608.12389v1 Announce Type: new Abstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-",
-      "url": "https://arxiv.org/abs/2608.12389",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.652745+00:00"
-    },
-    {
-      "id": "466290140d79",
-      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
-      "summary": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two i",
-      "url": "https://arxiv.org/abs/2608.12385",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.652631+00:00"
-    },
-    {
-      "id": "9310e8ef319e",
-      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
-      "summary": "arXiv:2608.12373v1 Announce Type: new Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We te",
-      "url": "https://arxiv.org/abs/2608.12373",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.652496+00:00"
-    },
-    {
-      "id": "bd0ca28b20ba",
-      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
-      "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settin",
-      "url": "https://arxiv.org/abs/2608.12372",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.652349+00:00"
-    },
-    {
-      "id": "fe5eabcf53ba",
-      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, ",
-      "url": "https://arxiv.org/abs/2608.12371",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.652249+00:00"
-    },
-    {
-      "id": "12a63dcfeade",
-      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-      "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not sh",
-      "url": "https://arxiv.org/abs/2608.12368",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.652126+00:00"
-    },
-    {
-      "id": "a5cfea95d9ea",
-      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily ",
-      "url": "https://arxiv.org/abs/2608.12346",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.652011+00:00"
-    },
-    {
-      "id": "bdea41f6ff14",
-      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-      "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasur",
-      "url": "https://arxiv.org/abs/2608.12345",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.651907+00:00"
-    },
-    {
-      "id": "3695b874da57",
-      "title": "Position: Reasoning is a Learnable Rule-Based Process",
-      "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent ad",
-      "url": "https://arxiv.org/abs/2608.12325",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-15T00:00:00-04:00",
-      "scrapedAt": "2026-08-15T08:35:07.651780+00:00"
-    },
-    {
-      "id": "81e5cc10e8e1",
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-14T14:00:00+00:00",
-      "scrapedAt": "2026-08-15T08:35:07.056323+00:00"
-    },
-    {
-      "id": "0fccedf8ea19",
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-14T14:05:00+00:00",
-      "scrapedAt": "2026-08-15T08:35:07.056190+00:00"
-    },
-    {
-      "id": "042796346f67",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-14T14:50:11+00:00",
-      "scrapedAt": "2026-08-15T08:35:07.056109+00:00"
-    },
-    {
-      "id": "d0a06ebad8a6",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-14T15:43:28+00:00",
-      "scrapedAt": "2026-08-15T08:35:07.056016+00:00"
-    },
-    {
-      "id": "0e0aa6481012",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-14T16:13:40+00:00",
-      "scrapedAt": "2026-08-15T08:35:07.034841+00:00"
-    },
-    {
-      "id": "f31b1a5b40ca",
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T14:34:43+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.336579+00:00"
-    },
-    {
-      "id": "7e37825fb53f",
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T15:08:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.336512+00:00"
-    },
-    {
-      "id": "ae02d5bda82c",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T15:30:52+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.336442+00:00"
-    },
-    {
-      "id": "9a1de941a4f8",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T17:07:13+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.336371+00:00"
-    },
-    {
-      "id": "4f7a500cee94",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T18:28:14+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.336296+00:00"
-    },
-    {
-      "id": "b377fa89f3ad",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T19:19:49+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.336206+00:00"
-    },
-    {
-      "id": "459413c05296",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T19:22:40+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.336100+00:00"
-    },
-    {
-      "id": "7261e6583d8e",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T20:14:39+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.336021+00:00"
-    },
-    {
-      "id": "539d991b17b1",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T21:13:24+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.335930+00:00"
-    },
-    {
-      "id": "36609b9396fd",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-13T09:00:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.263981+00:00"
-    },
-    {
-      "id": "b66fa57c04f1",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-13T10:00:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.263897+00:00"
-    },
-    {
-      "id": "3e500ccae6c7",
-      "title": "The builder’s guide to GPT‑5.6",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-13T11:00:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:03.263788+00:00"
-    },
-    {
-      "id": "bf18d69a0505",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-22T13:00:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:02.635240+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "cd8e20ce04a2",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T13:00:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:02.635118+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ed733c91dec4",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T13:00:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:02.635026+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "85f9e2233c0c",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T16:00:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:02.634928+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "657afebb011c",
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-13T16:45:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:02.634406+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b4d3a90f6379",
-      "title": "The AI Hype Index: Unsexy AI",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly ",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-07-29T08:42:57+00:00",
-      "scrapedAt": "2026-08-14T09:12:02.291862+00:00"
-    },
-    {
-      "id": "599ea52fc1f6",
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T09:00:00+00:00",
-      "scrapedAt": "2026-08-14T09:12:02.280756+00:00"
-    },
-    {
-      "id": "c22abf289983",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T13:41:10+00:00",
-      "scrapedAt": "2026-08-14T09:12:02.274100+00:00"
     }
   ]
 }
