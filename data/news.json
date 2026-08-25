@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-08-24T08:55:04.189147+00:00",
+  "lastUpdated": "2026-08-25T08:50:38.573733+00:00",
   "articles": [
+    {
+      "id": "5d0aa87479c9",
+      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+      "summary": "arXiv:2608.21382v1 Announce Type: new Abstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whet",
+      "url": "https://arxiv.org/abs/2608.21382",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-25T00:00:00-04:00",
+      "scrapedAt": "2026-08-25T08:49:43.372904+00:00"
+    },
+    {
+      "id": "3852a34f3f52",
+      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+      "summary": "arXiv:2608.21379v1 Announce Type: new Abstract: Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently exceeding those of the workin",
+      "url": "https://arxiv.org/abs/2608.21379",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-25T00:00:00-04:00",
+      "scrapedAt": "2026-08-25T08:49:43.372764+00:00"
+    },
+    {
+      "id": "36960dec84b1",
+      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+      "summary": "arXiv:2608.21375v1 Announce Type: new Abstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph ",
+      "url": "https://arxiv.org/abs/2608.21375",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-25T00:00:00-04:00",
+      "scrapedAt": "2026-08-25T08:49:43.372617+00:00"
+    },
+    {
+      "id": "0b0f7bda54df",
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+      "summary": "arXiv:2608.21374v1 Announce Type: new Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspect",
+      "url": "https://arxiv.org/abs/2608.21374",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-25T00:00:00-04:00",
+      "scrapedAt": "2026-08-25T08:49:43.372485+00:00"
+    },
+    {
+      "id": "4f649a9c1e66",
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "summary": "arXiv:2608.21372v1 Announce Type: new Abstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules fr",
+      "url": "https://arxiv.org/abs/2608.21372",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-25T00:00:00-04:00",
+      "scrapedAt": "2026-08-25T08:49:43.372369+00:00"
+    },
+    {
+      "id": "45b82df9d36a",
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "summary": "arXiv:2608.21366v1 Announce Type: new Abstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. T",
+      "url": "https://arxiv.org/abs/2608.21366",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-25T00:00:00-04:00",
+      "scrapedAt": "2026-08-25T08:49:43.372283+00:00"
+    },
+    {
+      "id": "b621fab07e50",
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "summary": "arXiv:2608.21363v1 Announce Type: new Abstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates ",
+      "url": "https://arxiv.org/abs/2608.21363",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-25T00:00:00-04:00",
+      "scrapedAt": "2026-08-25T08:49:43.372171+00:00"
+    },
+    {
+      "id": "975b40e027e8",
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "summary": "arXiv:2608.21362v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing p",
+      "url": "https://arxiv.org/abs/2608.21362",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-25T00:00:00-04:00",
+      "scrapedAt": "2026-08-25T08:49:43.372031+00:00"
+    },
+    {
+      "id": "aa2dd08ad7da",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T13:47:26+00:00",
+      "scrapedAt": "2026-08-25T08:49:42.671049+00:00"
+    },
+    {
+      "id": "e0099f0b8b45",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T15:00:00+00:00",
+      "scrapedAt": "2026-08-25T08:49:42.670976+00:00"
+    },
+    {
+      "id": "0565e9e7b154",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T15:24:18+00:00",
+      "scrapedAt": "2026-08-25T08:49:42.670902+00:00"
+    },
+    {
+      "id": "a34ef28c4aef",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T18:03:55+00:00",
+      "scrapedAt": "2026-08-25T08:49:42.670825+00:00"
+    },
+    {
+      "id": "7e3bc60a8a1a",
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T19:54:19+00:00",
+      "scrapedAt": "2026-08-25T08:49:42.670727+00:00"
+    },
+    {
+      "id": "894769239e7b",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T21:24:17+00:00",
+      "scrapedAt": "2026-08-25T08:49:42.670625+00:00"
+    },
+    {
+      "id": "32cda19d8db8",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-25T00:23:12+00:00",
+      "scrapedAt": "2026-08-25T08:49:42.670540+00:00"
+    },
+    {
+      "id": "b4f331f2e15c",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-24T12:00:00+00:00",
+      "scrapedAt": "2026-08-25T08:49:42.587158+00:00"
+    },
+    {
+      "id": "0c3e7b3f060b",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T09:00:00+00:00",
+      "scrapedAt": "2026-08-25T08:49:41.598669+00:00"
+    },
+    {
+      "id": "dc51f568c245",
+      "title": "What Flock’s defenders are missing",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Flock, the police-tech giant known for its network of some 12",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-17T19:16:09+00:00",
+      "scrapedAt": "2026-08-25T08:49:41.593212+00:00"
+    },
+    {
+      "id": "b781f4c498ae",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T09:00:00+00:00",
+      "scrapedAt": "2026-08-25T08:49:41.586477+00:00"
+    },
+    {
+      "id": "b11795f5f35f",
+      "title": "How to encourage smarter AI use in the classroom",
+      "summary": "This article is from Making AI Work , MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here . Chatbots took many schoo",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T14:20:19+00:00",
+      "scrapedAt": "2026-08-25T08:49:41.582195+00:00"
+    },
     {
       "id": "6c955ae531a4",
       "title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-08-18T10:06:43+00:00",
       "scrapedAt": "2026-08-19T08:43:21.736287+00:00"
-    },
-    {
-      "id": "eb19b3f62cdf",
-      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
-      "summary": "arXiv:2608.14566v1 Announce Type: new Abstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral value problem, i.e., whet",
-      "url": "https://arxiv.org/abs/2608.14566",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-18T00:00:00-04:00",
-      "scrapedAt": "2026-08-18T08:43:01.181876+00:00"
-    },
-    {
-      "id": "7e51d45af61b",
-      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
-      "summary": "arXiv:2608.14565v1 Announce Type: new Abstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and the regulation of genera",
-      "url": "https://arxiv.org/abs/2608.14565",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-18T00:00:00-04:00",
-      "scrapedAt": "2026-08-18T08:43:01.181818+00:00"
-    },
-    {
-      "id": "8047103b5158",
-      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
-      "summary": "arXiv:2608.14562v1 Announce Type: new Abstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertaint",
-      "url": "https://arxiv.org/abs/2608.14562",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-18T00:00:00-04:00",
-      "scrapedAt": "2026-08-18T08:43:01.181763+00:00"
-    },
-    {
-      "id": "e5498bb9dc54",
-      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
-      "summary": "arXiv:2608.14559v1 Announce Type: new Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing approa",
-      "url": "https://arxiv.org/abs/2608.14559",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-18T00:00:00-04:00",
-      "scrapedAt": "2026-08-18T08:43:01.181708+00:00"
-    },
-    {
-      "id": "49277d7addb9",
-      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-      "summary": "arXiv:2608.14558v1 Announce Type: new Abstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstra",
-      "url": "https://arxiv.org/abs/2608.14558",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-18T00:00:00-04:00",
-      "scrapedAt": "2026-08-18T08:43:01.181647+00:00"
-    },
-    {
-      "id": "76cf8dbe307f",
-      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-      "summary": "arXiv:2608.14552v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence ",
-      "url": "https://arxiv.org/abs/2608.14552",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-18T00:00:00-04:00",
-      "scrapedAt": "2026-08-18T08:43:01.181587+00:00"
-    },
-    {
-      "id": "8e91d5306db2",
-      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-      "summary": "arXiv:2608.14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. W",
-      "url": "https://arxiv.org/abs/2608.14550",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-18T00:00:00-04:00",
-      "scrapedAt": "2026-08-18T08:43:01.181496+00:00"
-    },
-    {
-      "id": "73672096953e",
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T13:10:05+00:00",
-      "scrapedAt": "2026-08-18T08:43:00.246486+00:00"
-    },
-    {
-      "id": "40a9816ea480",
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T15:16:24+00:00",
-      "scrapedAt": "2026-08-18T08:43:00.246454+00:00"
-    },
-    {
-      "id": "47e2b9845519",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T16:15:12+00:00",
-      "scrapedAt": "2026-08-18T08:43:00.246423+00:00"
-    },
-    {
-      "id": "897dfbe77af7",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T16:38:44+00:00",
-      "scrapedAt": "2026-08-18T08:43:00.246387+00:00"
-    },
-    {
-      "id": "5b8dbc23aeee",
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T21:27:05+00:00",
-      "scrapedAt": "2026-08-18T08:43:00.246352+00:00"
-    },
-    {
-      "id": "de8e9b90f004",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "summary": "The model maker added $18 billion in annualized revenue in two months.",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T23:56:26+00:00",
-      "scrapedAt": "2026-08-18T08:43:00.246299+00:00"
-    },
-    {
-      "id": "e5221d6f877f",
-      "title": "New policy ideas for the Intelligence Age",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-17T03:15:00+00:00",
-      "scrapedAt": "2026-08-18T08:43:00.077032+00:00"
-    },
-    {
-      "id": "a7860c437a7c",
-      "title": "OpenAI joins PORTS-Pike project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-17T05:00:00+00:00",
-      "scrapedAt": "2026-08-18T08:43:00.076996+00:00"
-    },
-    {
-      "id": "699d10e1c74c",
-      "title": "The Defender’s Window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-17T05:30:00+00:00",
-      "scrapedAt": "2026-08-18T08:43:00.076949+00:00"
-    },
-    {
-      "id": "6859719fca47",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 201",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-10T09:00:00+00:00",
-      "scrapedAt": "2026-08-18T08:42:59.326869+00:00"
-    },
-    {
-      "id": "20c95f3fe530",
-      "title": "AI for science needs reasoning, not just data",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-10T09:00:00+00:00",
-      "scrapedAt": "2026-08-18T08:42:59.325449+00:00"
-    },
-    {
-      "id": "0c3e7b3f060b",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T09:00:00+00:00",
-      "scrapedAt": "2026-08-18T08:42:59.320594+00:00"
-    },
-    {
-      "id": "dc51f568c245",
-      "title": "What Flock’s defenders are missing",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Flock, the police-tech giant known for its network of some 12",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T19:16:09+00:00",
-      "scrapedAt": "2026-08-18T08:42:59.317939+00:00"
     }
   ]
 }
