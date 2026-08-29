@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-08-28T20:08:08.051704+00:00",
+  "lastUpdated": "2026-08-29T13:45:43.043931+00:00",
   "articles": [
+    {
+      "id": "16175d62f322",
+      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
+      "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
+      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-28T10:56:22+00:00",
+      "scrapedAt": "2026-08-29T13:44:45.746460+00:00"
+    },
+    {
+      "id": "c3287505e1a5",
+      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
+      "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
+      "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-28T11:00:00+00:00",
+      "scrapedAt": "2026-08-29T13:44:45.746410+00:00"
+    },
+    {
+      "id": "f3019f0f502d",
+      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-28T15:00:00+00:00",
+      "scrapedAt": "2026-08-29T13:44:45.746354+00:00"
+    },
+    {
+      "id": "a220e1e92ffd",
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-29T10:00:00+00:00",
+      "scrapedAt": "2026-08-29T13:44:45.746302+00:00"
+    },
+    {
+      "id": "09e5073b81ef",
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-08-29T10:30:00+00:00",
+      "scrapedAt": "2026-08-29T13:44:45.746237+00:00"
+    },
+    {
+      "id": "3a0e75f05696",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get acc",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-26T17:36:06-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.604313+00:00"
+    },
+    {
+      "id": "b7930e814c4d",
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet h",
+      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-26T17:40:53-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.604025+00:00"
+    },
+    {
+      "id": "d0062e3b6e56",
+      "title": "Adobe is adding more AI to Photoshop",
+      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's ",
+      "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-27T09:00:00-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.603591+00:00"
+    },
+    {
+      "id": "61451b02ed4b",
+      "title": "Plaud is launching AI earbuds",
+      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin . The Plaud One Explorer Edition c",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-27T09:11:23-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.603344+00:00"
+    },
+    {
+      "id": "c3e8fc99833d",
+      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck , a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, l",
+      "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-27T09:44:00-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.603062+00:00"
+    },
+    {
+      "id": "94057effd7fa",
+      "title": "OpenAI&#8217;s executive exodus has one big winner",
+      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power un",
+      "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-27T10:00:00-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.602665+00:00"
+    },
+    {
+      "id": "a2ddac958ba4",
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-27T12:15:52-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.595152+00:00"
+    },
+    {
+      "id": "17d05cd48343",
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly",
+      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-27T15:30:00-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.594870+00:00"
+    },
+    {
+      "id": "3a080f6682cd",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-27T23:14:06-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.594539+00:00"
+    },
+    {
+      "id": "2180dceb2879",
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those cente",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-08-28T12:28:40-04:00",
+      "scrapedAt": "2026-08-29T13:44:45.594147+00:00"
+    },
+    {
+      "id": "f88a0fcca760",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-28T20:24:11+00:00",
+      "scrapedAt": "2026-08-29T13:44:44.784041+00:00"
+    },
+    {
+      "id": "e277e4a4618d",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-29T13:00:00+00:00",
+      "scrapedAt": "2026-08-29T13:44:44.783976+00:00"
+    },
+    {
+      "id": "57a3b900535e",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-28T06:00:00+00:00",
+      "scrapedAt": "2026-08-29T13:44:44.678460+00:00"
+    },
+    {
+      "id": "85f9e2233c0c",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-07-28T16:00:00+00:00",
+      "scrapedAt": "2026-08-29T13:44:44.080270+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "657afebb011c",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-13T16:45:00+00:00",
+      "scrapedAt": "2026-08-29T13:44:44.079963+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
+    },
     {
       "id": "0aeb29af4017",
       "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
@@ -1208,210 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-08-22T21:46:56+00:00",
       "scrapedAt": "2026-08-23T08:36:16.933657+00:00"
-    },
-    {
-      "id": "6edc23431654",
-      "title": "Meta AI is getting a Mac app",
-      "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta",
-      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-19T13:00:00-04:00",
-      "scrapedAt": "2026-08-22T08:35:48.928399+00:00"
-    },
-    {
-      "id": "b7c2fec452c0",
-      "title": "OpenAI hit the brakes. Now what?",
-      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes . On Tuesday, the",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-19T13:10:09-04:00",
-      "scrapedAt": "2026-08-22T08:35:48.928104+00:00"
-    },
-    {
-      "id": "dc3d81799698",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-19T15:00:00-04:00",
-      "scrapedAt": "2026-08-22T08:35:48.927808+00:00"
-    },
-    {
-      "id": "58939a4222a7",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-spe",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-20T08:00:00-04:00",
-      "scrapedAt": "2026-08-22T08:35:48.927535+00:00"
-    },
-    {
-      "id": "63a1c4c6a261",
-      "title": "Welcome to the AI crisis in math",
-      "summary": "Today on Decoder , I’m talking with Robert Hart, The Verge ’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are havin",
-      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-20T10:00:00-04:00",
-      "scrapedAt": "2026-08-22T08:35:48.927279+00:00"
-    },
-    {
-      "id": "c7fbc3b1617c",
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wides",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-20T11:45:55-04:00",
-      "scrapedAt": "2026-08-22T08:35:48.921802+00:00"
-    },
-    {
-      "id": "60d44502cd81",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature , rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak ",
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-20T17:50:22-04:00",
-      "scrapedAt": "2026-08-22T08:35:48.921551+00:00"
-    },
-    {
-      "id": "9cbe86a70078",
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "summary": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-21T09:37:52-04:00",
-      "scrapedAt": "2026-08-22T08:35:48.921293+00:00"
-    },
-    {
-      "id": "1cd4198d78c9",
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-21T17:25:50-04:00",
-      "scrapedAt": "2026-08-22T08:35:48.920810+00:00"
-    },
-    {
-      "id": "2128e60ca793",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-21T14:00:00+00:00",
-      "scrapedAt": "2026-08-22T08:35:48.542422+00:00"
-    },
-    {
-      "id": "f30a4a32fb60",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-21T14:00:00+00:00",
-      "scrapedAt": "2026-08-22T08:35:48.518391+00:00"
-    },
-    {
-      "id": "4af5149f16f9",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-21T19:43:39+00:00",
-      "scrapedAt": "2026-08-22T08:35:48.518345+00:00"
-    },
-    {
-      "id": "5a379d4f9d7f",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-21T22:37:38+00:00",
-      "scrapedAt": "2026-08-22T08:35:48.518296+00:00"
-    },
-    {
-      "id": "d7e3e6a3a485",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-21T23:07:25+00:00",
-      "scrapedAt": "2026-08-22T08:35:48.518234+00:00"
-    },
-    {
-      "id": "cd8e20ce04a2",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T13:00:00+00:00",
-      "scrapedAt": "2026-08-22T08:35:48.060872+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ed733c91dec4",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T13:00:00+00:00",
-      "scrapedAt": "2026-08-22T08:35:48.060817+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "85f9e2233c0c",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T16:00:00+00:00",
-      "scrapedAt": "2026-08-22T08:35:48.060758+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "657afebb011c",
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-13T16:45:00+00:00",
-      "scrapedAt": "2026-08-22T08:35:48.060483+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "599ea52fc1f6",
-      "title": "How kids feel about AI, in their own words",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T09:00:00+00:00",
-      "scrapedAt": "2026-08-22T08:35:47.748882+00:00"
-    },
-    {
-      "id": "c22abf289983",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-13T13:41:10+00:00",
-      "scrapedAt": "2026-08-22T08:35:47.745163+00:00"
     }
   ]
 }
