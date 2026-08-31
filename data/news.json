@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-08-30T13:43:27.136580+00:00",
+  "lastUpdated": "2026-08-31T16:02:47.353794+00:00",
   "articles": [
+    {
+      "id": "6be97e6b0394",
+      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+      "summary": "arXiv:2608.27512v1 Announce Type: new Abstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models. When a full-precision s",
+      "url": "https://arxiv.org/abs/2608.27512",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.280381+00:00"
+    },
+    {
+      "id": "160da37594f9",
+      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+      "summary": "arXiv:2608.27507v1 Announce Type: new Abstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameterized policies in replica",
+      "url": "https://arxiv.org/abs/2608.27507",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.280226+00:00"
+    },
+    {
+      "id": "dd78cec2c189",
+      "title": "Context Localization for Generalized Level-Based Evaluation in Knowledge-Based Systems",
+      "summary": "arXiv:2608.27482v1 Announce Type: new Abstract: We study context localization for generalized level-based evaluation in knowledge-based systems. The framework models situations where a structured nonn",
+      "url": "https://arxiv.org/abs/2608.27482",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.069416+00:00"
+    },
+    {
+      "id": "38abac219d37",
+      "title": "Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations",
+      "summary": "arXiv:2608.27480v1 Announce Type: new Abstract: Tea plantations are vulnerable to Postelectrotermes militaris, commonly known as the Upcountry Live Wood Termite (ULWT), which can cause substantial dam",
+      "url": "https://arxiv.org/abs/2608.27480",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.069312+00:00"
+    },
+    {
+      "id": "6f625b2137bf",
+      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
+      "summary": "arXiv:2608.27477v1 Announce Type: new Abstract: Graphical user interfaces have emerged as an important environment for evaluating autonomous AI agents on multimodal interactive tasks. Existing benchma",
+      "url": "https://arxiv.org/abs/2608.27477",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.069183+00:00"
+    },
+    {
+      "id": "ea288b94886f",
+      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
+      "summary": "arXiv:2608.27476v1 Announce Type: new Abstract: Heuristic search underlies planning in autonomous systems ranging from warehouse logistics to robotic navigation, yet generic heuristics fail to exploit",
+      "url": "https://arxiv.org/abs/2608.27476",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.069062+00:00"
+    },
+    {
+      "id": "0462202f718a",
+      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
+      "summary": "arXiv:2608.27475v1 Announce Type: new Abstract: Discovering PDEs in heterogeneous media requires jointly identifying the governing operator and the unknown spatial fields that parameterize it. These t",
+      "url": "https://arxiv.org/abs/2608.27475",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.068940+00:00"
+    },
+    {
+      "id": "13c7a0059a96",
+      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+      "summary": "arXiv:2608.27472v1 Announce Type: new Abstract: Bayesian network structure learning (BNSL) from observational data struggles with orientation identifiability, while large language models (LLMs) offer ",
+      "url": "https://arxiv.org/abs/2608.27472",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.068816+00:00"
+    },
+    {
+      "id": "5d348df81712",
+      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
+      "summary": "arXiv:2608.27471v1 Announce Type: new Abstract: Fallacies are arguments that employ invalid reasoning, making their automatic detection critical in sensitive contexts such as high-stakes political deb",
+      "url": "https://arxiv.org/abs/2608.27471",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.068690+00:00"
+    },
+    {
+      "id": "a93007c9b53b",
+      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+      "summary": "arXiv:2608.27464v1 Announce Type: new Abstract: This position paper argues that human-centered explainable AI (HCXAI) should incorporate insights from the psychology of information seeking. Drawing on",
+      "url": "https://arxiv.org/abs/2608.27464",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.068545+00:00"
+    },
+    {
+      "id": "340d6d2a8b4b",
+      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+      "summary": "arXiv:2608.27463v1 Announce Type: new Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Eac",
+      "url": "https://arxiv.org/abs/2608.27463",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.068427+00:00"
+    },
+    {
+      "id": "7a2290160795",
+      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+      "summary": "arXiv:2608.27459v1 Announce Type: new Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! cha",
+      "url": "https://arxiv.org/abs/2608.27459",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-08-31T00:00:00-04:00",
+      "scrapedAt": "2026-08-31T16:01:50.068292+00:00"
+    },
+    {
+      "id": "1bd5d5f60cc3",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat - AI",
+      "category": "product",
+      "publishedAt": "2026-01-19T14:00:00+00:00",
+      "scrapedAt": "2026-08-31T16:01:49.708025+00:00"
+    },
+    {
+      "id": "e4de3653e651",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-30T15:00:00+00:00",
+      "scrapedAt": "2026-08-31T16:01:49.307546+00:00"
+    },
+    {
+      "id": "d5dafdd78fb6",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-30T16:54:25+00:00",
+      "scrapedAt": "2026-08-31T16:01:49.307474+00:00"
+    },
+    {
+      "id": "c053743dc5a1",
+      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-31T02:34:00+00:00",
+      "scrapedAt": "2026-08-31T16:01:49.307392+00:00"
+    },
+    {
+      "id": "2b7c320d3fa0",
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-31T12:56:46+00:00",
+      "scrapedAt": "2026-08-31T16:01:49.307313+00:00"
+    },
+    {
+      "id": "70a677766176",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-31T15:15:25+00:00",
+      "scrapedAt": "2026-08-31T16:01:49.307232+00:00"
+    },
+    {
+      "id": "7aa1f68e6fa5",
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-31T04:00:00+00:00",
+      "scrapedAt": "2026-08-31T16:01:49.099517+00:00"
+    },
+    {
+      "id": "4b1422325725",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-17T08:00:00+00:00",
+      "scrapedAt": "2026-08-31T16:01:48.426145+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
+    },
     {
       "id": "8a90933f6766",
       "title": "Domain-Driven Agents",
@@ -1199,207 +1400,6 @@
       "category": "product",
       "publishedAt": "2026-08-24T14:20:19+00:00",
       "scrapedAt": "2026-08-25T08:49:41.582195+00:00"
-    },
-    {
-      "id": "6c955ae531a4",
-      "title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis",
-      "summary": "arXiv:2608.20343v1 Announce Type: new Abstract: This study develops and evaluates a bankruptcy prediction framework that integrates consensus-based feature selection, hybrid resampling, stacking ensem",
-      "url": "https://arxiv.org/abs/2608.20343",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.911425+00:00"
-    },
-    {
-      "id": "7a26da760b6d",
-      "title": "World models of environment, agent and joint agent-environment systems",
-      "summary": "arXiv:2608.20401v1 Announce Type: new Abstract: World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variables they predict, such as ",
-      "url": "https://arxiv.org/abs/2608.20401",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.748145+00:00"
-    },
-    {
-      "id": "764792427c08",
-      "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
-      "summary": "arXiv:2608.20400v1 Announce Type: new Abstract: Agentic memory under a fixed budget involves two stages: retention and retrieval. Existing retrieval-centered paradigms implicitly assume necessary evid",
-      "url": "https://arxiv.org/abs/2608.20400",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.748017+00:00"
-    },
-    {
-      "id": "2eda099aec7b",
-      "title": "Environmental Slow AI: Design Principles for Generative Systems",
-      "summary": "arXiv:2608.20398v1 Announce Type: new Abstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified,",
-      "url": "https://arxiv.org/abs/2608.20398",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.747916+00:00"
-    },
-    {
-      "id": "f6cac870d600",
-      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
-      "summary": "arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence l",
-      "url": "https://arxiv.org/abs/2608.20397",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.747806+00:00"
-    },
-    {
-      "id": "7561c83f0b73",
-      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
-      "summary": "arXiv:2608.20389v1 Announce Type: new Abstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this sel",
-      "url": "https://arxiv.org/abs/2608.20389",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.747666+00:00"
-    },
-    {
-      "id": "10ecf3421528",
-      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
-      "summary": "arXiv:2608.20384v1 Announce Type: new Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and",
-      "url": "https://arxiv.org/abs/2608.20384",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.747530+00:00"
-    },
-    {
-      "id": "7aa1fca3aebe",
-      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
-      "summary": "arXiv:2608.20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agen",
-      "url": "https://arxiv.org/abs/2608.20379",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.747393+00:00"
-    },
-    {
-      "id": "694221b1d2bb",
-      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-      "summary": "arXiv:2608.20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation",
-      "url": "https://arxiv.org/abs/2608.20378",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.747220+00:00"
-    },
-    {
-      "id": "289fa208da76",
-      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-      "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present P",
-      "url": "https://arxiv.org/abs/2608.20342",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.747084+00:00"
-    },
-    {
-      "id": "772cb01edc45",
-      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-      "summary": "arXiv:2608.20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Softw",
-      "url": "https://arxiv.org/abs/2608.20341",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-24T00:00:00-04:00",
-      "scrapedAt": "2026-08-24T08:54:09.746957+00:00"
-    },
-    {
-      "id": "a102a18a5efc",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-12T11:30:00+00:00",
-      "scrapedAt": "2026-08-24T08:54:09.404945+00:00"
-    },
-    {
-      "id": "db7ff708ed2f",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully pow",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-13T13:00:00+00:00",
-      "scrapedAt": "2026-08-24T08:54:09.401489+00:00"
-    },
-    {
-      "id": "ca731494b194",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-16T14:01:00+00:00",
-      "scrapedAt": "2026-08-24T08:54:09.397763+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-08-24T08:54:09.394615+00:00"
-    },
-    {
-      "id": "c058daa1dd11",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-23T15:00:00+00:00",
-      "scrapedAt": "2026-08-24T08:54:09.120920+00:00"
-    },
-    {
-      "id": "d26899ffdb40",
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-23T15:30:00+00:00",
-      "scrapedAt": "2026-08-24T08:54:09.120846+00:00"
-    },
-    {
-      "id": "fc3e349b3942",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-23T19:14:08+00:00",
-      "scrapedAt": "2026-08-24T08:54:09.120773+00:00"
-    },
-    {
-      "id": "be28f1428bf3",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-23T20:01:36+00:00",
-      "scrapedAt": "2026-08-24T08:54:09.120691+00:00"
-    },
-    {
-      "id": "4b1422325725",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-17T08:00:00+00:00",
-      "scrapedAt": "2026-08-24T08:54:08.401703+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
     }
   ]
 }
