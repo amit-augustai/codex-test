@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-08-31T16:02:47.353794+00:00",
+  "lastUpdated": "2026-09-01T13:22:48.103610+00:00",
   "articles": [
+    {
+      "id": "352bc4d66140",
+      "title": "RankShift: In-Database Detection and Explanation of Categorical Shifts",
+      "summary": "arXiv:2608.28922v1 Announce Type: new Abstract: A login service can receive its usual number of failed sign-ins while one source grows from 2% to 30% of them. The same pattern appears in system logs w",
+      "url": "https://arxiv.org/abs/2608.28922",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.887363+00:00"
+    },
+    {
+      "id": "9e9a1c444e7c",
+      "title": "SemKV: Semantic Mixed-Precision KV Cache Quantization Guided by the Quality Cliff for Long-Context LLM Inference",
+      "summary": "arXiv:2608.28911v1 Announce Type: new Abstract: The key-value (KV) cache is the dominant memory bottleneck of long-context large language model (LLM) inference, growing linearly with context length. W",
+      "url": "https://arxiv.org/abs/2608.28911",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.887243+00:00"
+    },
+    {
+      "id": "1aa36d9289e8",
+      "title": "Learning-Theoretic Foundation for General Coded Computing: The Straggler Setting",
+      "summary": "arXiv:2608.28910v1 Announce Type: new Abstract: Coded computing has emerged as a powerful paradigm for mitigating the impact of straggling workers in distributed computing systems. However, existing c",
+      "url": "https://arxiv.org/abs/2608.28910",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.887098+00:00"
+    },
+    {
+      "id": "e5fbbf6cc833",
+      "title": "Off-Policy Evaluation for Semantic ID Recommenders: Does the Model's Own Code Hierarchy Help?",
+      "summary": "arXiv:2608.28905v1 Announce Type: new Abstract: Generative recommenders increasingly emit semantic IDs (SIDs): each item is a short sequence of hierarchical discrete codes from a residual quantizer, d",
+      "url": "https://arxiv.org/abs/2608.28905",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.886953+00:00"
+    },
+    {
+      "id": "29be84e808f5",
+      "title": "Conservative Hybrid Graph Networks for Process Systems with Learned Routing",
+      "summary": "arXiv:2608.28896v1 Announce Type: new Abstract: Industrial process networks do not maintain a single effective topology while operating: streams are throttled or bypassed, and units move between idle,",
+      "url": "https://arxiv.org/abs/2608.28896",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.886833+00:00"
+    },
+    {
+      "id": "261133fc5c63",
+      "title": "The Halt Vector: Internalizing a Causal Steering Intervention for Efficient Reasoning",
+      "summary": "arXiv:2608.28859v1 Announce Type: new Abstract: Reasoning models do not stop when they know the answer. On DeepSeek-R1-Distill-Qwen-7B the chain of thought runs about twice as long as the model's own ",
+      "url": "https://arxiv.org/abs/2608.28859",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.886709+00:00"
+    },
+    {
+      "id": "6594ac98b753",
+      "title": "Equivariant Sheaf Neural Networks: Learning Geometric Transport on Graphs",
+      "summary": "arXiv:2608.28853v1 Announce Type: new Abstract: Equivariant graph neural networks provide a principled way to model geometric systems, but efficient first-order architectures remain limited in how vec",
+      "url": "https://arxiv.org/abs/2608.28853",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.886580+00:00"
+    },
+    {
+      "id": "f19021544d82",
+      "title": "Curvature Cryptanalysis of Smooth Transformer Feed-Forward Networks",
+      "summary": "arXiv:2608.28843v1 Announce Type: new Abstract: We show that smooth two-layer feed-forward networks (FFNs) expose an additional structural model extraction channel under a chosen-input raw-output orac",
+      "url": "https://arxiv.org/abs/2608.28843",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.886443+00:00"
+    },
+    {
+      "id": "98ce7686aabe",
+      "title": "Unsupervised Latent Space Alignment with Hyperspherical Geodesic Matching",
+      "summary": "arXiv:2608.28840v1 Announce Type: new Abstract: Independently trained neural networks tend to encode the same data with similar latent geometries. These latent geometries are not directly compatible, ",
+      "url": "https://arxiv.org/abs/2608.28840",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.886275+00:00"
+    },
+    {
+      "id": "b7e50ad64308",
+      "title": "ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning",
+      "summary": "arXiv:2608.28771v1 Announce Type: new Abstract: Large reasoning models achieve strong performance on complex tasks by generating extended chain-of-thought (CoT) traces via reinforcement learning with ",
+      "url": "https://arxiv.org/abs/2608.28771",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-01T00:00:00-04:00",
+      "scrapedAt": "2026-09-01T13:21:52.886089+00:00"
+    },
+    {
+      "id": "773b325bd3a6",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-31T16:00:00+00:00",
+      "scrapedAt": "2026-09-01T13:21:51.878986+00:00"
+    },
+    {
+      "id": "c24cafe65185",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-31T18:35:11+00:00",
+      "scrapedAt": "2026-09-01T13:21:51.878916+00:00"
+    },
+    {
+      "id": "72b2e2fa1025",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-31T19:16:59+00:00",
+      "scrapedAt": "2026-09-01T13:21:51.878840+00:00"
+    },
+    {
+      "id": "77b770af978c",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-08-31T20:13:45+00:00",
+      "scrapedAt": "2026-09-01T13:21:51.878765+00:00"
+    },
+    {
+      "id": "00adf4a54ce8",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-01T00:13:00+00:00",
+      "scrapedAt": "2026-09-01T13:21:51.878674+00:00"
+    },
+    {
+      "id": "6489dfdc164c",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "url": "https://openai.com/index/polimill",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-31T07:00:00+00:00",
+      "scrapedAt": "2026-09-01T13:21:51.825216+00:00"
+    },
+    {
+      "id": "7f3e9f8d83e8",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-31T07:00:00+00:00",
+      "scrapedAt": "2026-09-01T13:21:51.825104+00:00"
+    },
+    {
+      "id": "b781f4c498ae",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T09:00:00+00:00",
+      "scrapedAt": "2026-09-01T13:21:50.914286+00:00"
+    },
+    {
+      "id": "b11795f5f35f",
+      "title": "How to encourage smarter AI use in the classroom",
+      "summary": "This article is from Making AI Work , MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here . Chatbots took many schoo",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-24T14:20:19+00:00",
+      "scrapedAt": "2026-09-01T13:21:50.909845+00:00"
+    },
+    {
+      "id": "e985a8c11fb3",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . By now you’ve probably heard about last month’s major AI secu",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-31T18:00:00+00:00",
+      "scrapedAt": "2026-09-01T13:21:50.883688+00:00"
+    },
     {
       "id": "6be97e6b0394",
       "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
@@ -1200,206 +1400,6 @@
       "category": "product",
       "publishedAt": "2026-08-26T07:01:00+00:00",
       "scrapedAt": "2026-08-26T08:50:34.589371+00:00"
-    },
-    {
-      "id": "5d0aa87479c9",
-      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
-      "summary": "arXiv:2608.21382v1 Announce Type: new Abstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whet",
-      "url": "https://arxiv.org/abs/2608.21382",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-25T00:00:00-04:00",
-      "scrapedAt": "2026-08-25T08:49:43.372904+00:00"
-    },
-    {
-      "id": "3852a34f3f52",
-      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
-      "summary": "arXiv:2608.21379v1 Announce Type: new Abstract: Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently exceeding those of the workin",
-      "url": "https://arxiv.org/abs/2608.21379",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-25T00:00:00-04:00",
-      "scrapedAt": "2026-08-25T08:49:43.372764+00:00"
-    },
-    {
-      "id": "36960dec84b1",
-      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
-      "summary": "arXiv:2608.21375v1 Announce Type: new Abstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph ",
-      "url": "https://arxiv.org/abs/2608.21375",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-25T00:00:00-04:00",
-      "scrapedAt": "2026-08-25T08:49:43.372617+00:00"
-    },
-    {
-      "id": "0b0f7bda54df",
-      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
-      "summary": "arXiv:2608.21374v1 Announce Type: new Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspect",
-      "url": "https://arxiv.org/abs/2608.21374",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-25T00:00:00-04:00",
-      "scrapedAt": "2026-08-25T08:49:43.372485+00:00"
-    },
-    {
-      "id": "4f649a9c1e66",
-      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
-      "summary": "arXiv:2608.21372v1 Announce Type: new Abstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules fr",
-      "url": "https://arxiv.org/abs/2608.21372",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-25T00:00:00-04:00",
-      "scrapedAt": "2026-08-25T08:49:43.372369+00:00"
-    },
-    {
-      "id": "45b82df9d36a",
-      "title": "Reviewing Model Collapse and Countermeasures",
-      "summary": "arXiv:2608.21366v1 Announce Type: new Abstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. T",
-      "url": "https://arxiv.org/abs/2608.21366",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-25T00:00:00-04:00",
-      "scrapedAt": "2026-08-25T08:49:43.372283+00:00"
-    },
-    {
-      "id": "b621fab07e50",
-      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-      "summary": "arXiv:2608.21363v1 Announce Type: new Abstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates ",
-      "url": "https://arxiv.org/abs/2608.21363",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-25T00:00:00-04:00",
-      "scrapedAt": "2026-08-25T08:49:43.372171+00:00"
-    },
-    {
-      "id": "975b40e027e8",
-      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-      "summary": "arXiv:2608.21362v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing p",
-      "url": "https://arxiv.org/abs/2608.21362",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-25T00:00:00-04:00",
-      "scrapedAt": "2026-08-25T08:49:43.372031+00:00"
-    },
-    {
-      "id": "aa2dd08ad7da",
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
-      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T13:47:26+00:00",
-      "scrapedAt": "2026-08-25T08:49:42.671049+00:00"
-    },
-    {
-      "id": "e0099f0b8b45",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T15:00:00+00:00",
-      "scrapedAt": "2026-08-25T08:49:42.670976+00:00"
-    },
-    {
-      "id": "0565e9e7b154",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T15:24:18+00:00",
-      "scrapedAt": "2026-08-25T08:49:42.670902+00:00"
-    },
-    {
-      "id": "a34ef28c4aef",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T18:03:55+00:00",
-      "scrapedAt": "2026-08-25T08:49:42.670825+00:00"
-    },
-    {
-      "id": "7e3bc60a8a1a",
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T19:54:19+00:00",
-      "scrapedAt": "2026-08-25T08:49:42.670727+00:00"
-    },
-    {
-      "id": "894769239e7b",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T21:24:17+00:00",
-      "scrapedAt": "2026-08-25T08:49:42.670625+00:00"
-    },
-    {
-      "id": "32cda19d8db8",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-25T00:23:12+00:00",
-      "scrapedAt": "2026-08-25T08:49:42.670540+00:00"
-    },
-    {
-      "id": "b4f331f2e15c",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-24T12:00:00+00:00",
-      "scrapedAt": "2026-08-25T08:49:42.587158+00:00"
-    },
-    {
-      "id": "0c3e7b3f060b",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T09:00:00+00:00",
-      "scrapedAt": "2026-08-25T08:49:41.598669+00:00"
-    },
-    {
-      "id": "dc51f568c245",
-      "title": "What Flock’s defenders are missing",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Flock, the police-tech giant known for its network of some 12",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-17T19:16:09+00:00",
-      "scrapedAt": "2026-08-25T08:49:41.593212+00:00"
-    },
-    {
-      "id": "b781f4c498ae",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T09:00:00+00:00",
-      "scrapedAt": "2026-08-25T08:49:41.586477+00:00"
-    },
-    {
-      "id": "b11795f5f35f",
-      "title": "How to encourage smarter AI use in the classroom",
-      "summary": "This article is from Making AI Work , MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here . Chatbots took many schoo",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T14:20:19+00:00",
-      "scrapedAt": "2026-08-25T08:49:41.582195+00:00"
     }
   ]
 }
