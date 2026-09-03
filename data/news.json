@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-09-02T12:41:25.318912+00:00",
+  "lastUpdated": "2026-09-03T12:44:16.498602+00:00",
   "articles": [
+    {
+      "id": "c0e43e8b4cc0",
+      "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+      "summary": "arXiv:2609.01849v1 Announce Type: new Abstract: This article presents SSAKG 2.0, an open-source software package for constructing and operating Structural Sequential Associative Knowledge Graphs (SSAK",
+      "url": "https://arxiv.org/abs/2609.01849",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-03T00:00:00-04:00",
+      "scrapedAt": "2026-09-03T12:43:21.558491+00:00"
+    },
+    {
+      "id": "1cd882710d31",
+      "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+      "summary": "arXiv:2609.01834v1 Announce Type: new Abstract: As enterprise platforms transition to conversational reasoning interfaces, the stateless nature of LLM APIs creates an architectural gap. While stateles",
+      "url": "https://arxiv.org/abs/2609.01834",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-03T00:00:00-04:00",
+      "scrapedAt": "2026-09-03T12:43:21.558377+00:00"
+    },
+    {
+      "id": "c3fb522a06f8",
+      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+      "summary": "arXiv:2609.01815v1 Announce Type: new Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. An",
+      "url": "https://arxiv.org/abs/2609.01815",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-03T00:00:00-04:00",
+      "scrapedAt": "2026-09-03T12:43:21.558299+00:00"
+    },
+    {
+      "id": "b0bb92000cb3",
+      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+      "summary": "arXiv:2609.01814v1 Announce Type: new Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite disco",
+      "url": "https://arxiv.org/abs/2609.01814",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-03T00:00:00-04:00",
+      "scrapedAt": "2026-09-03T12:43:21.558188+00:00"
+    },
+    {
+      "id": "392c6af48026",
+      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "summary": "arXiv:2609.01741v1 Announce Type: new Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extrac",
+      "url": "https://arxiv.org/abs/2609.01741",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-03T00:00:00-04:00",
+      "scrapedAt": "2026-09-03T12:43:21.558082+00:00"
+    },
+    {
+      "id": "8843dc819e4d",
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "summary": "arXiv:2609.01685v1 Announce Type: new Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may ",
+      "url": "https://arxiv.org/abs/2609.01685",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-03T00:00:00-04:00",
+      "scrapedAt": "2026-09-03T12:43:21.557973+00:00"
+    },
+    {
+      "id": "d572611aa301",
+      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "summary": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave different",
+      "url": "https://arxiv.org/abs/2609.01611",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-03T00:00:00-04:00",
+      "scrapedAt": "2026-09-03T12:43:21.557829+00:00"
+    },
+    {
+      "id": "bf628eb62ed9",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T16:01:48+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.027434+00:00"
+    },
+    {
+      "id": "6a8c3da4a5c8",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T16:04:10+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.027380+00:00"
+    },
+    {
+      "id": "241155a602d3",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" t",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T17:09:06+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.027324+00:00"
+    },
+    {
+      "id": "eb7ca637d5cd",
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews",
+      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T17:09:57+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.027258+00:00"
+    },
+    {
+      "id": "b567a13a8234",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T17:18:13+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.027133+00:00"
+    },
+    {
+      "id": "373be5400612",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T20:19:14+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.027007+00:00"
+    },
+    {
+      "id": "7ae55826cb10",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T22:24:09+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.026945+00:00"
+    },
+    {
+      "id": "ef03c3a5f159",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T22:44:56+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.026873+00:00"
+    },
+    {
+      "id": "7bd6a782670d",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T23:01:00+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.026809+00:00"
+    },
+    {
+      "id": "8c1744a63c35",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-03T12:42:45+00:00",
+      "scrapedAt": "2026-09-03T12:43:21.026723+00:00"
+    },
+    {
+      "id": "21f8b896917e",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-02T12:00:00+00:00",
+      "scrapedAt": "2026-09-03T12:43:20.957931+00:00"
+    },
+    {
+      "id": "9fef7b06147a",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-02T15:40:00+00:00",
+      "scrapedAt": "2026-09-03T12:43:20.424653+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c0e30f013c2a",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-02T14:00:00+00:00",
+      "scrapedAt": "2026-09-03T12:43:20.160582+00:00"
+    },
     {
       "id": "fd6ea7e03b18",
       "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
