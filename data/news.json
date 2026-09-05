@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-09-04T12:38:08.009292+00:00",
+  "lastUpdated": "2026-09-05T11:46:14.338006+00:00",
   "articles": [
+    {
+      "id": "b53a6cba2209",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-05T07:15:55-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.930765+00:00"
+    },
+    {
+      "id": "b42f99c0f6bb",
+      "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+      "summary": "arXiv:2609.03460v1 Announce Type: new Abstract: As generative AI makes polished prose cheap to produce, users can no longer rely on fluency as a proxy for truth. We call this failure mode the Fluency ",
+      "url": "https://arxiv.org/abs/2609.03460",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-05T00:00:00-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.785634+00:00"
+    },
+    {
+      "id": "776244ff7243",
+      "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+      "summary": "arXiv:2609.03438v1 Announce Type: new Abstract: Graphical user interface (GUI) agents are increasingly used to execute natural-language instructions on user interfaces, yet real users may issue infeas",
+      "url": "https://arxiv.org/abs/2609.03438",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-05T00:00:00-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.785562+00:00"
+    },
+    {
+      "id": "136b9d188c88",
+      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+      "summary": "arXiv:2609.03423v1 Announce Type: new Abstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing be",
+      "url": "https://arxiv.org/abs/2609.03423",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-05T00:00:00-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.785481+00:00"
+    },
+    {
+      "id": "7f17222f018b",
+      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+      "summary": "arXiv:2609.03416v1 Announce Type: new Abstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capabili",
+      "url": "https://arxiv.org/abs/2609.03416",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-05T00:00:00-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.785387+00:00"
+    },
+    {
+      "id": "fd5289cbd498",
+      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+      "summary": "arXiv:2609.03407v1 Announce Type: new Abstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory",
+      "url": "https://arxiv.org/abs/2609.03407",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-05T00:00:00-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.785314+00:00"
+    },
+    {
+      "id": "525065a60934",
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "summary": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited pe",
+      "url": "https://arxiv.org/abs/2609.03402",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-05T00:00:00-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.785233+00:00"
+    },
+    {
+      "id": "591ed7b3a798",
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "summary": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, a",
+      "url": "https://arxiv.org/abs/2609.03340",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-05T00:00:00-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.785141+00:00"
+    },
+    {
+      "id": "1f4bc90a91cb",
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment ",
+      "url": "https://arxiv.org/abs/2609.03236",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-05T00:00:00-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.785064+00:00"
+    },
+    {
+      "id": "0b564610b46f",
+      "title": "MasterControl Seventeen Every Time",
+      "summary": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approv",
+      "url": "https://arxiv.org/abs/2609.03209",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-05T00:00:00-04:00",
+      "scrapedAt": "2026-09-05T11:45:18.784974+00:00"
+    },
+    {
+      "id": "c21a7a0108f1",
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T14:00:00+00:00",
+      "scrapedAt": "2026-09-05T11:45:18.287949+00:00"
+    },
+    {
+      "id": "8455d4164fce",
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T14:47:11+00:00",
+      "scrapedAt": "2026-09-05T11:45:18.287904+00:00"
+    },
+    {
+      "id": "08f462902e18",
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing ",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T16:04:08+00:00",
+      "scrapedAt": "2026-09-05T11:45:18.287855+00:00"
+    },
+    {
+      "id": "718826050bb2",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T16:21:11+00:00",
+      "scrapedAt": "2026-09-05T11:45:18.287751+00:00"
+    },
+    {
+      "id": "eb999a1a327a",
+      "title": "What will Apple’s John Ternus era look like?",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing ",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T17:18:00+00:00",
+      "scrapedAt": "2026-09-05T11:45:18.287703+00:00"
+    },
+    {
+      "id": "e160d21430ae",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T21:12:11+00:00",
+      "scrapedAt": "2026-09-05T11:45:18.287580+00:00"
+    },
+    {
+      "id": "2180a1fa6f13",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T23:15:11+00:00",
+      "scrapedAt": "2026-09-05T11:45:18.287529+00:00"
+    },
+    {
+      "id": "f48898262d8e",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T23:36:14+00:00",
+      "scrapedAt": "2026-09-05T11:45:18.287463+00:00"
+    },
+    {
+      "id": "8b954ea26b8f",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-03T11:00:00+00:00",
+      "scrapedAt": "2026-09-05T11:45:18.217161+00:00"
+    },
+    {
+      "id": "c540530472dc",
+      "title": "Architecting memory and storage in the AI era",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T18:39:19+00:00",
+      "scrapedAt": "2026-09-05T11:45:17.202811+00:00"
+    },
     {
       "id": "ce45dff6944f",
       "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
@@ -1401,208 +1601,6 @@
       "publishedAt": "2026-08-13T16:45:00+00:00",
       "scrapedAt": "2026-08-29T13:44:44.079963+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "0aeb29af4017",
-      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "summary": "arXiv:2608.26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric ",
-      "url": "https://arxiv.org/abs/2608.26111",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-28T00:00:00-04:00",
-      "scrapedAt": "2026-08-28T20:07:09.168247+00:00"
-    },
-    {
-      "id": "cb16546612ea",
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "summary": "arXiv:2608.26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bed",
-      "url": "https://arxiv.org/abs/2608.26109",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-28T00:00:00-04:00",
-      "scrapedAt": "2026-08-28T20:07:09.168106+00:00"
-    },
-    {
-      "id": "a91b8dea84a4",
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "summary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. Ho",
-      "url": "https://arxiv.org/abs/2608.26107",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-28T00:00:00-04:00",
-      "scrapedAt": "2026-08-28T20:07:09.167951+00:00"
-    },
-    {
-      "id": "e670024b9a32",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fund",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-22T14:00:00+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.768422+00:00"
-    },
-    {
-      "id": "e7785d8c77e3",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-05-19T17:45:00+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.765276+00:00"
-    },
-    {
-      "id": "f8a8e90f0b14",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-08-19T14:18:12+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.762315+00:00"
-    },
-    {
-      "id": "c6f5e02f3dc5",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-08-26T14:30:00+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.761423+00:00"
-    },
-    {
-      "id": "b6edaf7b0dd8",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every ar",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T12:01:00+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.759931+00:00"
-    },
-    {
-      "id": "975b7811b08d",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it ",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T14:01:00+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.758007+00:00"
-    },
-    {
-      "id": "360e66b5f807",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T19:52:52+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.341776+00:00"
-    },
-    {
-      "id": "3c75e284d829",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T23:16:45+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.341712+00:00"
-    },
-    {
-      "id": "354d791d28ec",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-28T12:21:06+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.341647+00:00"
-    },
-    {
-      "id": "0a012eb5128e",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-28T12:46:12+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.341580+00:00"
-    },
-    {
-      "id": "f019f50bce19",
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-28T18:19:40+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.341511+00:00"
-    },
-    {
-      "id": "24c26e96ef00",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-28T19:30:38+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.341438+00:00"
-    },
-    {
-      "id": "8a2a589ad996",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-28T02:00:00+00:00",
-      "scrapedAt": "2026-08-28T20:07:08.139367+00:00"
-    },
-    {
-      "id": "3ce791ab7446",
-      "title": "Inside our 353,000-person vibe coding course",
-      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-03T15:00:00+00:00",
-      "scrapedAt": "2026-08-28T20:07:07.406420+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "34a7f3824c27",
-      "title": "The latest AI news we announced in July 2026",
-      "summary": "Here are Google’s latest AI updates from July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-04T13:00:00+00:00",
-      "scrapedAt": "2026-08-28T20:07:07.406318+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "546c18a8a2cd",
-      "title": "Unlocking hidden revenue streams with market models",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-20T09:47:22+00:00",
-      "scrapedAt": "2026-08-28T20:07:07.083314+00:00"
-    },
-    {
-      "id": "5e86b723ff64",
-      "title": "Debates over AI consciousness are a trap",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-20T15:42:39+00:00",
-      "scrapedAt": "2026-08-28T20:07:07.082566+00:00"
     }
   ]
 }
