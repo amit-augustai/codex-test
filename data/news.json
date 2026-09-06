@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-09-05T11:46:14.338006+00:00",
+  "lastUpdated": "2026-09-06T12:03:59.208077+00:00",
   "articles": [
+    {
+      "id": "1138b26f1d7e",
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-03T21:48:24+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.954010+00:00"
+    },
+    {
+      "id": "d625c42542ca",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-03T21:56:21+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.953932+00:00"
+    },
+    {
+      "id": "0c44246f8167",
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T10:00:00+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.953833+00:00"
+    },
+    {
+      "id": "57499e35125e",
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+      "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T15:00:00+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.953759+00:00"
+    },
+    {
+      "id": "b5a0739254fc",
+      "title": "OpenAI Agents Hacked Another Website",
+      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-05T10:30:00+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.953689+00:00"
+    },
+    {
+      "id": "f87265b96c88",
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-06T10:00:00+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.953609+00:00"
+    },
+    {
+      "id": "d6b7b8227bdf",
+      "title": "My Brief Summer Fling With Siri AI",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-06T10:30:00+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.953520+00:00"
+    },
+    {
+      "id": "a94dc4fdbbc2",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-03T14:00:00-04:00",
+      "scrapedAt": "2026-09-06T12:03:04.842210+00:00"
+    },
+    {
+      "id": "c372c8e22aea",
+      "title": "This NAS company wants to run your local smart home",
+      "summary": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge Ugreen, known for its pho",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T05:41:44-04:00",
+      "scrapedAt": "2026-09-06T12:03:04.841817+00:00"
+    },
+    {
+      "id": "2992c87ac03e",
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra , CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T06:41:48-04:00",
+      "scrapedAt": "2026-09-06T12:03:04.841475+00:00"
+    },
+    {
+      "id": "9a19ccf0dc08",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this ",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T06:44:15-04:00",
+      "scrapedAt": "2026-09-06T12:03:04.840979+00:00"
+    },
+    {
+      "id": "a1f8e8245fb7",
+      "title": "Why AI food looks like that",
+      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T07:00:00-04:00",
+      "scrapedAt": "2026-09-06T12:03:04.840560+00:00"
+    },
+    {
+      "id": "2c21bf3be6b3",
+      "title": "Instagram’s AI detection is a mess (again)",
+      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T08:00:00-04:00",
+      "scrapedAt": "2026-09-06T12:03:04.839656+00:00"
+    },
+    {
+      "id": "c58f9bdfc3e7",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T09:34:12-04:00",
+      "scrapedAt": "2026-09-06T12:03:04.839280+00:00"
+    },
+    {
+      "id": "38b7d6c16f55",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it",
+      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T12:05:57-04:00",
+      "scrapedAt": "2026-09-06T12:03:04.838813+00:00"
+    },
+    {
+      "id": "9fcc97373950",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "summary": "It's not quite the \"push button; get song\" of Suno , but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DA",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T13:51:35-04:00",
+      "scrapedAt": "2026-09-06T12:03:04.838366+00:00"
+    },
+    {
+      "id": "669fdcb55695",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-05T18:05:27+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.374257+00:00"
+    },
+    {
+      "id": "f774e48a95a8",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-05T19:35:24+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.374185+00:00"
+    },
+    {
+      "id": "8a7e0f31a983",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-05T22:49:55+00:00",
+      "scrapedAt": "2026-09-06T12:03:04.374095+00:00"
+    },
+    {
+      "id": "657afebb011c",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-13T16:45:00+00:00",
+      "scrapedAt": "2026-09-06T12:03:03.608080+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
+    },
     {
       "id": "b53a6cba2209",
       "title": "OpenAI admits to German wiki ‘incident’",
@@ -1399,208 +1600,6 @@
       "category": "product",
       "publishedAt": "2026-08-29T18:41:59+00:00",
       "scrapedAt": "2026-08-30T13:42:35.329819+00:00"
-    },
-    {
-      "id": "16175d62f322",
-      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
-      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-28T10:56:22+00:00",
-      "scrapedAt": "2026-08-29T13:44:45.746460+00:00"
-    },
-    {
-      "id": "c3287505e1a5",
-      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-      "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-      "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-28T11:00:00+00:00",
-      "scrapedAt": "2026-08-29T13:44:45.746410+00:00"
-    },
-    {
-      "id": "f3019f0f502d",
-      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-28T15:00:00+00:00",
-      "scrapedAt": "2026-08-29T13:44:45.746354+00:00"
-    },
-    {
-      "id": "a220e1e92ffd",
-      "title": "How to Run a Chatbot on Your Own Computer",
-      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
-      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-29T10:00:00+00:00",
-      "scrapedAt": "2026-08-29T13:44:45.746302+00:00"
-    },
-    {
-      "id": "09e5073b81ef",
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-08-29T10:30:00+00:00",
-      "scrapedAt": "2026-08-29T13:44:45.746237+00:00"
-    },
-    {
-      "id": "3a0e75f05696",
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get acc",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-26T17:36:06-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.604313+00:00"
-    },
-    {
-      "id": "b7930e814c4d",
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet h",
-      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-26T17:40:53-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.604025+00:00"
-    },
-    {
-      "id": "d0062e3b6e56",
-      "title": "Adobe is adding more AI to Photoshop",
-      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's ",
-      "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T09:00:00-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.603591+00:00"
-    },
-    {
-      "id": "61451b02ed4b",
-      "title": "Plaud is launching AI earbuds",
-      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin . The Plaud One Explorer Edition c",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T09:11:23-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.603344+00:00"
-    },
-    {
-      "id": "c3e8fc99833d",
-      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck , a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, l",
-      "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T09:44:00-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.603062+00:00"
-    },
-    {
-      "id": "94057effd7fa",
-      "title": "OpenAI&#8217;s executive exodus has one big winner",
-      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power un",
-      "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T10:00:00-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.602665+00:00"
-    },
-    {
-      "id": "a2ddac958ba4",
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T12:15:52-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.595152+00:00"
-    },
-    {
-      "id": "17d05cd48343",
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly",
-      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T15:30:00-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.594870+00:00"
-    },
-    {
-      "id": "3a080f6682cd",
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-27T23:14:06-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.594539+00:00"
-    },
-    {
-      "id": "2180dceb2879",
-      "title": "Trump’s EPA wants to let data centers hide their air pollution",
-      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those cente",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-08-28T12:28:40-04:00",
-      "scrapedAt": "2026-08-29T13:44:45.594147+00:00"
-    },
-    {
-      "id": "f88a0fcca760",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-28T20:24:11+00:00",
-      "scrapedAt": "2026-08-29T13:44:44.784041+00:00"
-    },
-    {
-      "id": "e277e4a4618d",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-29T13:00:00+00:00",
-      "scrapedAt": "2026-08-29T13:44:44.783976+00:00"
-    },
-    {
-      "id": "57a3b900535e",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-28T06:00:00+00:00",
-      "scrapedAt": "2026-08-29T13:44:44.678460+00:00"
-    },
-    {
-      "id": "85f9e2233c0c",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-07-28T16:00:00+00:00",
-      "scrapedAt": "2026-08-29T13:44:44.080270+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "657afebb011c",
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-13T16:45:00+00:00",
-      "scrapedAt": "2026-08-29T13:44:44.079963+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
     }
   ]
 }
