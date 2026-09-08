@@ -1,6 +1,177 @@
 {
-  "lastUpdated": "2026-09-07T14:08:54.060167+00:00",
+  "lastUpdated": "2026-09-08T12:47:29.848555+00:00",
   "articles": [
+    {
+      "id": "8af7cab57e13",
+      "title": "Codex on GPT6 Astra Low launched a rocket into space in Factorio Space Age 2.1",
+      "summary": "Score: 8 points",
+      "url": "https://www.reddit.com/r/codex/comments/1wakicq/codex_on_gpt6_astra_low_tonight_launched_a_rocket/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-08T11:35:08+00:00",
+      "scrapedAt": "2026-09-08T12:46:44.556978+00:00"
+    },
+    {
+      "id": "17360fb73b95",
+      "title": "Show HN: Jigsaw Haiku",
+      "summary": "Hi HN! Jigsaw Haiku was originally designed with my puzzles site The Daily Baffle (<a href=\"https:&#x2F;&#x2F;dailybaffle.com\" rel=\"nofollow\">https:&#x2F;&#x2F;dailybaffle.com</a>) in mind. But once I",
+      "url": "https://jigsawhaiku.com/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-04T18:14:44+00:00",
+      "scrapedAt": "2026-09-08T12:46:43.004115+00:00"
+    },
+    {
+      "id": "6b6cf87e682f",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "summary": "Score: 222 points",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-05T11:25:18+00:00",
+      "scrapedAt": "2026-09-08T12:46:42.544376+00:00"
+    },
+    {
+      "id": "ce2ce4be9b23",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "summary": "Score: 46 points",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-08T04:36:26+00:00",
+      "scrapedAt": "2026-09-08T12:46:42.315967+00:00"
+    },
+    {
+      "id": "afdace39e749",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "summary": "Score: 75 points",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-08T05:20:23+00:00",
+      "scrapedAt": "2026-09-08T12:46:41.925174+00:00"
+    },
+    {
+      "id": "6c5e5e6a3ac8",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "summary": "Score: 57 points",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-08T04:06:20+00:00",
+      "scrapedAt": "2026-09-08T12:46:41.464844+00:00"
+    },
+    {
+      "id": "fca2a8ea8968",
+      "title": "Mistral raises €3B",
+      "summary": "Score: 599 points",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-08T05:06:23+00:00",
+      "scrapedAt": "2026-09-08T12:46:41.311530+00:00"
+    },
+    {
+      "id": "61d9d14be9d4",
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "summary": "Score: 23 points",
+      "url": "https://docs.appliedcompute.com",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-04T21:25:49+00:00",
+      "scrapedAt": "2026-09-08T12:46:41.234006+00:00"
+    },
+    {
+      "id": "dbba5b39e810",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "summary": "Score: 250 points",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-08T01:57:23+00:00",
+      "scrapedAt": "2026-09-08T12:46:41.001509+00:00"
+    },
+    {
+      "id": "9a1ff63edc0b",
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "summary": "Score: 83 points",
+      "url": "https://vale.rocks/posts/html-relics",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-09-08T09:43:14+00:00",
+      "scrapedAt": "2026-09-08T12:46:40.688434+00:00"
+    },
+    {
+      "id": "b1a49d842e91",
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
+      "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-03T16:42:40+00:00",
+      "scrapedAt": "2026-09-08T12:46:40.193859+00:00"
+    },
+    {
+      "id": "cf59892fa8b2",
+      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+      "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-03T18:06:24+00:00",
+      "scrapedAt": "2026-09-08T12:46:40.193786+00:00"
+    },
+    {
+      "id": "90ecb481988e",
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-07T10:30:00+00:00",
+      "scrapedAt": "2026-09-08T12:46:40.193191+00:00"
+    },
+    {
+      "id": "c6a48e7fbd07",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-06T19:36:04-04:00",
+      "scrapedAt": "2026-09-08T12:46:40.115346+00:00"
+    },
+    {
+      "id": "a91b380c0f01",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-07T19:24:00+00:00",
+      "scrapedAt": "2026-09-08T12:46:39.789570+00:00"
+    },
+    {
+      "id": "4b1422325725",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-17T08:00:00+00:00",
+      "scrapedAt": "2026-09-08T12:46:39.103241+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "f4a18652fbac",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only ",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-08T10:34:00+00:00",
+      "scrapedAt": "2026-09-08T12:46:38.671786+00:00"
+    },
     {
       "id": "003ef1158031",
       "title": "Evaluating Large Language Models for Forced Outage Risk Prediction: Benefits and Comparison to Machine Learning",
@@ -1409,207 +1580,6 @@
       "category": "product",
       "publishedAt": "2026-08-31T18:00:00+00:00",
       "scrapedAt": "2026-09-01T13:21:50.883688+00:00"
-    },
-    {
-      "id": "6be97e6b0394",
-      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
-      "summary": "arXiv:2608.27512v1 Announce Type: new Abstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models. When a full-precision s",
-      "url": "https://arxiv.org/abs/2608.27512",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.280381+00:00"
-    },
-    {
-      "id": "160da37594f9",
-      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
-      "summary": "arXiv:2608.27507v1 Announce Type: new Abstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameterized policies in replica",
-      "url": "https://arxiv.org/abs/2608.27507",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.280226+00:00"
-    },
-    {
-      "id": "dd78cec2c189",
-      "title": "Context Localization for Generalized Level-Based Evaluation in Knowledge-Based Systems",
-      "summary": "arXiv:2608.27482v1 Announce Type: new Abstract: We study context localization for generalized level-based evaluation in knowledge-based systems. The framework models situations where a structured nonn",
-      "url": "https://arxiv.org/abs/2608.27482",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.069416+00:00"
-    },
-    {
-      "id": "38abac219d37",
-      "title": "Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations",
-      "summary": "arXiv:2608.27480v1 Announce Type: new Abstract: Tea plantations are vulnerable to Postelectrotermes militaris, commonly known as the Upcountry Live Wood Termite (ULWT), which can cause substantial dam",
-      "url": "https://arxiv.org/abs/2608.27480",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.069312+00:00"
-    },
-    {
-      "id": "6f625b2137bf",
-      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
-      "summary": "arXiv:2608.27477v1 Announce Type: new Abstract: Graphical user interfaces have emerged as an important environment for evaluating autonomous AI agents on multimodal interactive tasks. Existing benchma",
-      "url": "https://arxiv.org/abs/2608.27477",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.069183+00:00"
-    },
-    {
-      "id": "ea288b94886f",
-      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
-      "summary": "arXiv:2608.27476v1 Announce Type: new Abstract: Heuristic search underlies planning in autonomous systems ranging from warehouse logistics to robotic navigation, yet generic heuristics fail to exploit",
-      "url": "https://arxiv.org/abs/2608.27476",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.069062+00:00"
-    },
-    {
-      "id": "0462202f718a",
-      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
-      "summary": "arXiv:2608.27475v1 Announce Type: new Abstract: Discovering PDEs in heterogeneous media requires jointly identifying the governing operator and the unknown spatial fields that parameterize it. These t",
-      "url": "https://arxiv.org/abs/2608.27475",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.068940+00:00"
-    },
-    {
-      "id": "13c7a0059a96",
-      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
-      "summary": "arXiv:2608.27472v1 Announce Type: new Abstract: Bayesian network structure learning (BNSL) from observational data struggles with orientation identifiability, while large language models (LLMs) offer ",
-      "url": "https://arxiv.org/abs/2608.27472",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.068816+00:00"
-    },
-    {
-      "id": "5d348df81712",
-      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
-      "summary": "arXiv:2608.27471v1 Announce Type: new Abstract: Fallacies are arguments that employ invalid reasoning, making their automatic detection critical in sensitive contexts such as high-stakes political deb",
-      "url": "https://arxiv.org/abs/2608.27471",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.068690+00:00"
-    },
-    {
-      "id": "a93007c9b53b",
-      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
-      "summary": "arXiv:2608.27464v1 Announce Type: new Abstract: This position paper argues that human-centered explainable AI (HCXAI) should incorporate insights from the psychology of information seeking. Drawing on",
-      "url": "https://arxiv.org/abs/2608.27464",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.068545+00:00"
-    },
-    {
-      "id": "340d6d2a8b4b",
-      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
-      "summary": "arXiv:2608.27463v1 Announce Type: new Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Eac",
-      "url": "https://arxiv.org/abs/2608.27463",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.068427+00:00"
-    },
-    {
-      "id": "7a2290160795",
-      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
-      "summary": "arXiv:2608.27459v1 Announce Type: new Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! cha",
-      "url": "https://arxiv.org/abs/2608.27459",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-08-31T00:00:00-04:00",
-      "scrapedAt": "2026-08-31T16:01:50.068292+00:00"
-    },
-    {
-      "id": "1bd5d5f60cc3",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured th",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat - AI",
-      "category": "product",
-      "publishedAt": "2026-01-19T14:00:00+00:00",
-      "scrapedAt": "2026-08-31T16:01:49.708025+00:00"
-    },
-    {
-      "id": "e4de3653e651",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-30T15:00:00+00:00",
-      "scrapedAt": "2026-08-31T16:01:49.307546+00:00"
-    },
-    {
-      "id": "d5dafdd78fb6",
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg",
-      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-30T16:54:25+00:00",
-      "scrapedAt": "2026-08-31T16:01:49.307474+00:00"
-    },
-    {
-      "id": "c053743dc5a1",
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-31T02:34:00+00:00",
-      "scrapedAt": "2026-08-31T16:01:49.307392+00:00"
-    },
-    {
-      "id": "2b7c320d3fa0",
-      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
-      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-31T12:56:46+00:00",
-      "scrapedAt": "2026-08-31T16:01:49.307313+00:00"
-    },
-    {
-      "id": "70a677766176",
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-31T15:15:25+00:00",
-      "scrapedAt": "2026-08-31T16:01:49.307232+00:00"
-    },
-    {
-      "id": "7aa1f68e6fa5",
-      "title": "A milestone in expanding access to AI",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-31T04:00:00+00:00",
-      "scrapedAt": "2026-08-31T16:01:49.099517+00:00"
-    },
-    {
-      "id": "4b1422325725",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-17T08:00:00+00:00",
-      "scrapedAt": "2026-08-31T16:01:48.426145+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
     }
   ]
 }
