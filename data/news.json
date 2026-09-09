@@ -1,6 +1,210 @@
 {
-  "lastUpdated": "2026-09-08T12:47:29.848555+00:00",
+  "lastUpdated": "2026-09-09T12:52:19.831671+00:00",
   "articles": [
+    {
+      "id": "d081e58264cf",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-08T16:20:31+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.642297+00:00"
+    },
+    {
+      "id": "2372e1e4c414",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-08T17:32:15+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.642227+00:00"
+    },
+    {
+      "id": "20d984cb02eb",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-08T19:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.642155+00:00"
+    },
+    {
+      "id": "ba0725adef5e",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-08T21:04:06+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.642070+00:00"
+    },
+    {
+      "id": "baf4c2ebabc9",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-08T21:10:27+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.642000+00:00"
+    },
+    {
+      "id": "04755a5637fd",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-09T12:05:34+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.641914+00:00"
+    },
+    {
+      "id": "fddf04f3238a",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "url": "https://openai.com/index/1password",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-08T00:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.431909+00:00"
+    },
+    {
+      "id": "8c676d139375",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-08T00:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.431834+00:00"
+    },
+    {
+      "id": "c34d7a764f86",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-08T09:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.431763+00:00"
+    },
+    {
+      "id": "4b61789c249a",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-08T10:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.431687+00:00"
+    },
+    {
+      "id": "c76ec6f9b7b6",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-08T11:30:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.431598+00:00"
+    },
+    {
+      "id": "6c888c96cade",
+      "title": "The Work Now Within Reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-08T13:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.431498+00:00"
+    },
+    {
+      "id": "48232c1c3bd8",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-08T17:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:22.431407+00:00"
+    },
+    {
+      "id": "34b94057b7c1",
+      "title": "Evolve your marketing with new AI tools",
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-10T14:30:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:21.704529+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "74af7ce45836",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-25T16:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:21.704055+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "4320c69e5f6d",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-01T16:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:21.703866+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "e2c119acd909",
+      "title": "The latest AI news we announced in August 2026",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-01T20:45:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:21.703748+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a1de5e17b3b1",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-26T07:01:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:21.369977+00:00"
+    },
+    {
+      "id": "e985a8c11fb3",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . By now you’ve probably heard about last month’s major AI secu",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-31T18:00:00+00:00",
+      "scrapedAt": "2026-09-09T12:51:21.359146+00:00"
+    },
+    {
+      "id": "388663d38509",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-09T03:10:08+00:00",
+      "scrapedAt": "2026-09-09T12:51:21.348803+00:00"
+    },
     {
       "id": "8af7cab57e13",
       "title": "Codex on GPT6 Astra Low launched a rocket into space in Factorio Space Age 2.1",
@@ -1176,410 +1380,6 @@
       "category": "product",
       "publishedAt": "2026-09-02T14:00:00+00:00",
       "scrapedAt": "2026-09-03T12:43:20.160582+00:00"
-    },
-    {
-      "id": "fd6ea7e03b18",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T15:45:51+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.023419+00:00"
-    },
-    {
-      "id": "4b8238ed7901",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T15:51:55+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.023346+00:00"
-    },
-    {
-      "id": "f9f3593ed20e",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T16:31:04+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.023267+00:00"
-    },
-    {
-      "id": "18f7db1b6836",
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T17:00:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.023200+00:00"
-    },
-    {
-      "id": "16ca199800c7",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T17:35:37+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.023130+00:00"
-    },
-    {
-      "id": "0b975c1752d0",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T19:39:22+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.023028+00:00"
-    },
-    {
-      "id": "62b6270ed2a9",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T20:53:05+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.022958+00:00"
-    },
-    {
-      "id": "be7c65afeb75",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T21:06:24+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.022881+00:00"
-    },
-    {
-      "id": "a6c4d5f8283c",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T22:08:24+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.022805+00:00"
-    },
-    {
-      "id": "4799c2fe4d23",
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-02T12:09:42+00:00",
-      "scrapedAt": "2026-09-02T12:40:28.022710+00:00"
-    },
-    {
-      "id": "8e955ff5c005",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-01T01:00:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:27.865993+00:00"
-    },
-    {
-      "id": "56641fe02914",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-01T12:00:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:27.865914+00:00"
-    },
-    {
-      "id": "c931d0b3b7db",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-01T13:00:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:27.865833+00:00"
-    },
-    {
-      "id": "4be3ed23a721",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-01T17:00:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:27.865735+00:00"
-    },
-    {
-      "id": "34b94057b7c1",
-      "title": "Evolve your marketing with new AI tools",
-      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-10T14:30:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:27.254891+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "74af7ce45836",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-25T16:00:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:27.254430+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "4320c69e5f6d",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-01T16:00:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:27.254228+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e2c119acd909",
-      "title": "The latest AI news we announced in August 2026",
-      "summary": "Here are Google’s latest AI updates from August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-01T20:45:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:27.254092+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "dac3a9d1e696",
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "summary": "__________________________ THE PLACE Shanghai, China Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily l",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-25T09:00:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:26.892589+00:00"
-    },
-    {
-      "id": "a1de5e17b3b1",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-26T07:01:00+00:00",
-      "scrapedAt": "2026-09-02T12:40:26.877737+00:00"
-    },
-    {
-      "id": "352bc4d66140",
-      "title": "RankShift: In-Database Detection and Explanation of Categorical Shifts",
-      "summary": "arXiv:2608.28922v1 Announce Type: new Abstract: A login service can receive its usual number of failed sign-ins while one source grows from 2% to 30% of them. The same pattern appears in system logs w",
-      "url": "https://arxiv.org/abs/2608.28922",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.887363+00:00"
-    },
-    {
-      "id": "9e9a1c444e7c",
-      "title": "SemKV: Semantic Mixed-Precision KV Cache Quantization Guided by the Quality Cliff for Long-Context LLM Inference",
-      "summary": "arXiv:2608.28911v1 Announce Type: new Abstract: The key-value (KV) cache is the dominant memory bottleneck of long-context large language model (LLM) inference, growing linearly with context length. W",
-      "url": "https://arxiv.org/abs/2608.28911",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.887243+00:00"
-    },
-    {
-      "id": "1aa36d9289e8",
-      "title": "Learning-Theoretic Foundation for General Coded Computing: The Straggler Setting",
-      "summary": "arXiv:2608.28910v1 Announce Type: new Abstract: Coded computing has emerged as a powerful paradigm for mitigating the impact of straggling workers in distributed computing systems. However, existing c",
-      "url": "https://arxiv.org/abs/2608.28910",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.887098+00:00"
-    },
-    {
-      "id": "e5fbbf6cc833",
-      "title": "Off-Policy Evaluation for Semantic ID Recommenders: Does the Model's Own Code Hierarchy Help?",
-      "summary": "arXiv:2608.28905v1 Announce Type: new Abstract: Generative recommenders increasingly emit semantic IDs (SIDs): each item is a short sequence of hierarchical discrete codes from a residual quantizer, d",
-      "url": "https://arxiv.org/abs/2608.28905",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.886953+00:00"
-    },
-    {
-      "id": "29be84e808f5",
-      "title": "Conservative Hybrid Graph Networks for Process Systems with Learned Routing",
-      "summary": "arXiv:2608.28896v1 Announce Type: new Abstract: Industrial process networks do not maintain a single effective topology while operating: streams are throttled or bypassed, and units move between idle,",
-      "url": "https://arxiv.org/abs/2608.28896",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.886833+00:00"
-    },
-    {
-      "id": "261133fc5c63",
-      "title": "The Halt Vector: Internalizing a Causal Steering Intervention for Efficient Reasoning",
-      "summary": "arXiv:2608.28859v1 Announce Type: new Abstract: Reasoning models do not stop when they know the answer. On DeepSeek-R1-Distill-Qwen-7B the chain of thought runs about twice as long as the model's own ",
-      "url": "https://arxiv.org/abs/2608.28859",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.886709+00:00"
-    },
-    {
-      "id": "6594ac98b753",
-      "title": "Equivariant Sheaf Neural Networks: Learning Geometric Transport on Graphs",
-      "summary": "arXiv:2608.28853v1 Announce Type: new Abstract: Equivariant graph neural networks provide a principled way to model geometric systems, but efficient first-order architectures remain limited in how vec",
-      "url": "https://arxiv.org/abs/2608.28853",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.886580+00:00"
-    },
-    {
-      "id": "f19021544d82",
-      "title": "Curvature Cryptanalysis of Smooth Transformer Feed-Forward Networks",
-      "summary": "arXiv:2608.28843v1 Announce Type: new Abstract: We show that smooth two-layer feed-forward networks (FFNs) expose an additional structural model extraction channel under a chosen-input raw-output orac",
-      "url": "https://arxiv.org/abs/2608.28843",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.886443+00:00"
-    },
-    {
-      "id": "98ce7686aabe",
-      "title": "Unsupervised Latent Space Alignment with Hyperspherical Geodesic Matching",
-      "summary": "arXiv:2608.28840v1 Announce Type: new Abstract: Independently trained neural networks tend to encode the same data with similar latent geometries. These latent geometries are not directly compatible, ",
-      "url": "https://arxiv.org/abs/2608.28840",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.886275+00:00"
-    },
-    {
-      "id": "b7e50ad64308",
-      "title": "ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning",
-      "summary": "arXiv:2608.28771v1 Announce Type: new Abstract: Large reasoning models achieve strong performance on complex tasks by generating extended chain-of-thought (CoT) traces via reinforcement learning with ",
-      "url": "https://arxiv.org/abs/2608.28771",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-01T00:00:00-04:00",
-      "scrapedAt": "2026-09-01T13:21:52.886089+00:00"
-    },
-    {
-      "id": "773b325bd3a6",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-31T16:00:00+00:00",
-      "scrapedAt": "2026-09-01T13:21:51.878986+00:00"
-    },
-    {
-      "id": "c24cafe65185",
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-31T18:35:11+00:00",
-      "scrapedAt": "2026-09-01T13:21:51.878916+00:00"
-    },
-    {
-      "id": "72b2e2fa1025",
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-31T19:16:59+00:00",
-      "scrapedAt": "2026-09-01T13:21:51.878840+00:00"
-    },
-    {
-      "id": "77b770af978c",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-08-31T20:13:45+00:00",
-      "scrapedAt": "2026-09-01T13:21:51.878765+00:00"
-    },
-    {
-      "id": "00adf4a54ce8",
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-01T00:13:00+00:00",
-      "scrapedAt": "2026-09-01T13:21:51.878674+00:00"
-    },
-    {
-      "id": "6489dfdc164c",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "url": "https://openai.com/index/polimill",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-31T07:00:00+00:00",
-      "scrapedAt": "2026-09-01T13:21:51.825216+00:00"
-    },
-    {
-      "id": "7f3e9f8d83e8",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-31T07:00:00+00:00",
-      "scrapedAt": "2026-09-01T13:21:51.825104+00:00"
-    },
-    {
-      "id": "b781f4c498ae",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T09:00:00+00:00",
-      "scrapedAt": "2026-09-01T13:21:50.914286+00:00"
-    },
-    {
-      "id": "b11795f5f35f",
-      "title": "How to encourage smarter AI use in the classroom",
-      "summary": "This article is from Making AI Work , MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here . Chatbots took many schoo",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-24T14:20:19+00:00",
-      "scrapedAt": "2026-09-01T13:21:50.909845+00:00"
-    },
-    {
-      "id": "e985a8c11fb3",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . By now you’ve probably heard about last month’s major AI secu",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-31T18:00:00+00:00",
-      "scrapedAt": "2026-09-01T13:21:50.883688+00:00"
     }
   ]
 }
