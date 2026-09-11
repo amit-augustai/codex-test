@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-09-10T12:49:58.270053+00:00",
+  "lastUpdated": "2026-09-11T12:44:32.974594+00:00",
   "articles": [
+    {
+      "id": "755f7769e744",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-10T17:45:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.089677+00:00"
+    },
+    {
+      "id": "9abc7cfd055a",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-10T17:54:44+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.089626+00:00"
+    },
+    {
+      "id": "4780951de096",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-10T19:50:04+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.089576+00:00"
+    },
+    {
+      "id": "999f113dc0b6",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-10T20:57:30+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.089522+00:00"
+    },
+    {
+      "id": "5a7a028d73b1",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-10T20:59:51+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.089460+00:00"
+    },
+    {
+      "id": "96e78022ceca",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-10T21:35:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.089399+00:00"
+    },
+    {
+      "id": "3f1b7e6d6a10",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-10T21:51:59+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.089325+00:00"
+    },
+    {
+      "id": "96db0e24a08a",
+      "title": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-10T00:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.043950+00:00"
+    },
+    {
+      "id": "031421652db5",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-10T00:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.043895+00:00"
+    },
+    {
+      "id": "aa2ea623e7d1",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.043813+00:00"
+    },
+    {
+      "id": "3f77446f0e44",
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.043751+00:00"
+    },
+    {
+      "id": "d86fa96aa31a",
+      "title": "Now everyone can put data to work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-10T15:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.043682+00:00"
+    },
+    {
+      "id": "8e610a2233c8",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-10T16:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:37.043599+00:00"
+    },
+    {
+      "id": "ffa128c00a29",
+      "title": "5 new ways to level up your learning with Search",
+      "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-19T19:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:36.510613+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6a67ad8b8f04",
+      "title": "3 new ways to plan and book travel in Search",
+      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-08-27T16:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:36.510475+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "afc832aa3a2b",
+      "title": "3 ways to prep for your next big race with Search",
+      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-10T16:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:36.509999+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "8e8985dedaae",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-26T09:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:36.246979+00:00"
+    },
+    {
+      "id": "606181c5d71a",
+      "title": "Raised on AI",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-26T09:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:36.244672+00:00"
+    },
+    {
+      "id": "db5b8f4203cb",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today . ",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-08-26T19:00:00+00:00",
+      "scrapedAt": "2026-09-11T12:43:36.243915+00:00"
+    },
+    {
+      "id": "16db96c97099",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T09:25:19+00:00",
+      "scrapedAt": "2026-09-11T12:43:36.238753+00:00"
+    },
     {
       "id": "00c7d837e736",
       "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
@@ -1179,209 +1382,6 @@
       "category": "product",
       "publishedAt": "2026-09-04T18:39:19+00:00",
       "scrapedAt": "2026-09-05T11:45:17.202811+00:00"
-    },
-    {
-      "id": "ce45dff6944f",
-      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-      "summary": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose lear",
-      "url": "https://arxiv.org/abs/2609.02981",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-04T00:00:00-04:00",
-      "scrapedAt": "2026-09-04T12:37:10.535834+00:00"
-    },
-    {
-      "id": "9ebf8f5d0ca3",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-03T15:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.931446+00:00"
-    },
-    {
-      "id": "4d0be1d61b00",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-03T16:09:01+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.931385+00:00"
-    },
-    {
-      "id": "1a81518cc660",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-03T18:01:45+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.931338+00:00"
-    },
-    {
-      "id": "939cb98685e5",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-03T18:19:56+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.931295+00:00"
-    },
-    {
-      "id": "f1f94c405560",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-03T18:37:57+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.931245+00:00"
-    },
-    {
-      "id": "28be3fafd1e3",
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-03T19:36:29+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.931195+00:00"
-    },
-    {
-      "id": "5737d6df236a",
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T00:48:42+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.931148+00:00"
-    },
-    {
-      "id": "3e1ba23902a5",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T04:21:03+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.931086+00:00"
-    },
-    {
-      "id": "af3b8492cad0",
-      "title": "Safety overview: GPT-6 Astra",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-03T00:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.723482+00:00"
-    },
-    {
-      "id": "9a8f1e3af0e0",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-03T12:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.723403+00:00"
-    },
-    {
-      "id": "d54e7a3a2a74",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-03T12:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.723351+00:00"
-    },
-    {
-      "id": "30eec5aa5b07",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-03T13:15:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.723286+00:00"
-    },
-    {
-      "id": "af6b566103fd",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-11T17:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.066774+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ffa128c00a29",
-      "title": "5 new ways to level up your learning with Search",
-      "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-19T19:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.066612+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6a67ad8b8f04",
-      "title": "3 new ways to plan and book travel in Search",
-      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-27T16:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:09.066498+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "8e8985dedaae",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-26T09:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:08.549830+00:00"
-    },
-    {
-      "id": "606181c5d71a",
-      "title": "Raised on AI",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-26T09:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:08.548073+00:00"
-    },
-    {
-      "id": "db5b8f4203cb",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today . ",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-26T19:00:00+00:00",
-      "scrapedAt": "2026-09-04T12:37:08.547381+00:00"
-    },
-    {
-      "id": "16db96c97099",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T09:25:19+00:00",
-      "scrapedAt": "2026-09-04T12:37:08.543159+00:00"
     }
   ]
 }
