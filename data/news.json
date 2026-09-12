@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-09-11T12:44:32.974594+00:00",
+  "lastUpdated": "2026-09-12T12:04:56.203844+00:00",
   "articles": [
+    {
+      "id": "16629ea8cf8d",
+      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+      "summary": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing ",
+      "url": "https://arxiv.org/abs/2609.10724",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-12T00:00:00-04:00",
+      "scrapedAt": "2026-09-12T12:04:01.375823+00:00"
+    },
+    {
+      "id": "b8f2ec8d5465",
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "summary": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Ne",
+      "url": "https://arxiv.org/abs/2609.10712",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-12T00:00:00-04:00",
+      "scrapedAt": "2026-09-12T12:04:01.375689+00:00"
+    },
+    {
+      "id": "0add288f6524",
+      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+      "summary": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical",
+      "url": "https://arxiv.org/abs/2609.10657",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-12T00:00:00-04:00",
+      "scrapedAt": "2026-09-12T12:04:01.375582+00:00"
+    },
+    {
+      "id": "7b44d166e5e2",
+      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+      "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net ",
+      "url": "https://arxiv.org/abs/2609.10656",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-12T00:00:00-04:00",
+      "scrapedAt": "2026-09-12T12:04:01.375468+00:00"
+    },
+    {
+      "id": "458aa7786a98",
+      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+      "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. Thi",
+      "url": "https://arxiv.org/abs/2609.10654",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-12T00:00:00-04:00",
+      "scrapedAt": "2026-09-12T12:04:01.375369+00:00"
+    },
+    {
+      "id": "28a16cca7a55",
+      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+      "summary": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to it",
+      "url": "https://arxiv.org/abs/2609.10629",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-12T00:00:00-04:00",
+      "scrapedAt": "2026-09-12T12:04:01.375242+00:00"
+    },
+    {
+      "id": "fc7d853f8a19",
+      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+      "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within",
+      "url": "https://arxiv.org/abs/2609.10584",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-12T00:00:00-04:00",
+      "scrapedAt": "2026-09-12T12:04:01.375109+00:00"
+    },
+    {
+      "id": "3eb10fd44cbe",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-11T16:46:25+00:00",
+      "scrapedAt": "2026-09-12T12:04:01.010559+00:00"
+    },
+    {
+      "id": "1b44943176b0",
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-11T18:41:49+00:00",
+      "scrapedAt": "2026-09-12T12:04:01.010449+00:00"
+    },
+    {
+      "id": "b3b5bc18a7be",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-11T19:35:54+00:00",
+      "scrapedAt": "2026-09-12T12:04:00.998952+00:00"
+    },
+    {
+      "id": "8bb8b268e44e",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-11T20:30:17+00:00",
+      "scrapedAt": "2026-09-12T12:04:00.998846+00:00"
+    },
+    {
+      "id": "74a75f709b78",
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-11T20:33:18+00:00",
+      "scrapedAt": "2026-09-12T12:04:00.998775+00:00"
+    },
+    {
+      "id": "d4514d27691b",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-11T20:57:36+00:00",
+      "scrapedAt": "2026-09-12T12:04:00.998700+00:00"
+    },
+    {
+      "id": "e2480aa4c979",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-11T20:59:47+00:00",
+      "scrapedAt": "2026-09-12T12:04:00.998627+00:00"
+    },
+    {
+      "id": "c923ead07513",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-11T22:58:17+00:00",
+      "scrapedAt": "2026-09-12T12:04:00.998531+00:00"
+    },
+    {
+      "id": "bb3fa770c597",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-11T16:00:00+00:00",
+      "scrapedAt": "2026-09-12T12:04:00.921799+00:00"
+    },
+    {
+      "id": "ebb4b1b0f124",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-11T10:00:00+00:00",
+      "scrapedAt": "2026-09-12T12:04:00.921714+00:00"
+    },
+    {
+      "id": "ea5b19333782",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00+00:00",
+      "scrapedAt": "2026-09-12T12:04:00.921620+00:00"
+    },
+    {
+      "id": "c540530472dc",
+      "title": "Architecting memory and storage in the AI era",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T18:39:19+00:00",
+      "scrapedAt": "2026-09-12T12:03:59.832566+00:00"
+    },
+    {
+      "id": "12de205131c9",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Rev",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-11T20:05:06+00:00",
+      "scrapedAt": "2026-09-12T12:03:59.826329+00:00"
+    },
     {
       "id": "755f7769e744",
       "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
@@ -1182,206 +1382,6 @@
       "publishedAt": "2026-08-13T16:45:00+00:00",
       "scrapedAt": "2026-09-06T12:03:03.608080+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b53a6cba2209",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-05T07:15:55-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.930765+00:00"
-    },
-    {
-      "id": "b42f99c0f6bb",
-      "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
-      "summary": "arXiv:2609.03460v1 Announce Type: new Abstract: As generative AI makes polished prose cheap to produce, users can no longer rely on fluency as a proxy for truth. We call this failure mode the Fluency ",
-      "url": "https://arxiv.org/abs/2609.03460",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-05T00:00:00-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.785634+00:00"
-    },
-    {
-      "id": "776244ff7243",
-      "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
-      "summary": "arXiv:2609.03438v1 Announce Type: new Abstract: Graphical user interface (GUI) agents are increasingly used to execute natural-language instructions on user interfaces, yet real users may issue infeas",
-      "url": "https://arxiv.org/abs/2609.03438",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-05T00:00:00-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.785562+00:00"
-    },
-    {
-      "id": "136b9d188c88",
-      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
-      "summary": "arXiv:2609.03423v1 Announce Type: new Abstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing be",
-      "url": "https://arxiv.org/abs/2609.03423",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-05T00:00:00-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.785481+00:00"
-    },
-    {
-      "id": "7f17222f018b",
-      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
-      "summary": "arXiv:2609.03416v1 Announce Type: new Abstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capabili",
-      "url": "https://arxiv.org/abs/2609.03416",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-05T00:00:00-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.785387+00:00"
-    },
-    {
-      "id": "fd5289cbd498",
-      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
-      "summary": "arXiv:2609.03407v1 Announce Type: new Abstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory",
-      "url": "https://arxiv.org/abs/2609.03407",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-05T00:00:00-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.785314+00:00"
-    },
-    {
-      "id": "525065a60934",
-      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-      "summary": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited pe",
-      "url": "https://arxiv.org/abs/2609.03402",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-05T00:00:00-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.785233+00:00"
-    },
-    {
-      "id": "591ed7b3a798",
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "summary": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, a",
-      "url": "https://arxiv.org/abs/2609.03340",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-05T00:00:00-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.785141+00:00"
-    },
-    {
-      "id": "1f4bc90a91cb",
-      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-      "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment ",
-      "url": "https://arxiv.org/abs/2609.03236",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-05T00:00:00-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.785064+00:00"
-    },
-    {
-      "id": "0b564610b46f",
-      "title": "MasterControl Seventeen Every Time",
-      "summary": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approv",
-      "url": "https://arxiv.org/abs/2609.03209",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-05T00:00:00-04:00",
-      "scrapedAt": "2026-09-05T11:45:18.784974+00:00"
-    },
-    {
-      "id": "c21a7a0108f1",
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T14:00:00+00:00",
-      "scrapedAt": "2026-09-05T11:45:18.287949+00:00"
-    },
-    {
-      "id": "8455d4164fce",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T14:47:11+00:00",
-      "scrapedAt": "2026-09-05T11:45:18.287904+00:00"
-    },
-    {
-      "id": "08f462902e18",
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing ",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T16:04:08+00:00",
-      "scrapedAt": "2026-09-05T11:45:18.287855+00:00"
-    },
-    {
-      "id": "718826050bb2",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T16:21:11+00:00",
-      "scrapedAt": "2026-09-05T11:45:18.287751+00:00"
-    },
-    {
-      "id": "eb999a1a327a",
-      "title": "What will Apple’s John Ternus era look like?",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing ",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T17:18:00+00:00",
-      "scrapedAt": "2026-09-05T11:45:18.287703+00:00"
-    },
-    {
-      "id": "e160d21430ae",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T21:12:11+00:00",
-      "scrapedAt": "2026-09-05T11:45:18.287580+00:00"
-    },
-    {
-      "id": "2180a1fa6f13",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T23:15:11+00:00",
-      "scrapedAt": "2026-09-05T11:45:18.287529+00:00"
-    },
-    {
-      "id": "f48898262d8e",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T23:36:14+00:00",
-      "scrapedAt": "2026-09-05T11:45:18.287463+00:00"
-    },
-    {
-      "id": "8b954ea26b8f",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-03T11:00:00+00:00",
-      "scrapedAt": "2026-09-05T11:45:18.217161+00:00"
-    },
-    {
-      "id": "c540530472dc",
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T18:39:19+00:00",
-      "scrapedAt": "2026-09-05T11:45:17.202811+00:00"
     }
   ]
 }
