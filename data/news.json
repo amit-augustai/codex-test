@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-09-13T13:14:28.684660+00:00",
+  "lastUpdated": "2026-09-14T14:55:21.108815+00:00",
   "articles": [
+    {
+      "id": "54a2bcd7c60b",
+      "title": "Efficient AI Model Deployment Using Quantization Analysis Tool",
+      "summary": "arXiv:2609.11954v1 Announce Type: new Abstract: As deep learning models are increasingly deployed on resource constrained devices, the demand for efficient model optimization techniques continues to g",
+      "url": "https://arxiv.org/abs/2609.11954",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.407906+00:00"
+    },
+    {
+      "id": "51aac494e43b",
+      "title": "Fed-Equilibrium Framework for Topological Pareto Control in Robust and Fair Clinical Federated Learning",
+      "summary": "arXiv:2609.11937v1 Announce Type: new Abstract: The deployment of Federated Learning (FL) in multi-center clinical networks faces the challenge of \"knowledge dominance,\" where high-volume hubs natural",
+      "url": "https://arxiv.org/abs/2609.11937",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.407797+00:00"
+    },
+    {
+      "id": "c7f5c8a8e8b3",
+      "title": "Physics-Informed Conformal Prediction: Embedding PDE Consistency into Distribution-Free Uncertainty Quantification for Neural Operators",
+      "summary": "arXiv:2609.11935v1 Announce Type: new Abstract: Neural operators such as the Fourier Neural Operator (FNO) achieve remarkable accuracy in approximating solutions to partial differential equations (PDE",
+      "url": "https://arxiv.org/abs/2609.11935",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.407678+00:00"
+    },
+    {
+      "id": "a1db46dee0b1",
+      "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
+      "summary": "arXiv:2609.11934v1 Announce Type: new Abstract: In networked dynamical systems, the parameter of primary mechanistic interest is signed interaction structure. Recovering this structure from perturbati",
+      "url": "https://arxiv.org/abs/2609.11934",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.407557+00:00"
+    },
+    {
+      "id": "88e3ab812af3",
+      "title": "GLARE: Generative Learning via Adversarial Reward Estimation For Social Dynamics Forecasting",
+      "summary": "arXiv:2609.12165v1 Announce Type: new Abstract: Meeting continuation requires tracking the agenda, speaker roles, participant intentions, and disagreement across long multi-party discussions. We intro",
+      "url": "https://arxiv.org/abs/2609.12165",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.060493+00:00"
+    },
+    {
+      "id": "20a28fa56dd2",
+      "title": "Can LLMs in Draft-Verify-Revise Pipelines Resolve Deictic Ambiguity?",
+      "summary": "arXiv:2609.12162v1 Announce Type: new Abstract: Draft-verify-revise is a common LLM orchestration pattern for scaling inference-time compute. One LLM drafts, a second critiques the draft and provides ",
+      "url": "https://arxiv.org/abs/2609.12162",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.060370+00:00"
+    },
+    {
+      "id": "d3029f12325d",
+      "title": "Mined from Scientific Literature: Process Schemas for Atomic Layer Deposition and Etching in Materials Science",
+      "summary": "arXiv:2609.12139v1 Announce Type: new Abstract: Atomic layer deposition (ALD) and atomic layer etching (ALE) are reported heterogeneously across experimental and simulation literature in materials sci",
+      "url": "https://arxiv.org/abs/2609.12139",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.060245+00:00"
+    },
+    {
+      "id": "109eaec679d5",
+      "title": "When Successful Knowledge Graph Edits Displace Correct Answers: Rank-Level Locality beyond Parameter Support",
+      "summary": "arXiv:2609.12116v1 Announce Type: new Abstract: Editing a knowledge graph embedding (KGE) model to promote a desired answer can displace correct answers from the returned list. Locality tests based on",
+      "url": "https://arxiv.org/abs/2609.12116",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.060171+00:00"
+    },
+    {
+      "id": "206992cbfefc",
+      "title": "DU-NO: A Parameter-Efficient Double U-Shaped Neural Operator for Phase-Resolving Wave Modeling",
+      "summary": "arXiv:2609.12115v1 Announce Type: new Abstract: Phase-resolving wave models such as FUNWAVE-TVD are the accuracy standard for nearshore dynamics, resolving the shoaling, refraction, and breaking of in",
+      "url": "https://arxiv.org/abs/2609.12115",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.060071+00:00"
+    },
+    {
+      "id": "475d2c5d76a2",
+      "title": "Language Is an Insufficient Substrate for Quantitative Reasoning, and Consequential Domains Need Large Quantitative Models",
+      "summary": "arXiv:2609.12105v1 Announce Type: new Abstract: The prevailing assumption in applied machine learning is that progress on consequential quantitative decisions such as pricing risk, allocating capital,",
+      "url": "https://arxiv.org/abs/2609.12105",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.059947+00:00"
+    },
+    {
+      "id": "fa13dbc94499",
+      "title": "Competence-Gated Pooling of Language Models and Priors for Event Forecasting",
+      "summary": "arXiv:2609.12101v1 Announce Type: new Abstract: In hybrid forecasting, a language model is often one of several available signals. A system may already have a market, crowd, or statistical forecast an",
+      "url": "https://arxiv.org/abs/2609.12101",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.059850+00:00"
+    },
+    {
+      "id": "22ab0b18674a",
+      "title": "Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal Cardiac Representation Learning",
+      "summary": "arXiv:2609.12035v1 Announce Type: new Abstract: Cardiovascular diagnosis rests on integrating complementary modalities, like ECG, echocardiography, chest radiographs, and clinical variables, each capt",
+      "url": "https://arxiv.org/abs/2609.12035",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.059731+00:00"
+    },
+    {
+      "id": "55d8d373c991",
+      "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
+      "summary": "arXiv:2609.11987v1 Announce Type: new Abstract: An agentic coding system couples a language model to a harness: the tools, prompts and control flow that turn a chat model into an autonomous software e",
+      "url": "https://arxiv.org/abs/2609.11987",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.059617+00:00"
+    },
+    {
+      "id": "edd77bf80093",
+      "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
+      "summary": "arXiv:2609.11977v1 Announce Type: new Abstract: Co-work agents execute complex workflows that combine information gathering, tool use, coding, and file manipulation across many model invocations. Beca",
+      "url": "https://arxiv.org/abs/2609.11977",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-14T00:00:00-04:00",
+      "scrapedAt": "2026-09-14T14:54:25.059456+00:00"
+    },
+    {
+      "id": "6b54256d4afb",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-13T16:30:00+00:00",
+      "scrapedAt": "2026-09-14T14:54:24.364006+00:00"
+    },
+    {
+      "id": "423bcba40c75",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-13T19:40:15+00:00",
+      "scrapedAt": "2026-09-14T14:54:24.363941+00:00"
+    },
+    {
+      "id": "4bd849d94ba2",
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-14T13:55:00+00:00",
+      "scrapedAt": "2026-09-14T14:54:24.363886+00:00"
+    },
+    {
+      "id": "9838e6008e91",
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investor",
+      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-14T14:00:00+00:00",
+      "scrapedAt": "2026-09-14T14:54:24.363824+00:00"
+    },
+    {
+      "id": "844d349ff280",
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it’s the mission of a billion-dollar startup. Advances in artificial intelligence, genetics, and computationa",
+      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-14T14:30:00+00:00",
+      "scrapedAt": "2026-09-14T14:54:24.363756+00:00"
+    },
+    {
+      "id": "d360e52aaf33",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "summary": "Fathom said that it has over 400,000 monthly active users",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-14T14:45:44+00:00",
+      "scrapedAt": "2026-09-14T14:54:24.363651+00:00"
+    },
     {
       "id": "34c53f6cee07",
       "title": "Everything New You Can Do With Siri AI",
@@ -1181,206 +1381,6 @@
       "category": "product",
       "publishedAt": "2026-09-08T10:34:00+00:00",
       "scrapedAt": "2026-09-08T12:46:38.671786+00:00"
-    },
-    {
-      "id": "003ef1158031",
-      "title": "Evaluating Large Language Models for Forced Outage Risk Prediction: Benefits and Comparison to Machine Learning",
-      "summary": "arXiv:2609.04272v1 Announce Type: new Abstract: This study examines the ability of large language models (LLMs) to predict the risk of weather-related forced outages in the distribution grid in a zero",
-      "url": "https://arxiv.org/abs/2609.04272",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.994835+00:00"
-    },
-    {
-      "id": "e2c0bad842de",
-      "title": "Quantum-Assisted Memory-Efficient Training for Parameter-Intensive Wi-Fi-Based Human Activity Recognition",
-      "summary": "arXiv:2609.04271v1 Announce Type: new Abstract: Wi-Fi-based human activity recognition (HAR) has become an important part of integrated sensing and communications, paving the way for a range of contex",
-      "url": "https://arxiv.org/abs/2609.04271",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.994733+00:00"
-    },
-    {
-      "id": "89cd12cdf9a7",
-      "title": "A Data Fusion Framework for Grounding Aerospace Surrogate Model via Experimental Wind-Tunnel Observations",
-      "summary": "arXiv:2609.04267v1 Announce Type: new Abstract: Aerodynamic surrogate models trained on high-fidelity CFD data reproduce numerical predictions of both scalar outputs and entire fields accurately, yet ",
-      "url": "https://arxiv.org/abs/2609.04267",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.994605+00:00"
-    },
-    {
-      "id": "513870262095",
-      "title": "ProToMEx: Rapid, Interpretable Explanations via Structured Representations",
-      "summary": "arXiv:2609.04265v1 Announce Type: new Abstract: Existing post-hoc explainers for machine learning classifiers primarily focus on feature attribution, assigning importance scores to individual features",
-      "url": "https://arxiv.org/abs/2609.04265",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.994459+00:00"
-    },
-    {
-      "id": "bcdf72c77c27",
-      "title": "Spectral-Target Physical Latent Structuring for JEPA-Style World Models",
-      "summary": "arXiv:2609.04264v1 Announce Type: new Abstract: Latent world models have become increasingly popular as a method to predict and plan in latent space rather than pixel space. Recent architectures, such",
-      "url": "https://arxiv.org/abs/2609.04264",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.994325+00:00"
-    },
-    {
-      "id": "1f52a719e315",
-      "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
-      "summary": "arXiv:2609.04476v1 Announce Type: new Abstract: Performance modeling is central to hardware design and software optimization, yet constructing these models requires structured reasoning about computat",
-      "url": "https://arxiv.org/abs/2609.04476",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.809895+00:00"
-    },
-    {
-      "id": "00be548c4048",
-      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
-      "summary": "arXiv:2609.04444v1 Announce Type: new Abstract: Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side ef",
-      "url": "https://arxiv.org/abs/2609.04444",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.809777+00:00"
-    },
-    {
-      "id": "3e806c1f7aed",
-      "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
-      "summary": "arXiv:2609.04377v1 Announce Type: new Abstract: Enterprise AI deployments fail not from model inadequacy, but because organizations lack a structured substrate encoding how they decide, negotiate, and",
-      "url": "https://arxiv.org/abs/2609.04377",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.809634+00:00"
-    },
-    {
-      "id": "699623cef8ca",
-      "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
-      "summary": "arXiv:2609.04373v1 Announce Type: new Abstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We",
-      "url": "https://arxiv.org/abs/2609.04373",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.809500+00:00"
-    },
-    {
-      "id": "d5679148ab0a",
-      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
-      "summary": "arXiv:2609.04343v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior.",
-      "url": "https://arxiv.org/abs/2609.04343",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.809388+00:00"
-    },
-    {
-      "id": "8f38e0667916",
-      "title": "Iris: Climbing to the Search Frontier",
-      "summary": "arXiv:2609.04304v1 Announce Type: new Abstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe be",
-      "url": "https://arxiv.org/abs/2609.04304",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.809259+00:00"
-    },
-    {
-      "id": "fed99f44a39b",
-      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
-      "summary": "arXiv:2609.04300v1 Announce Type: new Abstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of",
-      "url": "https://arxiv.org/abs/2609.04300",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.809109+00:00"
-    },
-    {
-      "id": "65f8451401f7",
-      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-      "summary": "arXiv:2609.04298v1 Announce Type: new Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We ",
-      "url": "https://arxiv.org/abs/2609.04298",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.808939+00:00"
-    },
-    {
-      "id": "dfbf87ab1c83",
-      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-      "summary": "arXiv:2609.04286v1 Announce Type: new Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve",
-      "url": "https://arxiv.org/abs/2609.04286",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.808819+00:00"
-    },
-    {
-      "id": "26046bae4ff1",
-      "title": "EXAONE Forecast for Finance",
-      "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial ",
-      "url": "https://arxiv.org/abs/2609.04239",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00-04:00",
-      "scrapedAt": "2026-09-07T14:07:56.808666+00:00"
-    },
-    {
-      "id": "f33b1fcaa623",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-06T16:45:00+00:00",
-      "scrapedAt": "2026-09-07T14:07:56.440832+00:00"
-    },
-    {
-      "id": "3997b3420fb1",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-06T20:47:37+00:00",
-      "scrapedAt": "2026-09-07T14:07:56.440748+00:00"
-    },
-    {
-      "id": "2b36e6dbb8e7",
-      "title": "Research acceleration: The view inside OpenAI",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-06T08:00:00+00:00",
-      "scrapedAt": "2026-09-07T14:07:56.362244+00:00"
-    },
-    {
-      "id": "08d94691e993",
-      "title": "An Alien Mind",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-06T09:00:00+00:00",
-      "scrapedAt": "2026-09-07T14:07:56.362164+00:00"
-    },
-    {
-      "id": "24d8a7aef57b",
-      "title": "Supporting independent journalism in Ukraine",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-07T00:00:00+00:00",
-      "scrapedAt": "2026-09-07T14:07:56.362043+00:00"
     }
   ]
 }
