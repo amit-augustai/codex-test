@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-09-15T13:21:42.045863+00:00",
+  "lastUpdated": "2026-09-16T13:20:13.745603+00:00",
   "articles": [
+    {
+      "id": "5c8d60dccac5",
+      "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+      "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for que",
+      "url": "https://arxiv.org/abs/2609.13457",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-16T00:00:00-04:00",
+      "scrapedAt": "2026-09-16T13:19:16.902157+00:00"
+    },
+    {
+      "id": "2bd3e8215dba",
+      "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+      "summary": "arXiv:2609.13437v1 Announce Type: new Abstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded upon by new researchers to",
+      "url": "https://arxiv.org/abs/2609.13437",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-16T00:00:00-04:00",
+      "scrapedAt": "2026-09-16T13:19:16.902061+00:00"
+    },
+    {
+      "id": "cd18a1dde0aa",
+      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+      "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, phys",
+      "url": "https://arxiv.org/abs/2609.13436",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-16T00:00:00-04:00",
+      "scrapedAt": "2026-09-16T13:19:16.901970+00:00"
+    },
+    {
+      "id": "08b769b774dd",
+      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+      "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We s",
+      "url": "https://arxiv.org/abs/2609.13422",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-16T00:00:00-04:00",
+      "scrapedAt": "2026-09-16T13:19:16.901884+00:00"
+    },
+    {
+      "id": "a99284cc094f",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-15T15:22:48+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203982+00:00"
+    },
+    {
+      "id": "7ca41db25b66",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-15T15:47:03+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203934+00:00"
+    },
+    {
+      "id": "5e497c447da8",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-15T17:05:24+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203886+00:00"
+    },
+    {
+      "id": "1e9eb8a1b0c0",
+      "title": "AI agents now have a place to snitch",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-15T17:42:59+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203836+00:00"
+    },
+    {
+      "id": "837180ecd6ea",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-15T18:29:20+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203789+00:00"
+    },
+    {
+      "id": "7eb39231f1ba",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-15T19:00:00+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203740+00:00"
+    },
+    {
+      "id": "c8e966977fdf",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-15T20:12:53+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203685+00:00"
+    },
+    {
+      "id": "f5e80ecad197",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-15T21:47:38+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203630+00:00"
+    },
+    {
+      "id": "6a5d552d9722",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T00:20:39+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203565+00:00"
+    },
+    {
+      "id": "5960227fd9e8",
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
+      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T10:34:47+00:00",
+      "scrapedAt": "2026-09-16T13:19:16.203499+00:00"
+    },
+    {
+      "id": "02a684446e86",
+      "title": "AI for everyone in every language",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-15T16:00:00+00:00",
+      "scrapedAt": "2026-09-16T13:19:15.536349+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b5ab0b9d7814",
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-15T16:00:00+00:00",
+      "scrapedAt": "2026-09-16T13:19:15.536275+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a56de3e90322",
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-15T16:00:00+00:00",
+      "scrapedAt": "2026-09-16T13:19:15.536175+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"
+    },
+    {
+      "id": "388663d38509",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-09T03:10:08+00:00",
+      "scrapedAt": "2026-09-16T13:19:15.147838+00:00"
+    },
+    {
+      "id": "c733aaf01135",
+      "title": "Roundtables: Could AI really kill us all?",
+      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremonger",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-15T17:47:51+00:00",
+      "scrapedAt": "2026-09-16T13:19:15.141182+00:00"
+    },
+    {
+      "id": "c81fa26a50d6",
+      "title": "Building the materials foundation for AI",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T12:47:34+00:00",
+      "scrapedAt": "2026-09-16T13:19:15.140430+00:00"
+    },
     {
       "id": "756adb3140a2",
       "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
@@ -1209,210 +1412,6 @@
       "category": "product",
       "publishedAt": "2026-09-10T11:00:00+00:00",
       "scrapedAt": "2026-09-10T12:48:58.813268+00:00"
-    },
-    {
-      "id": "d081e58264cf",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-08T16:20:31+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.642297+00:00"
-    },
-    {
-      "id": "2372e1e4c414",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-08T17:32:15+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.642227+00:00"
-    },
-    {
-      "id": "20d984cb02eb",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-08T19:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.642155+00:00"
-    },
-    {
-      "id": "ba0725adef5e",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-08T21:04:06+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.642070+00:00"
-    },
-    {
-      "id": "baf4c2ebabc9",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-08T21:10:27+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.642000+00:00"
-    },
-    {
-      "id": "04755a5637fd",
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T12:05:34+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.641914+00:00"
-    },
-    {
-      "id": "fddf04f3238a",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "url": "https://openai.com/index/1password",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-08T00:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.431909+00:00"
-    },
-    {
-      "id": "8c676d139375",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-08T00:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.431834+00:00"
-    },
-    {
-      "id": "c34d7a764f86",
-      "title": "Funding grants for new research into AI and teen development",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-08T09:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.431763+00:00"
-    },
-    {
-      "id": "4b61789c249a",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-08T10:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.431687+00:00"
-    },
-    {
-      "id": "c76ec6f9b7b6",
-      "title": "Introducing ChatGPT Images 2.5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-08T11:30:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.431598+00:00"
-    },
-    {
-      "id": "6c888c96cade",
-      "title": "The Work Now Within Reach",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-08T13:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.431498+00:00"
-    },
-    {
-      "id": "48232c1c3bd8",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-08T17:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:22.431407+00:00"
-    },
-    {
-      "id": "34b94057b7c1",
-      "title": "Evolve your marketing with new AI tools",
-      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-10T14:30:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:21.704529+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "74af7ce45836",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-08-25T16:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:21.704055+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "4320c69e5f6d",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-01T16:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:21.703866+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "e2c119acd909",
-      "title": "The latest AI news we announced in August 2026",
-      "summary": "Here are Google’s latest AI updates from August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-01T20:45:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:21.703748+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "a1de5e17b3b1",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-26T07:01:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:21.369977+00:00"
-    },
-    {
-      "id": "e985a8c11fb3",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . By now you’ve probably heard about last month’s major AI secu",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-08-31T18:00:00+00:00",
-      "scrapedAt": "2026-09-09T12:51:21.359146+00:00"
-    },
-    {
-      "id": "388663d38509",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T03:10:08+00:00",
-      "scrapedAt": "2026-09-09T12:51:21.348803+00:00"
     }
   ]
 }
