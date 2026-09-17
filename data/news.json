@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-09-16T13:20:13.745603+00:00",
+  "lastUpdated": "2026-09-17T13:16:42.985567+00:00",
   "articles": [
+    {
+      "id": "07c67a490581",
+      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+      "summary": "arXiv:2609.17631v1 Announce Type: new Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states",
+      "url": "https://arxiv.org/abs/2609.17631",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-17T00:00:00-04:00",
+      "scrapedAt": "2026-09-17T13:15:47.215840+00:00"
+    },
+    {
+      "id": "79a042e1b1c0",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T15:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778860+00:00"
+    },
+    {
+      "id": "b4b0475ed0c8",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T16:30:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778786+00:00"
+    },
+    {
+      "id": "eb823604160e",
+      "title": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T17:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778715+00:00"
+    },
+    {
+      "id": "f60a2a4ca838",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T18:25:25+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778606+00:00"
+    },
+    {
+      "id": "303e2dc324c9",
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T20:12:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778537+00:00"
+    },
+    {
+      "id": "a4f0cae5cc3a",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, ",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T21:07:24+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778468+00:00"
+    },
+    {
+      "id": "546ee7cd8ec8",
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-16T23:43:09+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778390+00:00"
+    },
+    {
+      "id": "92088bb9d257",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-17T00:58:49+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778311+00:00"
+    },
+    {
+      "id": "b7c7d891caa0",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-17T03:30:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778235+00:00"
+    },
+    {
+      "id": "4f879da66298",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-17T05:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.778141+00:00"
+    },
+    {
+      "id": "f80091762901",
+      "title": "How workers are unlocking new ways of working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-16T09:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.718710+00:00"
+    },
+    {
+      "id": "1be7a08560a9",
+      "title": "Our framework for reporting model misalignment",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-16T17:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.718609+00:00"
+    },
+    {
+      "id": "ddf43229688c",
+      "title": "How to connect AI usage to business value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-16T12:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.718534+00:00"
+    },
+    {
+      "id": "d2e2a131de12",
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-16T13:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.718452+00:00"
+    },
+    {
+      "id": "2c7667f6e80a",
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-16T16:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.718356+00:00"
+    },
+    {
+      "id": "9fef7b06147a",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-02T15:40:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.026153+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "32522e85f743",
+      "title": "Recreating a 70-year love story frame by frame",
+      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-09T16:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.026061+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "43d2948c369a",
+      "title": "Get ready for the game with new football features in Search",
+      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-09T16:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:46.025971+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "dcafb6d4ea46",
+      "title": "Powering AI is an architecture problem",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the f",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-10T11:00:00+00:00",
+      "scrapedAt": "2026-09-17T13:15:45.616381+00:00"
+    },
     {
       "id": "5c8d60dccac5",
       "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
@@ -1209,209 +1412,6 @@
       "category": "product",
       "publishedAt": "2026-09-04T09:25:19+00:00",
       "scrapedAt": "2026-09-11T12:43:36.238753+00:00"
-    },
-    {
-      "id": "00c7d837e736",
-      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-      "summary": "arXiv:2609.09226v1 Announce Type: new Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a ge",
-      "url": "https://arxiv.org/abs/2609.09226",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-10T00:00:00-04:00",
-      "scrapedAt": "2026-09-10T12:49:00.651391+00:00"
-    },
-    {
-      "id": "b8febafdf123",
-      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-      "summary": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process",
-      "url": "https://arxiv.org/abs/2609.09203",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-10T00:00:00-04:00",
-      "scrapedAt": "2026-09-10T12:49:00.651245+00:00"
-    },
-    {
-      "id": "21c2a27323ca",
-      "title": "Superintelligence is coming. Should we let it?",
-      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI sys",
-      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T16:05:35+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.176164+00:00"
-    },
-    {
-      "id": "974e0dc97a17",
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T17:36:05+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.166311+00:00"
-    },
-    {
-      "id": "c9b53fb8ed34",
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T18:08:35+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.166242+00:00"
-    },
-    {
-      "id": "41fc243c5eb6",
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "summary": "The update uses Apple Intelligence to make better sense of your health data.",
-      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T18:16:29+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.166184+00:00"
-    },
-    {
-      "id": "7d5a9a7d2077",
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T19:21:48+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.166128+00:00"
-    },
-    {
-      "id": "30c9efdd025b",
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T20:03:43+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.166070+00:00"
-    },
-    {
-      "id": "24345bcea52a",
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T20:24:48+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.166011+00:00"
-    },
-    {
-      "id": "7540bc2c5d65",
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T21:43:34+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.165933+00:00"
-    },
-    {
-      "id": "a62cdeb365cc",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-09T22:25:22+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.165874+00:00"
-    },
-    {
-      "id": "e9590b50c0bc",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-10T00:00:37+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.165798+00:00"
-    },
-    {
-      "id": "bb894e920169",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-09T17:00:00+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.058806+00:00"
-    },
-    {
-      "id": "dc8c3baa32f2",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-09T11:00:00+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.058741+00:00"
-    },
-    {
-      "id": "e50720e57461",
-      "title": "The AI policy window is open. We need to act.",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-09T13:00:00+00:00",
-      "scrapedAt": "2026-09-10T12:49:00.058658+00:00"
-    },
-    {
-      "id": "9fef7b06147a",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-02T15:40:00+00:00",
-      "scrapedAt": "2026-09-10T12:48:59.205104+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "32522e85f743",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-09T16:00:00+00:00",
-      "scrapedAt": "2026-09-10T12:48:59.205023+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "43d2948c369a",
-      "title": "Get ready for the game with new football features in Search",
-      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-09T16:00:00+00:00",
-      "scrapedAt": "2026-09-10T12:48:59.204928+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "c0e30f013c2a",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-02T14:00:00+00:00",
-      "scrapedAt": "2026-09-10T12:48:58.821646+00:00"
-    },
-    {
-      "id": "dcafb6d4ea46",
-      "title": "Powering AI is an architecture problem",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the f",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-10T11:00:00+00:00",
-      "scrapedAt": "2026-09-10T12:48:58.813268+00:00"
     }
   ]
 }
