@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-09-18T12:51:34.735747+00:00",
+  "lastUpdated": "2026-09-19T12:24:27.779852+00:00",
   "articles": [
+    {
+      "id": "4a86105ca636",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Jou",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T11:30:16-04:00",
+      "scrapedAt": "2026-09-19T12:23:32.355773+00:00"
+    },
+    {
+      "id": "a6e3cc386b2a",
+      "title": "What Hollywood thinks about existential AI warnings",
+      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T12:35:19-04:00",
+      "scrapedAt": "2026-09-19T12:23:32.355338+00:00"
+    },
+    {
+      "id": "a773bfa98d72",
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Fr",
+      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T13:04:51-04:00",
+      "scrapedAt": "2026-09-19T12:23:32.354975+00:00"
+    },
+    {
+      "id": "115cada6134f",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T14:29:17-04:00",
+      "scrapedAt": "2026-09-19T12:23:32.354685+00:00"
+    },
+    {
+      "id": "077d8f6ca8fa",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary": "Recently unsealed court documents in the New York Times ' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would da",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T17:07:24-04:00",
+      "scrapedAt": "2026-09-19T12:23:32.354310+00:00"
+    },
+    {
+      "id": "37655c8141e2",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T17:33:50+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.881253+00:00"
+    },
+    {
+      "id": "f5578060dc95",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T17:59:53+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.881208+00:00"
+    },
+    {
+      "id": "c787e87aad1d",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T18:49:30+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.881165+00:00"
+    },
+    {
+      "id": "1dbe8d7c6e86",
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T20:18:14+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.881121+00:00"
+    },
+    {
+      "id": "49776e1c52dc",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T21:44:33+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.881067+00:00"
+    },
+    {
+      "id": "99bd6d4072b2",
+      "title": "AI hallucination nearly triggers US military operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T23:12:32+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.881023+00:00"
+    },
+    {
+      "id": "dcced75f93e2",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T23:13:31+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.880967+00:00"
+    },
+    {
+      "id": "43903881cded",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T23:25:01+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.880919+00:00"
+    },
+    {
+      "id": "d8747de7e501",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T00:12:07+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.880871+00:00"
+    },
+    {
+      "id": "2f121b448c20",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T01:00:00+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.880807+00:00"
+    },
+    {
+      "id": "7d19d74e67f6",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-16T12:00:00+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.669786+00:00"
+    },
+    {
+      "id": "48d4db25a29d",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T12:00:00+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.669526+00:00"
+    },
+    {
+      "id": "abcde6029873",
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T13:00:00+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.083626+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3dd23fb96608",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T14:00:00+00:00",
+      "scrapedAt": "2026-09-19T12:23:31.083543+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c540530472dc",
+      "title": "Architecting memory and storage in the AI era",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-04T18:39:19+00:00",
+      "scrapedAt": "2026-09-19T12:23:30.777017+00:00"
+    },
     {
       "id": "6ab5c9278ae8",
       "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
@@ -1211,206 +1413,6 @@
       "category": "product",
       "publishedAt": "2026-09-12T20:19:16+00:00",
       "scrapedAt": "2026-09-13T13:13:30.669125+00:00"
-    },
-    {
-      "id": "16629ea8cf8d",
-      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-      "summary": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing ",
-      "url": "https://arxiv.org/abs/2609.10724",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-12T00:00:00-04:00",
-      "scrapedAt": "2026-09-12T12:04:01.375823+00:00"
-    },
-    {
-      "id": "b8f2ec8d5465",
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "summary": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Ne",
-      "url": "https://arxiv.org/abs/2609.10712",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-12T00:00:00-04:00",
-      "scrapedAt": "2026-09-12T12:04:01.375689+00:00"
-    },
-    {
-      "id": "0add288f6524",
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "summary": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical",
-      "url": "https://arxiv.org/abs/2609.10657",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-12T00:00:00-04:00",
-      "scrapedAt": "2026-09-12T12:04:01.375582+00:00"
-    },
-    {
-      "id": "7b44d166e5e2",
-      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net ",
-      "url": "https://arxiv.org/abs/2609.10656",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-12T00:00:00-04:00",
-      "scrapedAt": "2026-09-12T12:04:01.375468+00:00"
-    },
-    {
-      "id": "458aa7786a98",
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. Thi",
-      "url": "https://arxiv.org/abs/2609.10654",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-12T00:00:00-04:00",
-      "scrapedAt": "2026-09-12T12:04:01.375369+00:00"
-    },
-    {
-      "id": "28a16cca7a55",
-      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-      "summary": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to it",
-      "url": "https://arxiv.org/abs/2609.10629",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-12T00:00:00-04:00",
-      "scrapedAt": "2026-09-12T12:04:01.375242+00:00"
-    },
-    {
-      "id": "fc7d853f8a19",
-      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-      "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within",
-      "url": "https://arxiv.org/abs/2609.10584",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-12T00:00:00-04:00",
-      "scrapedAt": "2026-09-12T12:04:01.375109+00:00"
-    },
-    {
-      "id": "3eb10fd44cbe",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T16:46:25+00:00",
-      "scrapedAt": "2026-09-12T12:04:01.010559+00:00"
-    },
-    {
-      "id": "1b44943176b0",
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T18:41:49+00:00",
-      "scrapedAt": "2026-09-12T12:04:01.010449+00:00"
-    },
-    {
-      "id": "b3b5bc18a7be",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T19:35:54+00:00",
-      "scrapedAt": "2026-09-12T12:04:00.998952+00:00"
-    },
-    {
-      "id": "8bb8b268e44e",
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T20:30:17+00:00",
-      "scrapedAt": "2026-09-12T12:04:00.998846+00:00"
-    },
-    {
-      "id": "74a75f709b78",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T20:33:18+00:00",
-      "scrapedAt": "2026-09-12T12:04:00.998775+00:00"
-    },
-    {
-      "id": "d4514d27691b",
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T20:57:36+00:00",
-      "scrapedAt": "2026-09-12T12:04:00.998700+00:00"
-    },
-    {
-      "id": "e2480aa4c979",
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T20:59:47+00:00",
-      "scrapedAt": "2026-09-12T12:04:00.998627+00:00"
-    },
-    {
-      "id": "c923ead07513",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T22:58:17+00:00",
-      "scrapedAt": "2026-09-12T12:04:00.998531+00:00"
-    },
-    {
-      "id": "bb3fa770c597",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-11T16:00:00+00:00",
-      "scrapedAt": "2026-09-12T12:04:00.921799+00:00"
-    },
-    {
-      "id": "ebb4b1b0f124",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-11T10:00:00+00:00",
-      "scrapedAt": "2026-09-12T12:04:00.921714+00:00"
-    },
-    {
-      "id": "ea5b19333782",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00+00:00",
-      "scrapedAt": "2026-09-12T12:04:00.921620+00:00"
-    },
-    {
-      "id": "c540530472dc",
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-04T18:39:19+00:00",
-      "scrapedAt": "2026-09-12T12:03:59.832566+00:00"
-    },
-    {
-      "id": "12de205131c9",
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Rev",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T20:05:06+00:00",
-      "scrapedAt": "2026-09-12T12:03:59.826329+00:00"
     }
   ]
 }
