@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-09-19T12:24:27.779852+00:00",
+  "lastUpdated": "2026-09-20T12:59:09.953576+00:00",
   "articles": [
+    {
+      "id": "a3a709379335",
+      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+      "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T15:00:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:12.636883+00:00"
+    },
+    {
+      "id": "d40b0cb3b325",
+      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+      "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T15:00:08+00:00",
+      "scrapedAt": "2026-09-20T12:58:12.636830+00:00"
+    },
+    {
+      "id": "2340f4f098c7",
+      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T19:21:09+00:00",
+      "scrapedAt": "2026-09-20T12:58:12.636789+00:00"
+    },
+    {
+      "id": "ad32bc2b7cb3",
+      "title": "Join the WIRED World Fair in Miami on November 4",
+      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T09:00:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:12.636753+00:00"
+    },
+    {
+      "id": "7d51a39589fc",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T10:00:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:12.636712+00:00"
+    },
+    {
+      "id": "9b54ffdd342d",
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T11:00:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:12.636665+00:00"
+    },
+    {
+      "id": "ee61ecf1b7e6",
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-20T10:30:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:12.636618+00:00"
+    },
+    {
+      "id": "370e5c2f4391",
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-09-20T10:30:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:12.636565+00:00"
+    },
+    {
+      "id": "437eaa860add",
+      "title": "The AI regulation smackdown isn’t over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T09:00:00-04:00",
+      "scrapedAt": "2026-09-20T12:58:12.466197+00:00"
+    },
+    {
+      "id": "0dd3f3fb6a5b",
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "summary": "Today on Decoder , we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden ad",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T10:00:00-04:00",
+      "scrapedAt": "2026-09-20T12:58:12.465924+00:00"
+    },
+    {
+      "id": "28713f5bdfe9",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T11:25:03-04:00",
+      "scrapedAt": "2026-09-20T12:58:12.461091+00:00"
+    },
+    {
+      "id": "45d620b21da1",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant , but one that's a little creepy. Part of that is because of its new Mac app , which can access Messages, Calendar, and Notes. But for all its smart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T16:44:40-04:00",
+      "scrapedAt": "2026-09-20T12:58:12.460826+00:00"
+    },
+    {
+      "id": "c5abc7e9b94c",
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \" killing all humans ,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were al",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-09-20T08:00:00-04:00",
+      "scrapedAt": "2026-09-20T12:58:12.460450+00:00"
+    },
+    {
+      "id": "0ac6fc9717b5",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T13:00:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:11.768825+00:00"
+    },
+    {
+      "id": "a4b8614ad9dd",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T14:00:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:11.768787+00:00"
+    },
+    {
+      "id": "f48af8241edf",
+      "title": "AI safety conversations have gotten unbelievable",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T15:00:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:11.768746+00:00"
+    },
+    {
+      "id": "031e78fea7f6",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T15:00:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:11.768703+00:00"
+    },
+    {
+      "id": "c67b3655b36c",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T17:30:00+00:00",
+      "scrapedAt": "2026-09-20T12:58:11.768653+00:00"
+    },
+    {
+      "id": "c0e5bbea1628",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T19:57:47+00:00",
+      "scrapedAt": "2026-09-20T12:58:11.768613+00:00"
+    },
+    {
+      "id": "194c7523c48f",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-19T20:39:13+00:00",
+      "scrapedAt": "2026-09-20T12:58:11.768561+00:00"
+    },
     {
       "id": "4a86105ca636",
       "title": "Security researchers used Claude to help them hack into OpenAI",
