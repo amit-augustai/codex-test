@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-09-20T12:59:09.953576+00:00",
+  "lastUpdated": "2026-09-21T15:00:11.804366+00:00",
   "articles": [
+    {
+      "id": "f1157dd04196",
+      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+      "summary": "arXiv:2609.21139v1 Announce Type: new Abstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers",
+      "url": "https://arxiv.org/abs/2609.21139",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-21T00:00:00-04:00",
+      "scrapedAt": "2026-09-21T14:59:13.954999+00:00"
+    },
+    {
+      "id": "83dd1be7d6a0",
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechani",
+      "url": "https://arxiv.org/abs/2609.21113",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-21T00:00:00-04:00",
+      "scrapedAt": "2026-09-21T14:59:13.954906+00:00"
+    },
+    {
+      "id": "e55c2a63c445",
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-21T00:00:00-04:00",
+      "scrapedAt": "2026-09-21T14:59:13.954807+00:00"
+    },
+    {
+      "id": "1cbd51bf078f",
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce ",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-21T00:00:00-04:00",
+      "scrapedAt": "2026-09-21T14:59:13.954705+00:00"
+    },
+    {
+      "id": "6ca0bc88fabc",
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reas",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-21T00:00:00-04:00",
+      "scrapedAt": "2026-09-21T14:59:13.954583+00:00"
+    },
+    {
+      "id": "90cef0af8e7a",
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual ",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-21T00:00:00-04:00",
+      "scrapedAt": "2026-09-21T14:59:13.954495+00:00"
+    },
+    {
+      "id": "1fd552e184ab",
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-21T00:00:00-04:00",
+      "scrapedAt": "2026-09-21T14:59:13.954362+00:00"
+    },
+    {
+      "id": "8e19f4707dbf",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitche",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-20T18:00:00+00:00",
+      "scrapedAt": "2026-09-21T14:59:13.162180+00:00"
+    },
+    {
+      "id": "4c292615ef53",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-20T18:32:52+00:00",
+      "scrapedAt": "2026-09-21T14:59:13.162101+00:00"
+    },
+    {
+      "id": "262fdb19d1b4",
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-20T18:56:04+00:00",
+      "scrapedAt": "2026-09-21T14:59:13.162053+00:00"
+    },
+    {
+      "id": "81aee4494ecf",
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-20T20:29:07+00:00",
+      "scrapedAt": "2026-09-21T14:59:13.162001+00:00"
+    },
+    {
+      "id": "a5761cc7a394",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-20T21:41:08+00:00",
+      "scrapedAt": "2026-09-21T14:59:13.161936+00:00"
+    },
+    {
+      "id": "dd0d90e10973",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row sea",
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-21T14:15:00+00:00",
+      "scrapedAt": "2026-09-21T14:59:13.161867+00:00"
+    },
+    {
+      "id": "80c6fad29385",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before Sept 25.",
+      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-21T14:30:00+00:00",
+      "scrapedAt": "2026-09-21T14:59:13.161796+00:00"
+    },
+    {
+      "id": "ce68e248589d",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-21T14:39:22+00:00",
+      "scrapedAt": "2026-09-21T14:59:13.161715+00:00"
+    },
+    {
+      "id": "07a9efb9a155",
+      "title": "How V7 gives AI agents institutional memory",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-21T00:00:00+00:00",
+      "scrapedAt": "2026-09-21T14:59:13.023356+00:00"
+    },
+    {
+      "id": "c90b91454dad",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tij",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-21T12:00:00+00:00",
+      "scrapedAt": "2026-09-21T14:59:11.913410+00:00"
+    },
+    {
+      "id": "aec46d554e2e",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As ",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-21T12:00:00+00:00",
+      "scrapedAt": "2026-09-21T14:59:11.894988+00:00"
+    },
+    {
+      "id": "b4add5777c43",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. W",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-21T12:00:00+00:00",
+      "scrapedAt": "2026-09-21T14:59:11.884004+00:00"
+    },
+    {
+      "id": "5f5c6ffd78bd",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-21T12:00:00+00:00",
+      "scrapedAt": "2026-09-21T14:59:11.881952+00:00"
+    },
     {
       "id": "a3a709379335",
       "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
@@ -1213,406 +1413,6 @@
       "category": "product",
       "publishedAt": "2026-09-15T10:00:00+00:00",
       "scrapedAt": "2026-09-15T13:20:41.225537+00:00"
-    },
-    {
-      "id": "54a2bcd7c60b",
-      "title": "Efficient AI Model Deployment Using Quantization Analysis Tool",
-      "summary": "arXiv:2609.11954v1 Announce Type: new Abstract: As deep learning models are increasingly deployed on resource constrained devices, the demand for efficient model optimization techniques continues to g",
-      "url": "https://arxiv.org/abs/2609.11954",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.407906+00:00"
-    },
-    {
-      "id": "51aac494e43b",
-      "title": "Fed-Equilibrium Framework for Topological Pareto Control in Robust and Fair Clinical Federated Learning",
-      "summary": "arXiv:2609.11937v1 Announce Type: new Abstract: The deployment of Federated Learning (FL) in multi-center clinical networks faces the challenge of \"knowledge dominance,\" where high-volume hubs natural",
-      "url": "https://arxiv.org/abs/2609.11937",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.407797+00:00"
-    },
-    {
-      "id": "c7f5c8a8e8b3",
-      "title": "Physics-Informed Conformal Prediction: Embedding PDE Consistency into Distribution-Free Uncertainty Quantification for Neural Operators",
-      "summary": "arXiv:2609.11935v1 Announce Type: new Abstract: Neural operators such as the Fourier Neural Operator (FNO) achieve remarkable accuracy in approximating solutions to partial differential equations (PDE",
-      "url": "https://arxiv.org/abs/2609.11935",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.407678+00:00"
-    },
-    {
-      "id": "a1db46dee0b1",
-      "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
-      "summary": "arXiv:2609.11934v1 Announce Type: new Abstract: In networked dynamical systems, the parameter of primary mechanistic interest is signed interaction structure. Recovering this structure from perturbati",
-      "url": "https://arxiv.org/abs/2609.11934",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.407557+00:00"
-    },
-    {
-      "id": "88e3ab812af3",
-      "title": "GLARE: Generative Learning via Adversarial Reward Estimation For Social Dynamics Forecasting",
-      "summary": "arXiv:2609.12165v1 Announce Type: new Abstract: Meeting continuation requires tracking the agenda, speaker roles, participant intentions, and disagreement across long multi-party discussions. We intro",
-      "url": "https://arxiv.org/abs/2609.12165",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.060493+00:00"
-    },
-    {
-      "id": "20a28fa56dd2",
-      "title": "Can LLMs in Draft-Verify-Revise Pipelines Resolve Deictic Ambiguity?",
-      "summary": "arXiv:2609.12162v1 Announce Type: new Abstract: Draft-verify-revise is a common LLM orchestration pattern for scaling inference-time compute. One LLM drafts, a second critiques the draft and provides ",
-      "url": "https://arxiv.org/abs/2609.12162",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.060370+00:00"
-    },
-    {
-      "id": "d3029f12325d",
-      "title": "Mined from Scientific Literature: Process Schemas for Atomic Layer Deposition and Etching in Materials Science",
-      "summary": "arXiv:2609.12139v1 Announce Type: new Abstract: Atomic layer deposition (ALD) and atomic layer etching (ALE) are reported heterogeneously across experimental and simulation literature in materials sci",
-      "url": "https://arxiv.org/abs/2609.12139",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.060245+00:00"
-    },
-    {
-      "id": "109eaec679d5",
-      "title": "When Successful Knowledge Graph Edits Displace Correct Answers: Rank-Level Locality beyond Parameter Support",
-      "summary": "arXiv:2609.12116v1 Announce Type: new Abstract: Editing a knowledge graph embedding (KGE) model to promote a desired answer can displace correct answers from the returned list. Locality tests based on",
-      "url": "https://arxiv.org/abs/2609.12116",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.060171+00:00"
-    },
-    {
-      "id": "206992cbfefc",
-      "title": "DU-NO: A Parameter-Efficient Double U-Shaped Neural Operator for Phase-Resolving Wave Modeling",
-      "summary": "arXiv:2609.12115v1 Announce Type: new Abstract: Phase-resolving wave models such as FUNWAVE-TVD are the accuracy standard for nearshore dynamics, resolving the shoaling, refraction, and breaking of in",
-      "url": "https://arxiv.org/abs/2609.12115",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.060071+00:00"
-    },
-    {
-      "id": "475d2c5d76a2",
-      "title": "Language Is an Insufficient Substrate for Quantitative Reasoning, and Consequential Domains Need Large Quantitative Models",
-      "summary": "arXiv:2609.12105v1 Announce Type: new Abstract: The prevailing assumption in applied machine learning is that progress on consequential quantitative decisions such as pricing risk, allocating capital,",
-      "url": "https://arxiv.org/abs/2609.12105",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.059947+00:00"
-    },
-    {
-      "id": "fa13dbc94499",
-      "title": "Competence-Gated Pooling of Language Models and Priors for Event Forecasting",
-      "summary": "arXiv:2609.12101v1 Announce Type: new Abstract: In hybrid forecasting, a language model is often one of several available signals. A system may already have a market, crowd, or statistical forecast an",
-      "url": "https://arxiv.org/abs/2609.12101",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.059850+00:00"
-    },
-    {
-      "id": "22ab0b18674a",
-      "title": "Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal Cardiac Representation Learning",
-      "summary": "arXiv:2609.12035v1 Announce Type: new Abstract: Cardiovascular diagnosis rests on integrating complementary modalities, like ECG, echocardiography, chest radiographs, and clinical variables, each capt",
-      "url": "https://arxiv.org/abs/2609.12035",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.059731+00:00"
-    },
-    {
-      "id": "55d8d373c991",
-      "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
-      "summary": "arXiv:2609.11987v1 Announce Type: new Abstract: An agentic coding system couples a language model to a harness: the tools, prompts and control flow that turn a chat model into an autonomous software e",
-      "url": "https://arxiv.org/abs/2609.11987",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.059617+00:00"
-    },
-    {
-      "id": "edd77bf80093",
-      "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
-      "summary": "arXiv:2609.11977v1 Announce Type: new Abstract: Co-work agents execute complex workflows that combine information gathering, tool use, coding, and file manipulation across many model invocations. Beca",
-      "url": "https://arxiv.org/abs/2609.11977",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-14T00:00:00-04:00",
-      "scrapedAt": "2026-09-14T14:54:25.059456+00:00"
-    },
-    {
-      "id": "6b54256d4afb",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-13T16:30:00+00:00",
-      "scrapedAt": "2026-09-14T14:54:24.364006+00:00"
-    },
-    {
-      "id": "423bcba40c75",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-13T19:40:15+00:00",
-      "scrapedAt": "2026-09-14T14:54:24.363941+00:00"
-    },
-    {
-      "id": "4bd849d94ba2",
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-14T13:55:00+00:00",
-      "scrapedAt": "2026-09-14T14:54:24.363886+00:00"
-    },
-    {
-      "id": "9838e6008e91",
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investor",
-      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-14T14:00:00+00:00",
-      "scrapedAt": "2026-09-14T14:54:24.363824+00:00"
-    },
-    {
-      "id": "844d349ff280",
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it’s the mission of a billion-dollar startup. Advances in artificial intelligence, genetics, and computationa",
-      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-14T14:30:00+00:00",
-      "scrapedAt": "2026-09-14T14:54:24.363756+00:00"
-    },
-    {
-      "id": "d360e52aaf33",
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "Fathom said that it has over 400,000 monthly active users",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-14T14:45:44+00:00",
-      "scrapedAt": "2026-09-14T14:54:24.363651+00:00"
-    },
-    {
-      "id": "34c53f6cee07",
-      "title": "Everything New You Can Do With Siri AI",
-      "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
-      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-09-10T10:30:00+00:00",
-      "scrapedAt": "2026-09-13T13:13:31.098290+00:00"
-    },
-    {
-      "id": "38b76508010a",
-      "title": "Is AI Actually Going to Kill Us All?",
-      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-09-10T20:30:37+00:00",
-      "scrapedAt": "2026-09-13T13:13:31.098063+00:00"
-    },
-    {
-      "id": "1c148458b409",
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-09-10T23:28:42+00:00",
-      "scrapedAt": "2026-09-13T13:13:31.097987+00:00"
-    },
-    {
-      "id": "75066ee04d3c",
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T09:00:00+00:00",
-      "scrapedAt": "2026-09-13T13:13:31.097917+00:00"
-    },
-    {
-      "id": "664851bd3471",
-      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
-      "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T15:00:00+00:00",
-      "scrapedAt": "2026-09-13T13:13:31.097845+00:00"
-    },
-    {
-      "id": "6976490033e5",
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature",
-      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T18:59:25+00:00",
-      "scrapedAt": "2026-09-13T13:13:31.097771+00:00"
-    },
-    {
-      "id": "3847461820b7",
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-09-12T10:30:00+00:00",
-      "scrapedAt": "2026-09-13T13:13:31.097664+00:00"
-    },
-    {
-      "id": "62cc0000f925",
-      "title": "AI Agents Are Thirsty for Power",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-09-13T10:00:00+00:00",
-      "scrapedAt": "2026-09-13T13:13:31.097576+00:00"
-    },
-    {
-      "id": "0ffdf04c2c5c",
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources ",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-10T15:44:20-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.997942+00:00"
-    },
-    {
-      "id": "7b5505b6ed7b",
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces , you can desc",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-10T17:25:21-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.997451+00:00"
-    },
-    {
-      "id": "e32e3658be55",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T10:25:21-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.997087+00:00"
-    },
-    {
-      "id": "3409c3c31dfa",
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a str",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T12:09:14-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.996620+00:00"
-    },
-    {
-      "id": "c71016307bb8",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters . I",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-11T16:44:02-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.996222+00:00"
-    },
-    {
-      "id": "41bb568b2b60",
-      "title": "OpenAI just wants to win",
-      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium P",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-12T07:00:00-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.995790+00:00"
-    },
-    {
-      "id": "bcfea4b7b186",
-      "title": "Trump is giving data centers a pass to pollute",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said t",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-12T10:41:27-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.995417+00:00"
-    },
-    {
-      "id": "423571cd7c5d",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-12T12:23:40-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.994853+00:00"
-    },
-    {
-      "id": "9276271a0e3f",
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune . Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-12T17:16:28-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.994357+00:00"
-    },
-    {
-      "id": "552eadb73497",
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-09-12T17:41:36-04:00",
-      "scrapedAt": "2026-09-13T13:13:30.993805+00:00"
-    },
-    {
-      "id": "82c98d9b6abf",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-12T19:34:44+00:00",
-      "scrapedAt": "2026-09-13T13:13:30.669208+00:00"
-    },
-    {
-      "id": "22280ff70f06",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-12T20:19:16+00:00",
-      "scrapedAt": "2026-09-13T13:13:30.669125+00:00"
     }
   ]
 }
