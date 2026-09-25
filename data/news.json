@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-09-24T13:27:08.796251+00:00",
+  "lastUpdated": "2026-09-25T13:31:08.705997+00:00",
   "articles": [
+    {
+      "id": "70b1a9e4155b",
+      "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+      "summary": "arXiv:2609.28575v1 Announce Type: new Abstract: Long-conversation memory benchmarks increasingly test recall and prompted knowledge updates, and recent work studies evolving user beliefs and memory st",
+      "url": "https://arxiv.org/abs/2609.28575",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-25T00:00:00-04:00",
+      "scrapedAt": "2026-09-25T13:30:12.027563+00:00"
+    },
+    {
+      "id": "43ae36cb3c36",
+      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+      "summary": "arXiv:2609.28570v1 Announce Type: new Abstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on hallucination is uneven. ",
+      "url": "https://arxiv.org/abs/2609.28570",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-25T00:00:00-04:00",
+      "scrapedAt": "2026-09-25T13:30:12.027425+00:00"
+    },
+    {
+      "id": "cd6b9fb74aa0",
+      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "summary": "arXiv:2609.28557v1 Announce Type: new Abstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems",
+      "url": "https://arxiv.org/abs/2609.28557",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-25T00:00:00-04:00",
+      "scrapedAt": "2026-09-25T13:30:12.027304+00:00"
+    },
+    {
+      "id": "dab7cd85c135",
+      "title": "Pistis Technical Report",
+      "summary": "arXiv:2609.28554v1 Announce Type: new Abstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and ",
+      "url": "https://arxiv.org/abs/2609.28554",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-25T00:00:00-04:00",
+      "scrapedAt": "2026-09-25T13:30:12.027162+00:00"
+    },
+    {
+      "id": "28140f732df8",
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "summary": "arXiv:2609.28547v1 Announce Type: new Abstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent ",
+      "url": "https://arxiv.org/abs/2609.28547",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-25T00:00:00-04:00",
+      "scrapedAt": "2026-09-25T13:30:12.026995+00:00"
+    },
+    {
+      "id": "037482e5a1f1",
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "summary": "arXiv:2609.28506v1 Announce Type: new Abstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as of 2026-09-14. The t",
+      "url": "https://arxiv.org/abs/2609.28506",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-25T00:00:00-04:00",
+      "scrapedAt": "2026-09-25T13:30:12.026870+00:00"
+    },
+    {
+      "id": "a886fd41607f",
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "summary": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior shou",
+      "url": "https://arxiv.org/abs/2609.28475",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-25T00:00:00-04:00",
+      "scrapedAt": "2026-09-25T13:30:12.026702+00:00"
+    },
+    {
+      "id": "8264311d3534",
+      "title": "Google tests letting Gemini call businesses for you",
+      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-24T16:00:00+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.474475+00:00"
+    },
+    {
+      "id": "ba83901647bc",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-",
+      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-24T16:03:36+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.474405+00:00"
+    },
+    {
+      "id": "84fff2272860",
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is wh",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-24T16:35:13+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.474330+00:00"
+    },
+    {
+      "id": "d767bf27e51e",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-24T16:46:47+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.474250+00:00"
+    },
+    {
+      "id": "1ac6e3fa768e",
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-24T17:00:00+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.474176+00:00"
+    },
+    {
+      "id": "72339274d890",
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-24T17:39:24+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.474101+00:00"
+    },
+    {
+      "id": "e65dfd0080c2",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-24T18:11:44+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.473988+00:00"
+    },
+    {
+      "id": "401fbf3dbcdc",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-24T19:00:42+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.473914+00:00"
+    },
+    {
+      "id": "36fdde13c0b3",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-24T19:15:00+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.473837+00:00"
+    },
+    {
+      "id": "bb5c1e3c8a7d",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-25T05:00:00+00:00",
+      "scrapedAt": "2026-09-25T13:30:11.473743+00:00"
+    },
+    {
+      "id": "b7fa72fd1998",
+      "title": "Making global data easier to explore",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-17T20:00:00+00:00",
+      "scrapedAt": "2026-09-25T13:30:10.628491+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "43991f137a69",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more que",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-18T11:29:22+00:00",
+      "scrapedAt": "2026-09-25T13:30:10.339974+00:00"
+    },
+    {
+      "id": "b50925bd3c97",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Pol",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-25T09:16:25+00:00",
+      "scrapedAt": "2026-09-25T13:30:10.291050+00:00"
+    },
     {
       "id": "0869f53f8a88",
       "title": "YouTube will let you build your own algorithm with AI",
@@ -1209,208 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-09-04T18:39:19+00:00",
       "scrapedAt": "2026-09-19T12:23:30.777017+00:00"
-    },
-    {
-      "id": "6ab5c9278ae8",
-      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
-      "summary": "arXiv:2609.19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to s",
-      "url": "https://arxiv.org/abs/2609.19212",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-18T00:00:00-04:00",
-      "scrapedAt": "2026-09-18T12:50:40.605517+00:00"
-    },
-    {
-      "id": "05816b74e135",
-      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-      "summary": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as p",
-      "url": "https://arxiv.org/abs/2609.19203",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-18T00:00:00-04:00",
-      "scrapedAt": "2026-09-18T12:50:40.605385+00:00"
-    },
-    {
-      "id": "eaed800cba3f",
-      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-      "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how ev",
-      "url": "https://arxiv.org/abs/2609.19182",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-18T00:00:00-04:00",
-      "scrapedAt": "2026-09-18T12:50:40.605273+00:00"
-    },
-    {
-      "id": "2c1353ecb00c",
-      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-      "summary": "arXiv:2609.19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require g",
-      "url": "https://arxiv.org/abs/2609.19180",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-18T00:00:00-04:00",
-      "scrapedAt": "2026-09-18T12:50:40.605147+00:00"
-    },
-    {
-      "id": "5aae6df36109",
-      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-      "summary": "arXiv:2609.19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property deter",
-      "url": "https://arxiv.org/abs/2609.19170",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-18T00:00:00-04:00",
-      "scrapedAt": "2026-09-18T12:50:40.604999+00:00"
-    },
-    {
-      "id": "47bfcf058a61",
-      "title": "Even the king of England has his hesitations about AI",
-      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T17:26:25+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251717+00:00"
-    },
-    {
-      "id": "2c509c3d0d19",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T19:46:08+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251648+00:00"
-    },
-    {
-      "id": "22b6bd9b8747",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T20:00:00+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251577+00:00"
-    },
-    {
-      "id": "9d61eb9bd1c6",
-      "title": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T20:19:37+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251509+00:00"
-    },
-    {
-      "id": "41da7ed56ef0",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable ",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T20:34:24+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251442+00:00"
-    },
-    {
-      "id": "5e7cc4bf41d7",
-      "title": "The fix for rogue AI agents could be more AI",
-      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T20:34:47+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251368+00:00"
-    },
-    {
-      "id": "787bbd73daf7",
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T22:14:59+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251290+00:00"
-    },
-    {
-      "id": "1f172f85d3ea",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T22:34:09+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251216+00:00"
-    },
-    {
-      "id": "456afd7f4d6d",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their ",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T23:21:17+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251142+00:00"
-    },
-    {
-      "id": "e3285a711c8c",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "summary": "The round values the data center giant at $30.9 billion.",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-17T23:25:52+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.251054+00:00"
-    },
-    {
-      "id": "a99e443ad7e8",
-      "title": "Introducing Astra for Law",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-17T00:00:00+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.195410+00:00"
-    },
-    {
-      "id": "e268b158afb8",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-17T12:00:00+00:00",
-      "scrapedAt": "2026-09-18T12:50:40.195297+00:00"
-    },
-    {
-      "id": "afc832aa3a2b",
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-10T16:00:00+00:00",
-      "scrapedAt": "2026-09-18T12:50:39.537220+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b7fa72fd1998",
-      "title": "Making global data easier to explore",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-17T20:00:00+00:00",
-      "scrapedAt": "2026-09-18T12:50:39.536490+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "43991f137a69",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more que",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-18T11:29:22+00:00",
-      "scrapedAt": "2026-09-18T12:50:39.235918+00:00"
     }
   ]
 }
