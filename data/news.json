@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-09-28T16:39:29.899632+00:00",
+  "lastUpdated": "2026-09-29T14:45:47.708869+00:00",
   "articles": [
+    {
+      "id": "99c674f70f3c",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-28T19:33:57+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.180167+00:00"
+    },
+    {
+      "id": "6004394fcd29",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-28T20:39:33+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.180091+00:00"
+    },
+    {
+      "id": "b30ea06fa8e9",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-28T21:29:18+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.180014+00:00"
+    },
+    {
+      "id": "df051edc9234",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-28T23:39:20+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.179912+00:00"
+    },
+    {
+      "id": "71c7b9385ab3",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T00:30:00+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.179842+00:00"
+    },
+    {
+      "id": "f5aa58f3c193",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T05:13:43+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.179766+00:00"
+    },
+    {
+      "id": "d95cf6211dbd",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T12:30:00+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.179685+00:00"
+    },
+    {
+      "id": "a7b614b11789",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T12:45:05+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.179613+00:00"
+    },
+    {
+      "id": "cefc4301c056",
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T13:47:30+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.179537+00:00"
+    },
+    {
+      "id": "2acce7e829ee",
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T13:53:01+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.179449+00:00"
+    },
+    {
+      "id": "d7db80e019a5",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-28T00:00:00+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.128211+00:00"
+    },
+    {
+      "id": "f8842226a05e",
+      "title": "Are you a Codex Original?",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program",
+      "url": "https://openai.com/form/codex-originals",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-28T00:00:00+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.128135+00:00"
+    },
+    {
+      "id": "9888749a7874",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-28T07:00:00+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.128045+00:00"
+    },
+    {
+      "id": "f95544b597e0",
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-28T19:00:00+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.127939+00:00"
+    },
+    {
+      "id": "2c968f6bfde3",
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-28T19:00:00+00:00",
+      "scrapedAt": "2026-09-29T14:44:49.127839+00:00"
+    },
+    {
+      "id": "c5edbf462ded",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-28T19:00:00+00:00",
+      "scrapedAt": "2026-09-29T14:44:48.475609+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "d185f661c7d1",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-22T11:04:51+00:00",
+      "scrapedAt": "2026-09-29T14:44:48.163701+00:00"
+    },
+    {
+      "id": "f073d5eb416e",
+      "title": "When can we say AI made a scientific discovery?",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last Wednesday, Anthropic announced that earlier this year it",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-28T17:03:16+00:00",
+      "scrapedAt": "2026-09-29T14:44:48.156657+00:00"
+    },
+    {
+      "id": "8cdbfa70b90a",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-28T22:17:07+00:00",
+      "scrapedAt": "2026-09-29T14:44:48.155489+00:00"
+    },
+    {
+      "id": "2665823bec02",
+      "title": "Making AI an asset, not an expense",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T10:43:45+00:00",
+      "scrapedAt": "2026-09-29T14:44:48.154225+00:00"
+    },
     {
       "id": "52735fe5f2f1",
       "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
@@ -1210,206 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-09-22T13:42:05+00:00",
       "scrapedAt": "2026-09-23T13:31:37.128180+00:00"
-    },
-    {
-      "id": "9e5850a917fb",
-      "title": "A Shared Learning Rate Is Not a Neutral Control in Selective On-Policy Distillation",
-      "summary": "arXiv:2609.22109v1 Announce Type: new Abstract: Selective on-policy distillation trains a student only at the token positions a selector scores highest, and the literature compares selectors under a s",
-      "url": "https://arxiv.org/abs/2609.22109",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-22T00:00:00-04:00",
-      "scrapedAt": "2026-09-22T13:16:22.152429+00:00"
-    },
-    {
-      "id": "e5aa66bcf4fb",
-      "title": "Correcting Learning-based Perception for Safety",
-      "summary": "arXiv:2609.22108v1 Announce Type: new Abstract: Learning-enabled perception is important in many autonomous systems. Unlike traditional sensors, the boundary where ML perception does or does not work ",
-      "url": "https://arxiv.org/abs/2609.22108",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-22T00:00:00-04:00",
-      "scrapedAt": "2026-09-22T13:16:22.152325+00:00"
-    },
-    {
-      "id": "3ba8fcd66c1e",
-      "title": "Generalized Multimodal Foundation Model",
-      "summary": "arXiv:2609.22107v1 Announce Type: new Abstract: Making prediction with multimodal data is widely used in diverse scenarios. Existing multimodal fusion models, once deployed, can only handle predefined",
-      "url": "https://arxiv.org/abs/2609.22107",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-22T00:00:00-04:00",
-      "scrapedAt": "2026-09-22T13:16:22.152234+00:00"
-    },
-    {
-      "id": "f8c5c5794978",
-      "title": "PRQuant: Permutation Residual Quantization for Low-Overhead Inference",
-      "summary": "arXiv:2609.22106v1 Announce Type: new Abstract: Accuracy of Low-bit quantization of linear layers is often dominated by a small number of outliers. Although existing methods, such as smoothing, rotati",
-      "url": "https://arxiv.org/abs/2609.22106",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-09-22T00:00:00-04:00",
-      "scrapedAt": "2026-09-22T13:16:22.152129+00:00"
-    },
-    {
-      "id": "59970e0ced9d",
-      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-      "summary": "arXiv:2609.21165v1 Announce Type: new Abstract: Off-target protein binding is a major source of adverse effects for small-molecule drugs, yet most structure-based molecular design methods focus on gen",
-      "url": "https://arxiv.org/abs/2609.21165",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-22T00:00:00-04:00",
-      "scrapedAt": "2026-09-22T13:16:21.786397+00:00"
-    },
-    {
-      "id": "c00d9ce20f5f",
-      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
-      "summary": "arXiv:2609.21157v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether ",
-      "url": "https://arxiv.org/abs/2609.21157",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-22T00:00:00-04:00",
-      "scrapedAt": "2026-09-22T13:16:21.786307+00:00"
-    },
-    {
-      "id": "a82e7c230ca4",
-      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-      "summary": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clini",
-      "url": "https://arxiv.org/abs/2609.21149",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-09-22T00:00:00-04:00",
-      "scrapedAt": "2026-09-22T13:16:21.786238+00:00"
-    },
-    {
-      "id": "719dd1e473cc",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-21T15:00:00+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.184720+00:00"
-    },
-    {
-      "id": "8a06f4e34726",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-21T16:38:51+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.184676+00:00"
-    },
-    {
-      "id": "cfff59da9d2a",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-21T17:55:18+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.184629+00:00"
-    },
-    {
-      "id": "285c3f889238",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-21T19:19:21+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.184564+00:00"
-    },
-    {
-      "id": "491414dc30a2",
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-21T19:25:00+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.184510+00:00"
-    },
-    {
-      "id": "c06d2cf00824",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-21T20:15:58+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.184456+00:00"
-    },
-    {
-      "id": "502072b10c62",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-21T23:44:28+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.184411+00:00"
-    },
-    {
-      "id": "020fc8cb0d6e",
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-22T12:23:05+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.184354+00:00"
-    },
-    {
-      "id": "cbe71413925c",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-21T07:00:00+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.018511+00:00"
-    },
-    {
-      "id": "25363ac68687",
-      "title": "Building standards for the next phase of AI",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-21T10:00:00+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.018467+00:00"
-    },
-    {
-      "id": "7a457bd9c5b4",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-21T12:00:00+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.018419+00:00"
-    },
-    {
-      "id": "aba8f8622ca0",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-21T12:00:00+00:00",
-      "scrapedAt": "2026-09-22T13:16:21.018358+00:00"
-    },
-    {
-      "id": "d185f661c7d1",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-22T11:04:51+00:00",
-      "scrapedAt": "2026-09-22T13:16:20.129354+00:00"
     }
   ]
 }
