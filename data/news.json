@@ -1,6 +1,211 @@
 {
-  "lastUpdated": "2026-09-29T14:45:47.708869+00:00",
+  "lastUpdated": "2026-09-30T14:48:28.510141+00:00",
   "articles": [
+    {
+      "id": "62b98c10049f",
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+      "summary": "arXiv:2609.35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existi",
+      "url": "https://arxiv.org/abs/2609.35799",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-09-30T00:00:00-04:00",
+      "scrapedAt": "2026-09-30T14:47:32.017900+00:00"
+    },
+    {
+      "id": "3a556bd4fc98",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T17:45:51+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.007222+00:00"
+    },
+    {
+      "id": "b7ee266b3aff",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T18:35:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.007156+00:00"
+    },
+    {
+      "id": "9a1635790555",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T19:52:37+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.007088+00:00"
+    },
+    {
+      "id": "6a33aca726c7",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T20:15:47+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.007022+00:00"
+    },
+    {
+      "id": "c91d4895c865",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T22:20:59+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.006950+00:00"
+    },
+    {
+      "id": "c29c6d0a2ff6",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T23:30:55+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.006875+00:00"
+    },
+    {
+      "id": "8d5d6dc5b1a2",
+      "title": "Airbnb adds AI search, more social features",
+      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T12:00:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.006804+00:00"
+    },
+    {
+      "id": "4a0e5455f746",
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T14:15:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.006731+00:00"
+    },
+    {
+      "id": "34681645bc63",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "summary": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T14:27:11+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.006626+00:00"
+    },
+    {
+      "id": "22f81ff4d3ed",
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints di",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T14:30:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:31.006540+00:00"
+    },
+    {
+      "id": "f806dd97b317",
+      "title": "Introducing dots",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "url": "https://openai.com/index/introducing-dots",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-29T00:00:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:30.895527+00:00"
+    },
+    {
+      "id": "66cfd105295e",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:30.895447+00:00"
+    },
+    {
+      "id": "dd3f81de3324",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:30.895358+00:00"
+    },
+    {
+      "id": "a46be6ddc0e0",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "summary": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-14T19:00:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:30.175925+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "7c45bd626bd2",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-15T13:00:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:30.175902+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "02a684446e86",
+      "title": "AI for everyone in every language",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-15T16:00:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:30.175809+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "b5ab0b9d7814",
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-15T16:00:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:30.175712+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a56de3e90322",
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-15T16:00:00+00:00",
+      "scrapedAt": "2026-09-30T14:47:30.175587+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"
+    },
+    {
+      "id": "249c91905a11",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face , OpenAI is still putting out fires. A steady d",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T10:40:30+00:00",
+      "scrapedAt": "2026-09-30T14:47:29.842780+00:00"
+    },
     {
       "id": "99c674f70f3c",
       "title": "Shopify opens checkout to browser-based AI agents",
@@ -1205,212 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-09-23T09:00:00+00:00",
       "scrapedAt": "2026-09-24T13:26:10.944078+00:00"
-    },
-    {
-      "id": "5f66f04bf85f",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-22T23:21:49+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.231804+00:00"
-    },
-    {
-      "id": "f47b4ba2b456",
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T04:59:08+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.231726+00:00"
-    },
-    {
-      "id": "ca7a2de7d13c",
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
-      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T12:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.231620+00:00"
-    },
-    {
-      "id": "8c72904f696c",
-      "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations",
-      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T13:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.231534+00:00"
-    },
-    {
-      "id": "5a9917ede729",
-      "title": "Priorities and principles for effective third party assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.181234+00:00"
-    },
-    {
-      "id": "81928ec12dd8",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-22T12:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.181156+00:00"
-    },
-    {
-      "id": "c4259d8daf82",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-22T18:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.181077+00:00"
-    },
-    {
-      "id": "991bdfde2b40",
-      "title": "Better prompt caching for GPT-6",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-22T21:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.181002+00:00"
-    },
-    {
-      "id": "908e58821743",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T00:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.180923+00:00"
-    },
-    {
-      "id": "7d0f5cd5753d",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T13:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:38.180835+00:00"
-    },
-    {
-      "id": "f8a70a087364",
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-14T16:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.520136+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "a46be6ddc0e0",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "summary": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-14T19:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.520040+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "7c45bd626bd2",
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-15T13:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.520018+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "02a684446e86",
-      "title": "AI for everyone in every language",
-      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.519925+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "b5ab0b9d7814",
-      "title": "Building AI to accelerate science and improve lives",
-      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.519828+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "a56de3e90322",
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.519722+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"
-    },
-    {
-      "id": "03f235e72691",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-15T10:00:00+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.184875+00:00"
-    },
-    {
-      "id": "c733aaf01135",
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremonger",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-15T17:47:51+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.180855+00:00"
-    },
-    {
-      "id": "c81fa26a50d6",
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-16T12:47:34+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.179700+00:00"
-    },
-    {
-      "id": "fbbb2f4877db",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save live",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-22T13:42:05+00:00",
-      "scrapedAt": "2026-09-23T13:31:37.128180+00:00"
     }
   ]
 }
