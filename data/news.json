@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-09-30T14:48:28.510141+00:00",
+  "lastUpdated": "2026-10-01T15:18:21.020771+00:00",
   "articles": [
+    {
+      "id": "a32183f7cefd",
+      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+      "summary": "arXiv:2609.38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves ",
+      "url": "https://arxiv.org/abs/2609.38346",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-01T00:00:00-04:00",
+      "scrapedAt": "2026-10-01T15:17:25.603871+00:00"
+    },
+    {
+      "id": "0f6f381c8fd0",
+      "title": "CARAT: Do Materials LLMs Reason or Recite?",
+      "summary": "arXiv:2609.38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accur",
+      "url": "https://arxiv.org/abs/2609.38340",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-01T00:00:00-04:00",
+      "scrapedAt": "2026-10-01T15:17:25.603725+00:00"
+    },
+    {
+      "id": "379f503e864a",
+      "title": "AI Agents are Vulnerable to Radicalization",
+      "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate th",
+      "url": "https://arxiv.org/abs/2609.38296",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-01T00:00:00-04:00",
+      "scrapedAt": "2026-10-01T15:17:25.603601+00:00"
+    },
+    {
+      "id": "a3fe87f677b3",
+      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+      "summary": "arXiv:2609.38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Ex",
+      "url": "https://arxiv.org/abs/2609.38294",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-01T00:00:00-04:00",
+      "scrapedAt": "2026-10-01T15:17:25.603487+00:00"
+    },
+    {
+      "id": "7c06b00ff9c1",
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at ",
+      "url": "https://arxiv.org/abs/2609.38288",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-01T00:00:00-04:00",
+      "scrapedAt": "2026-10-01T15:17:25.603367+00:00"
+    },
+    {
+      "id": "6c51b2e35cbb",
+      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+      "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequ",
+      "url": "https://arxiv.org/abs/2609.38282",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-01T00:00:00-04:00",
+      "scrapedAt": "2026-10-01T15:17:25.603244+00:00"
+    },
+    {
+      "id": "96de1cedcbff",
+      "title": "The ugly economics of consumer AI",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T17:24:45+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.867389+00:00"
+    },
+    {
+      "id": "5713af8d86df",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T17:45:00+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.867278+00:00"
+    },
+    {
+      "id": "7b98304de632",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T18:23:57+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.867172+00:00"
+    },
+    {
+      "id": "b8d72f3674ce",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T19:00:57+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.867030+00:00"
+    },
+    {
+      "id": "1531fa606099",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T21:07:40+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.866921+00:00"
+    },
+    {
+      "id": "b0e8a6f4f58b",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-09-30T23:43:07+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.866812+00:00"
+    },
+    {
+      "id": "28a5cadf6619",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-01T12:00:00+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.866715+00:00"
+    },
+    {
+      "id": "b2aa71ddeef4",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-01T13:00:00+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.866609+00:00"
+    },
+    {
+      "id": "3f4ea9f16a21",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-01T14:00:00+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.866489+00:00"
+    },
+    {
+      "id": "e0ffe3730fa1",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-01T15:12:00+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.866233+00:00"
+    },
+    {
+      "id": "3cfffd6cc9d3",
+      "title": "Helping small businesses put AI to work",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-30T10:00:00+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.817721+00:00"
+    },
+    {
+      "id": "9c5854b8d889",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-30T10:30:00+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.817626+00:00"
+    },
+    {
+      "id": "1862986a9b3d",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-23T18:00:00+00:00",
+      "scrapedAt": "2026-10-01T15:17:24.160631+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "edaeeef0c798",
+      "title": "The AI Hype Index: AI loves cheating",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-23T09:00:00+00:00",
+      "scrapedAt": "2026-10-01T15:17:23.912734+00:00"
+    },
     {
       "id": "62b98c10049f",
       "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
@@ -1209,207 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-09-25T09:16:25+00:00",
       "scrapedAt": "2026-09-25T13:30:10.291050+00:00"
-    },
-    {
-      "id": "0869f53f8a88",
-      "title": "YouTube will let you build your own algorithm with AI",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T14:30:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.209042+00:00"
-    },
-    {
-      "id": "ab0b2d96bb33",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T15:19:30+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.208968+00:00"
-    },
-    {
-      "id": "55b95be9dcae",
-      "title": "Even Americans who use AI every day are worried about it",
-      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T16:49:58+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.208900+00:00"
-    },
-    {
-      "id": "3ecdce7d836a",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T17:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.208834+00:00"
-    },
-    {
-      "id": "237e7ef9dd42",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T19:31:28+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.208766+00:00"
-    },
-    {
-      "id": "a9bbbe61b4b3",
-      "title": "Anthropic says its biology lab has already found something big",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T22:17:39+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.208687+00:00"
-    },
-    {
-      "id": "abe26ab67059",
-      "title": "Meta introduces camera-free AI glasses",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T23:39:44+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.208594+00:00"
-    },
-    {
-      "id": "b3b054f1bbc7",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-24T00:46:17+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.208524+00:00"
-    },
-    {
-      "id": "a58dd3909ca1",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-24T01:13:32+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.208451+00:00"
-    },
-    {
-      "id": "77b59c06fc2c",
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-24T12:54:19+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.208346+00:00"
-    },
-    {
-      "id": "70fc10c11a00",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T01:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.068183+00:00"
-    },
-    {
-      "id": "673e2fde140c",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T02:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.068092+00:00"
-    },
-    {
-      "id": "df8e4437844d",
-      "title": "Introducing MentalHealthBench",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T10:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.068016+00:00"
-    },
-    {
-      "id": "c24a6e6fac61",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T12:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.067937+00:00"
-    },
-    {
-      "id": "01d0ed630f34",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T12:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.067856+00:00"
-    },
-    {
-      "id": "32b5509ca9a6",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T12:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.067761+00:00"
-    },
-    {
-      "id": "7c9a1180e3e3",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T12:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.067635+00:00"
-    },
-    {
-      "id": "cd65d3ae79b3",
-      "title": "Two years of OpenAI Academy",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T16:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:12.067459+00:00"
-    },
-    {
-      "id": "1862986a9b3d",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T18:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:11.372187+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "edaeeef0c798",
-      "title": "The AI Hype Index: AI loves cheating",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T09:00:00+00:00",
-      "scrapedAt": "2026-09-24T13:26:10.944078+00:00"
     }
   ]
 }
