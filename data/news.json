@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-10-05T17:01:29.913116+00:00",
+  "lastUpdated": "2026-10-06T14:57:14.069736+00:00",
   "articles": [
+    {
+      "id": "0737a6a2e370",
+      "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
+      "summary": "arXiv:2610.03966v1 Announce Type: new Abstract: Each run of an AI-driven research system (ADRS) is an expensive search over a vast solution space, and dependable evaluation requires many runs, making ",
+      "url": "https://arxiv.org/abs/2610.03966",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-06T00:00:00-04:00",
+      "scrapedAt": "2026-10-06T14:56:16.558128+00:00"
+    },
+    {
+      "id": "a2a24b9f64d7",
+      "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
+      "summary": "arXiv:2610.03959v1 Announce Type: new Abstract: Recent world action models (WAMs) reuse pretrained video VAEs whose encoder latents directly condition downstream action policies. Quantization must the",
+      "url": "https://arxiv.org/abs/2610.03959",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-06T00:00:00-04:00",
+      "scrapedAt": "2026-10-06T14:56:16.557995+00:00"
+    },
+    {
+      "id": "62020e710d49",
+      "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
+      "summary": "arXiv:2610.03948v1 Announce Type: new Abstract: Autonomous driving decision systems must balance safety, efficiency, and social norms in complex traffic interactions. Philosophical and ethical conside",
+      "url": "https://arxiv.org/abs/2610.03948",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-06T00:00:00-04:00",
+      "scrapedAt": "2026-10-06T14:56:16.557878+00:00"
+    },
+    {
+      "id": "5f31f18839d7",
+      "title": "MLLMs Fail to Refuse when Using Tools Agentically",
+      "summary": "arXiv:2610.03938v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) have recently pushed the frontier of visual reasoning by calling tools such as zooming and tagging. Des",
+      "url": "https://arxiv.org/abs/2610.03938",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-06T00:00:00-04:00",
+      "scrapedAt": "2026-10-06T14:56:16.557752+00:00"
+    },
+    {
+      "id": "f9a9bf53de43",
+      "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
+      "summary": "arXiv:2610.03934v1 Announce Type: new Abstract: Existing analog integrated circuit design benchmarks make two questions hard to answer: whether a model has learned transferable circuit skills rather t",
+      "url": "https://arxiv.org/abs/2610.03934",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-06T00:00:00-04:00",
+      "scrapedAt": "2026-10-06T14:56:16.557633+00:00"
+    },
+    {
+      "id": "1062502cb7c9",
+      "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
+      "summary": "arXiv:2610.03894v1 Announce Type: new Abstract: A deployed LLM agent emits tool calls, queries, and code that can be silently wrong -- by the time the error surfaces, the action has run. Frontier chat",
+      "url": "https://arxiv.org/abs/2610.03894",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-06T00:00:00-04:00",
+      "scrapedAt": "2026-10-06T14:56:16.557498+00:00"
+    },
+    {
+      "id": "ed570d683e95",
+      "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
+      "summary": "arXiv:2610.03888v1 Announce Type: new Abstract: Reconstructing global sea surface pH from sparse observations is critical for monitoring ocean acidification and understanding marine carbon cycling. Tr",
+      "url": "https://arxiv.org/abs/2610.03888",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-06T00:00:00-04:00",
+      "scrapedAt": "2026-10-06T14:56:16.557339+00:00"
+    },
+    {
+      "id": "701ac10653c9",
+      "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
+      "summary": "arXiv:2610.03872v1 Announce Type: new Abstract: AI agents are becoming increasingly capable of generating scientific code, but generating code is not the same as improving the algorithms behind it. Fo",
+      "url": "https://arxiv.org/abs/2610.03872",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-06T00:00:00-04:00",
+      "scrapedAt": "2026-10-06T14:56:16.557199+00:00"
+    },
+    {
+      "id": "d31c63ac3bf4",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-05T17:29:22+00:00",
+      "scrapedAt": "2026-10-06T14:56:15.558425+00:00"
+    },
+    {
+      "id": "1278561c2128",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-05T18:29:00+00:00",
+      "scrapedAt": "2026-10-06T14:56:15.558354+00:00"
+    },
+    {
+      "id": "a8ac03afa12d",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain sepa",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-05T18:54:30+00:00",
+      "scrapedAt": "2026-10-06T14:56:15.558285+00:00"
+    },
+    {
+      "id": "13557b75794f",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-05T19:33:53+00:00",
+      "scrapedAt": "2026-10-06T14:56:15.558212+00:00"
+    },
+    {
+      "id": "212da1d35ed9",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-05T20:36:48+00:00",
+      "scrapedAt": "2026-10-06T14:56:15.558133+00:00"
+    },
+    {
+      "id": "ee1dae2cfdbb",
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-06T14:00:00+00:00",
+      "scrapedAt": "2026-10-06T14:56:15.558058+00:00"
+    },
+    {
+      "id": "8a2aa9dafacd",
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-06T14:00:49+00:00",
+      "scrapedAt": "2026-10-06T14:56:15.557977+00:00"
+    },
+    {
+      "id": "8653701588de",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-06T14:33:16+00:00",
+      "scrapedAt": "2026-10-06T14:56:15.557885+00:00"
+    },
+    {
+      "id": "c5edbf462ded",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-28T19:00:00+00:00",
+      "scrapedAt": "2026-10-06T14:56:14.743184+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "f073d5eb416e",
+      "title": "When can we say AI made a scientific discovery?",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last Wednesday, Anthropic announced that earlier this year it",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-28T17:03:16+00:00",
+      "scrapedAt": "2026-10-06T14:56:14.466619+00:00"
+    },
+    {
+      "id": "8cdbfa70b90a",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-28T22:17:07+00:00",
+      "scrapedAt": "2026-10-06T14:56:14.465571+00:00"
+    },
+    {
+      "id": "2665823bec02",
+      "title": "Making AI an asset, not an expense",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-09-29T10:43:45+00:00",
+      "scrapedAt": "2026-10-06T14:56:14.464399+00:00"
+    },
     {
       "id": "4c191cfa34c5",
       "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
@@ -1210,207 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-09-30T10:40:30+00:00",
       "scrapedAt": "2026-09-30T14:47:29.842780+00:00"
-    },
-    {
-      "id": "99c674f70f3c",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-28T19:33:57+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.180167+00:00"
-    },
-    {
-      "id": "6004394fcd29",
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-28T20:39:33+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.180091+00:00"
-    },
-    {
-      "id": "b30ea06fa8e9",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-28T21:29:18+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.180014+00:00"
-    },
-    {
-      "id": "df051edc9234",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-28T23:39:20+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.179912+00:00"
-    },
-    {
-      "id": "71c7b9385ab3",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-29T00:30:00+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.179842+00:00"
-    },
-    {
-      "id": "f5aa58f3c193",
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-29T05:13:43+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.179766+00:00"
-    },
-    {
-      "id": "d95cf6211dbd",
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-29T12:30:00+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.179685+00:00"
-    },
-    {
-      "id": "a7b614b11789",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-29T12:45:05+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.179613+00:00"
-    },
-    {
-      "id": "cefc4301c056",
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-29T13:47:30+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.179537+00:00"
-    },
-    {
-      "id": "2acce7e829ee",
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-29T13:53:01+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.179449+00:00"
-    },
-    {
-      "id": "d7db80e019a5",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-28T00:00:00+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.128211+00:00"
-    },
-    {
-      "id": "f8842226a05e",
-      "title": "Are you a Codex Original?",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program",
-      "url": "https://openai.com/form/codex-originals",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-28T00:00:00+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.128135+00:00"
-    },
-    {
-      "id": "9888749a7874",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-28T07:00:00+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.128045+00:00"
-    },
-    {
-      "id": "f95544b597e0",
-      "title": "Towards safety cases for frontier AI training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-28T19:00:00+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.127939+00:00"
-    },
-    {
-      "id": "2c968f6bfde3",
-      "title": "How we will do better for Australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-28T19:00:00+00:00",
-      "scrapedAt": "2026-09-29T14:44:49.127839+00:00"
-    },
-    {
-      "id": "c5edbf462ded",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-28T19:00:00+00:00",
-      "scrapedAt": "2026-09-29T14:44:48.475609+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "d185f661c7d1",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-22T11:04:51+00:00",
-      "scrapedAt": "2026-09-29T14:44:48.163701+00:00"
-    },
-    {
-      "id": "f073d5eb416e",
-      "title": "When can we say AI made a scientific discovery?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last Wednesday, Anthropic announced that earlier this year it",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-28T17:03:16+00:00",
-      "scrapedAt": "2026-09-29T14:44:48.156657+00:00"
-    },
-    {
-      "id": "8cdbfa70b90a",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and ap",
-      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-28T22:17:07+00:00",
-      "scrapedAt": "2026-09-29T14:44:48.155489+00:00"
-    },
-    {
-      "id": "2665823bec02",
-      "title": "Making AI an asset, not an expense",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-29T10:43:45+00:00",
-      "scrapedAt": "2026-09-29T14:44:48.154225+00:00"
     }
   ]
 }
