@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-10-07T15:24:55.199496+00:00",
+  "lastUpdated": "2026-10-08T15:27:21.955115+00:00",
   "articles": [
+    {
+      "id": "c4ae00df7eff",
+      "title": "An Empirical Study of Agent Skills' Downstream Utility",
+      "summary": "arXiv:2610.08875v1 Announce Type: new Abstract: Agent Skills package procedural guidance and resources for reuse, but a relevant Skill does not necessarily improve task performance. Existing studies c",
+      "url": "https://arxiv.org/abs/2610.08875",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-08T00:00:00-04:00",
+      "scrapedAt": "2026-10-08T15:26:24.696128+00:00"
+    },
+    {
+      "id": "583bdaf41626",
+      "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
+      "summary": "arXiv:2610.08814v1 Announce Type: new Abstract: Compositional generalization remains challenging when language models must combine familiar reasoning operations in unfamiliar ways. The Scenario-Based ",
+      "url": "https://arxiv.org/abs/2610.08814",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-08T00:00:00-04:00",
+      "scrapedAt": "2026-10-08T15:26:24.695960+00:00"
+    },
+    {
+      "id": "e7474729f7f0",
+      "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+      "summary": "arXiv:2610.08808v1 Announce Type: new Abstract: Satisfiability Modulo Theories (SMT) solvers are foundational to software verification, program analysis, and compiler testing, particularly over the th",
+      "url": "https://arxiv.org/abs/2610.08808",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-08T00:00:00-04:00",
+      "scrapedAt": "2026-10-08T15:26:24.695849+00:00"
+    },
+    {
+      "id": "aa0a48b5450b",
+      "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
+      "summary": "arXiv:2610.08793v1 Announce Type: new Abstract: Enterprise systems increasingly rely on automated workflows, yet many AI-driven solutions remain brittle under non-stationary conditions, evolving polic",
+      "url": "https://arxiv.org/abs/2610.08793",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-08T00:00:00-04:00",
+      "scrapedAt": "2026-10-08T15:26:24.695716+00:00"
+    },
+    {
+      "id": "b81f72b7c1ca",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-07T18:00:19+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.265023+00:00"
+    },
+    {
+      "id": "d15468da1732",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-07T18:15:28+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.264976+00:00"
+    },
+    {
+      "id": "7d49c27e2bd0",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-07T18:30:57+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.264919+00:00"
+    },
+    {
+      "id": "eb599b08c7e3",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-07T20:22:37+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.264864+00:00"
+    },
+    {
+      "id": "1d6dcd635bc7",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-07T20:48:45+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.264809+00:00"
+    },
+    {
+      "id": "b1d93fd5f45c",
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-08T13:20:32+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.264760+00:00"
+    },
+    {
+      "id": "49a73efd5324",
+      "title": "Google releases a new local-first Granola competitor",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-08T13:28:39+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.264703+00:00"
+    },
+    {
+      "id": "87922315e033",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-08T14:00:00+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.264640+00:00"
+    },
+    {
+      "id": "de7afd375142",
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-08T14:00:00+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.264578+00:00"
+    },
+    {
+      "id": "ebcd79fc8325",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-08T15:00:00+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.264492+00:00"
+    },
+    {
+      "id": "3775ba35f5d8",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-07T00:00:00+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.205876+00:00"
+    },
+    {
+      "id": "e0aa27ac242d",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "url": "https://openai.com/index/radisson",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.205803+00:00"
+    },
+    {
+      "id": "2283ab4e5d08",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-07T12:00:00+00:00",
+      "scrapedAt": "2026-10-08T15:26:24.205719+00:00"
+    },
+    {
+      "id": "1862986a9b3d",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-23T18:00:00+00:00",
+      "scrapedAt": "2026-10-08T15:26:23.638084+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "a80a806ab603",
+      "title": "Building a safer path to autonomous industrial AI",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-08T08:17:32+00:00",
+      "scrapedAt": "2026-10-08T15:26:23.175295+00:00"
+    },
+    {
+      "id": "488361a6555f",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine , a non-profit research foundation that creates and supports content about how technology and science are changing the way we li",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-08T09:00:00+00:00",
+      "scrapedAt": "2026-10-08T15:26:23.171020+00:00"
+    },
     {
       "id": "6e7f5a33c83f",
       "title": "Teaching Agents to Code Reliably",
@@ -1209,207 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-10-02T08:00:00+00:00",
       "scrapedAt": "2026-10-02T14:37:01.200223+00:00"
-    },
-    {
-      "id": "a32183f7cefd",
-      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-      "summary": "arXiv:2609.38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves ",
-      "url": "https://arxiv.org/abs/2609.38346",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-01T00:00:00-04:00",
-      "scrapedAt": "2026-10-01T15:17:25.603871+00:00"
-    },
-    {
-      "id": "0f6f381c8fd0",
-      "title": "CARAT: Do Materials LLMs Reason or Recite?",
-      "summary": "arXiv:2609.38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accur",
-      "url": "https://arxiv.org/abs/2609.38340",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-01T00:00:00-04:00",
-      "scrapedAt": "2026-10-01T15:17:25.603725+00:00"
-    },
-    {
-      "id": "379f503e864a",
-      "title": "AI Agents are Vulnerable to Radicalization",
-      "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate th",
-      "url": "https://arxiv.org/abs/2609.38296",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-01T00:00:00-04:00",
-      "scrapedAt": "2026-10-01T15:17:25.603601+00:00"
-    },
-    {
-      "id": "a3fe87f677b3",
-      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-      "summary": "arXiv:2609.38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Ex",
-      "url": "https://arxiv.org/abs/2609.38294",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-01T00:00:00-04:00",
-      "scrapedAt": "2026-10-01T15:17:25.603487+00:00"
-    },
-    {
-      "id": "7c06b00ff9c1",
-      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at ",
-      "url": "https://arxiv.org/abs/2609.38288",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-01T00:00:00-04:00",
-      "scrapedAt": "2026-10-01T15:17:25.603367+00:00"
-    },
-    {
-      "id": "6c51b2e35cbb",
-      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-      "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequ",
-      "url": "https://arxiv.org/abs/2609.38282",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-01T00:00:00-04:00",
-      "scrapedAt": "2026-10-01T15:17:25.603244+00:00"
-    },
-    {
-      "id": "96de1cedcbff",
-      "title": "The ugly economics of consumer AI",
-      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-30T17:24:45+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.867389+00:00"
-    },
-    {
-      "id": "5713af8d86df",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-30T17:45:00+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.867278+00:00"
-    },
-    {
-      "id": "7b98304de632",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-30T18:23:57+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.867172+00:00"
-    },
-    {
-      "id": "b8d72f3674ce",
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-30T19:00:57+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.867030+00:00"
-    },
-    {
-      "id": "1531fa606099",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-30T21:07:40+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.866921+00:00"
-    },
-    {
-      "id": "b0e8a6f4f58b",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-09-30T23:43:07+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.866812+00:00"
-    },
-    {
-      "id": "28a5cadf6619",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-01T12:00:00+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.866715+00:00"
-    },
-    {
-      "id": "b2aa71ddeef4",
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-01T13:00:00+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.866609+00:00"
-    },
-    {
-      "id": "3f4ea9f16a21",
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-01T14:00:00+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.866489+00:00"
-    },
-    {
-      "id": "e0ffe3730fa1",
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-01T15:12:00+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.866233+00:00"
-    },
-    {
-      "id": "3cfffd6cc9d3",
-      "title": "Helping small businesses put AI to work",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-30T10:00:00+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.817721+00:00"
-    },
-    {
-      "id": "9c5854b8d889",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-30T10:30:00+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.817626+00:00"
-    },
-    {
-      "id": "1862986a9b3d",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T18:00:00+00:00",
-      "scrapedAt": "2026-10-01T15:17:24.160631+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "edaeeef0c798",
-      "title": "The AI Hype Index: AI loves cheating",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-09-23T09:00:00+00:00",
-      "scrapedAt": "2026-10-01T15:17:23.912734+00:00"
     }
   ]
 }
