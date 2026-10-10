@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-10-09T15:10:03.951252+00:00",
+  "lastUpdated": "2026-10-10T14:23:25.337299+00:00",
   "articles": [
+    {
+      "id": "9f41af4001c2",
+      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+      "summary": "arXiv:2610.10805v1 Announce Type: new Abstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developi",
+      "url": "https://arxiv.org/abs/2610.10805",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-10T00:00:00-04:00",
+      "scrapedAt": "2026-10-10T14:22:29.363460+00:00"
+    },
+    {
+      "id": "fbe70a862465",
+      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+      "summary": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcom",
+      "url": "https://arxiv.org/abs/2610.10786",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-10T00:00:00-04:00",
+      "scrapedAt": "2026-10-10T14:22:29.363352+00:00"
+    },
+    {
+      "id": "8116facf9c60",
+      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+      "summary": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-",
+      "url": "https://arxiv.org/abs/2610.10635",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-10T00:00:00-04:00",
+      "scrapedAt": "2026-10-10T14:22:29.363230+00:00"
+    },
+    {
+      "id": "e4936367b4fb",
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "summary": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a",
+      "url": "https://arxiv.org/abs/2610.10629",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-10T00:00:00-04:00",
+      "scrapedAt": "2026-10-10T14:22:29.363130+00:00"
+    },
+    {
+      "id": "3fb2ac511251",
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "summary": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score ",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-10T00:00:00-04:00",
+      "scrapedAt": "2026-10-10T14:22:29.362990+00:00"
+    },
+    {
+      "id": "45f0b0a94f36",
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "summary": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetti",
+      "url": "https://arxiv.org/abs/2610.10590",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-10T00:00:00-04:00",
+      "scrapedAt": "2026-10-10T14:22:29.362851+00:00"
+    },
+    {
+      "id": "990300040d94",
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and leg",
+      "url": "https://arxiv.org/abs/2610.10549",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-10T00:00:00-04:00",
+      "scrapedAt": "2026-10-10T14:22:29.362715+00:00"
+    },
+    {
+      "id": "80b34c260cbb",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T15:43:33+00:00",
+      "scrapedAt": "2026-10-10T14:22:28.593258+00:00"
+    },
+    {
+      "id": "3b30e472897b",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T16:40:14+00:00",
+      "scrapedAt": "2026-10-10T14:22:28.593186+00:00"
+    },
+    {
+      "id": "50fcb2172953",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T16:45:00+00:00",
+      "scrapedAt": "2026-10-10T14:22:28.593109+00:00"
+    },
+    {
+      "id": "3b4ff5aa887e",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against ",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T16:53:02+00:00",
+      "scrapedAt": "2026-10-10T14:22:28.593030+00:00"
+    },
+    {
+      "id": "3819199f8639",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against ",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T16:56:42+00:00",
+      "scrapedAt": "2026-10-10T14:22:28.592886+00:00"
+    },
+    {
+      "id": "e09bca746ce3",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T19:36:56+00:00",
+      "scrapedAt": "2026-10-10T14:22:28.578748+00:00"
+    },
+    {
+      "id": "6609f1addbf3",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T21:41:29+00:00",
+      "scrapedAt": "2026-10-10T14:22:28.578647+00:00"
+    },
+    {
+      "id": "3fc0fe8ac680",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T00:18:32+00:00",
+      "scrapedAt": "2026-10-10T14:22:28.578554+00:00"
+    },
+    {
+      "id": "dc4e32e77a50",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "scrapedAt": "2026-10-10T14:22:28.393384+00:00"
+    },
+    {
+      "id": "abcde6029873",
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T13:00:00+00:00",
+      "scrapedAt": "2026-10-10T14:22:27.701074+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3dd23fb96608",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T14:00:00+00:00",
+      "scrapedAt": "2026-10-10T14:22:27.700982+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "bfe2b156957e",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-02T15:00:00+00:00",
+      "scrapedAt": "2026-10-10T14:22:27.700756+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "ed9dd57bde82",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-02T15:49:04+00:00",
+      "scrapedAt": "2026-10-10T14:22:27.435000+00:00"
+    },
     {
       "id": "3459dc51c7e5",
       "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
@@ -1207,209 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-10-03T18:43:57+00:00",
       "scrapedAt": "2026-10-04T13:51:07.349980+00:00"
-    },
-    {
-      "id": "1f69f98b0809",
-      "title": "AI hallucinations are making entitled customers even worse",
-      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, a",
-      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T08:00:00-04:00",
-      "scrapedAt": "2026-10-03T13:12:37.832441+00:00"
-    },
-    {
-      "id": "0b9a6f90fd4c",
-      "title": "Breaking up (with Elon Musk) is hard to do",
-      "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Al",
-      "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T13:37:36-04:00",
-      "scrapedAt": "2026-10-03T13:12:37.832100+00:00"
-    },
-    {
-      "id": "edef5e5d6249",
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "summary": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge It's a tale as old as last week: OpenAI's new agent platform , called Dots, is full of cute little guys who can do your biddin",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T14:00:00-04:00",
-      "scrapedAt": "2026-10-03T13:12:37.831422+00:00"
-    },
-    {
-      "id": "f9df9058658b",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch . In an update on Friday , Apple says it's rolling out new controls t",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T16:08:40-04:00",
-      "scrapedAt": "2026-10-03T13:12:37.830929+00:00"
-    },
-    {
-      "id": "572d71e25752",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced . The company suggests projects like loading Muse on a color E Ink display ",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T17:08:37-04:00",
-      "scrapedAt": "2026-10-03T13:12:37.830323+00:00"
-    },
-    {
-      "id": "acfe1bdd02da",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope ",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T15:39:41+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.334566+00:00"
-    },
-    {
-      "id": "0b1cf3414054",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve tha",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T17:00:00+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.334428+00:00"
-    },
-    {
-      "id": "03c99bd3ec42",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T17:32:05+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.334350+00:00"
-    },
-    {
-      "id": "398e0e7a6913",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T17:48:16+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.334267+00:00"
-    },
-    {
-      "id": "cf700e075881",
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T17:56:00+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.334098+00:00"
-    },
-    {
-      "id": "6a225a11d9fc",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T18:11:27+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.321277+00:00"
-    },
-    {
-      "id": "ca751af23b3a",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T19:15:51+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.321196+00:00"
-    },
-    {
-      "id": "f8f9945809c1",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T21:09:14+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.321122+00:00"
-    },
-    {
-      "id": "c0e86fd993a7",
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-03T00:45:39+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.321029+00:00"
-    },
-    {
-      "id": "f5331f1181a0",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-02T00:00:00+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.230320+00:00"
-    },
-    {
-      "id": "d8bea22f6536",
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-02T16:15:00+00:00",
-      "scrapedAt": "2026-10-03T13:12:37.230226+00:00"
-    },
-    {
-      "id": "abcde6029873",
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-18T13:00:00+00:00",
-      "scrapedAt": "2026-10-03T13:12:36.554269+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "3dd23fb96608",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-18T14:00:00+00:00",
-      "scrapedAt": "2026-10-03T13:12:36.554178+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "bfe2b156957e",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-02T15:00:00+00:00",
-      "scrapedAt": "2026-10-03T13:12:36.553939+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ed9dd57bde82",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T15:49:04+00:00",
-      "scrapedAt": "2026-10-03T13:12:36.292898+00:00"
     }
   ]
 }
