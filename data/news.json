@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-10-10T14:23:25.337299+00:00",
+  "lastUpdated": "2026-10-11T14:50:01.548065+00:00",
   "articles": [
+    {
+      "id": "eec969237e89",
+      "title": "Inside Elon Musk’s Midterm Spending Spree",
+      "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-08T21:14:12+00:00",
+      "scrapedAt": "2026-10-11T14:49:05.511113+00:00"
+    },
+    {
+      "id": "e321c429f1ed",
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T10:00:00+00:00",
+      "scrapedAt": "2026-10-11T14:49:05.511033+00:00"
+    },
+    {
+      "id": "1e1fb958b26d",
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T19:28:49+00:00",
+      "scrapedAt": "2026-10-11T14:49:05.510951+00:00"
+    },
+    {
+      "id": "907a98ab9517",
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T12:00:00+00:00",
+      "scrapedAt": "2026-10-11T14:49:05.510849+00:00"
+    },
+    {
+      "id": "d736a2a6b253",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-11T11:30:00+00:00",
+      "scrapedAt": "2026-10-11T14:49:05.510765+00:00"
+    },
+    {
+      "id": "d3a475a54b31",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "summary": "Instinct’s agent is always just a text away. Before there were cute little guys , there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no market",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T10:00:00-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.354741+00:00"
+    },
+    {
+      "id": "f4d9eec7f132",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" ",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T10:25:43-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.354213+00:00"
+    },
+    {
+      "id": "b54eaa9c1d3d",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "summary": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the compe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T14:06:57-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.353807+00:00"
+    },
+    {
+      "id": "f09af30fbfd3",
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T15:09:44-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.353279+00:00"
+    },
+    {
+      "id": "5b834ed3369b",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the P",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-09T17:15:38-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.352849+00:00"
+    },
+    {
+      "id": "65008a0b40da",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T09:00:00-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.352435+00:00"
+    },
+    {
+      "id": "f70877e78ccd",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T10:41:16-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.351902+00:00"
+    },
+    {
+      "id": "6cf45b6f27ca",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T14:52:07-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.351431+00:00"
+    },
+    {
+      "id": "05298e9bf640",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "In a lengthy post on X , Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T18:10:17-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.350827+00:00"
+    },
+    {
+      "id": "90bfa0449fc8",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-11T07:00:00-04:00",
+      "scrapedAt": "2026-10-11T14:49:05.350365+00:00"
+    },
+    {
+      "id": "d8d2c1c3d579",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T14:00:00+00:00",
+      "scrapedAt": "2026-10-11T14:49:01.248528+00:00"
+    },
+    {
+      "id": "1a1dace66827",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T15:00:00+00:00",
+      "scrapedAt": "2026-10-11T14:49:01.248450+00:00"
+    },
+    {
+      "id": "719244ff4837",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T19:50:00+00:00",
+      "scrapedAt": "2026-10-11T14:49:01.248371+00:00"
+    },
+    {
+      "id": "a132e85074c4",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-10T21:47:51+00:00",
+      "scrapedAt": "2026-10-11T14:49:01.248299+00:00"
+    },
+    {
+      "id": "1b97ced39af6",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-11T14:00:00+00:00",
+      "scrapedAt": "2026-10-11T14:49:01.248212+00:00"
+    },
     {
       "id": "9f41af4001c2",
       "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-10-05T15:47:52+00:00",
       "scrapedAt": "2026-10-05T17:00:30.197238+00:00"
-    },
-    {
-      "id": "7b3aa5997c42",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf</a>",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-10-03T17:44:29+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.909007+00:00"
-    },
-    {
-      "id": "60a6536fb473",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "summary": "Score: 22 points",
-      "url": "https://github.com/allenv0/SCM",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-10-04T09:24:52+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.464734+00:00"
-    },
-    {
-      "id": "4ebf927afbfa",
-      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-      "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-09-30T20:30:09+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070806+00:00"
-    },
-    {
-      "id": "f1e3c4693d77",
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-01T19:58:31+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070767+00:00"
-    },
-    {
-      "id": "bee91538b8e6",
-      "title": "Whatever AI Safety Is, It’s Not This",
-      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-      "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-01T22:10:42+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070727+00:00"
-    },
-    {
-      "id": "f45e3da94912",
-      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
-      "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T09:30:00+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070688+00:00"
-    },
-    {
-      "id": "de33badfb798",
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T09:45:00+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070648+00:00"
-    },
-    {
-      "id": "2f5e574c459f",
-      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-      "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T15:00:00+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070601+00:00"
-    },
-    {
-      "id": "a485b9d0b30b",
-      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-      "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T16:00:00+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070560+00:00"
-    },
-    {
-      "id": "b42e6c1076f9",
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-03T12:00:00+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070516+00:00"
-    },
-    {
-      "id": "3aae13539faf",
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-03T18:00:00+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070466+00:00"
-    },
-    {
-      "id": "f3c6c81c5c90",
-      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-04T10:00:00+00:00",
-      "scrapedAt": "2026-10-04T13:51:08.070408+00:00"
-    },
-    {
-      "id": "53b624def7e0",
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO ",
-      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T07:52:20-04:00",
-      "scrapedAt": "2026-10-04T13:51:07.963624+00:00"
-    },
-    {
-      "id": "e962ec755261",
-      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, a",
-      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T08:00:00-04:00",
-      "scrapedAt": "2026-10-04T13:51:07.963409+00:00"
-    },
-    {
-      "id": "f8fc0aa18dcc",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic .",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-03T10:31:56-04:00",
-      "scrapedAt": "2026-10-04T13:51:07.961623+00:00"
-    },
-    {
-      "id": "177ca5e89d7b",
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa",
-      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-03T11:00:00-04:00",
-      "scrapedAt": "2026-10-04T13:51:07.961323+00:00"
-    },
-    {
-      "id": "cc9d67938b46",
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "summary": "Capcom's Pragmata might be all about the horrors of AI , but in practice the studio doesn't seem so down on the tech . During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a prese",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-03T12:49:10-04:00",
-      "scrapedAt": "2026-10-04T13:51:07.960873+00:00"
-    },
-    {
-      "id": "6ae30ec75fda",
-      "title": "All the AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-03T14:00:00+00:00",
-      "scrapedAt": "2026-10-04T13:51:07.350095+00:00"
-    },
-    {
-      "id": "6b3471ffae71",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-03T16:30:01+00:00",
-      "scrapedAt": "2026-10-04T13:51:07.350045+00:00"
-    },
-    {
-      "id": "f31587f81232",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-03T18:43:57+00:00",
-      "scrapedAt": "2026-10-04T13:51:07.349980+00:00"
     }
   ]
 }
