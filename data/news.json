@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-10-11T14:50:01.548065+00:00",
+  "lastUpdated": "2026-10-12T17:39:42.911426+00:00",
   "articles": [
+    {
+      "id": "6ded6fa1f276",
+      "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+      "summary": "arXiv:2610.12659v1 Announce Type: new Abstract: Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. However, corpus size alone does not determine whether",
+      "url": "https://arxiv.org/abs/2610.12659",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-12T00:00:00-04:00",
+      "scrapedAt": "2026-10-12T17:38:43.588542+00:00"
+    },
+    {
+      "id": "448132ed84b1",
+      "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+      "summary": "arXiv:2610.12655v1 Announce Type: new Abstract: LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and constraints that users m",
+      "url": "https://arxiv.org/abs/2610.12655",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-12T00:00:00-04:00",
+      "scrapedAt": "2026-10-12T17:38:43.588473+00:00"
+    },
+    {
+      "id": "09489e054f92",
+      "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+      "summary": "arXiv:2610.12598v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) provides reliable supervision for software engineering agents through executable tests, but binary",
+      "url": "https://arxiv.org/abs/2610.12598",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-12T00:00:00-04:00",
+      "scrapedAt": "2026-10-12T17:38:43.588411+00:00"
+    },
+    {
+      "id": "1b94b6587925",
+      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+      "summary": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short a",
+      "url": "https://arxiv.org/abs/2610.12596",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-12T00:00:00-04:00",
+      "scrapedAt": "2026-10-12T17:38:43.588357+00:00"
+    },
+    {
+      "id": "c420fd518bfe",
+      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+      "summary": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents req",
+      "url": "https://arxiv.org/abs/2610.12593",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-12T00:00:00-04:00",
+      "scrapedAt": "2026-10-12T17:38:43.588300+00:00"
+    },
+    {
+      "id": "1975cea7071a",
+      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+      "summary": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that c",
+      "url": "https://arxiv.org/abs/2610.12542",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-12T00:00:00-04:00",
+      "scrapedAt": "2026-10-12T17:38:43.588243+00:00"
+    },
+    {
+      "id": "f5c012de0cc5",
+      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+      "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solution",
+      "url": "https://arxiv.org/abs/2610.12536",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-12T00:00:00-04:00",
+      "scrapedAt": "2026-10-12T17:38:43.588172+00:00"
+    },
+    {
+      "id": "cb3a8d120089",
+      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+      "summary": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of t",
+      "url": "https://arxiv.org/abs/2610.12493",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-12T00:00:00-04:00",
+      "scrapedAt": "2026-10-12T17:38:43.588101+00:00"
+    },
+    {
+      "id": "0cb44539674b",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-11T16:52:33+00:00",
+      "scrapedAt": "2026-10-12T17:38:43.074159+00:00"
+    },
+    {
+      "id": "c99af546fb45",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-11T19:00:00+00:00",
+      "scrapedAt": "2026-10-12T17:38:43.074128+00:00"
+    },
+    {
+      "id": "268296192501",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-11T21:14:40+00:00",
+      "scrapedAt": "2026-10-12T17:38:43.074091+00:00"
+    },
+    {
+      "id": "f1588e6ffbfd",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-12T12:47:59+00:00",
+      "scrapedAt": "2026-10-12T17:38:43.074037+00:00"
+    },
+    {
+      "id": "d9350c73bbc3",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, an",
+      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-12T14:00:00+00:00",
+      "scrapedAt": "2026-10-12T17:38:43.073999+00:00"
+    },
+    {
+      "id": "b32e4e442964",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-12T15:27:59+00:00",
+      "scrapedAt": "2026-10-12T17:38:43.073956+00:00"
+    },
+    {
+      "id": "e9c9ac8e21ac",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-12T15:31:19+00:00",
+      "scrapedAt": "2026-10-12T17:38:43.073920+00:00"
+    },
+    {
+      "id": "7b6bf13f385b",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-12T17:19:14+00:00",
+      "scrapedAt": "2026-10-12T17:38:43.073873+00:00"
+    },
+    {
+      "id": "c8d1f5dc3656",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it inters",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "scrapedAt": "2026-10-12T17:38:41.915966+00:00"
+    },
+    {
+      "id": "cc4fbf263535",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he ",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-05T08:00:00+00:00",
+      "scrapedAt": "2026-10-12T17:38:41.915273+00:00"
+    },
+    {
+      "id": "10d6f4f6fd7b",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-05T13:29:32+00:00",
+      "scrapedAt": "2026-10-12T17:38:41.914730+00:00"
+    },
+    {
+      "id": "16ad415e0c7f",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-05T15:47:52+00:00",
+      "scrapedAt": "2026-10-12T17:38:41.914346+00:00"
+    },
     {
       "id": "eec969237e89",
       "title": "Inside Elon Musk’s Midterm Spending Spree",
@@ -1210,206 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-09-29T10:43:45+00:00",
       "scrapedAt": "2026-10-06T14:56:14.464399+00:00"
-    },
-    {
-      "id": "4c191cfa34c5",
-      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
-      "summary": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, appl",
-      "url": "https://arxiv.org/abs/2610.02300",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-05T00:00:00-04:00",
-      "scrapedAt": "2026-10-05T17:00:32.378207+00:00"
-    },
-    {
-      "id": "f70f0253e78c",
-      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
-      "summary": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed a",
-      "url": "https://arxiv.org/abs/2610.02281",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-05T00:00:00-04:00",
-      "scrapedAt": "2026-10-05T17:00:32.378116+00:00"
-    },
-    {
-      "id": "49d02bf01213",
-      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-      "summary": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input ",
-      "url": "https://arxiv.org/abs/2610.02267",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-05T00:00:00-04:00",
-      "scrapedAt": "2026-10-05T17:00:32.378002+00:00"
-    },
-    {
-      "id": "a024a89ba003",
-      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-      "summary": "arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as obs",
-      "url": "https://arxiv.org/abs/2610.02260",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-05T00:00:00-04:00",
-      "scrapedAt": "2026-10-05T17:00:32.377874+00:00"
-    },
-    {
-      "id": "e580f3108daa",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-04T15:15:10+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.517313+00:00"
-    },
-    {
-      "id": "693ea3f4f734",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-04T20:08:34+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.517264+00:00"
-    },
-    {
-      "id": "072378cdfd56",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-04T20:31:07+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.517212+00:00"
-    },
-    {
-      "id": "a733d4518e7a",
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T12:00:00+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.517160+00:00"
-    },
-    {
-      "id": "6fae5d6111d3",
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T14:00:00+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.517107+00:00"
-    },
-    {
-      "id": "67ee42281144",
-      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-      "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T14:30:00+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.517042+00:00"
-    },
-    {
-      "id": "b70963ac4f5c",
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T14:35:09+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.516976+00:00"
-    },
-    {
-      "id": "78ad6176e726",
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T15:00:00+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.516917+00:00"
-    },
-    {
-      "id": "e36223c0def0",
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T15:14:24+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.516853+00:00"
-    },
-    {
-      "id": "9b91fcda04f7",
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T16:43:35+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.516773+00:00"
-    },
-    {
-      "id": "b0c4983426b3",
-      "title": "Building advertising for the way people use AI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-05T10:00:00+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.386522+00:00"
-    },
-    {
-      "id": "f9545c4ec00f",
-      "title": "Our approach to EU text provenance rules",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-05T15:00:00+00:00",
-      "scrapedAt": "2026-10-05T17:00:31.386443+00:00"
-    },
-    {
-      "id": "c8d1f5dc3656",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it inters",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T04:00:00+00:00",
-      "scrapedAt": "2026-10-05T17:00:30.200072+00:00"
-    },
-    {
-      "id": "cc4fbf263535",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he ",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T08:00:00+00:00",
-      "scrapedAt": "2026-10-05T17:00:30.198871+00:00"
-    },
-    {
-      "id": "10d6f4f6fd7b",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T13:29:32+00:00",
-      "scrapedAt": "2026-10-05T17:00:30.197870+00:00"
-    },
-    {
-      "id": "16ad415e0c7f",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-05T15:47:52+00:00",
-      "scrapedAt": "2026-10-05T17:00:30.197238+00:00"
     }
   ]
 }
