@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-10-17T12:04:38.187841+00:00",
+  "lastUpdated": "2026-10-18T12:32:28.574230+00:00",
   "articles": [
+    {
+      "id": "402db143dc7a",
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+      "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-16T20:05:08+00:00",
+      "scrapedAt": "2026-10-18T12:31:30.923655+00:00"
+    },
+    {
+      "id": "7d9b2fa444f8",
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-17T09:00:00+00:00",
+      "scrapedAt": "2026-10-18T12:31:30.923617+00:00"
+    },
+    {
+      "id": "865e2052912d",
+      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-18T10:30:00+00:00",
+      "scrapedAt": "2026-10-18T12:31:30.923574+00:00"
+    },
+    {
+      "id": "d94e3e69d0c4",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-18T10:30:00+00:00",
+      "scrapedAt": "2026-10-18T12:31:30.923526+00:00"
+    },
+    {
+      "id": "fc7be023ada5",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today , claiming that it's the \"most capable ",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-15T14:15:36-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.769681+00:00"
+    },
+    {
+      "id": "7046ca9567b3",
+      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can the",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-15T15:57:16-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.769421+00:00"
+    },
+    {
+      "id": "287b7f7f97fe",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White H",
+      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-15T17:09:33-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.769114+00:00"
+    },
+    {
+      "id": "37d075d48fef",
+      "title": "The tech backlash is now in theaters",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So",
+      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-15T17:39:52-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.768889+00:00"
+    },
+    {
+      "id": "179bf541be96",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-15T18:35:55-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.768604+00:00"
+    },
+    {
+      "id": "953a262ff105",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone , but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, O",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-15T18:43:23-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.768266+00:00"
+    },
+    {
+      "id": "a1282aae0bec",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab ",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-16T10:02:40-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.767794+00:00"
+    },
+    {
+      "id": "ff1bad63817f",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge Nvidia's RTX Spark N1X pr",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-16T11:00:00-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.767552+00:00"
+    },
+    {
+      "id": "657279cf248c",
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation a",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-17T09:00:00-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.767335+00:00"
+    },
+    {
+      "id": "39a7adebb3b0",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no lo",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-17T11:04:36-04:00",
+      "scrapedAt": "2026-10-18T12:31:30.766986+00:00"
+    },
+    {
+      "id": "5329074f8958",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-17T18:48:08+00:00",
+      "scrapedAt": "2026-10-18T12:31:30.163726+00:00"
+    },
+    {
+      "id": "c2a828c7429b",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-17T20:21:19+00:00",
+      "scrapedAt": "2026-10-18T12:31:30.163690+00:00"
+    },
+    {
+      "id": "24a6bb2519a4",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-17T21:31:32+00:00",
+      "scrapedAt": "2026-10-18T12:31:30.163638+00:00"
+    },
+    {
+      "id": "abcde6029873",
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T13:00:00+00:00",
+      "scrapedAt": "2026-10-18T12:31:29.499679+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3dd23fb96608",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T14:00:00+00:00",
+      "scrapedAt": "2026-10-18T12:31:29.499635+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "bfe2b156957e",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-02T15:00:00+00:00",
+      "scrapedAt": "2026-10-18T12:31:29.499523+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
+    },
     {
       "id": "8074142982b0",
       "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
@@ -1407,209 +1610,6 @@
       "category": "product",
       "publishedAt": "2026-10-11T14:00:00+00:00",
       "scrapedAt": "2026-10-11T14:49:01.248212+00:00"
-    },
-    {
-      "id": "9f41af4001c2",
-      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-      "summary": "arXiv:2610.10805v1 Announce Type: new Abstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developi",
-      "url": "https://arxiv.org/abs/2610.10805",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-10T00:00:00-04:00",
-      "scrapedAt": "2026-10-10T14:22:29.363460+00:00"
-    },
-    {
-      "id": "fbe70a862465",
-      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-      "summary": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcom",
-      "url": "https://arxiv.org/abs/2610.10786",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-10T00:00:00-04:00",
-      "scrapedAt": "2026-10-10T14:22:29.363352+00:00"
-    },
-    {
-      "id": "8116facf9c60",
-      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-      "summary": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-",
-      "url": "https://arxiv.org/abs/2610.10635",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-10T00:00:00-04:00",
-      "scrapedAt": "2026-10-10T14:22:29.363230+00:00"
-    },
-    {
-      "id": "e4936367b4fb",
-      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "summary": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a",
-      "url": "https://arxiv.org/abs/2610.10629",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-10T00:00:00-04:00",
-      "scrapedAt": "2026-10-10T14:22:29.363130+00:00"
-    },
-    {
-      "id": "3fb2ac511251",
-      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "summary": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score ",
-      "url": "https://arxiv.org/abs/2610.10611",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-10T00:00:00-04:00",
-      "scrapedAt": "2026-10-10T14:22:29.362990+00:00"
-    },
-    {
-      "id": "45f0b0a94f36",
-      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-      "summary": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetti",
-      "url": "https://arxiv.org/abs/2610.10590",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-10T00:00:00-04:00",
-      "scrapedAt": "2026-10-10T14:22:29.362851+00:00"
-    },
-    {
-      "id": "990300040d94",
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and leg",
-      "url": "https://arxiv.org/abs/2610.10549",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-10T00:00:00-04:00",
-      "scrapedAt": "2026-10-10T14:22:29.362715+00:00"
-    },
-    {
-      "id": "80b34c260cbb",
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-09T15:43:33+00:00",
-      "scrapedAt": "2026-10-10T14:22:28.593258+00:00"
-    },
-    {
-      "id": "3b30e472897b",
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-09T16:40:14+00:00",
-      "scrapedAt": "2026-10-10T14:22:28.593186+00:00"
-    },
-    {
-      "id": "50fcb2172953",
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-09T16:45:00+00:00",
-      "scrapedAt": "2026-10-10T14:22:28.593109+00:00"
-    },
-    {
-      "id": "3b4ff5aa887e",
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against ",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-09T16:53:02+00:00",
-      "scrapedAt": "2026-10-10T14:22:28.593030+00:00"
-    },
-    {
-      "id": "3819199f8639",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against ",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-09T16:56:42+00:00",
-      "scrapedAt": "2026-10-10T14:22:28.592886+00:00"
-    },
-    {
-      "id": "e09bca746ce3",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-09T19:36:56+00:00",
-      "scrapedAt": "2026-10-10T14:22:28.578748+00:00"
-    },
-    {
-      "id": "6609f1addbf3",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-09T21:41:29+00:00",
-      "scrapedAt": "2026-10-10T14:22:28.578647+00:00"
-    },
-    {
-      "id": "3fc0fe8ac680",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-10T00:18:32+00:00",
-      "scrapedAt": "2026-10-10T14:22:28.578554+00:00"
-    },
-    {
-      "id": "dc4e32e77a50",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "scrapedAt": "2026-10-10T14:22:28.393384+00:00"
-    },
-    {
-      "id": "abcde6029873",
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-18T13:00:00+00:00",
-      "scrapedAt": "2026-10-10T14:22:27.701074+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "3dd23fb96608",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-18T14:00:00+00:00",
-      "scrapedAt": "2026-10-10T14:22:27.700982+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "bfe2b156957e",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-02T15:00:00+00:00",
-      "scrapedAt": "2026-10-10T14:22:27.700756+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ed9dd57bde82",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-02T15:49:04+00:00",
-      "scrapedAt": "2026-10-10T14:22:27.435000+00:00"
     }
   ]
 }
