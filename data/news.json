@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-10-20T13:28:46.383627+00:00",
+  "lastUpdated": "2026-10-21T13:37:48.478107+00:00",
   "articles": [
+    {
+      "id": "de4b0bf4f3d6",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T16:20:06+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738797+00:00"
+    },
+    {
+      "id": "e272af73262f",
+      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T17:12:48+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738755+00:00"
+    },
+    {
+      "id": "4ef62f095ce7",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T17:55:12+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738725+00:00"
+    },
+    {
+      "id": "dd509f4a2f7d",
+      "title": "ChatGPT now lets you lock your chats",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T18:36:53+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738690+00:00"
+    },
+    {
+      "id": "4d8868e651d1",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T18:38:24+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738656+00:00"
+    },
+    {
+      "id": "b275807812b7",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T20:35:10+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738625+00:00"
+    },
+    {
+      "id": "d0ed25b4adb5",
+      "title": "SpaceX’s AI business is beating expectations",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T20:40:41+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738588+00:00"
+    },
+    {
+      "id": "b14d2c98d7d9",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T21:25:22+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738556+00:00"
+    },
+    {
+      "id": "df88e4093e3a",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T22:24:02+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738520+00:00"
+    },
+    {
+      "id": "d1819ab5c66e",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T23:01:23+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.738473+00:00"
+    },
+    {
+      "id": "1ce5d96638a6",
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.642367+00:00"
+    },
+    {
+      "id": "7b80adca1cfe",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "url": "https://openai.com/index/terminal-x",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.642321+00:00"
+    },
+    {
+      "id": "afe39255e323",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-20T10:00:00+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.642278+00:00"
+    },
+    {
+      "id": "707234813354",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-21T12:00:00+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.642223+00:00"
+    },
+    {
+      "id": "c5edbf462ded",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-28T19:00:00+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.153243+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "aff2c9dc3dc0",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-13T16:00:00+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.153129+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "aec1886eb4d5",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-21T04:00:00+00:00",
+      "scrapedAt": "2026-10-21T13:36:49.153059+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "4cdfa2663efa",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-13T09:00:00+00:00",
+      "scrapedAt": "2026-10-21T13:36:48.665437+00:00"
+    },
+    {
+      "id": "bbd5ea6a191c",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here . Late las",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-13T10:00:00+00:00",
+      "scrapedAt": "2026-10-21T13:36:48.664946+00:00"
+    },
+    {
+      "id": "eb9c98f8c73a",
+      "title": "The new economics of enterprise AI",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity become",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T15:20:25+00:00",
+      "scrapedAt": "2026-10-21T13:36:48.657177+00:00"
+    },
     {
       "id": "efa7f96acebb",
       "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
@@ -1208,408 +1411,6 @@
       "publishedAt": "2026-10-07T12:00:00+00:00",
       "scrapedAt": "2026-10-15T13:14:04.179465+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ce8115c66fc4",
-      "title": "Unconstrained CTI-REALM with Open-Weights",
-      "summary": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and f",
-      "url": "https://arxiv.org/abs/2610.14180",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-14T00:00:00-04:00",
-      "scrapedAt": "2026-10-14T13:30:28.033862+00:00"
-    },
-    {
-      "id": "7d7e1fde5bed",
-      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and ve",
-      "url": "https://arxiv.org/abs/2610.14149",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-14T00:00:00-04:00",
-      "scrapedAt": "2026-10-14T13:30:28.033791+00:00"
-    },
-    {
-      "id": "edaad77106e5",
-      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its fin",
-      "url": "https://arxiv.org/abs/2610.14146",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-14T00:00:00-04:00",
-      "scrapedAt": "2026-10-14T13:30:28.033747+00:00"
-    },
-    {
-      "id": "fe44d017e0ce",
-      "title": "Correction Training for Diffusion Models",
-      "summary": "arXiv:2610.14136v1 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noi",
-      "url": "https://arxiv.org/abs/2610.14136",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-14T00:00:00-04:00",
-      "scrapedAt": "2026-10-14T13:30:28.033684+00:00"
-    },
-    {
-      "id": "4e3c5ace699d",
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents op",
-      "url": "https://arxiv.org/abs/2610.14118",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-14T00:00:00-04:00",
-      "scrapedAt": "2026-10-14T13:30:28.033614+00:00"
-    },
-    {
-      "id": "a5fdb76aa72c",
-      "title": "The Silent Failures in Agentic Data Science",
-      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents tha",
-      "url": "https://arxiv.org/abs/2610.14115",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-14T00:00:00-04:00",
-      "scrapedAt": "2026-10-14T13:30:28.033541+00:00"
-    },
-    {
-      "id": "173546e33310",
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or satura",
-      "url": "https://arxiv.org/abs/2610.14005",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-14T00:00:00-04:00",
-      "scrapedAt": "2026-10-14T13:30:28.033450+00:00"
-    },
-    {
-      "id": "4d1328cfb2ae",
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security h",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T17:18:25+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105538+00:00"
-    },
-    {
-      "id": "a38414be4b35",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ",
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T17:30:00+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105502+00:00"
-    },
-    {
-      "id": "6e90ac03a9f0",
-      "title": "Facebook is giving users more control over their algorithm",
-      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T18:05:24+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105466+00:00"
-    },
-    {
-      "id": "96dd09641f4c",
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T18:30:00+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105429+00:00"
-    },
-    {
-      "id": "025ffa23c015",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T20:36:44+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105398+00:00"
-    },
-    {
-      "id": "ef5219e107b2",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T22:36:59+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105364+00:00"
-    },
-    {
-      "id": "757b6b0d2cd8",
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T23:00:00+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105327+00:00"
-    },
-    {
-      "id": "b982fab38e0c",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T23:05:34+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105293+00:00"
-    },
-    {
-      "id": "f698b7de989c",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T23:13:31+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105254+00:00"
-    },
-    {
-      "id": "7f10a36369ec",
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-14T11:00:00+00:00",
-      "scrapedAt": "2026-10-14T13:30:27.105204+00:00"
-    },
-    {
-      "id": "6412315144a1",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-13T12:00:00+00:00",
-      "scrapedAt": "2026-10-14T13:30:26.896831+00:00"
-    },
-    {
-      "id": "1ea8ff42a798",
-      "title": "The EU’s next chapter in AI is agentic",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-14T00:00:00+00:00",
-      "scrapedAt": "2026-10-14T13:30:26.896779+00:00"
-    },
-    {
-      "id": "aff2c9dc3dc0",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-13T16:00:00+00:00",
-      "scrapedAt": "2026-10-14T13:30:26.399525+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "ee84f6e9e028",
-      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
-      "summary": "Musk, we find your lack of security disturbing.",
-      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-12T17:55:12+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.980355+00:00"
-    },
-    {
-      "id": "a7dce5c82f34",
-      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-      "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T10:00:00+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.980306+00:00"
-    },
-    {
-      "id": "ef8ce125d8b8",
-      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
-      "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T11:00:00+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.980245+00:00"
-    },
-    {
-      "id": "5e9f78f70319",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \" super intelligence ,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader po",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-11T14:33:56-04:00",
-      "scrapedAt": "2026-10-13T15:47:18.825815+00:00"
-    },
-    {
-      "id": "d4b50bc6b2e0",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "summary": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and se",
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-12T09:00:00-04:00",
-      "scrapedAt": "2026-10-13T15:47:18.825530+00:00"
-    },
-    {
-      "id": "e41af6ba2638",
-      "title": "Meta has some Wonder Full new AI models",
-      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark , the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse , it's now launching two new mod",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-12T13:00:00-04:00",
-      "scrapedAt": "2026-10-13T15:47:18.825251+00:00"
-    },
-    {
-      "id": "4025dd5d6785",
-      "title": "Character.AI files for bankruptcy",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for user",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T06:32:23-04:00",
-      "scrapedAt": "2026-10-13T15:47:18.824790+00:00"
-    },
-    {
-      "id": "d63684ddf35a",
-      "title": "Apple launches HomeView, its first smart display for the home",
-      "summary": "The HomeView is a smart speaker with a touchscreen display. It’s available in silver, starlight, rose pink, and space gray. | Image: Apple It's finally here: Apple's long-rumored smart display, the Ap",
-      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T09:00:00-04:00",
-      "scrapedAt": "2026-10-13T15:47:18.824411+00:00"
-    },
-    {
-      "id": "6d9ab5acc0ec",
-      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-      "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot . I personally couldn't get over how f",
-      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T09:55:45-04:00",
-      "scrapedAt": "2026-10-13T15:47:18.824113+00:00"
-    },
-    {
-      "id": "22a997c3cc82",
-      "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
-      "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg . The project's de",
-      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T11:12:59-04:00",
-      "scrapedAt": "2026-10-13T15:47:18.823683+00:00"
-    },
-    {
-      "id": "3167f1c8b10b",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-12T15:45:00+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.324970+00:00"
-    },
-    {
-      "id": "15f0749a6da1",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-12T17:56:56+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.324878+00:00"
-    },
-    {
-      "id": "8e71e68ebc80",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T12:23:42+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.324829+00:00"
-    },
-    {
-      "id": "65a5bbabecb6",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping",
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T13:00:00+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.324782+00:00"
-    },
-    {
-      "id": "b84db57dfcd6",
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T13:28:06+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.324733+00:00"
-    },
-    {
-      "id": "b22fd54eecb2",
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T13:50:19+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.324680+00:00"
-    },
-    {
-      "id": "0a377d4d8a4c",
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at ",
-      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T14:00:00+00:00",
-      "scrapedAt": "2026-10-13T15:47:18.324617+00:00"
-    },
-    {
-      "id": "c5edbf462ded",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-28T19:00:00+00:00",
-      "scrapedAt": "2026-10-13T15:47:17.474141+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "4cdfa2663efa",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T09:00:00+00:00",
-      "scrapedAt": "2026-10-13T15:47:17.082592+00:00"
-    },
-    {
-      "id": "bbd5ea6a191c",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here . Late las",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-13T10:00:00+00:00",
-      "scrapedAt": "2026-10-13T15:47:17.081756+00:00"
     }
   ]
 }
