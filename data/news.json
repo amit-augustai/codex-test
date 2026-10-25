@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-10-24T12:33:38.250205+00:00",
+  "lastUpdated": "2026-10-25T13:06:38.140975+00:00",
   "articles": [
+    {
+      "id": "3ec29c6eab5f",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "summary": "Score: 400 points",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-10-24T23:11:54+00:00",
+      "scrapedAt": "2026-10-25T13:05:42.563273+00:00"
+    },
+    {
+      "id": "82278c2d47ed",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "summary": "Score: 34 points",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-10-25T09:51:17+00:00",
+      "scrapedAt": "2026-10-25T13:05:42.264228+00:00"
+    },
+    {
+      "id": "c635537626a7",
+      "title": "Rewriting a Commercial Engine in Jai",
+      "summary": "Score: 45 points",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-10-22T12:50:43+00:00",
+      "scrapedAt": "2026-10-25T13:05:42.214279+00:00"
+    },
+    {
+      "id": "d69968e1269a",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "summary": "Score: 219 points",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "Hacker News",
+      "category": "product",
+      "publishedAt": "2026-10-25T01:33:49+00:00",
+      "scrapedAt": "2026-10-25T13:05:41.990789+00:00"
+    },
+    {
+      "id": "fc8b44674e0d",
+      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-21T14:26:19+00:00",
+      "scrapedAt": "2026-10-25T13:05:41.596000+00:00"
+    },
+    {
+      "id": "f152148a5e39",
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-21T15:02:15+00:00",
+      "scrapedAt": "2026-10-25T13:05:41.595930+00:00"
+    },
+    {
+      "id": "c7c40cc44481",
+      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+      "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-21T16:00:00+00:00",
+      "scrapedAt": "2026-10-25T13:05:41.595857+00:00"
+    },
+    {
+      "id": "9874f967fc47",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-21T22:39:50+00:00",
+      "scrapedAt": "2026-10-25T13:05:41.595791+00:00"
+    },
+    {
+      "id": "ea390552df44",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-22T02:24:17+00:00",
+      "scrapedAt": "2026-10-25T13:05:41.595719+00:00"
+    },
+    {
+      "id": "f5a8987ff0e3",
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-25T10:00:00+00:00",
+      "scrapedAt": "2026-10-25T13:05:41.595308+00:00"
+    },
+    {
+      "id": "0c58159611d9",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-24T14:32:21-04:00",
+      "scrapedAt": "2026-10-25T13:05:41.440450+00:00"
+    },
+    {
+      "id": "b1787c28a150",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-24T17:29:12-04:00",
+      "scrapedAt": "2026-10-25T13:05:41.439968+00:00"
+    },
+    {
+      "id": "ec4100b5e401",
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth . The Stepback arrives in our subscribers' inb",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-25T08:00:00-04:00",
+      "scrapedAt": "2026-10-25T13:05:41.439431+00:00"
+    },
+    {
+      "id": "b2f0cf19fa7c",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-24T14:00:00+00:00",
+      "scrapedAt": "2026-10-25T13:05:40.911901+00:00"
+    },
+    {
+      "id": "b8554dad591a",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-24T15:00:00+00:00",
+      "scrapedAt": "2026-10-25T13:05:40.911826+00:00"
+    },
+    {
+      "id": "07faf6f38097",
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-24T16:00:00+00:00",
+      "scrapedAt": "2026-10-25T13:05:40.911747+00:00"
+    },
+    {
+      "id": "41208e707565",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-24T19:00:00+00:00",
+      "scrapedAt": "2026-10-25T13:05:40.911658+00:00"
+    },
+    {
+      "id": "abcde6029873",
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T13:00:00+00:00",
+      "scrapedAt": "2026-10-25T13:05:39.800006+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3dd23fb96608",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T14:00:00+00:00",
+      "scrapedAt": "2026-10-25T13:05:39.799915+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "bfe2b156957e",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-02T15:00:00+00:00",
+      "scrapedAt": "2026-10-25T13:05:39.799705+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
+    },
     {
       "id": "abd1507e3db3",
       "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
@@ -1207,209 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-10-19T09:08:05+00:00",
       "scrapedAt": "2026-10-19T15:25:15.981389+00:00"
-    },
-    {
-      "id": "402db143dc7a",
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-      "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-16T20:05:08+00:00",
-      "scrapedAt": "2026-10-18T12:31:30.923655+00:00"
-    },
-    {
-      "id": "7d9b2fa444f8",
-      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-17T09:00:00+00:00",
-      "scrapedAt": "2026-10-18T12:31:30.923617+00:00"
-    },
-    {
-      "id": "865e2052912d",
-      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-      "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
-      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-18T10:30:00+00:00",
-      "scrapedAt": "2026-10-18T12:31:30.923574+00:00"
-    },
-    {
-      "id": "d94e3e69d0c4",
-      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-18T10:30:00+00:00",
-      "scrapedAt": "2026-10-18T12:31:30.923526+00:00"
-    },
-    {
-      "id": "fc7be023ada5",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today , claiming that it's the \"most capable ",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-15T14:15:36-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.769681+00:00"
-    },
-    {
-      "id": "7046ca9567b3",
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can the",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-15T15:57:16-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.769421+00:00"
-    },
-    {
-      "id": "287b7f7f97fe",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White H",
-      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-15T17:09:33-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.769114+00:00"
-    },
-    {
-      "id": "37d075d48fef",
-      "title": "The tech backlash is now in theaters",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So",
-      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-15T17:39:52-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.768889+00:00"
-    },
-    {
-      "id": "179bf541be96",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-15T18:35:55-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.768604+00:00"
-    },
-    {
-      "id": "953a262ff105",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone , but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, O",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-15T18:43:23-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.768266+00:00"
-    },
-    {
-      "id": "a1282aae0bec",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab ",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-16T10:02:40-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.767794+00:00"
-    },
-    {
-      "id": "ff1bad63817f",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge Nvidia's RTX Spark N1X pr",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-16T11:00:00-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.767552+00:00"
-    },
-    {
-      "id": "657279cf248c",
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation a",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-17T09:00:00-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.767335+00:00"
-    },
-    {
-      "id": "39a7adebb3b0",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no lo",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-17T11:04:36-04:00",
-      "scrapedAt": "2026-10-18T12:31:30.766986+00:00"
-    },
-    {
-      "id": "5329074f8958",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-17T18:48:08+00:00",
-      "scrapedAt": "2026-10-18T12:31:30.163726+00:00"
-    },
-    {
-      "id": "c2a828c7429b",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-17T20:21:19+00:00",
-      "scrapedAt": "2026-10-18T12:31:30.163690+00:00"
-    },
-    {
-      "id": "24a6bb2519a4",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-17T21:31:32+00:00",
-      "scrapedAt": "2026-10-18T12:31:30.163638+00:00"
-    },
-    {
-      "id": "abcde6029873",
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-18T13:00:00+00:00",
-      "scrapedAt": "2026-10-18T12:31:29.499679+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "3dd23fb96608",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-18T14:00:00+00:00",
-      "scrapedAt": "2026-10-18T12:31:29.499635+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "bfe2b156957e",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-02T15:00:00+00:00",
-      "scrapedAt": "2026-10-18T12:31:29.499523+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
     }
   ]
 }
