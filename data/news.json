@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-10-25T13:06:38.140975+00:00",
+  "lastUpdated": "2026-10-26T15:02:24.694677+00:00",
   "articles": [
+    {
+      "id": "d09bb77529a3",
+      "title": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
+      "summary": "arXiv:2610.31718v1 Announce Type: new Abstract: Financial transaction networks are naturally represented as multigraphs, where repeated transactions between the same pair of accounts are modeled as di",
+      "url": "https://arxiv.org/abs/2610.31718",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.391572+00:00"
+    },
+    {
+      "id": "08d5d0860854",
+      "title": "Does LeWorldModel Preserve Local Action Geometry?",
+      "summary": "arXiv:2610.31716v1 Announce Type: new Abstract: We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we me",
+      "url": "https://arxiv.org/abs/2610.31716",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.391499+00:00"
+    },
+    {
+      "id": "1988ee26f716",
+      "title": "The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection",
+      "summary": "arXiv:2610.31704v1 Announce Type: new Abstract: Non-Destructive Inspection (NDI) is a cornerstone of modern quality assurance, critical for ensuring the safety and reliability of infrastructure and ma",
+      "url": "https://arxiv.org/abs/2610.31704",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.391424+00:00"
+    },
+    {
+      "id": "b846bbe1bd90",
+      "title": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
+      "summary": "arXiv:2610.31702v1 Announce Type: new Abstract: Indoor radio map estimation (RME) is essential for wireless applications such as coverage planning, localization, and network deployment. However, most ",
+      "url": "https://arxiv.org/abs/2610.31702",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.391340+00:00"
+    },
+    {
+      "id": "bcf372e6e110",
+      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+      "summary": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to man",
+      "url": "https://arxiv.org/abs/2610.31971",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.140047+00:00"
+    },
+    {
+      "id": "f32af13972a9",
+      "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+      "summary": "arXiv:2610.31937v1 Announce Type: new Abstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms. How",
+      "url": "https://arxiv.org/abs/2610.31937",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.139978+00:00"
+    },
+    {
+      "id": "c1ff98b782e8",
+      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+      "summary": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to ",
+      "url": "https://arxiv.org/abs/2610.31918",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.139917+00:00"
+    },
+    {
+      "id": "4bba439644a2",
+      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+      "summary": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-ti",
+      "url": "https://arxiv.org/abs/2610.31916",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.139844+00:00"
+    },
+    {
+      "id": "ad3615d5682f",
+      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+      "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) ",
+      "url": "https://arxiv.org/abs/2610.31882",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.139781+00:00"
+    },
+    {
+      "id": "277e9d65b1b0",
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "summary": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only t",
+      "url": "https://arxiv.org/abs/2610.31846",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.139719+00:00"
+    },
+    {
+      "id": "fe7e26da4208",
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "summary": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeli",
+      "url": "https://arxiv.org/abs/2610.31810",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.139646+00:00"
+    },
+    {
+      "id": "aef5bed17e96",
+      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+      "summary": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative s",
+      "url": "https://arxiv.org/abs/2610.31808",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.139570+00:00"
+    },
+    {
+      "id": "4f31e5253538",
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "summary": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and w",
+      "url": "https://arxiv.org/abs/2610.31789",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.139515+00:00"
+    },
+    {
+      "id": "39d0d7e665e9",
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00-04:00",
+      "scrapedAt": "2026-10-26T15:01:29.139407+00:00"
+    },
+    {
+      "id": "aab16b771856",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-25T14:10:00+00:00",
+      "scrapedAt": "2026-10-26T15:01:28.699681+00:00"
+    },
+    {
+      "id": "71c43854f4ff",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-25T16:57:32+00:00",
+      "scrapedAt": "2026-10-26T15:01:28.699643+00:00"
+    },
+    {
+      "id": "9e4fbbe06937",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-25T21:31:16+00:00",
+      "scrapedAt": "2026-10-26T15:01:28.699602+00:00"
+    },
+    {
+      "id": "bb06af6daa74",
+      "title": "Anthropic officially files for its public debut",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-26T14:35:22+00:00",
+      "scrapedAt": "2026-10-26T15:01:28.699551+00:00"
+    },
+    {
+      "id": "915861e8a796",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-26T07:00:00+00:00",
+      "scrapedAt": "2026-10-26T15:01:28.606436+00:00"
+    },
+    {
+      "id": "1992a716e85d",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-26T09:01:00+00:00",
+      "scrapedAt": "2026-10-26T15:01:27.611502+00:00"
+    },
     {
       "id": "3ec29c6eab5f",
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
