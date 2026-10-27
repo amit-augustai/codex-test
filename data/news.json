@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-10-26T15:02:24.694677+00:00",
+  "lastUpdated": "2026-10-27T14:16:39.000041+00:00",
   "articles": [
+    {
+      "id": "299a43ad02a4",
+      "title": "End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization",
+      "summary": "arXiv:2610.31721v1 Announce Type: new Abstract: Optimizing high-dimensional physical systems under expensive evaluations and complex constraints is a central challenge in science and engineering. In o",
+      "url": "https://arxiv.org/abs/2610.31721",
+      "source": "arXiv - Machine Learning",
+      "category": "research",
+      "publishedAt": "2026-10-27T00:00:00-04:00",
+      "scrapedAt": "2026-10-27T14:15:43.833181+00:00"
+    },
+    {
+      "id": "2b01b79f74d7",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-26T16:46:36+00:00",
+      "scrapedAt": "2026-10-27T14:15:43.093229+00:00"
+    },
+    {
+      "id": "8f4c26bb6bac",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-26T16:49:42+00:00",
+      "scrapedAt": "2026-10-27T14:15:43.093187+00:00"
+    },
+    {
+      "id": "8cbd8d09602b",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-27T01:12:21+00:00",
+      "scrapedAt": "2026-10-27T14:15:43.093135+00:00"
+    },
+    {
+      "id": "cb685d5b4cbc",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-27T02:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:43.093077+00:00"
+    },
+    {
+      "id": "867c05e1e13c",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-27T11:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:43.093030+00:00"
+    },
+    {
+      "id": "d0d46f266606",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-27T13:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:43.092984+00:00"
+    },
+    {
+      "id": "2b97ba8c9771",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-27T13:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:43.092938+00:00"
+    },
+    {
+      "id": "96e811b7a717",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-27T13:32:57+00:00",
+      "scrapedAt": "2026-10-27T14:15:43.092880+00:00"
+    },
+    {
+      "id": "5664397e2812",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-26T00:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.939691+00:00"
+    },
+    {
+      "id": "25e1b98740f4",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-26T07:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.939652+00:00"
+    },
+    {
+      "id": "38fe6a22544b",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-26T10:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.939559+00:00"
+    },
+    {
+      "id": "12c7a1020fa4",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-26T13:45:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.939498+00:00"
+    },
+    {
+      "id": "6b6861f5dfdd",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-26T14:30:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.939448+00:00"
+    },
+    {
+      "id": "011555b6960e",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-26T22:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.939377+00:00"
+    },
+    {
+      "id": "0e0e052193cf",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-26T16:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.389035+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "cec229fed3dc",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "summary": "_____________ THE PLACE Pyeongtaek, South Korea Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growin",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T09:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.030496+00:00"
+    },
+    {
+      "id": "254f1995dd63",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-20T12:00:00+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.030031+00:00"
+    },
+    {
+      "id": "57916c9fe918",
+      "title": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anthropic has filed its ",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-26T17:45:43+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.021671+00:00"
+    },
+    {
+      "id": "e3353615c610",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-27T11:19:18+00:00",
+      "scrapedAt": "2026-10-27T14:15:42.020489+00:00"
+    },
     {
       "id": "d09bb77529a3",
       "title": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
@@ -1210,406 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-10-20T15:20:25+00:00",
       "scrapedAt": "2026-10-21T13:36:48.657177+00:00"
-    },
-    {
-      "id": "efa7f96acebb",
-      "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
-      "summary": "arXiv:2610.24010v1 Announce Type: new Abstract: Generative AI is becoming an important medium for artistic creation, yet existing interactions often assume that creators can specify intentions in adva",
-      "url": "https://arxiv.org/abs/2610.24010",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-20T00:00:00-04:00",
-      "scrapedAt": "2026-10-20T13:27:48.025500+00:00"
-    },
-    {
-      "id": "e38e498e7a88",
-      "title": "What Social Media Teaches Us About Accumulative AI Risks",
-      "summary": "arXiv:2610.24006v1 Announce Type: new Abstract: Prominent AI safety discussions emphasize existential threats and catastrophic events, such as AI-enabled nuclear conflict or engineered biological outb",
-      "url": "https://arxiv.org/abs/2610.24006",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-20T00:00:00-04:00",
-      "scrapedAt": "2026-10-20T13:27:48.025377+00:00"
-    },
-    {
-      "id": "65db6a733874",
-      "title": "A Controlled LLM Workflow for Evidence-Grounded Diagnosis of Risk Score Differences",
-      "summary": "arXiv:2610.23962v1 Announce Type: new Abstract: We propose a controlled Large Language Model (LLM) workflow for explaining risk score differences using similar historical transactions. The workflow co",
-      "url": "https://arxiv.org/abs/2610.23962",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-20T00:00:00-04:00",
-      "scrapedAt": "2026-10-20T13:27:48.025212+00:00"
-    },
-    {
-      "id": "6660e3d44336",
-      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
-      "summary": "arXiv:2610.23921v1 Announce Type: new Abstract: There is growing interest in automating business activities with Agentic Artificial Intelligence (AI) due to latter's seeming ease of use. Never has it ",
-      "url": "https://arxiv.org/abs/2610.23921",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-20T00:00:00-04:00",
-      "scrapedAt": "2026-10-20T13:27:48.025122+00:00"
-    },
-    {
-      "id": "706abe88fbf0",
-      "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
-      "summary": "arXiv:2610.23866v1 Announce Type: new Abstract: We introduce GardenBench, a benchmark with 11 test suites that evaluate the capabilities of Large Language Models (LLMs) across a range of tasks. By sys",
-      "url": "https://arxiv.org/abs/2610.23866",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-20T00:00:00-04:00",
-      "scrapedAt": "2026-10-20T13:27:48.024965+00:00"
-    },
-    {
-      "id": "23a6adb9ef6f",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T19:28:34+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.304085+00:00"
-    },
-    {
-      "id": "37fc3e207694",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T20:09:24+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.304009+00:00"
-    },
-    {
-      "id": "244c6a89b0fc",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T22:04:28+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.303934+00:00"
-    },
-    {
-      "id": "f94da7fb555a",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a ",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T22:49:27+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.303863+00:00"
-    },
-    {
-      "id": "a9300eed29e4",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T23:39:38+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.303785+00:00"
-    },
-    {
-      "id": "57291fadff56",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-20T01:27:03+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.303712+00:00"
-    },
-    {
-      "id": "85e233d0b166",
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-20T11:00:00+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.303631+00:00"
-    },
-    {
-      "id": "06aafb86abeb",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-20T11:00:00+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.303532+00:00"
-    },
-    {
-      "id": "185426ba2ac3",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-20T13:00:00+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.303455+00:00"
-    },
-    {
-      "id": "baab9c27d2ea",
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-20T13:07:24+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.303367+00:00"
-    },
-    {
-      "id": "8dad8d5fd5f8",
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-19T12:00:00+00:00",
-      "scrapedAt": "2026-10-20T13:27:47.237853+00:00"
-    },
-    {
-      "id": "e7a08d8bbd49",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that ha",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T17:45:55+00:00",
-      "scrapedAt": "2026-10-20T13:27:46.183104+00:00"
-    },
-    {
-      "id": "007fe264c1b3",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Until recently, you could divide internet users into just two",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T18:22:47+00:00",
-      "scrapedAt": "2026-10-20T13:27:46.180503+00:00"
-    },
-    {
-      "id": "cec229fed3dc",
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "summary": "_____________ THE PLACE Pyeongtaek, South Korea Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growin",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-20T09:00:00+00:00",
-      "scrapedAt": "2026-10-20T13:27:46.179130+00:00"
-    },
-    {
-      "id": "254f1995dd63",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-20T12:00:00+00:00",
-      "scrapedAt": "2026-10-20T13:27:46.178179+00:00"
-    },
-    {
-      "id": "59b2ef706c62",
-      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-      "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-16T11:00:00+00:00",
-      "scrapedAt": "2026-10-19T15:25:18.071490+00:00"
-    },
-    {
-      "id": "e88b2d9bc815",
-      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-      "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-16T15:00:00+00:00",
-      "scrapedAt": "2026-10-19T15:25:18.071413+00:00"
-    },
-    {
-      "id": "57bbb4551e8b",
-      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T09:00:00+00:00",
-      "scrapedAt": "2026-10-19T15:25:18.070934+00:00"
-    },
-    {
-      "id": "3e2133853c53",
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're t",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-18T14:28:10-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.974290+00:00"
-    },
-    {
-      "id": "1d7aa9cfab7e",
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra",
-      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T08:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.973835+00:00"
-    },
-    {
-      "id": "50e8daf7735e",
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the tar",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T09:58:41-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.973413+00:00"
-    },
-    {
-      "id": "59defc80e859",
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "summary": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that tho",
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T10:30:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.972777+00:00"
-    },
-    {
-      "id": "a0d8d873fad8",
-      "title": "Sparse Autoencoders Can Induce Local Geometry for Mitigating Catastrophic Forgetting",
-      "summary": "arXiv:2610.22439v1 Announce Type: new Abstract: Catastrophic forgetting remains a challenge in supervised continual learning, as adapting to new tasks causes representation drift and loss of previousl",
-      "url": "https://arxiv.org/abs/2610.22439",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.813529+00:00"
-    },
-    {
-      "id": "beac6edeed16",
-      "title": "Rank Measures of Fine-Tuning Updates Need a Noise Baseline",
-      "summary": "arXiv:2610.22438v1 Announce Type: new Abstract: Studies of what fine-tuning does to a language model often summarise the weight update $\\Delta W$ by its rank. We compare the rank measures used for thi",
-      "url": "https://arxiv.org/abs/2610.22438",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.813410+00:00"
-    },
-    {
-      "id": "422bf6fabfe6",
-      "title": "CF-NODE: Counterfactual Spatial Node Intervention for Test-Time Adaptation Under Domain Shift, Evaluated Across Five Diabetic Retinopathy Datasets",
-      "summary": "arXiv:2610.22437v1 Announce Type: new Abstract: Automated fundus-based diabetic retinopathy (DR) grading can substantially expand screening capacity, but source-trained models degrade sharply across d",
-      "url": "https://arxiv.org/abs/2610.22437",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.813282+00:00"
-    },
-    {
-      "id": "db4ba7c288ba",
-      "title": "Generative adversarial networks with Monte Carlo dropout uncertainty quantification for structural health monitoring: Fibre Bragg grating data augmentation comparison in Hawk T1A aircraft",
-      "summary": "arXiv:2610.22436v1 Announce Type: new Abstract: The signal generation capabilities of a novel data augmentation framework are examined in aerospace structures. First, the framework learns class-condit",
-      "url": "https://arxiv.org/abs/2610.22436",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.813143+00:00"
-    },
-    {
-      "id": "d39a4202ac21",
-      "title": "TRACE: Transformer Residual Activation Codebook Encoding for Communication-efficient Distributed Edge Inference",
-      "summary": "arXiv:2610.22435v1 Announce Type: new Abstract: Distributed Transformer inference across co-located edge devices is fundamentally communication-bound, as exchanging activations between sequence-parall",
-      "url": "https://arxiv.org/abs/2610.22435",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.812986+00:00"
-    },
-    {
-      "id": "9484c47f25ee",
-      "title": "BOLT: Multi-Bottleneck Bound-Guided Learning for Flexible Job-Shop Scheduling with Time Lags and Resource-Coupled Transport",
-      "summary": "arXiv:2610.22433v1 Announce Type: new Abstract: Flexible job-shop scheduling becomes resource-coupled when a scarce vehicle fleet moves jobs between stations, because the schedule sets the transport w",
-      "url": "https://arxiv.org/abs/2610.22433",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.812853+00:00"
-    },
-    {
-      "id": "2a7f1fb7781d",
-      "title": "CGDT-CESN: Correlation-Guided and Dynamics-Trained Clustered Echo State Network for Multivariate Time-Series Prediction",
-      "summary": "arXiv:2610.22430v1 Announce Type: new Abstract: Accurate prediction of multivariate time series requires models that simultaneously capture variable-specific dynamics and cross-variable interactions. ",
-      "url": "https://arxiv.org/abs/2610.22430",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.812728+00:00"
-    },
-    {
-      "id": "da2602da745e",
-      "title": "Binding-Specific Relearning Savings for Test-Time Continual Learning",
-      "summary": "arXiv:2610.22381v1 Announce Type: new Abstract: When a fact becomes harder to elicit from a language model, has the model lost it, or has it merely become less accessible? Parameter-updating test-time",
-      "url": "https://arxiv.org/abs/2610.22381",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.812610+00:00"
-    },
-    {
-      "id": "a6770f50ad96",
-      "title": "Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion",
-      "summary": "arXiv:2610.22380v1 Announce Type: new Abstract: Continuous diffusion treats the forward process as a design space; discrete language diffusion often uses absorbing corruption, leaving context fully tr",
-      "url": "https://arxiv.org/abs/2610.22380",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.812483+00:00"
-    },
-    {
-      "id": "738ab16bc69b",
-      "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration",
-      "summary": "arXiv:2610.22379v1 Announce Type: new Abstract: Calibrating expensive engineering simulators requires tuning model parameters to match reference data, a process heavily constrained by computational co",
-      "url": "https://arxiv.org/abs/2610.22379",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-19T00:00:00-04:00",
-      "scrapedAt": "2026-10-19T15:25:17.812322+00:00"
-    },
-    {
-      "id": "2f6c16309da4",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-18T16:30:00+00:00",
-      "scrapedAt": "2026-10-19T15:25:17.107280+00:00"
-    },
-    {
-      "id": "8768eef8cad2",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-18T20:37:40+00:00",
-      "scrapedAt": "2026-10-19T15:25:17.107180+00:00"
-    },
-    {
-      "id": "372db7fd0c18",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment remini",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-19T09:08:05+00:00",
-      "scrapedAt": "2026-10-19T15:25:15.981389+00:00"
     }
   ]
 }
