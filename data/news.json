@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-10-28T14:59:25.081555+00:00",
+  "lastUpdated": "2026-10-29T15:05:53.101624+00:00",
   "articles": [
+    {
+      "id": "e88d32f555f2",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "summary": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces tw",
+      "url": "https://arxiv.org/abs/2610.36077",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-29T00:00:00-04:00",
+      "scrapedAt": "2026-10-29T15:04:56.306981+00:00"
+    },
+    {
+      "id": "5a04252855d9",
+      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+      "summary": "arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limi",
+      "url": "https://arxiv.org/abs/2610.35984",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-29T00:00:00-04:00",
+      "scrapedAt": "2026-10-29T15:04:56.306814+00:00"
+    },
+    {
+      "id": "e0fde9d76dfc",
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-28T18:50:39+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.640642+00:00"
+    },
+    {
+      "id": "4c18a8b504fc",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-28T19:05:46+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.640558+00:00"
+    },
+    {
+      "id": "b2173123b9bf",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-28T19:19:58+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.640469+00:00"
+    },
+    {
+      "id": "1a03c7011eaf",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-28T21:25:30+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.640401+00:00"
+    },
+    {
+      "id": "65911ac3f4f5",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-28T21:34:30+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.640328+00:00"
+    },
+    {
+      "id": "34b53368a5c1",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-28T21:48:37+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.640252+00:00"
+    },
+    {
+      "id": "7d5ffdad902f",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-28T21:58:32+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.640181+00:00"
+    },
+    {
+      "id": "704fa4f310e2",
+      "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T13:00:00+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.640107+00:00"
+    },
+    {
+      "id": "6364a0999f9b",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "summary": "Deepgram said that it is committed to keep Pipecat open source.",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T13:00:00+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.640031+00:00"
+    },
+    {
+      "id": "cd84a165e5e6",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "summary": "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T14:35:26+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.639945+00:00"
+    },
+    {
+      "id": "43a392c7fc8c",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "url": "https://openai.com/index/legora",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-28T09:30:00+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.552812+00:00"
+    },
+    {
+      "id": "a0f1f341400c",
+      "title": "The future of the firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-28T10:00:00+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.552734+00:00"
+    },
+    {
+      "id": "fbd38a037372",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-28T13:15:00+00:00",
+      "scrapedAt": "2026-10-29T15:04:55.552643+00:00"
+    },
+    {
+      "id": "cf7f1b75bcb6",
+      "title": "Introducing Playground: Create and play custom games",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-07T12:00:00+00:00",
+      "scrapedAt": "2026-10-29T15:04:54.808567+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "cb619168be94",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage ",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-22T08:41:18+00:00",
+      "scrapedAt": "2026-10-29T15:04:54.451873+00:00"
+    },
+    {
+      "id": "a1d8d4720756",
+      "title": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-22T10:00:00+00:00",
+      "scrapedAt": "2026-10-29T15:04:54.450258+00:00"
+    },
+    {
+      "id": "52fa9eb7caab",
+      "title": "Creating AI value with enterprise context",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-28T20:32:02+00:00",
+      "scrapedAt": "2026-10-29T15:04:54.438624+00:00"
+    },
+    {
+      "id": "468ea3c00c34",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T10:11:12+00:00",
+      "scrapedAt": "2026-10-29T15:04:54.437717+00:00"
+    },
     {
       "id": "24ac74729b93",
       "title": "Counting the Bandages: On measuring the time that AI saves",
@@ -1209,208 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-10-22T21:17:29+00:00",
       "scrapedAt": "2026-10-23T13:14:44.511138+00:00"
-    },
-    {
-      "id": "e6b6d4852fc9",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-21T19:30:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.158089+00:00"
-    },
-    {
-      "id": "12af459ff8f6",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-21T20:27:41+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.158013+00:00"
-    },
-    {
-      "id": "ca1c5b18319b",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-21T21:14:19+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.157918+00:00"
-    },
-    {
-      "id": "30e754caf978",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-21T21:16:20+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.157843+00:00"
-    },
-    {
-      "id": "c6715b01bd7e",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-21T22:51:22+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.157767+00:00"
-    },
-    {
-      "id": "c80a6608f1d2",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T13:11:13+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.157691+00:00"
-    },
-    {
-      "id": "b1c3b0ce40d1",
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T13:26:52+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.157605+00:00"
-    },
-    {
-      "id": "ce32759f678d",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-21T00:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.064110+00:00"
-    },
-    {
-      "id": "3dac179b5263",
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-21T07:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.064014+00:00"
-    },
-    {
-      "id": "fa5b0957b522",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "url": "https://openai.com/index/cloudflare-cyber",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-21T00:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.063908+00:00"
-    },
-    {
-      "id": "c29efc53a85f",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-21T04:50:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.063836+00:00"
-    },
-    {
-      "id": "8f9e95c0804b",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-21T13:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.063765+00:00"
-    },
-    {
-      "id": "6d72427cd4b8",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-21T07:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.063694+00:00"
-    },
-    {
-      "id": "432aef26f737",
-      "title": "Broad access through consistent standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-21T21:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.063543+00:00"
-    },
-    {
-      "id": "9df610225313",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "url": "https://openai.com/index/att-legal",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-21T17:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.063464+00:00"
-    },
-    {
-      "id": "f4d7439583ad",
-      "title": "What FDE means at OpenAI",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-22T06:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:01.063360+00:00"
-    },
-    {
-      "id": "a56de3e90322",
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-15T16:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:00.292838+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"
-    },
-    {
-      "id": "cf7f1b75bcb6",
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-07T12:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:00.292252+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "cb619168be94",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage ",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T08:41:18+00:00",
-      "scrapedAt": "2026-10-22T13:39:00.049375+00:00"
-    },
-    {
-      "id": "a1d8d4720756",
-      "title": "Making the case for context-aware AI",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T10:00:00+00:00",
-      "scrapedAt": "2026-10-22T13:39:00.047708+00:00"
     }
   ]
 }
