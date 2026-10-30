@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-10-29T15:05:53.101624+00:00",
+  "lastUpdated": "2026-10-30T14:57:50.466120+00:00",
   "articles": [
+    {
+      "id": "2d01dc796cc4",
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still m",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-30T00:00:00-04:00",
+      "scrapedAt": "2026-10-30T14:56:55.223915+00:00"
+    },
+    {
+      "id": "9889211209b2",
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabi",
+      "url": "https://arxiv.org/abs/2610.37732",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-30T00:00:00-04:00",
+      "scrapedAt": "2026-10-30T14:56:55.223783+00:00"
+    },
+    {
+      "id": "b01adb6a6c07",
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties ",
+      "url": "https://arxiv.org/abs/2610.37731",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-30T00:00:00-04:00",
+      "scrapedAt": "2026-10-30T14:56:55.223629+00:00"
+    },
+    {
+      "id": "58e1091d3a99",
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottleneck",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-10-30T00:00:00-04:00",
+      "scrapedAt": "2026-10-30T14:56:55.223491+00:00"
+    },
+    {
+      "id": "5d9d7808457b",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your ca",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T19:14:36+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.580527+00:00"
+    },
+    {
+      "id": "db83db5c214c",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T19:56:19+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.580448+00:00"
+    },
+    {
+      "id": "223b05929cb3",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T20:05:47+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.580380+00:00"
+    },
+    {
+      "id": "60144b1613db",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T20:08:31+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.580312+00:00"
+    },
+    {
+      "id": "ee09513d3b25",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T23:42:22+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.580236+00:00"
+    },
+    {
+      "id": "4585bce5af53",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T01:20:48+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.580141+00:00"
+    },
+    {
+      "id": "12c5b28f8540",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T13:00:00+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.580073+00:00"
+    },
+    {
+      "id": "11a724be2b39",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T13:00:00+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.579998+00:00"
+    },
+    {
+      "id": "30b5f07a33cd",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "summary": "DoorDash said that it is open to working with third-party agent makers",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T13:54:25+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.579923+00:00"
+    },
+    {
+      "id": "969515ead733",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T14:00:00+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.579839+00:00"
+    },
+    {
+      "id": "eb2bd3b12e17",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-29T07:00:00+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.482106+00:00"
+    },
+    {
+      "id": "4745ac4816a8",
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-29T09:00:00+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.482021+00:00"
+    },
+    {
+      "id": "aaf5e6791aaf",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-29T17:00:00+00:00",
+      "scrapedAt": "2026-10-30T14:56:54.481924+00:00"
+    },
+    {
+      "id": "1862986a9b3d",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-23T18:00:00+00:00",
+      "scrapedAt": "2026-10-30T14:56:53.715124+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "870bab36282f",
+      "title": "The Foundations of Scalable AI",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future ",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-22T18:48:04+00:00",
+      "scrapedAt": "2026-10-30T14:56:53.424762+00:00"
+    },
+    {
+      "id": "c4f2e7d5237a",
+      "title": "Designing an AI serving harness built to last",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-22T21:17:29+00:00",
+      "scrapedAt": "2026-10-30T14:56:53.423985+00:00"
+    },
     {
       "id": "e88d32f555f2",
       "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
@@ -1209,207 +1410,6 @@
       "publishedAt": "2026-09-17T20:00:00+00:00",
       "scrapedAt": "2026-10-24T12:32:40.257808+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "f2c2aee92456",
-      "title": "Neural Networks with Differentiable Belief-Function Layers",
-      "summary": "arXiv:2610.30173v1 Announce Type: new Abstract: Yager's 1987 rule of combination $\\boxplus$ was proposed on epistemic grounds: under high conflict, mass should be redistributed to ignorance rather tha",
-      "url": "https://arxiv.org/abs/2610.30173",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-23T00:00:00-04:00",
-      "scrapedAt": "2026-10-23T13:14:46.184627+00:00"
-    },
-    {
-      "id": "0dcefa8e8097",
-      "title": "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework",
-      "summary": "arXiv:2610.30170v1 Announce Type: new Abstract: Canada's increasing wildfire activity requires frequent national hazard mapping to guide proactive mitigation, including fuel management, land-use plann",
-      "url": "https://arxiv.org/abs/2610.30170",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-23T00:00:00-04:00",
-      "scrapedAt": "2026-10-23T13:14:46.184491+00:00"
-    },
-    {
-      "id": "46bea01e4fcb",
-      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
-      "summary": "arXiv:2610.30157v1 Announce Type: new Abstract: AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged:",
-      "url": "https://arxiv.org/abs/2610.30157",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-23T00:00:00-04:00",
-      "scrapedAt": "2026-10-23T13:14:46.184295+00:00"
-    },
-    {
-      "id": "51a83b6a5457",
-      "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
-      "summary": "arXiv:2610.30151v1 Announce Type: new Abstract: Every interaction between AI agents begins with a handshake: the initiating agent must locate its counterpart, learn what it can do, and establish a ses",
-      "url": "https://arxiv.org/abs/2610.30151",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-23T00:00:00-04:00",
-      "scrapedAt": "2026-10-23T13:14:46.184161+00:00"
-    },
-    {
-      "id": "abd23a18317e",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T15:03:58+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.563176+00:00"
-    },
-    {
-      "id": "73f5f9254af1",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T16:00:00+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.563102+00:00"
-    },
-    {
-      "id": "5126e80c6df3",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T16:47:17+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.563029+00:00"
-    },
-    {
-      "id": "bc91e34a2351",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T18:43:53+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.562956+00:00"
-    },
-    {
-      "id": "8e6cfc22204f",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T19:00:00+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.562873+00:00"
-    },
-    {
-      "id": "591876a8e3e0",
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T19:00:00+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.562803+00:00"
-    },
-    {
-      "id": "c1230fd4012b",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T19:07:09+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.562728+00:00"
-    },
-    {
-      "id": "c4c762c6b747",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T22:08:24+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.562652+00:00"
-    },
-    {
-      "id": "02cf9a7a48f9",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-23T00:45:37+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.562574+00:00"
-    },
-    {
-      "id": "3bfe5c41c86a",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-23T04:00:00+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.562471+00:00"
-    },
-    {
-      "id": "6cec5c61df65",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-22T00:00:00+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.494213+00:00"
-    },
-    {
-      "id": "139683c4cb22",
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-22T19:00:00+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.494061+00:00"
-    },
-    {
-      "id": "39c8c1e08705",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "scrapedAt": "2026-10-23T13:14:45.493973+00:00"
-    },
-    {
-      "id": "1862986a9b3d",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T18:00:00+00:00",
-      "scrapedAt": "2026-10-23T13:14:44.783347+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "870bab36282f",
-      "title": "The Foundations of Scalable AI",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future ",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T18:48:04+00:00",
-      "scrapedAt": "2026-10-23T13:14:44.511938+00:00"
-    },
-    {
-      "id": "c4f2e7d5237a",
-      "title": "Designing an AI serving harness built to last",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T21:17:29+00:00",
-      "scrapedAt": "2026-10-23T13:14:44.511138+00:00"
     }
   ]
 }
