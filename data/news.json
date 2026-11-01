@@ -1,6 +1,209 @@
 {
-  "lastUpdated": "2026-10-31T14:26:51.801222+00:00",
+  "lastUpdated": "2026-11-01T14:53:39.923690+00:00",
   "articles": [
+    {
+      "id": "10cf68686aa8",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-31T10:30:00+00:00",
+      "scrapedAt": "2026-11-01T14:52:44.830276+00:00"
+    },
+    {
+      "id": "73d98880d862",
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-10-31T12:00:00+00:00",
+      "scrapedAt": "2026-11-01T14:52:44.830217+00:00"
+    },
+    {
+      "id": "ff1c3d3c393e",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-01T10:30:00+00:00",
+      "scrapedAt": "2026-11-01T14:52:44.830137+00:00"
+    },
+    {
+      "id": "62deaf73d869",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T07:00:00-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.624458+00:00"
+    },
+    {
+      "id": "20dbf8891676",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T09:01:14-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.624152+00:00"
+    },
+    {
+      "id": "97cc063537e0",
+      "title": "Silicon Valley wants you to invest in miracles",
+      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T09:11:05-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.623804+00:00"
+    },
+    {
+      "id": "cfe1c65d6cd5",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address , Pope Leo enco",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T10:58:06-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.623511+00:00"
+    },
+    {
+      "id": "a5d82a5cf5c8",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday , Starbucks CEO Brian Niccol said the company is going to explor",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T13:38:04-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.623143+00:00"
+    },
+    {
+      "id": "b119c6eeb05f",
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T14:21:38-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.622760+00:00"
+    },
+    {
+      "id": "18ea57daed9d",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable . With this contr",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T16:26:10-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.622167+00:00"
+    },
+    {
+      "id": "22e8c569cc06",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T16:48:43-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.621805+00:00"
+    },
+    {
+      "id": "ffe1ba5a4718",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website , as reported by MacRumors . The Apple Intelligence features will be available first ",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-30T18:32:53-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.621367+00:00"
+    },
+    {
+      "id": "0289b26f177b",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-10-31T12:05:00-04:00",
+      "scrapedAt": "2026-11-01T14:52:44.620880+00:00"
+    },
+    {
+      "id": "149be8f7454b",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-31T16:12:55+00:00",
+      "scrapedAt": "2026-11-01T14:52:43.965920+00:00"
+    },
+    {
+      "id": "9a46afb49d1d",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-31T21:17:03+00:00",
+      "scrapedAt": "2026-11-01T14:52:43.965863+00:00"
+    },
+    {
+      "id": "ec476f3f219d",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-31T21:36:07+00:00",
+      "scrapedAt": "2026-11-01T14:52:43.965806+00:00"
+    },
+    {
+      "id": "8462b9fc7109",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-10-31T21:41:00+00:00",
+      "scrapedAt": "2026-11-01T14:52:43.965725+00:00"
+    },
+    {
+      "id": "abcde6029873",
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T13:00:00+00:00",
+      "scrapedAt": "2026-11-01T14:52:43.074838+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3dd23fb96608",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-18T14:00:00+00:00",
+      "scrapedAt": "2026-11-01T14:52:43.074767+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "bfe2b156957e",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-02T15:00:00+00:00",
+      "scrapedAt": "2026-11-01T14:52:43.074600+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
+    },
     {
       "id": "9db1449dd35a",
       "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
@@ -1207,209 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-10-26T09:01:00+00:00",
       "scrapedAt": "2026-10-26T15:01:27.611502+00:00"
-    },
-    {
-      "id": "3ec29c6eab5f",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "summary": "Score: 400 points",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-10-24T23:11:54+00:00",
-      "scrapedAt": "2026-10-25T13:05:42.563273+00:00"
-    },
-    {
-      "id": "82278c2d47ed",
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "summary": "Score: 34 points",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-10-25T09:51:17+00:00",
-      "scrapedAt": "2026-10-25T13:05:42.264228+00:00"
-    },
-    {
-      "id": "c635537626a7",
-      "title": "Rewriting a Commercial Engine in Jai",
-      "summary": "Score: 45 points",
-      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-10-22T12:50:43+00:00",
-      "scrapedAt": "2026-10-25T13:05:42.214279+00:00"
-    },
-    {
-      "id": "d69968e1269a",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "summary": "Score: 219 points",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-10-25T01:33:49+00:00",
-      "scrapedAt": "2026-10-25T13:05:41.990789+00:00"
-    },
-    {
-      "id": "fc8b44674e0d",
-      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-21T14:26:19+00:00",
-      "scrapedAt": "2026-10-25T13:05:41.596000+00:00"
-    },
-    {
-      "id": "f152148a5e39",
-      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-21T15:02:15+00:00",
-      "scrapedAt": "2026-10-25T13:05:41.595930+00:00"
-    },
-    {
-      "id": "c7c40cc44481",
-      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-      "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-21T16:00:00+00:00",
-      "scrapedAt": "2026-10-25T13:05:41.595857+00:00"
-    },
-    {
-      "id": "9874f967fc47",
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-21T22:39:50+00:00",
-      "scrapedAt": "2026-10-25T13:05:41.595791+00:00"
-    },
-    {
-      "id": "ea390552df44",
-      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T02:24:17+00:00",
-      "scrapedAt": "2026-10-25T13:05:41.595719+00:00"
-    },
-    {
-      "id": "f5a8987ff0e3",
-      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-10-25T10:00:00+00:00",
-      "scrapedAt": "2026-10-25T13:05:41.595308+00:00"
-    },
-    {
-      "id": "0c58159611d9",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-24T14:32:21-04:00",
-      "scrapedAt": "2026-10-25T13:05:41.440450+00:00"
-    },
-    {
-      "id": "b1787c28a150",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-24T17:29:12-04:00",
-      "scrapedAt": "2026-10-25T13:05:41.439968+00:00"
-    },
-    {
-      "id": "ec4100b5e401",
-      "title": "Google’s AI search changes upended online publishing",
-      "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth . The Stepback arrives in our subscribers' inb",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-10-25T08:00:00-04:00",
-      "scrapedAt": "2026-10-25T13:05:41.439431+00:00"
-    },
-    {
-      "id": "b2f0cf19fa7c",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-24T14:00:00+00:00",
-      "scrapedAt": "2026-10-25T13:05:40.911901+00:00"
-    },
-    {
-      "id": "b8554dad591a",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-24T15:00:00+00:00",
-      "scrapedAt": "2026-10-25T13:05:40.911826+00:00"
-    },
-    {
-      "id": "07faf6f38097",
-      "title": "Block’s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-24T16:00:00+00:00",
-      "scrapedAt": "2026-10-25T13:05:40.911747+00:00"
-    },
-    {
-      "id": "41208e707565",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-24T19:00:00+00:00",
-      "scrapedAt": "2026-10-25T13:05:40.911658+00:00"
-    },
-    {
-      "id": "abcde6029873",
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-18T13:00:00+00:00",
-      "scrapedAt": "2026-10-25T13:05:39.800006+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "3dd23fb96608",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-18T14:00:00+00:00",
-      "scrapedAt": "2026-10-25T13:05:39.799915+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "bfe2b156957e",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-02T15:00:00+00:00",
-      "scrapedAt": "2026-10-25T13:05:39.799705+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
     }
   ]
 }
