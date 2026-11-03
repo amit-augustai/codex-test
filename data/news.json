@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-11-02T18:04:49.979117+00:00",
+  "lastUpdated": "2026-11-03T16:01:20.281784+00:00",
   "articles": [
+    {
+      "id": "b86b88ec9ca0",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-02T22:14:50+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.973990+00:00"
+    },
+    {
+      "id": "c368c304bd55",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-02T23:13:53+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.973958+00:00"
+    },
+    {
+      "id": "30470ccd0474",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-03T00:35:52+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.973930+00:00"
+    },
+    {
+      "id": "dc645454d4f3",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-03T01:49:52+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.973893+00:00"
+    },
+    {
+      "id": "36719bfa3896",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-03T03:30:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.973861+00:00"
+    },
+    {
+      "id": "8f6f2c9dfcc5",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-03T07:20:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.973830+00:00"
+    },
+    {
+      "id": "1c0da3afe6ce",
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-03T14:00:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.973790+00:00"
+    },
+    {
+      "id": "6e35125c5685",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-03T14:30:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.973755+00:00"
+    },
+    {
+      "id": "74ef1aa5540c",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-03T15:38:27+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.973709+00:00"
+    },
+    {
+      "id": "bc0ed259e6eb",
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-02T00:00:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.896445+00:00"
+    },
+    {
+      "id": "d0861db8fca9",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-02T00:00:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.896411+00:00"
+    },
+    {
+      "id": "4524e83e3abb",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.896344+00:00"
+    },
+    {
+      "id": "8e75a62f19b3",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.896311+00:00"
+    },
+    {
+      "id": "64b539777c9b",
+      "title": "Scaling Git at OpenAI",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-02T15:30:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.896238+00:00"
+    },
+    {
+      "id": "250b236eb589",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.896187+00:00"
+    },
+    {
+      "id": "0e0e052193cf",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-26T16:00:00+00:00",
+      "scrapedAt": "2026-11-03T16:00:21.318158+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "57916c9fe918",
+      "title": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anthropic has filed its ",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-26T17:45:43+00:00",
+      "scrapedAt": "2026-11-03T16:00:20.954225+00:00"
+    },
+    {
+      "id": "e3353615c610",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-27T11:19:18+00:00",
+      "scrapedAt": "2026-11-03T16:00:20.953505+00:00"
+    },
+    {
+      "id": "72788a4d358f",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . At the end of September, President Trump signed an executive ",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-03T04:18:47+00:00",
+      "scrapedAt": "2026-11-03T16:00:20.947642+00:00"
+    },
+    {
+      "id": "5a465e187c01",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers ",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-03T10:43:41+00:00",
+      "scrapedAt": "2026-11-03T16:00:20.946568+00:00"
+    },
     {
       "id": "680d4f07d2d0",
       "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
@@ -1210,207 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-10-28T12:00:00+00:00",
       "scrapedAt": "2026-10-28T14:58:28.023245+00:00"
-    },
-    {
-      "id": "299a43ad02a4",
-      "title": "End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization",
-      "summary": "arXiv:2610.31721v1 Announce Type: new Abstract: Optimizing high-dimensional physical systems under expensive evaluations and complex constraints is a central challenge in science and engineering. In o",
-      "url": "https://arxiv.org/abs/2610.31721",
-      "source": "arXiv - Machine Learning",
-      "category": "research",
-      "publishedAt": "2026-10-27T00:00:00-04:00",
-      "scrapedAt": "2026-10-27T14:15:43.833181+00:00"
-    },
-    {
-      "id": "2b01b79f74d7",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-26T16:46:36+00:00",
-      "scrapedAt": "2026-10-27T14:15:43.093229+00:00"
-    },
-    {
-      "id": "8f4c26bb6bac",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-26T16:49:42+00:00",
-      "scrapedAt": "2026-10-27T14:15:43.093187+00:00"
-    },
-    {
-      "id": "8cbd8d09602b",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-27T01:12:21+00:00",
-      "scrapedAt": "2026-10-27T14:15:43.093135+00:00"
-    },
-    {
-      "id": "cb685d5b4cbc",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-27T02:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:43.093077+00:00"
-    },
-    {
-      "id": "867c05e1e13c",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-27T11:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:43.093030+00:00"
-    },
-    {
-      "id": "d0d46f266606",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-27T13:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:43.092984+00:00"
-    },
-    {
-      "id": "2b97ba8c9771",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-27T13:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:43.092938+00:00"
-    },
-    {
-      "id": "96e811b7a717",
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-27T13:32:57+00:00",
-      "scrapedAt": "2026-10-27T14:15:43.092880+00:00"
-    },
-    {
-      "id": "5664397e2812",
-      "title": "Introducing GPT-6.1 Terra",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-26T00:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.939691+00:00"
-    },
-    {
-      "id": "25e1b98740f4",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-26T07:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.939652+00:00"
-    },
-    {
-      "id": "38fe6a22544b",
-      "title": "ChatGPT’s expanding world of work",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-26T10:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.939559+00:00"
-    },
-    {
-      "id": "12c7a1020fa4",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-26T13:45:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.939498+00:00"
-    },
-    {
-      "id": "6b6861f5dfdd",
-      "title": "Working with academic communities to build scientific understanding",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-26T14:30:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.939448+00:00"
-    },
-    {
-      "id": "011555b6960e",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-26T22:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.939377+00:00"
-    },
-    {
-      "id": "0e0e052193cf",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-26T16:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.389035+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "cec229fed3dc",
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "summary": "_____________ THE PLACE Pyeongtaek, South Korea Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growin",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-20T09:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.030496+00:00"
-    },
-    {
-      "id": "254f1995dd63",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-20T12:00:00+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.030031+00:00"
-    },
-    {
-      "id": "57916c9fe918",
-      "title": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anthropic has filed its ",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-26T17:45:43+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.021671+00:00"
-    },
-    {
-      "id": "e3353615c610",
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after",
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-27T11:19:18+00:00",
-      "scrapedAt": "2026-10-27T14:15:42.020489+00:00"
     }
   ]
 }
