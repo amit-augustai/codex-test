@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-11-04T16:06:24.866857+00:00",
+  "lastUpdated": "2026-11-05T16:20:33.798043+00:00",
   "articles": [
+    {
+      "id": "4af669faf6f0",
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of us",
+      "url": "https://arxiv.org/abs/2611.05391",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-05T00:00:00-05:00",
+      "scrapedAt": "2026-11-05T16:19:37.332524+00:00"
+    },
+    {
+      "id": "746699bb5b25",
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decis",
+      "url": "https://arxiv.org/abs/2611.05390",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-05T00:00:00-05:00",
+      "scrapedAt": "2026-11-05T16:19:37.332381+00:00"
+    },
+    {
+      "id": "3ba59fa6ce83",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-04T22:13:16+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.789417+00:00"
+    },
+    {
+      "id": "2a45f43e41ba",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-04T22:45:09+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.789346+00:00"
+    },
+    {
+      "id": "487fe86018a1",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T01:02:14+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.789275+00:00"
+    },
+    {
+      "id": "87cd57a95fdb",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T01:26:22+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.789204+00:00"
+    },
+    {
+      "id": "ab92969d8457",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T12:00:00+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.789133+00:00"
+    },
+    {
+      "id": "ddef7f7b40b1",
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T13:00:00+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.789061+00:00"
+    },
+    {
+      "id": "781e4656d358",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T14:00:00+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.788989+00:00"
+    },
+    {
+      "id": "d2cf34351a5f",
+      "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T14:42:00+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.788916+00:00"
+    },
+    {
+      "id": "939524e97f24",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T15:19:05+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.788843+00:00"
+    },
+    {
+      "id": "7dac5ce0cdad",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T16:16:45+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.788755+00:00"
+    },
+    {
+      "id": "47bc864ef0d2",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-04T00:00:00+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.626646+00:00"
+    },
+    {
+      "id": "7a4bae13d7fa",
+      "title": "Introducing Images 2.6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-04T00:00:00+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.626567+00:00"
+    },
+    {
+      "id": "30ad2e480e6f",
+      "title": "A thousand fewer paths to root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-04T08:00:00+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.626472+00:00"
+    },
+    {
+      "id": "e1307179e49c",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-05T02:00:00+00:00",
+      "scrapedAt": "2026-11-05T16:19:36.626224+00:00"
+    },
+    {
+      "id": "cf7f1b75bcb6",
+      "title": "Introducing Playground: Create and play custom games",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-07T12:00:00+00:00",
+      "scrapedAt": "2026-11-05T16:19:35.810794+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "52fa9eb7caab",
+      "title": "Creating AI value with enterprise context",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-28T20:32:02+00:00",
+      "scrapedAt": "2026-11-05T16:19:35.354833+00:00"
+    },
+    {
+      "id": "468ea3c00c34",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-10-29T10:11:12+00:00",
+      "scrapedAt": "2026-11-05T16:19:35.353921+00:00"
+    },
+    {
+      "id": "f95b3a80fa8b",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat J",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-04T18:50:55+00:00",
+      "scrapedAt": "2026-11-05T16:19:35.340232+00:00"
+    },
     {
       "id": "1722a772f301",
       "title": "Alignment Faking Depends on the Value, Not Just the Model",
@@ -1210,207 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-10-22T21:17:29+00:00",
       "scrapedAt": "2026-10-30T14:56:53.423985+00:00"
-    },
-    {
-      "id": "e88d32f555f2",
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "summary": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces tw",
-      "url": "https://arxiv.org/abs/2610.36077",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-29T00:00:00-04:00",
-      "scrapedAt": "2026-10-29T15:04:56.306981+00:00"
-    },
-    {
-      "id": "5a04252855d9",
-      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-      "summary": "arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limi",
-      "url": "https://arxiv.org/abs/2610.35984",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-29T00:00:00-04:00",
-      "scrapedAt": "2026-10-29T15:04:56.306814+00:00"
-    },
-    {
-      "id": "e0fde9d76dfc",
-      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
-      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T18:50:39+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.640642+00:00"
-    },
-    {
-      "id": "4c18a8b504fc",
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T19:05:46+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.640558+00:00"
-    },
-    {
-      "id": "b2173123b9bf",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T19:19:58+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.640469+00:00"
-    },
-    {
-      "id": "1a03c7011eaf",
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T21:25:30+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.640401+00:00"
-    },
-    {
-      "id": "65911ac3f4f5",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T21:34:30+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.640328+00:00"
-    },
-    {
-      "id": "34b53368a5c1",
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T21:48:37+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.640252+00:00"
-    },
-    {
-      "id": "7d5ffdad902f",
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T21:58:32+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.640181+00:00"
-    },
-    {
-      "id": "704fa4f310e2",
-      "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
-      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T13:00:00+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.640107+00:00"
-    },
-    {
-      "id": "6364a0999f9b",
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "summary": "Deepgram said that it is committed to keep Pipecat open source.",
-      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T13:00:00+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.640031+00:00"
-    },
-    {
-      "id": "cd84a165e5e6",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "summary": "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T14:35:26+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.639945+00:00"
-    },
-    {
-      "id": "43a392c7fc8c",
-      "title": "Legora is building the agentic operating system for legal work",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "url": "https://openai.com/index/legora",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-28T09:30:00+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.552812+00:00"
-    },
-    {
-      "id": "a0f1f341400c",
-      "title": "The future of the firm",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-28T10:00:00+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.552734+00:00"
-    },
-    {
-      "id": "fbd38a037372",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-28T13:15:00+00:00",
-      "scrapedAt": "2026-10-29T15:04:55.552643+00:00"
-    },
-    {
-      "id": "cf7f1b75bcb6",
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-07T12:00:00+00:00",
-      "scrapedAt": "2026-10-29T15:04:54.808567+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "cb619168be94",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage ",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T08:41:18+00:00",
-      "scrapedAt": "2026-10-29T15:04:54.451873+00:00"
-    },
-    {
-      "id": "a1d8d4720756",
-      "title": "Making the case for context-aware AI",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T10:00:00+00:00",
-      "scrapedAt": "2026-10-29T15:04:54.450258+00:00"
-    },
-    {
-      "id": "52fa9eb7caab",
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T20:32:02+00:00",
-      "scrapedAt": "2026-10-29T15:04:54.438624+00:00"
-    },
-    {
-      "id": "468ea3c00c34",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T10:11:12+00:00",
-      "scrapedAt": "2026-10-29T15:04:54.437717+00:00"
     }
   ]
 }
