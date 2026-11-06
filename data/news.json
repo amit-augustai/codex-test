@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-11-05T16:20:33.798043+00:00",
+  "lastUpdated": "2026-11-06T15:49:25.362289+00:00",
   "articles": [
+    {
+      "id": "4c16cb431989",
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "summary": "arXiv:2611.06962v1 Announce Type: new Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe Auto",
+      "url": "https://arxiv.org/abs/2611.06962",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-06T00:00:00-05:00",
+      "scrapedAt": "2026-11-06T15:48:28.794704+00:00"
+    },
+    {
+      "id": "ecdcd39295ca",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T18:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.368520+00:00"
+    },
+    {
+      "id": "3cbf932ea50c",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully ma",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T18:02:27+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.368440+00:00"
+    },
+    {
+      "id": "2bf787a301ee",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T19:06:12+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.368350+00:00"
+    },
+    {
+      "id": "1eac0b195a3b",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T19:12:39+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.368282+00:00"
+    },
+    {
+      "id": "759260a1403a",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T19:48:28+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.368212+00:00"
+    },
+    {
+      "id": "560f077b27e2",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-05T22:40:55+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.368140+00:00"
+    },
+    {
+      "id": "aa3547203e76",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T06:28:32+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.368067+00:00"
+    },
+    {
+      "id": "6d72973eed55",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T13:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.367995+00:00"
+    },
+    {
+      "id": "9ae489964215",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T13:02:16+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.367920+00:00"
+    },
+    {
+      "id": "bacb3f0e9b0a",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T14:10:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.367837+00:00"
+    },
+    {
+      "id": "d04a3ff6a441",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "url": "https://openai.com/index/franklin-templeton",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-05T00:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.271920+00:00"
+    },
+    {
+      "id": "50fc98dbfbcf",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-05T00:45:15+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.271851+00:00"
+    },
+    {
+      "id": "47af8b9f451c",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.271707+00:00"
+    },
+    {
+      "id": "8a77616c0c92",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-05T09:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.271628+00:00"
+    },
+    {
+      "id": "a001352201c8",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-05T20:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.271543+00:00"
+    },
+    {
+      "id": "3303d6ac09af",
+      "title": "Australian universities are creating AI-native graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-05T17:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:28.271450+00:00"
+    },
+    {
+      "id": "1862986a9b3d",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-09-23T18:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:27.538082+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "4eabb5f27738",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-05T17:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:27.537365+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "9552db008db1",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T10:00:00+00:00",
+      "scrapedAt": "2026-11-06T15:48:27.280453+00:00"
+    },
     {
       "id": "4af669faf6f0",
       "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
@@ -1210,207 +1412,6 @@
       "publishedAt": "2026-09-17T20:00:00+00:00",
       "scrapedAt": "2026-10-31T14:25:54.200890+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "2d01dc796cc4",
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still m",
-      "url": "https://arxiv.org/abs/2610.37739",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-30T00:00:00-04:00",
-      "scrapedAt": "2026-10-30T14:56:55.223915+00:00"
-    },
-    {
-      "id": "9889211209b2",
-      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabi",
-      "url": "https://arxiv.org/abs/2610.37732",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-30T00:00:00-04:00",
-      "scrapedAt": "2026-10-30T14:56:55.223783+00:00"
-    },
-    {
-      "id": "b01adb6a6c07",
-      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties ",
-      "url": "https://arxiv.org/abs/2610.37731",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-30T00:00:00-04:00",
-      "scrapedAt": "2026-10-30T14:56:55.223629+00:00"
-    },
-    {
-      "id": "58e1091d3a99",
-      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottleneck",
-      "url": "https://arxiv.org/abs/2610.37720",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-30T00:00:00-04:00",
-      "scrapedAt": "2026-10-30T14:56:55.223491+00:00"
-    },
-    {
-      "id": "5d9d7808457b",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your ca",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T19:14:36+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.580527+00:00"
-    },
-    {
-      "id": "db83db5c214c",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T19:56:19+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.580448+00:00"
-    },
-    {
-      "id": "223b05929cb3",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T20:05:47+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.580380+00:00"
-    },
-    {
-      "id": "60144b1613db",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T20:08:31+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.580312+00:00"
-    },
-    {
-      "id": "ee09513d3b25",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T23:42:22+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.580236+00:00"
-    },
-    {
-      "id": "4585bce5af53",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T01:20:48+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.580141+00:00"
-    },
-    {
-      "id": "12c5b28f8540",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T13:00:00+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.580073+00:00"
-    },
-    {
-      "id": "11a724be2b39",
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T13:00:00+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.579998+00:00"
-    },
-    {
-      "id": "30b5f07a33cd",
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "summary": "DoorDash said that it is open to working with third-party agent makers",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T13:54:25+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.579923+00:00"
-    },
-    {
-      "id": "969515ead733",
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T14:00:00+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.579839+00:00"
-    },
-    {
-      "id": "eb2bd3b12e17",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-29T07:00:00+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.482106+00:00"
-    },
-    {
-      "id": "4745ac4816a8",
-      "title": "How we detect frontier model misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-29T09:00:00+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.482021+00:00"
-    },
-    {
-      "id": "aaf5e6791aaf",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-29T17:00:00+00:00",
-      "scrapedAt": "2026-10-30T14:56:54.481924+00:00"
-    },
-    {
-      "id": "1862986a9b3d",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-23T18:00:00+00:00",
-      "scrapedAt": "2026-10-30T14:56:53.715124+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "870bab36282f",
-      "title": "The Foundations of Scalable AI",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future ",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T18:48:04+00:00",
-      "scrapedAt": "2026-10-30T14:56:53.424762+00:00"
-    },
-    {
-      "id": "c4f2e7d5237a",
-      "title": "Designing an AI serving harness built to last",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-22T21:17:29+00:00",
-      "scrapedAt": "2026-10-30T14:56:53.423985+00:00"
     }
   ]
 }
