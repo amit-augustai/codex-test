@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-11-06T15:49:25.362289+00:00",
+  "lastUpdated": "2026-11-07T14:49:16.091547+00:00",
   "articles": [
+    {
+      "id": "6b3fd78bc0ad",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-07T11:00:00+00:00",
+      "scrapedAt": "2026-11-07T14:48:20.497445+00:00"
+    },
+    {
+      "id": "18031d61f607",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "summary": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images Protesters have broken into a construction site of a new Microsoft data center in Amsterdam th",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T06:55:19-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.343263+00:00"
+    },
+    {
+      "id": "1c848d9c6bf2",
+      "title": "Amazon will let you text Alexa your shopping list",
+      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T09:00:00-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.343049+00:00"
+    },
+    {
+      "id": "b8851797863e",
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge , inMusic CEO Jack O'Donnell said, \"We're going to",
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T11:34:39-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.342885+00:00"
+    },
+    {
+      "id": "0d25458fd6c3",
+      "title": "Big Tech lost big in the 2026 election",
+      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back , and the fight over data cent",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T11:38:02-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.342705+00:00"
+    },
+    {
+      "id": "aeb37577bdc7",
+      "title": "AI is the new dating dealbreaker",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T12:00:00-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.342450+00:00"
+    },
+    {
+      "id": "4d25f5d785f0",
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tr",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T13:10:10-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.342261+00:00"
+    },
+    {
+      "id": "3bc01457309b",
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T15:02:22-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.342065+00:00"
+    },
+    {
+      "id": "421fa7063f06",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times . The Ministry of State Security (MSS) enlisted her to glean in",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T18:00:44-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.336592+00:00"
+    },
+    {
+      "id": "53c8a40c524c",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg . That would make it one of the world's most valuable companies, not long a",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T18:46:18-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.336288+00:00"
+    },
+    {
+      "id": "d36485a6e1db",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models imp",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-07T07:30:00-05:00",
+      "scrapedAt": "2026-11-07T14:48:20.335967+00:00"
+    },
+    {
+      "id": "7b5a2965d87a",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T15:54:47+00:00",
+      "scrapedAt": "2026-11-07T14:48:19.830339+00:00"
+    },
+    {
+      "id": "8f51c7b390aa",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T17:23:52+00:00",
+      "scrapedAt": "2026-11-07T14:48:19.830296+00:00"
+    },
+    {
+      "id": "39eb6389cd50",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T18:00:00+00:00",
+      "scrapedAt": "2026-11-07T14:48:19.830256+00:00"
+    },
+    {
+      "id": "dcfedcc7440b",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T18:44:20+00:00",
+      "scrapedAt": "2026-11-07T14:48:19.830204+00:00"
+    },
+    {
+      "id": "37d75a0fa379",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T18:44:38+00:00",
+      "scrapedAt": "2026-11-07T14:48:19.830174+00:00"
+    },
+    {
+      "id": "41cd6da548e0",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-06T22:53:46+00:00",
+      "scrapedAt": "2026-11-07T14:48:19.830141+00:00"
+    },
+    {
+      "id": "bfdaf195a235",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-07T01:40:28+00:00",
+      "scrapedAt": "2026-11-07T14:48:19.830097+00:00"
+    },
+    {
+      "id": "d1cb05298078",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-06T00:00:00+00:00",
+      "scrapedAt": "2026-11-07T14:48:19.704047+00:00"
+    },
+    {
+      "id": "4650983e6e64",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "scrapedAt": "2026-11-07T14:48:19.704000+00:00"
+    },
     {
       "id": "4c16cb431989",
       "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
@@ -1211,207 +1411,6 @@
       "publishedAt": "2026-10-02T15:00:00+00:00",
       "scrapedAt": "2026-11-01T14:52:43.074600+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "9db1449dd35a",
-      "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-      "summary": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability en",
-      "url": "https://arxiv.org/abs/2610.37859",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-31T00:00:00-04:00",
-      "scrapedAt": "2026-10-31T14:25:55.846609+00:00"
-    },
-    {
-      "id": "600866ed800c",
-      "title": "Evaluating and improving AI agents for sequencing protocol understanding",
-      "summary": "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by",
-      "url": "https://arxiv.org/abs/2610.37851",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-31T00:00:00-04:00",
-      "scrapedAt": "2026-10-31T14:25:55.846456+00:00"
-    },
-    {
-      "id": "dfb0147972b0",
-      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
-      "summary": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We",
-      "url": "https://arxiv.org/abs/2610.37849",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-31T00:00:00-04:00",
-      "scrapedAt": "2026-10-31T14:25:55.846348+00:00"
-    },
-    {
-      "id": "c8624d0ee503",
-      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters",
-      "url": "https://arxiv.org/abs/2610.37830",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-31T00:00:00-04:00",
-      "scrapedAt": "2026-10-31T14:25:55.846233+00:00"
-    },
-    {
-      "id": "bf4a2de7c35f",
-      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
-      "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that ",
-      "url": "https://arxiv.org/abs/2610.37809",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-31T00:00:00-04:00",
-      "scrapedAt": "2026-10-31T14:25:55.846093+00:00"
-    },
-    {
-      "id": "af8f0f31af91",
-      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
-      "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-",
-      "url": "https://arxiv.org/abs/2610.37786",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-10-31T00:00:00-04:00",
-      "scrapedAt": "2026-10-31T14:25:55.845970+00:00"
-    },
-    {
-      "id": "9baf1e5f5ceb",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T16:03:45+00:00",
-      "scrapedAt": "2026-10-31T14:25:55.037802+00:00"
-    },
-    {
-      "id": "d4c3a958104a",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T17:00:00+00:00",
-      "scrapedAt": "2026-10-31T14:25:55.037730+00:00"
-    },
-    {
-      "id": "c9dcfb62ccca",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T17:47:12+00:00",
-      "scrapedAt": "2026-10-31T14:25:55.037660+00:00"
-    },
-    {
-      "id": "d2ae3dfb1d7f",
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T21:17:40+00:00",
-      "scrapedAt": "2026-10-31T14:25:55.037583+00:00"
-    },
-    {
-      "id": "62efadaf1b1a",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T21:26:59+00:00",
-      "scrapedAt": "2026-10-31T14:25:55.037482+00:00"
-    },
-    {
-      "id": "d12607a6e474",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T21:52:03+00:00",
-      "scrapedAt": "2026-10-31T14:25:55.037412+00:00"
-    },
-    {
-      "id": "c6d867f631df",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T21:54:34+00:00",
-      "scrapedAt": "2026-10-31T14:25:55.037336+00:00"
-    },
-    {
-      "id": "d319498a5eb3",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-30T22:56:13+00:00",
-      "scrapedAt": "2026-10-31T14:25:55.037261+00:00"
-    },
-    {
-      "id": "ec6501562529",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-10-31T01:20:05+00:00",
-      "scrapedAt": "2026-10-31T14:25:55.037174+00:00"
-    },
-    {
-      "id": "4c59753c4e04",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "url": "https://openai.com/index/credit-saison",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-29T00:00:00+00:00",
-      "scrapedAt": "2026-10-31T14:25:54.954366+00:00"
-    },
-    {
-      "id": "a33227d4fab6",
-      "title": "Fair use benefits everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-30T00:00:00+00:00",
-      "scrapedAt": "2026-10-31T14:25:54.954057+00:00"
-    },
-    {
-      "id": "de97c2c5f0bf",
-      "title": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-30T09:00:00+00:00",
-      "scrapedAt": "2026-10-31T14:25:54.953980+00:00"
-    },
-    {
-      "id": "14b39e2399e0",
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-30T09:30:00+00:00",
-      "scrapedAt": "2026-10-31T14:25:54.953885+00:00"
-    },
-    {
-      "id": "b7fa72fd1998",
-      "title": "Making global data easier to explore",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-17T20:00:00+00:00",
-      "scrapedAt": "2026-10-31T14:25:54.200890+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
     }
   ]
 }
