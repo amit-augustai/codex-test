@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-11-08T14:55:49.003721+00:00",
+  "lastUpdated": "2026-11-09T18:36:10.622245+00:00",
   "articles": [
+    {
+      "id": "07bd9ff90612",
+      "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
+      "summary": "arXiv:2611.08647v1 Announce Type: new Abstract: Intra-weight injection lets one model change another model's behaviour by editing its weights directly, without gradients. Such edits can range from alt",
+      "url": "https://arxiv.org/abs/2611.08647",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-09T00:00:00-05:00",
+      "scrapedAt": "2026-11-09T18:35:12.302367+00:00"
+    },
+    {
+      "id": "561dc59b1a35",
+      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
+      "summary": "arXiv:2611.08644v1 Announce Type: new Abstract: LLM agents do not learn from corrections across sessions. A user fixes the same mistake at the start of every conversation. Existing agent memory system",
+      "url": "https://arxiv.org/abs/2611.08644",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-09T00:00:00-05:00",
+      "scrapedAt": "2026-11-09T18:35:12.302256+00:00"
+    },
+    {
+      "id": "d6442a8741c9",
+      "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
+      "summary": "arXiv:2611.08640v1 Announce Type: new Abstract: Scaling test-time compute has proven highly effective at improving LLM reasoning. A popular method is best-of-n sampling, where a model generates many c",
+      "url": "https://arxiv.org/abs/2611.08640",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-09T00:00:00-05:00",
+      "scrapedAt": "2026-11-09T18:35:12.302181+00:00"
+    },
+    {
+      "id": "d65fcd209f7c",
+      "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+      "summary": "arXiv:2611.08626v1 Announce Type: new Abstract: E-commerce supply chains generate large volumes of customer feedback and operational data that remain underutilized in inventory management. Traditional",
+      "url": "https://arxiv.org/abs/2611.08626",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-09T00:00:00-05:00",
+      "scrapedAt": "2026-11-09T18:35:12.302094+00:00"
+    },
+    {
+      "id": "26c28f7e15b7",
+      "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+      "summary": "arXiv:2611.08613v1 Announce Type: new Abstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents oper",
+      "url": "https://arxiv.org/abs/2611.08613",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-09T00:00:00-05:00",
+      "scrapedAt": "2026-11-09T18:35:12.302024+00:00"
+    },
+    {
+      "id": "0772eb2f8cc6",
+      "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+      "summary": "arXiv:2611.08572v1 Announce Type: new Abstract: This research involved the study of an application of Case-Based Reasoning (CBR) in the field of academic advising. Academic advisement has been recogni",
+      "url": "https://arxiv.org/abs/2611.08572",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-09T00:00:00-05:00",
+      "scrapedAt": "2026-11-09T18:35:12.301922+00:00"
+    },
+    {
+      "id": "9f1e12639c71",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-07T04:16:43+00:00",
+      "scrapedAt": "2026-11-09T18:35:11.779456+00:00"
+    },
+    {
+      "id": "d417e4f21505",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-08T21:00:11+00:00",
+      "scrapedAt": "2026-11-09T18:35:11.779307+00:00"
+    },
+    {
+      "id": "13f4eae92136",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-09T05:26:29+00:00",
+      "scrapedAt": "2026-11-09T18:35:11.779269+00:00"
+    },
+    {
+      "id": "0fe933f7440b",
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-09T14:00:00+00:00",
+      "scrapedAt": "2026-11-09T18:35:11.779222+00:00"
+    },
+    {
+      "id": "9ed094811c69",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-09T16:12:28+00:00",
+      "scrapedAt": "2026-11-09T18:35:11.779178+00:00"
+    },
+    {
+      "id": "f3c522ff77f3",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-09T16:56:54+00:00",
+      "scrapedAt": "2026-11-09T18:35:11.779128+00:00"
+    },
+    {
+      "id": "9b99d3e8fbba",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-09T18:00:00+00:00",
+      "scrapedAt": "2026-11-09T18:35:11.779061+00:00"
+    },
+    {
+      "id": "c81f482fdf11",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-09T18:09:52+00:00",
+      "scrapedAt": "2026-11-09T18:35:11.779002+00:00"
+    },
+    {
+      "id": "ff01b8b9f068",
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Here are Google’s latest AI updates from October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-02T17:45:00+00:00",
+      "scrapedAt": "2026-11-09T18:35:11.012493+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "c1a0838047a3",
+      "title": "The agentic web is here",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he ",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-02T09:35:19+00:00",
+      "scrapedAt": "2026-11-09T18:35:10.617663+00:00"
+    },
+    {
+      "id": "6e7d4661da08",
+      "title": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-02T13:10:32+00:00",
+      "scrapedAt": "2026-11-09T18:35:10.615346+00:00"
+    },
+    {
+      "id": "adc599e6d52a",
+      "title": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-02T17:00:00+00:00",
+      "scrapedAt": "2026-11-09T18:35:10.613573+00:00"
+    },
+    {
+      "id": "08088be30a8e",
+      "title": "Innovating with AI in the special chemicals industry",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-09T13:00:00+00:00",
+      "scrapedAt": "2026-11-09T18:35:10.608640+00:00"
+    },
+    {
+      "id": "9541439da1a6",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-09T17:05:43+00:00",
+      "scrapedAt": "2026-11-09T18:35:10.608180+00:00"
+    },
     {
       "id": "7420392038ac",
       "title": "Consumer brain wave headsets threaten privacy",
@@ -1209,207 +1410,6 @@
       "category": "product",
       "publishedAt": "2026-11-03T10:43:41+00:00",
       "scrapedAt": "2026-11-03T16:00:20.946568+00:00"
-    },
-    {
-      "id": "680d4f07d2d0",
-      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
-      "summary": "arXiv:2610.40906v1 Announce Type: new Abstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains",
-      "url": "https://arxiv.org/abs/2610.40906",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-02T00:00:00-05:00",
-      "scrapedAt": "2026-11-02T18:03:53.195902+00:00"
-    },
-    {
-      "id": "f8a973beb613",
-      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
-      "summary": "arXiv:2610.40890v1 Announce Type: new Abstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer lang",
-      "url": "https://arxiv.org/abs/2610.40890",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-02T00:00:00-05:00",
-      "scrapedAt": "2026-11-02T18:03:53.195837+00:00"
-    },
-    {
-      "id": "ffb141a76fa0",
-      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
-      "summary": "arXiv:2610.40883v1 Announce Type: new Abstract: Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether t",
-      "url": "https://arxiv.org/abs/2610.40883",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-02T00:00:00-05:00",
-      "scrapedAt": "2026-11-02T18:03:53.195776+00:00"
-    },
-    {
-      "id": "de197b45f87a",
-      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
-      "summary": "arXiv:2610.40831v1 Announce Type: new Abstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olm",
-      "url": "https://arxiv.org/abs/2610.40831",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-02T00:00:00-05:00",
-      "scrapedAt": "2026-11-02T18:03:53.195715+00:00"
-    },
-    {
-      "id": "e7632b2f69a3",
-      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
-      "summary": "arXiv:2610.40798v1 Announce Type: new Abstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily sup",
-      "url": "https://arxiv.org/abs/2610.40798",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-02T00:00:00-05:00",
-      "scrapedAt": "2026-11-02T18:03:53.195648+00:00"
-    },
-    {
-      "id": "9feee84b774c",
-      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
-      "summary": "arXiv:2610.40758v1 Announce Type: new Abstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent",
-      "url": "https://arxiv.org/abs/2610.40758",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-02T00:00:00-05:00",
-      "scrapedAt": "2026-11-02T18:03:53.195568+00:00"
-    },
-    {
-      "id": "b3a6357c7fdd",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-01T20:57:58+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.847316+00:00"
-    },
-    {
-      "id": "cf5e1b5d84c4",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-01T21:55:23+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.847285+00:00"
-    },
-    {
-      "id": "e0d9533470c8",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-02T13:57:53+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.847249+00:00"
-    },
-    {
-      "id": "d801d0111437",
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-02T14:00:00+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.847216+00:00"
-    },
-    {
-      "id": "d2641740e5f2",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-02T15:00:00+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.847181+00:00"
-    },
-    {
-      "id": "b7a0e68320c3",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-02T16:23:21+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.847145+00:00"
-    },
-    {
-      "id": "b6e2d4545650",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-02T16:30:00+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.847096+00:00"
-    },
-    {
-      "id": "1468543483a0",
-      "title": "LifeVal",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "url": "https://openai.com/index/lifeval",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-02T09:00:00+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.762108+00:00"
-    },
-    {
-      "id": "c155a34806a1",
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-02T15:00:00+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.762054+00:00"
-    },
-    {
-      "id": "ff01b8b9f068",
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Here are Google’s latest AI updates from October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-02T17:45:00+00:00",
-      "scrapedAt": "2026-11-02T18:03:52.285838+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "1992a716e85d",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-26T09:01:00+00:00",
-      "scrapedAt": "2026-11-02T18:03:51.877660+00:00"
-    },
-    {
-      "id": "c1a0838047a3",
-      "title": "The agentic web is here",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he ",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-02T09:35:19+00:00",
-      "scrapedAt": "2026-11-02T18:03:51.873386+00:00"
-    },
-    {
-      "id": "6e7d4661da08",
-      "title": "Stop counting tokens, start counting what ships",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-02T13:10:32+00:00",
-      "scrapedAt": "2026-11-02T18:03:51.871541+00:00"
-    },
-    {
-      "id": "adc599e6d52a",
-      "title": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-02T17:00:00+00:00",
-      "scrapedAt": "2026-11-02T18:03:51.870659+00:00"
     }
   ]
 }
