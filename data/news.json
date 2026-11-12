@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-11-11T15:59:43.481953+00:00",
+  "lastUpdated": "2026-11-12T16:43:09.500314+00:00",
   "articles": [
+    {
+      "id": "a8c2afcede63",
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "summary": "Jensen Huang at GTC Berlin last month. | Photo: Soeren Stache / picture alliance via Getty Images Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigne",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T08:53:16-05:00",
+      "scrapedAt": "2026-11-12T16:42:13.083357+00:00"
+    },
+    {
+      "id": "561a38ea2556",
+      "title": "I reviewed the Apple HomeView, ask me anything",
+      "summary": "Getting up close and personal with the Apple HomeView. | Photo: Hunter McRae for The Verge Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google ",
+      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T09:10:00-05:00",
+      "scrapedAt": "2026-11-12T16:42:13.083017+00:00"
+    },
+    {
+      "id": "bf9a8df53a7f",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-11T23:28:45+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574467+00:00"
+    },
+    {
+      "id": "ae4995f679c2",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T03:13:10+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574428+00:00"
+    },
+    {
+      "id": "31f20ed94fca",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T13:26:25+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574387+00:00"
+    },
+    {
+      "id": "e4e424eaad3a",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T14:30:01+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574345+00:00"
+    },
+    {
+      "id": "2843d5b0f258",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "summary": "This is Fireworks' second data breach in as many months.",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T15:02:28+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574300+00:00"
+    },
+    {
+      "id": "a8b4ef01f1e0",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "summary": "This is the investment firm's largest fund to date.",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T15:18:14+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574260+00:00"
+    },
+    {
+      "id": "1466abfe66cd",
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T15:37:29+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574221+00:00"
+    },
+    {
+      "id": "5ffe73d3f248",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T16:12:44+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574178+00:00"
+    },
+    {
+      "id": "4eeb3832c09f",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T16:32:33+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574129+00:00"
+    },
+    {
+      "id": "d574a06fc6d0",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T16:36:37+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.574061+00:00"
+    },
+    {
+      "id": "cc75dd113e1a",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-11T00:00:00+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.419683+00:00"
+    },
+    {
+      "id": "34c6d4acf53a",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-12T00:00:00+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.419530+00:00"
+    },
+    {
+      "id": "d8a1aef3d91b",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-12T09:30:00+00:00",
+      "scrapedAt": "2026-11-12T16:42:12.419460+00:00"
+    },
+    {
+      "id": "aec1886eb4d5",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-10-21T04:00:00+00:00",
+      "scrapedAt": "2026-11-12T16:42:11.865211+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "d3a6593ef6bb",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-11T16:00:00+00:00",
+      "scrapedAt": "2026-11-12T16:42:11.864777+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3586fd5cc361",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-11T18:00:00+00:00",
+      "scrapedAt": "2026-11-12T16:42:11.864755+00:00"
+    },
+    {
+      "id": "5a5d2de4de04",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-04T13:00:00+00:00",
+      "scrapedAt": "2026-11-12T16:42:11.474801+00:00"
+    },
+    {
+      "id": "f95b3a80fa8b",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat J",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-04T18:50:55+00:00",
+      "scrapedAt": "2026-11-12T16:42:11.474265+00:00"
+    },
     {
       "id": "10d37e150865",
       "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
@@ -1210,410 +1412,6 @@
       "category": "product",
       "publishedAt": "2026-11-06T10:00:00+00:00",
       "scrapedAt": "2026-11-06T15:48:27.280453+00:00"
-    },
-    {
-      "id": "4af669faf6f0",
-      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-      "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of us",
-      "url": "https://arxiv.org/abs/2611.05391",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-05T00:00:00-05:00",
-      "scrapedAt": "2026-11-05T16:19:37.332524+00:00"
-    },
-    {
-      "id": "746699bb5b25",
-      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-      "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decis",
-      "url": "https://arxiv.org/abs/2611.05390",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-05T00:00:00-05:00",
-      "scrapedAt": "2026-11-05T16:19:37.332381+00:00"
-    },
-    {
-      "id": "3ba59fa6ce83",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-04T22:13:16+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.789417+00:00"
-    },
-    {
-      "id": "2a45f43e41ba",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-04T22:45:09+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.789346+00:00"
-    },
-    {
-      "id": "487fe86018a1",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-05T01:02:14+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.789275+00:00"
-    },
-    {
-      "id": "87cd57a95fdb",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-05T01:26:22+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.789204+00:00"
-    },
-    {
-      "id": "ab92969d8457",
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-05T12:00:00+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.789133+00:00"
-    },
-    {
-      "id": "ddef7f7b40b1",
-      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-05T13:00:00+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.789061+00:00"
-    },
-    {
-      "id": "781e4656d358",
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-05T14:00:00+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.788989+00:00"
-    },
-    {
-      "id": "d2cf34351a5f",
-      "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-05T14:42:00+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.788916+00:00"
-    },
-    {
-      "id": "939524e97f24",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-05T15:19:05+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.788843+00:00"
-    },
-    {
-      "id": "7dac5ce0cdad",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-05T16:16:45+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.788755+00:00"
-    },
-    {
-      "id": "47bc864ef0d2",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-04T00:00:00+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.626646+00:00"
-    },
-    {
-      "id": "7a4bae13d7fa",
-      "title": "Introducing Images 2.6",
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-04T00:00:00+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.626567+00:00"
-    },
-    {
-      "id": "30ad2e480e6f",
-      "title": "A thousand fewer paths to root",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-04T08:00:00+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.626472+00:00"
-    },
-    {
-      "id": "e1307179e49c",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-05T02:00:00+00:00",
-      "scrapedAt": "2026-11-05T16:19:36.626224+00:00"
-    },
-    {
-      "id": "cf7f1b75bcb6",
-      "title": "Introducing Playground: Create and play custom games",
-      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-07T12:00:00+00:00",
-      "scrapedAt": "2026-11-05T16:19:35.810794+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "52fa9eb7caab",
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T20:32:02+00:00",
-      "scrapedAt": "2026-11-05T16:19:35.354833+00:00"
-    },
-    {
-      "id": "468ea3c00c34",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-29T10:11:12+00:00",
-      "scrapedAt": "2026-11-05T16:19:35.353921+00:00"
-    },
-    {
-      "id": "f95b3a80fa8b",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat J",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-04T18:50:55+00:00",
-      "scrapedAt": "2026-11-05T16:19:35.340232+00:00"
-    },
-    {
-      "id": "1722a772f301",
-      "title": "Alignment Faking Depends on the Value, Not Just the Model",
-      "summary": "arXiv:2611.03650v1 Announce Type: new Abstract: Language models can follow a directive when they believe they are monitored and abandon it when they believe they are not, a pattern termed Alignment Fa",
-      "url": "https://arxiv.org/abs/2611.03650",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-04T00:00:00-05:00",
-      "scrapedAt": "2026-11-04T16:05:27.233452+00:00"
-    },
-    {
-      "id": "a7a0eeaf87bf",
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-03T16:30:34+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.854619+00:00"
-    },
-    {
-      "id": "741c3465b3a0",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-03T17:07:01+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.854582+00:00"
-    },
-    {
-      "id": "b0c96602861b",
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-03T18:42:16+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.854538+00:00"
-    },
-    {
-      "id": "0018ea6e4618",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-03T19:34:43+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.854498+00:00"
-    },
-    {
-      "id": "656673d20b5c",
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-03T21:05:55+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.854457+00:00"
-    },
-    {
-      "id": "0835e4c1adb3",
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-03T21:43:08+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.854418+00:00"
-    },
-    {
-      "id": "4970a06a586c",
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-03T22:19:53+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.854375+00:00"
-    },
-    {
-      "id": "bf81805a5ae8",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-03T22:41:03+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.854328+00:00"
-    },
-    {
-      "id": "b0dafb43d08c",
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-04T13:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.854271+00:00"
-    },
-    {
-      "id": "158693e545d7",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-03T00:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.779399+00:00"
-    },
-    {
-      "id": "c350bb879816",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "url": "https://openai.com/index/cisco-cyber",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-03T08:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.779306+00:00"
-    },
-    {
-      "id": "f98ffa6f91b4",
-      "title": "Accelerating engineering for the physical world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-03T12:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.779262+00:00"
-    },
-    {
-      "id": "b9febe6c65ab",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-04T07:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.779214+00:00"
-    },
-    {
-      "id": "8ccb12fff18a",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-04T14:30:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.779152+00:00"
-    },
-    {
-      "id": "c5edbf462ded",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-09-28T19:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.204760+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "aff2c9dc3dc0",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-13T16:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.204636+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "aec1886eb4d5",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-10-21T04:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:26.204578+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "2b0a5d044d7f",
-      "title": "Pairing industrial AI autonomy and human control",
-      "summary": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-10-28T12:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:25.721798+00:00"
-    },
-    {
-      "id": "5a5d2de4de04",
-      "title": "Securing the agentic enterprise with data lineage",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-04T13:00:00+00:00",
-      "scrapedAt": "2026-11-04T16:05:25.713068+00:00"
     }
   ]
 }
