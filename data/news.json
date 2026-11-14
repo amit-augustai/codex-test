@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-11-13T16:01:34.600975+00:00",
+  "lastUpdated": "2026-11-14T14:55:11.234786+00:00",
   "articles": [
+    {
+      "id": "73442885c204",
+      "title": "Silicon Valley Is Still Defending Jensen Huang",
+      "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T22:29:43+00:00",
+      "scrapedAt": "2026-11-14T14:54:17.286151+00:00"
+    },
+    {
+      "id": "5c89e9193dd4",
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T11:45:00+00:00",
+      "scrapedAt": "2026-11-14T14:54:17.286119+00:00"
+    },
+    {
+      "id": "5abb0788ed22",
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T16:00:00+00:00",
+      "scrapedAt": "2026-11-14T14:54:17.286060+00:00"
+    },
+    {
+      "id": "d68a7ef917d6",
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T19:08:57+00:00",
+      "scrapedAt": "2026-11-14T14:54:17.286026+00:00"
+    },
+    {
+      "id": "a9733c8bb649",
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-14T11:00:00+00:00",
+      "scrapedAt": "2026-11-14T14:54:17.285991+00:00"
+    },
+    {
+      "id": "daae8022327d",
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-14T13:00:00+00:00",
+      "scrapedAt": "2026-11-14T14:54:17.285947+00:00"
+    },
+    {
+      "id": "7e45a8156860",
+      "title": "The Jensen Huang scandal is hardly over",
+      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and fa",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T12:44:33-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.120664+00:00"
+    },
+    {
+      "id": "f5e0ccac3188",
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "summary": "The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T13:06:54-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.120453+00:00"
+    },
+    {
+      "id": "2b94a6dc5508",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "summary": "“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Mi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T14:42:40-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.120283+00:00"
+    },
+    {
+      "id": "9a4263a4db8a",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T16:55:32-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.120031+00:00"
+    },
+    {
+      "id": "5baea4d15354",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T07:00:00-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.119823+00:00"
+    },
+    {
+      "id": "2c7a6e6b19ce",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "summary": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent fo",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T09:00:00-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.119566+00:00"
+    },
+    {
+      "id": "3ca895f2a51c",
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much ",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T09:47:16-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.119253+00:00"
+    },
+    {
+      "id": "b5d8e3ece75e",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T15:45:10-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.118990+00:00"
+    },
+    {
+      "id": "4f9a42ba49f5",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T18:49:11-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.118661+00:00"
+    },
+    {
+      "id": "300cf280a342",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at ",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-14T07:00:00-05:00",
+      "scrapedAt": "2026-11-14T14:54:17.118382+00:00"
+    },
+    {
+      "id": "3bcb8ca81cba",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T18:40:30+00:00",
+      "scrapedAt": "2026-11-14T14:54:16.396986+00:00"
+    },
+    {
+      "id": "26d265ce671c",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T19:37:57+00:00",
+      "scrapedAt": "2026-11-14T14:54:16.396954+00:00"
+    },
+    {
+      "id": "8d23e88a0f9b",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-13T22:43:00+00:00",
+      "scrapedAt": "2026-11-14T14:54:16.396913+00:00"
+    },
+    {
+      "id": "db3076ba786e",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "scrapedAt": "2026-11-14T14:54:16.308143+00:00"
+    },
     {
       "id": "1453fc28d22a",
       "title": "Together Compiler: Continual Compilation for AI Inference",
@@ -1212,206 +1412,6 @@
       "publishedAt": "2026-10-02T15:00:00+00:00",
       "scrapedAt": "2026-11-08T14:54:49.047687+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "6b3fd78bc0ad",
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-11-07T11:00:00+00:00",
-      "scrapedAt": "2026-11-07T14:48:20.497445+00:00"
-    },
-    {
-      "id": "18031d61f607",
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "summary": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images Protesters have broken into a construction site of a new Microsoft data center in Amsterdam th",
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T06:55:19-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.343263+00:00"
-    },
-    {
-      "id": "1c848d9c6bf2",
-      "title": "Amazon will let you text Alexa your shopping list",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T09:00:00-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.343049+00:00"
-    },
-    {
-      "id": "b8851797863e",
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge , inMusic CEO Jack O'Donnell said, \"We're going to",
-      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T11:34:39-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.342885+00:00"
-    },
-    {
-      "id": "0d25458fd6c3",
-      "title": "Big Tech lost big in the 2026 election",
-      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back , and the fight over data cent",
-      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T11:38:02-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.342705+00:00"
-    },
-    {
-      "id": "aeb37577bdc7",
-      "title": "AI is the new dating dealbreaker",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T12:00:00-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.342450+00:00"
-    },
-    {
-      "id": "4d25f5d785f0",
-      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tr",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T13:10:10-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.342261+00:00"
-    },
-    {
-      "id": "3bc01457309b",
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T15:02:22-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.342065+00:00"
-    },
-    {
-      "id": "421fa7063f06",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times . The Ministry of State Security (MSS) enlisted her to glean in",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T18:00:44-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.336592+00:00"
-    },
-    {
-      "id": "53c8a40c524c",
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg . That would make it one of the world's most valuable companies, not long a",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T18:46:18-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.336288+00:00"
-    },
-    {
-      "id": "d36485a6e1db",
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "summary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models imp",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-07T07:30:00-05:00",
-      "scrapedAt": "2026-11-07T14:48:20.335967+00:00"
-    },
-    {
-      "id": "7b5a2965d87a",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T15:54:47+00:00",
-      "scrapedAt": "2026-11-07T14:48:19.830339+00:00"
-    },
-    {
-      "id": "8f51c7b390aa",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T17:23:52+00:00",
-      "scrapedAt": "2026-11-07T14:48:19.830296+00:00"
-    },
-    {
-      "id": "39eb6389cd50",
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T18:00:00+00:00",
-      "scrapedAt": "2026-11-07T14:48:19.830256+00:00"
-    },
-    {
-      "id": "dcfedcc7440b",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T18:44:20+00:00",
-      "scrapedAt": "2026-11-07T14:48:19.830204+00:00"
-    },
-    {
-      "id": "37d75a0fa379",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T18:44:38+00:00",
-      "scrapedAt": "2026-11-07T14:48:19.830174+00:00"
-    },
-    {
-      "id": "41cd6da548e0",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-06T22:53:46+00:00",
-      "scrapedAt": "2026-11-07T14:48:19.830141+00:00"
-    },
-    {
-      "id": "bfdaf195a235",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-07T01:40:28+00:00",
-      "scrapedAt": "2026-11-07T14:48:19.830097+00:00"
-    },
-    {
-      "id": "d1cb05298078",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-06T00:00:00+00:00",
-      "scrapedAt": "2026-11-07T14:48:19.704047+00:00"
-    },
-    {
-      "id": "4650983e6e64",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-06T08:00:00+00:00",
-      "scrapedAt": "2026-11-07T14:48:19.704000+00:00"
     }
   ]
 }
