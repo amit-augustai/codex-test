@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-11-21T16:00:56.954823+00:00",
+  "lastUpdated": "2026-11-22T16:06:43.720686+00:00",
   "articles": [
+    {
+      "id": "7b9e1ba91022",
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-19T20:34:17+00:00",
+      "scrapedAt": "2026-11-22T16:05:47.382704+00:00"
+    },
+    {
+      "id": "59959673c5cf",
+      "title": "What’s With All These Outages?",
+      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-19T21:57:01+00:00",
+      "scrapedAt": "2026-11-22T16:05:47.382661+00:00"
+    },
+    {
+      "id": "365824f94beb",
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allie",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-20T07:00:00+00:00",
+      "scrapedAt": "2026-11-22T16:05:47.382618+00:00"
+    },
+    {
+      "id": "88f795f2e93d",
+      "title": "Regular Tech Bros Are Worried About Honeypots",
+      "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-20T11:00:00+00:00",
+      "scrapedAt": "2026-11-22T16:05:47.382574+00:00"
+    },
+    {
+      "id": "70fe6a2194f4",
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-20T12:00:00+00:00",
+      "scrapedAt": "2026-11-22T16:05:47.382534+00:00"
+    },
+    {
+      "id": "8ebf90d0cb99",
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-20T19:52:21+00:00",
+      "scrapedAt": "2026-11-22T16:05:47.382491+00:00"
+    },
+    {
+      "id": "8685c65c5c02",
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-20T23:24:02+00:00",
+      "scrapedAt": "2026-11-22T16:05:47.382442+00:00"
+    },
+    {
+      "id": "aea9da50e144",
+      "title": "The Outages Are Just Getting Started",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-21T13:00:00+00:00",
+      "scrapedAt": "2026-11-22T16:05:47.382389+00:00"
+    },
+    {
+      "id": "9315ed20f1b1",
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-22T11:00:00+00:00",
+      "scrapedAt": "2026-11-22T16:05:47.382329+00:00"
+    },
+    {
+      "id": "7d707173f41f",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, sai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-19T16:59:35-05:00",
+      "scrapedAt": "2026-11-22T16:05:47.259761+00:00"
+    },
+    {
+      "id": "21b44fd34fd3",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed j",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-19T17:31:41-05:00",
+      "scrapedAt": "2026-11-22T16:05:47.259504+00:00"
+    },
+    {
+      "id": "da5d0e942173",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-20T07:30:47-05:00",
+      "scrapedAt": "2026-11-22T16:05:47.259152+00:00"
+    },
+    {
+      "id": "47b9ea6e03a0",
+      "title": "The week everything fell apart",
+      "summary": "There was a dayslong Outlook outage . A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working . Even iCloud couldn't stay up and running . This week, it fe",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-20T09:06:59-05:00",
+      "scrapedAt": "2026-11-22T16:05:47.258928+00:00"
+    },
+    {
+      "id": "e7bc21e40b78",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult p",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-20T11:34:13-05:00",
+      "scrapedAt": "2026-11-22T16:05:47.258615+00:00"
+    },
+    {
+      "id": "0a2e9e2641fc",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-21T15:03:37-05:00",
+      "scrapedAt": "2026-11-22T16:05:47.250347+00:00"
+    },
+    {
+      "id": "564b8081b7bd",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce . The Stepback arrives in our subscrib",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-22T08:00:00-05:00",
+      "scrapedAt": "2026-11-22T16:05:47.249902+00:00"
+    },
+    {
+      "id": "6b65b8b30d40",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-21T16:00:00+00:00",
+      "scrapedAt": "2026-11-22T16:05:46.854731+00:00"
+    },
+    {
+      "id": "f9419135fce5",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-21T17:00:00+00:00",
+      "scrapedAt": "2026-11-22T16:05:46.854680+00:00"
+    },
+    {
+      "id": "6572e082b901",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-21T21:07:42+00:00",
+      "scrapedAt": "2026-11-22T16:05:46.854631+00:00"
+    },
+    {
+      "id": "f8ce89f0a31b",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-21T21:37:10+00:00",
+      "scrapedAt": "2026-11-22T16:05:46.854562+00:00"
+    },
     {
       "id": "b44ab066f64c",
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -1211,206 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-11-16T16:04:28+00:00",
       "scrapedAt": "2026-11-16T18:12:30.459466+00:00"
-    },
-    {
-      "id": "b9a497a33617",
-      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "summary": "Score: 46 points",
-      "url": "https://bobbiec.github.io/jamaican-font.html",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-15T00:56:45+00:00",
-      "scrapedAt": "2026-11-15T15:31:00.610451+00:00"
-    },
-    {
-      "id": "7de1f1977cf1",
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "summary": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;willdepue&#x2F;status&#x2F;2120992457630326841\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;willdepue&#x2F;status&#x2F;2120992457630326841</a>",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-12T21:56:11+00:00",
-      "scrapedAt": "2026-11-15T15:31:00.578403+00:00"
-    },
-    {
-      "id": "fc9435fe7e75",
-      "title": "Kiri – The Modern Container Runtime",
-      "summary": "Score: 74 points",
-      "url": "https://runkiri.com/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-15T04:40:41+00:00",
-      "scrapedAt": "2026-11-15T15:31:00.234526+00:00"
-    },
-    {
-      "id": "7188d60973df",
-      "title": "Generative AI uses more energy on non-English text",
-      "summary": "Score: 226 points",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-10T15:07:28+00:00",
-      "scrapedAt": "2026-11-15T15:31:00.203371+00:00"
-    },
-    {
-      "id": "8d20237046e2",
-      "title": "A Human Reads the Anthropic IPO Filing",
-      "summary": "Score: 3 points",
-      "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-15T15:18:06+00:00",
-      "scrapedAt": "2026-11-15T15:31:00.141126+00:00"
-    },
-    {
-      "id": "2d342234144d",
-      "title": "DKIM2 – Every system that handles an email signs for what it did",
-      "summary": "Score: 11 points",
-      "url": "https://dkim2.com/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-15T09:13:15+00:00",
-      "scrapedAt": "2026-11-15T15:31:00.079220+00:00"
-    },
-    {
-      "id": "0033d555e98e",
-      "title": "What thousands of conversations look like inside a language model",
-      "summary": "Score: 47 points",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-13T10:26:01+00:00",
-      "scrapedAt": "2026-11-15T15:30:59.442981+00:00"
-    },
-    {
-      "id": "2db116e6dbdc",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "summary": "Score: 923 points",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-14T17:43:10+00:00",
-      "scrapedAt": "2026-11-15T15:30:59.410297+00:00"
-    },
-    {
-      "id": "d3009b468fe3",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "summary": "Score: 71 points",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-15T12:14:06+00:00",
-      "scrapedAt": "2026-11-15T15:30:59.283498+00:00"
-    },
-    {
-      "id": "370c927f568a",
-      "title": "All AI-generated code should be Open Source",
-      "summary": "Score: 52 points",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "source": "Hacker News",
-      "category": "product",
-      "publishedAt": "2026-11-15T14:46:58+00:00",
-      "scrapedAt": "2026-11-15T15:30:59.125647+00:00"
-    },
-    {
-      "id": "8f6f100ed9cd",
-      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
-      "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
-      "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-11-12T20:35:11+00:00",
-      "scrapedAt": "2026-11-15T15:30:58.959635+00:00"
-    },
-    {
-      "id": "450b25cc3200",
-      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-11-12T22:14:41+00:00",
-      "scrapedAt": "2026-11-15T15:30:58.959602+00:00"
-    },
-    {
-      "id": "7c551984ba30",
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-11-15T11:00:00+00:00",
-      "scrapedAt": "2026-11-15T15:30:58.959371+00:00"
-    },
-    {
-      "id": "9d1a7829765f",
-      "title": "AI DJs Completely Kill My Groove",
-      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-      "source": "Wired - AI",
-      "category": "product",
-      "publishedAt": "2026-11-15T12:00:00+00:00",
-      "scrapedAt": "2026-11-15T15:30:58.959322+00:00"
-    },
-    {
-      "id": "e906ce588cf4",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hele",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-14T10:00:00-05:00",
-      "scrapedAt": "2026-11-15T15:30:58.809335+00:00"
-    },
-    {
-      "id": "8466bfa20f2d",
-      "title": "An overview of Jensen Huang’s messy days",
-      "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrenc",
-      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "source": "The Verge - AI",
-      "category": "product",
-      "publishedAt": "2026-11-15T08:00:00-05:00",
-      "scrapedAt": "2026-11-15T15:30:58.801147+00:00"
-    },
-    {
-      "id": "4392222fa3b0",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-14T16:34:15+00:00",
-      "scrapedAt": "2026-11-15T15:30:58.276743+00:00"
-    },
-    {
-      "id": "17dd6d164624",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-14T17:30:00+00:00",
-      "scrapedAt": "2026-11-15T15:30:58.276706+00:00"
-    },
-    {
-      "id": "7502b262d99d",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-14T21:41:22+00:00",
-      "scrapedAt": "2026-11-15T15:30:58.276667+00:00"
-    },
-    {
-      "id": "0cbac1debe31",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-15T00:08:07+00:00",
-      "scrapedAt": "2026-11-15T15:30:58.276616+00:00"
     }
   ]
 }
