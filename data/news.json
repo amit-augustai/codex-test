@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-11-22T16:06:43.720686+00:00",
+  "lastUpdated": "2026-11-23T20:00:46.209060+00:00",
   "articles": [
+    {
+      "id": "5c8f8690443c",
+      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fund",
+      "url": "https://arxiv.org/abs/2611.26722",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-23T00:00:00-05:00",
+      "scrapedAt": "2026-11-23T19:59:48.725346+00:00"
+    },
+    {
+      "id": "b84fd6411264",
+      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+      "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps",
+      "url": "https://arxiv.org/abs/2611.26717",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-23T00:00:00-05:00",
+      "scrapedAt": "2026-11-23T19:59:48.725217+00:00"
+    },
+    {
+      "id": "fec02ded2ed3",
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership",
+      "url": "https://arxiv.org/abs/2611.26663",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-23T00:00:00-05:00",
+      "scrapedAt": "2026-11-23T19:59:48.725075+00:00"
+    },
+    {
+      "id": "772a602107ca",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-22T21:14:07+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.364516+00:00"
+    },
+    {
+      "id": "ca5d392ce76c",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T01:25:53+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.364451+00:00"
+    },
+    {
+      "id": "00a5cf6a18e4",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T14:21:59+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.364388+00:00"
+    },
+    {
+      "id": "15da0cbca7e4",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T14:43:03+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.364323+00:00"
+    },
+    {
+      "id": "910818793cbe",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T15:04:01+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.364253+00:00"
+    },
+    {
+      "id": "a3bc43bbd8d5",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T16:39:10+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.364186+00:00"
+    },
+    {
+      "id": "236394fc6702",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T16:57:40+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.364116+00:00"
+    },
+    {
+      "id": "e483a8800952",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T17:14:23+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.364046+00:00"
+    },
+    {
+      "id": "4eec8977b6a9",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T18:12:22+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.363971+00:00"
+    },
+    {
+      "id": "389c89635cfd",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T19:14:46+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.363887+00:00"
+    },
+    {
+      "id": "d2fc1e262b4c",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-22T00:00:00+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.305618+00:00"
+    },
+    {
+      "id": "4201990503e1",
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get ",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "scrapedAt": "2026-11-23T19:59:48.305530+00:00"
+    },
+    {
+      "id": "3e4a4b87c34f",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-16T14:00:00+00:00",
+      "scrapedAt": "2026-11-23T19:59:47.534141+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "5353a3c7ac17",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-23T17:00:00+00:00",
+      "scrapedAt": "2026-11-23T19:59:47.533770+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "0f553794f8a7",
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-16T13:00:00+00:00",
+      "scrapedAt": "2026-11-23T19:59:47.094593+00:00"
+    },
+    {
+      "id": "78c3bdf8c94d",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-16T16:04:28+00:00",
+      "scrapedAt": "2026-11-23T19:59:47.087753+00:00"
+    },
+    {
+      "id": "e3357160a21f",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Before going public last week, Anthropic named the possibilit",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T17:36:08+00:00",
+      "scrapedAt": "2026-11-23T19:59:47.080338+00:00"
+    },
     {
       "id": "7b9e1ba91022",
       "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
@@ -1210,207 +1412,6 @@
       "category": "product",
       "publishedAt": "2026-11-17T14:39:46+00:00",
       "scrapedAt": "2026-11-17T17:29:49.907221+00:00"
-    },
-    {
-      "id": "725c1dccea9e",
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T15:02:34+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.377093+00:00"
-    },
-    {
-      "id": "6df19e2f316f",
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T15:52:19+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.377043+00:00"
-    },
-    {
-      "id": "c241de685325",
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T17:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.376991+00:00"
-    },
-    {
-      "id": "f2c3c92b0ac1",
-      "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T17:02:43+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.376940+00:00"
-    },
-    {
-      "id": "80d1539b3912",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T17:10:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.376880+00:00"
-    },
-    {
-      "id": "8e371c25a440",
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T17:36:43+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.376818+00:00"
-    },
-    {
-      "id": "7dc80a7ed2c8",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T18:11:10+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.376742+00:00"
-    },
-    {
-      "id": "e1f75517207a",
-      "title": "Our new blog for science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-15T22:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.280271+00:00"
-    },
-    {
-      "id": "df3e44b99410",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-15T22:00:01+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.280221+00:00"
-    },
-    {
-      "id": "2b4f9d829bf9",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T00:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.280169+00:00"
-    },
-    {
-      "id": "350189c72083",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T06:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.280110+00:00"
-    },
-    {
-      "id": "725ebed57025",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T06:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.280056+00:00"
-    },
-    {
-      "id": "29025d7302d1",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T08:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.280033+00:00"
-    },
-    {
-      "id": "b73c6d7b3972",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T09:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.279978+00:00"
-    },
-    {
-      "id": "b0555ded3612",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T12:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.279914+00:00"
-    },
-    {
-      "id": "32c75522a0ea",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T17:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.279850+00:00"
-    },
-    {
-      "id": "a8005cc7b595",
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T17:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:31.279770+00:00"
-    },
-    {
-      "id": "3e4a4b87c34f",
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T14:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:30.729297+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "0f553794f8a7",
-      "title": "Building AI that can work across the enterprise",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T13:00:00+00:00",
-      "scrapedAt": "2026-11-16T18:12:30.464254+00:00"
-    },
-    {
-      "id": "78c3bdf8c94d",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T16:04:28+00:00",
-      "scrapedAt": "2026-11-16T18:12:30.459466+00:00"
     }
   ]
 }
