@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-11-23T20:00:46.209060+00:00",
+  "lastUpdated": "2026-11-24T19:27:05.058284+00:00",
   "articles": [
+    {
+      "id": "7959e52dd5ae",
+      "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
+      "summary": "arXiv:2611.28195v1 Announce Type: new Abstract: The Tsetlin machine learns propositional rules with teams of Tsetlin automata that are driven by reward and penalty rather than gradients, so its models",
+      "url": "https://arxiv.org/abs/2611.28195",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-24T00:00:00-05:00",
+      "scrapedAt": "2026-11-24T19:26:09.999215+00:00"
+    },
+    {
+      "id": "8fb4a84f2fd0",
+      "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
+      "summary": "arXiv:2611.28185v1 Announce Type: new Abstract: Remote photoplethysmography (rPPG) is usually benchmarked by one heart rate per video, a figure that hides the short windows in which a tele-consultatio",
+      "url": "https://arxiv.org/abs/2611.28185",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-24T00:00:00-05:00",
+      "scrapedAt": "2026-11-24T19:26:09.999060+00:00"
+    },
+    {
+      "id": "b23fe2325ee9",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T21:47:41+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.229133+00:00"
+    },
+    {
+      "id": "a42ef673b6ac",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T22:02:05+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.229070+00:00"
+    },
+    {
+      "id": "fc410e023e94",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-23T22:05:50+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.228998+00:00"
+    },
+    {
+      "id": "de3bc194ca87",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T15:51:07+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.228932+00:00"
+    },
+    {
+      "id": "b6d56875ce7b",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T16:02:37+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.228860+00:00"
+    },
+    {
+      "id": "a5613aba9d10",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T16:10:00+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.228790+00:00"
+    },
+    {
+      "id": "70e4e668b444",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T16:46:00+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.228718+00:00"
+    },
+    {
+      "id": "6e7150d9caf7",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T17:00:00+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.228634+00:00"
+    },
+    {
+      "id": "281e7b0eb8a2",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T18:02:59+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.228557+00:00"
+    },
+    {
+      "id": "d52b76df83c9",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T18:30:42+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.228463+00:00"
+    },
+    {
+      "id": "a082949f03d8",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.155484+00:00"
+    },
+    {
+      "id": "4dc6c6490d75",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-23T21:20:00+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.155309+00:00"
+    },
+    {
+      "id": "42e30e3461a6",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/index/ifood",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "scrapedAt": "2026-11-24T19:26:09.155146+00:00"
+    },
+    {
+      "id": "235a458842bc",
+      "title": "Put Gemini to work for you",
+      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-17T17:00:00+00:00",
+      "scrapedAt": "2026-11-24T19:26:08.442875+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "3cb7380077d7",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-24T16:00:00+00:00",
+      "scrapedAt": "2026-11-24T19:26:08.442470+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "6352fbce7f64",
+      "title": "The open-source movement wants Jensen Huang back",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . On Friday, a petition to reinstate Jensen Huang as CEO of Nvi",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-16T18:38:47+00:00",
+      "scrapedAt": "2026-11-24T19:26:08.228810+00:00"
+    },
+    {
+      "id": "a7033a8f14fc",
+      "title": "Research Reports",
+      "summary": "To access a report, click on the corresponding image below.",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-17T14:39:46+00:00",
+      "scrapedAt": "2026-11-24T19:26:08.227787+00:00"
+    },
+    {
+      "id": "ba625c17c59c",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network . Now, agentic AI is ad",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T15:15:16+00:00",
+      "scrapedAt": "2026-11-24T19:26:08.222075+00:00"
+    },
     {
       "id": "5c8f8690443c",
       "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
@@ -1209,209 +1411,6 @@
       "category": "product",
       "publishedAt": "2026-11-18T14:42:44+00:00",
       "scrapedAt": "2026-11-18T17:05:10.441842+00:00"
-    },
-    {
-      "id": "7517b8cd010a",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T23:32:32+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.912627+00:00"
-    },
-    {
-      "id": "34711bc4c1a8",
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in ",
-      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T14:00:00+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.912559+00:00"
-    },
-    {
-      "id": "1ce6a3efe660",
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T14:05:30+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.912488+00:00"
-    },
-    {
-      "id": "ade583b060f1",
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T14:26:46+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.912419+00:00"
-    },
-    {
-      "id": "d9a30601c5db",
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T14:50:58+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.912353+00:00"
-    },
-    {
-      "id": "e3f0fdc7eab8",
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T15:00:00+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.912279+00:00"
-    },
-    {
-      "id": "4f9052a37fe1",
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T16:32:55+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.912204+00:00"
-    },
-    {
-      "id": "5532323ed3d9",
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
-      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T16:44:15+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.912129+00:00"
-    },
-    {
-      "id": "1bfde3fe2b8c",
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T17:20:41+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.912043+00:00"
-    },
-    {
-      "id": "e5cbb67350e7",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-16T09:30:00+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.856664+00:00"
-    },
-    {
-      "id": "fa0dad41f938",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-17T00:00:00+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.856316+00:00"
-    },
-    {
-      "id": "3dacc3cb13a7",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-17T00:00:00+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.856226+00:00"
-    },
-    {
-      "id": "da8db646ca03",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-10T13:00:00+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.135694+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "0b514ad923e0",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-10T14:00:00+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.135674+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "235a458842bc",
-      "title": "Put Gemini to work for you",
-      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-17T17:00:00+00:00",
-      "scrapedAt": "2026-11-17T17:29:50.135138+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "08088be30a8e",
-      "title": "Innovating with AI in the special chemicals industry",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-09T13:00:00+00:00",
-      "scrapedAt": "2026-11-17T17:29:49.921535+00:00"
-    },
-    {
-      "id": "9541439da1a6",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-09T17:05:43+00:00",
-      "scrapedAt": "2026-11-17T17:29:49.920910+00:00"
-    },
-    {
-      "id": "1127808f36fe",
-      "title": "The backlash about data centers might really just be about electricity",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . As voters went to the polls across the US last week, I was in",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-09T19:35:33+00:00",
-      "scrapedAt": "2026-11-17T17:29:49.919880+00:00"
-    },
-    {
-      "id": "6352fbce7f64",
-      "title": "The open-source movement wants Jensen Huang back",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . On Friday, a petition to reinstate Jensen Huang as CEO of Nvi",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-16T18:38:47+00:00",
-      "scrapedAt": "2026-11-17T17:29:49.908459+00:00"
-    },
-    {
-      "id": "a7033a8f14fc",
-      "title": "Research Reports",
-      "summary": "To access a report, click on the corresponding image below.",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T14:39:46+00:00",
-      "scrapedAt": "2026-11-17T17:29:49.907221+00:00"
     }
   ]
 }
