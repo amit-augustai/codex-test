@@ -1,6 +1,207 @@
 {
-  "lastUpdated": "2026-11-24T19:27:05.058284+00:00",
+  "lastUpdated": "2026-11-25T18:33:54.315271+00:00",
   "articles": [
+    {
+      "id": "dd7d55ac3bd7",
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "summary": "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental ques",
+      "url": "https://arxiv.org/abs/2611.31284",
+      "source": "arXiv - AI",
+      "category": "research",
+      "publishedAt": "2026-11-25T00:00:00-05:00",
+      "scrapedAt": "2026-11-25T18:32:59.562093+00:00"
+    },
+    {
+      "id": "bc914d95aadb",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T21:32:38+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.178383+00:00"
+    },
+    {
+      "id": "84cfd1b9e3c3",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T21:33:29+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.178314+00:00"
+    },
+    {
+      "id": "dcfea5a712b9",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T21:48:27+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.178242+00:00"
+    },
+    {
+      "id": "493e269f01dc",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T22:27:52+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.178174+00:00"
+    },
+    {
+      "id": "d7c3fae085f1",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T00:12:02+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.178105+00:00"
+    },
+    {
+      "id": "4621f767e4cf",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurance",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T13:00:00+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.178023+00:00"
+    },
+    {
+      "id": "0cb60670470d",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T14:10:18+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.177930+00:00"
+    },
+    {
+      "id": "45abf29e2969",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to deve",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T15:41:43+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.177858+00:00"
+    },
+    {
+      "id": "a07adeabc9e7",
+      "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T17:35:58+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.177754+00:00"
+    },
+    {
+      "id": "fd530c75c77a",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T18:11:46+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.177670+00:00"
+    },
+    {
+      "id": "57c260d39b61",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.087156+00:00"
+    },
+    {
+      "id": "b13885c65c3d",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.087079+00:00"
+    },
+    {
+      "id": "6e7f073ccc2e",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.087051+00:00"
+    },
+    {
+      "id": "5b23d2436c25",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-24T11:00:00+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.086963+00:00"
+    },
+    {
+      "id": "2fb78c77ddc3",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-24T13:00:00+00:00",
+      "scrapedAt": "2026-11-25T18:32:59.086852+00:00"
+    },
+    {
+      "id": "d44535ff5d6c",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-18T17:00:00+00:00",
+      "scrapedAt": "2026-11-25T18:32:58.383806+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "cea875c8cb7c",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-18T10:20:30+00:00",
+      "scrapedAt": "2026-11-25T18:32:57.947775+00:00"
+    },
+    {
+      "id": "1294e01be55f",
+      "title": "The AI Hype Index: AI is everywhere",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you migh",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-18T14:42:44+00:00",
+      "scrapedAt": "2026-11-25T18:32:57.946343+00:00"
+    },
+    {
+      "id": "20ed3c7d1f7f",
+      "title": "AI is straining America’s open records systems",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T10:00:00+00:00",
+      "scrapedAt": "2026-11-25T18:32:57.943123+00:00"
+    },
     {
       "id": "7959e52dd5ae",
       "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
@@ -1208,209 +1409,6 @@
       "publishedAt": "2026-11-19T17:00:00+00:00",
       "scrapedAt": "2026-11-19T17:13:06.501363+00:00",
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "5c612757e12a",
-      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, e",
-      "url": "https://arxiv.org/abs/2611.21682",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-18T00:00:00-05:00",
-      "scrapedAt": "2026-11-18T17:05:11.852521+00:00"
-    },
-    {
-      "id": "fcd1652eaf88",
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T22:42:27+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396878+00:00"
-    },
-    {
-      "id": "74fa1f5e6e2f",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T23:04:35+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396851+00:00"
-    },
-    {
-      "id": "a91e4c81d566",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-17T23:37:48+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396823+00:00"
-    },
-    {
-      "id": "1bbe22dae05f",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-18T00:16:50+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396792+00:00"
-    },
-    {
-      "id": "0b08a5d2f5b9",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-18T01:44:21+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396762+00:00"
-    },
-    {
-      "id": "11fb9fc05fb1",
-      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-18T11:30:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396727+00:00"
-    },
-    {
-      "id": "10e24888b35f",
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-18T12:00:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396697+00:00"
-    },
-    {
-      "id": "5b7aff406793",
-      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress e",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-18T13:00:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396663+00:00"
-    },
-    {
-      "id": "74375866510a",
-      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-18T16:14:09+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396626+00:00"
-    },
-    {
-      "id": "b26bbd76c789",
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-      "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-18T16:59:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.396583+00:00"
-    },
-    {
-      "id": "f2812a4ba9a1",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-17T00:00:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.254889+00:00"
-    },
-    {
-      "id": "1632816037b3",
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-17T08:00:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.254857+00:00"
-    },
-    {
-      "id": "b02ac3a3fe5a",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-17T17:45:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.254780+00:00"
-    },
-    {
-      "id": "a2f695ac2f9b",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-18T00:00:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:11.254726+00:00"
-    },
-    {
-      "id": "8477a8159d48",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-10T19:00:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:10.783377+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "651a0fccfdbb",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-11T09:00:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:10.783337+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "d44535ff5d6c",
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "summary": "The Gemini app is now available on lower-memory Android devices.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-18T17:00:00+00:00",
-      "scrapedAt": "2026-11-18T17:05:10.783035+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "cea875c8cb7c",
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-18T10:20:30+00:00",
-      "scrapedAt": "2026-11-18T17:05:10.442602+00:00"
-    },
-    {
-      "id": "1294e01be55f",
-      "title": "The AI Hype Index: AI is everywhere",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you migh",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-18T14:42:44+00:00",
-      "scrapedAt": "2026-11-18T17:05:10.441842+00:00"
     }
   ]
 }
