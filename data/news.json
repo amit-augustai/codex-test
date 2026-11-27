@@ -1,6 +1,208 @@
 {
-  "lastUpdated": "2026-11-26T18:17:56.018795+00:00",
+  "lastUpdated": "2026-11-27T18:00:09.910833+00:00",
   "articles": [
+    {
+      "id": "8b362bcfc1a0",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T16:00:00+00:00",
+      "scrapedAt": "2026-11-27T17:59:16.189213+00:00"
+    },
+    {
+      "id": "a2a320b8b180",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T17:44:53+00:00",
+      "scrapedAt": "2026-11-27T17:59:16.189160+00:00"
+    },
+    {
+      "id": "c5c5c84e1b37",
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T23:39:04+00:00",
+      "scrapedAt": "2026-11-27T17:59:16.189104+00:00"
+    },
+    {
+      "id": "c5eb6e0ca7f1",
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T11:30:00+00:00",
+      "scrapedAt": "2026-11-27T17:59:16.189046+00:00"
+    },
+    {
+      "id": "09a434e9c033",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-26T10:51:27+00:00",
+      "scrapedAt": "2026-11-27T17:59:16.188989+00:00"
+    },
+    {
+      "id": "2eb2d56553b5",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "source": "Wired - AI",
+      "category": "product",
+      "publishedAt": "2026-11-27T07:00:00+00:00",
+      "scrapedAt": "2026-11-27T17:59:16.188912+00:00"
+    },
+    {
+      "id": "31bde7b6ca68",
+      "title": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T12:17:09-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.107512+00:00"
+    },
+    {
+      "id": "8c13239162a0",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher 's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised quest",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T13:15:00-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.107194+00:00"
+    },
+    {
+      "id": "a6b90ed42e09",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-24T15:02:03-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.106618+00:00"
+    },
+    {
+      "id": "62d538fd4665",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world , leaving companies scrambling to figure out how to respond. While some, ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T08:00:00-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.106162+00:00"
+    },
+    {
+      "id": "f73e5ac199d7",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly cente",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T09:12:33-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.105833+00:00"
+    },
+    {
+      "id": "0cb6d0baeb49",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcri",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T11:00:59-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.105460+00:00"
+    },
+    {
+      "id": "4d16d40e18b4",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative . With several ",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T12:44:51-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.105073+00:00"
+    },
+    {
+      "id": "6d162717023f",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows ",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-25T16:51:26-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.104635+00:00"
+    },
+    {
+      "id": "2b77243de9e1",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-26T04:54:40-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.104250+00:00"
+    },
+    {
+      "id": "87888e326313",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar , there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge - AI",
+      "category": "product",
+      "publishedAt": "2026-11-27T09:00:00-05:00",
+      "scrapedAt": "2026-11-27T17:59:16.103548+00:00"
+    },
+    {
+      "id": "4c9ff179b519",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch - AI",
+      "category": "product",
+      "publishedAt": "2026-11-26T20:03:54+00:00",
+      "scrapedAt": "2026-11-27T17:59:15.602487+00:00"
+    },
+    {
+      "id": "3987a8727774",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-12T18:00:00+00:00",
+      "scrapedAt": "2026-11-27T17:59:14.934329+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "4c3ac0becb9b",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI Blog",
+      "category": "research",
+      "publishedAt": "2026-11-19T18:00:00+00:00",
+      "scrapedAt": "2026-11-27T17:59:14.934068+00:00",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "00fbeb28d23d",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review - AI",
+      "category": "product",
+      "publishedAt": "2026-11-12T20:16:24+00:00",
+      "scrapedAt": "2026-11-27T17:59:14.696048+00:00"
+    },
     {
       "id": "467386aeb310",
       "title": "Quantum Machine Learning for Signature Forgery Detection",
@@ -1207,208 +1409,6 @@
       "category": "product",
       "publishedAt": "2026-11-20T18:15:15+00:00",
       "scrapedAt": "2026-11-21T15:59:56.475573+00:00"
-    },
-    {
-      "id": "81f469899062",
-      "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
-      "summary": "arXiv:2611.25070v1 Announce Type: new Abstract: This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interact",
-      "url": "https://arxiv.org/abs/2611.25070",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-20T00:00:00-05:00",
-      "scrapedAt": "2026-11-20T16:51:40.041264+00:00"
-    },
-    {
-      "id": "7da09762d898",
-      "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
-      "summary": "arXiv:2611.25043v1 Announce Type: new Abstract: Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. However",
-      "url": "https://arxiv.org/abs/2611.25043",
-      "source": "arXiv - AI",
-      "category": "research",
-      "publishedAt": "2026-11-20T00:00:00-05:00",
-      "scrapedAt": "2026-11-20T16:51:40.041169+00:00"
-    },
-    {
-      "id": "4e6c3fbd0dea",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balan",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-19T17:38:40+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.566234+00:00"
-    },
-    {
-      "id": "ffcfd7e32e09",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-19T18:09:11+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.566193+00:00"
-    },
-    {
-      "id": "38cbde179199",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-19T19:10:45+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.566154+00:00"
-    },
-    {
-      "id": "1761ecaf8c5d",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-19T20:18:49+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.566114+00:00"
-    },
-    {
-      "id": "74e8068d1097",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-19T21:42:31+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.566052+00:00"
-    },
-    {
-      "id": "6b24f4e22080",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-19T21:58:06+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.565984+00:00"
-    },
-    {
-      "id": "cc5563ff1b11",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-20T00:43:50+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.565908+00:00"
-    },
-    {
-      "id": "15417601d21a",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-20T00:56:01+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.565709+00:00"
-    },
-    {
-      "id": "a2263c052fc4",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-20T14:00:00+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.565665+00:00"
-    },
-    {
-      "id": "3293ff1a5cf2",
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "source": "TechCrunch - AI",
-      "category": "product",
-      "publishedAt": "2026-11-20T14:55:44+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.565605+00:00"
-    },
-    {
-      "id": "2e76d5b4b679",
-      "title": "Get started with Daybreak Blue",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-19T00:00:00+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.458206+00:00"
-    },
-    {
-      "id": "6ed6090c0942",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-19T00:00:00+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.458164+00:00"
-    },
-    {
-      "id": "787cd7543718",
-      "title": "See PR scans in action",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-19T00:00:00+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.458122+00:00"
-    },
-    {
-      "id": "556aee5cf74a",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-19T00:00:00+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.458076+00:00"
-    },
-    {
-      "id": "6ea811258a46",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "source": "OpenAI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-19T08:00:00+00:00",
-      "scrapedAt": "2026-11-20T16:51:39.458015+00:00"
-    },
-    {
-      "id": "3987a8727774",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-12T18:00:00+00:00",
-      "scrapedAt": "2026-11-20T16:51:38.432482+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "4c3ac0becb9b",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI Blog",
-      "category": "research",
-      "publishedAt": "2026-11-19T18:00:00+00:00",
-      "scrapedAt": "2026-11-20T16:51:38.432250+00:00",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "00fbeb28d23d",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "MIT Technology Review - AI",
-      "category": "product",
-      "publishedAt": "2026-11-12T20:16:24+00:00",
-      "scrapedAt": "2026-11-20T16:51:38.069757+00:00"
     }
   ]
 }
